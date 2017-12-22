@@ -14,7 +14,7 @@ saver.restore(sess, './bin/model.ckpt')
 
 app = Flask(__name__)
 
-@app.route('/api', methods=['GET'])
+@app.route('/', methods=['GET'])
 def data():
     try:
         input = [[request.args.get('team1'), request.args.get('team2')]]
