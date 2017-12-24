@@ -40,22 +40,28 @@ def predict():
         period = None
         if 'period' not in request.args:
             period = 2
+
+        if len(request.args) == 0:
+            raise Exception('no parameters provided')
+        elif any(x not in request.args for x in ['home', 'away', 'score1', 'score2']):
+            raise Exception('Bad parameters')
         elif float(request.args.get('period')) not in [1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5]:
             raise Exception('invalid period')
 
         input = [[hash(request.args.get('home')), hash(request.args.get('away')),
                   request.args.get('score1'), request.args.get('score2'), period or request.args.get('period')]]
-        response = jsonify(sess.run(result, { x: input }).tolist()[0])
+        response = jsonify({
+            'result': sess.run(result, feed_dict={ x: input }).tolist()[0] })
         response.status_code = 200
         return response
     except Exception as e:
         response = jsonify({
-            'Message': 'Invalid query parameters. Use: ?home=<team>&away=<team>&score1<int>&score2<int>&period=<1/1.5/2/2.5/3/3.5/4/4.5>',
-            'error': str(e)
+            'message': 'Invalid query parameters. Use: ?home=<team>&away=<team>&score1<int>&score2<int>&period=<1/1.5/2/2.5/3/3.5/4/4.5>',
+            'error': str(e),
         })
         response.status_code = 404
         return response
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=80)
+    app.run(host='0.0.0.0', port=8080)
