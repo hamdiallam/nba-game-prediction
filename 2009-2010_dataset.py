@@ -138,6 +138,10 @@ with tf.Session() as sess:
     accuracy = tf.reduce_mean(tf.cast(pred_temp, tf.float32))
     print("Validation Accuracy:", sess.run(accuracy, feed_dict={x: val_x, y: val_y}))
 
+    pred_temp2 = tf.equal(tf.argmax(output_layer, 1), tf.argmax(y, 1))
+    accuracy2 = tf.reduce_mean(tf.cast(pred_temp, tf.float32))
+    print("Training Accuracy:", sess.run(accuracy, feed_dict={x: train_x, y: train_y}))
+
     # Save the model
     saver = tf.train.Saver()
     save_path = saver.save(sess, './bin2/model.ckpt')
