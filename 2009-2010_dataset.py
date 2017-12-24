@@ -106,13 +106,13 @@ learning_rate = 0.01
 
 seed = 128
 weights = {
-    'hidden': tf.Variable(tf.random_normal([input_num_units, hidden_num_units], seed=seed)),
-    'output': tf.Variable(tf.random_normal([hidden_num_units, output_num_units], seed=seed))
+    'hidden': tf.Variable(tf.random_normal([input_num_units, hidden_num_units], seed=seed), name='weights-hidden'),
+    'output': tf.Variable(tf.random_normal([hidden_num_units, output_num_units], seed=seed), name='weights-output')
 }
 
 biases = {
-    'hidden': tf.Variable(tf.random_normal([hidden_num_units], seed=seed)),
-    'output': tf.Variable(tf.random_normal([output_num_units], seed=seed))
+    'hidden': tf.Variable(tf.random_normal([hidden_num_units], seed=seed), name='biases-hidden'),
+    'output': tf.Variable(tf.random_normal([output_num_units], seed=seed), name='biases-output')
 }
 
 hidden_layer = tf.add(tf.matmul(x, weights['hidden']), biases['hidden'])
