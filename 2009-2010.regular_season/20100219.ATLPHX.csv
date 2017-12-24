@@ -1,0 +1,424 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,12:00,OFF,jump ball,,Josh Smith,,,Robin Lopez,,,,,,,Joe Johnson,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,11:38,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,jump,37,21
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,11:16,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,out of bounds lost ball turnover,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,10:58,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,38,23
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,10:55,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,10:43,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,Mike Bibby,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,10:40,ATL,shot,Mike Bibby,,,,,,,,,Josh Smith,2,,,made,,alley oop dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,10:27,PHX,shot,Steve Nash,,,,,,,,,Robin Lopez,2,,,made,,jump,18,10
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,10:04,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,31,11
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,10:04,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,10:04,PHX,foul,,,,,,,,Joe Johnson,,Jason Richardson,,,,,,loose ball,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,9:54,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,36,25
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,9:52,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,9:43,ATL,foul,,,,,,,,Amare Stoudemire,,Josh Smith,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,9:43,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,9:43,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,9:20,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,9:20,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,9:20,ATL,foul,,,,,,,,Robin Lopez,,Al Horford,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,9:10,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,jump,24,14
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,9:01,PHX,violation,,,,,,,,,,Steve Nash,,,,,,kicked ball,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,8:57,PHX,foul,,,,,,,,Joe Johnson,,Grant Hill,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,8:57,ATL,free throw,,,,,,,1,,2,Joe Johnson,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,8:57,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,8:57,ATL,free throw,,,,,,,2,,2,Joe Johnson,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,8:45,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,jump,25,15
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,8:26,ATL,shot,Marvin Williams,,,,,,,,,Mike Bibby,2,,,made,,jump,5,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,8:09,PHX,shot,,,,,,,,,,Robin Lopez,2,,,made,,hook,25,14
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,7:58,ATL,shot,Josh Smith,,,,,,,,,Marvin Williams,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,7:32,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,fade away jumper,14,14
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,7:14,ATL,shot,Marvin Williams,,,,,,,,,Josh Smith,2,,,made,,jump,29,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,6:48,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,jump,42,14
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,6:47,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,6:37,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,14,32
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,6:35,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,6:35,ATL,turnover,,,,,,,,,,Mike Bibby,,,bad pass,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,6:30,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,6:18,ATL,shot,Mike Bibby,,,,,,,,,Al Horford,2,,,made,,jump,40,17
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,5:58,PHX,shot,,,Josh Smith,,,,,,,Amare Stoudemire,,,,missed,,dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,5:56,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,5:53,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,5:48,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,5:48,ATL,shot,,,,,,,,,,Joe Johnson,3,,,made,,3pt,1,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,5:40,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,3pt,44,22
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,5:38,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,5:30,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,10,5
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,5:28,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,5:11,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,1,5:11,ATL,sub,,,,Joe Smith,,Josh Smith,,,,,,,,,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,5:11,PHX,sub,,,,Jared Dudley,,Grant Hill,,,,,,,,,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,5:06,PHX,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:52,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,15,23
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:50,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,off,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:40,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,20,23
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:38,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,off,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:37,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:36,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:25,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,7,25
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:23,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,off,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:23,ATL,foul,,,,,,,,Robin Lopez,,Al Horford,,,,,,shooting,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:23,PHX,free throw,,,,,,,1,,2,Robin Lopez,,,foul,missed,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:23,PHX,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:23,ATL,sub,,,,Jamal Crawford,,Marvin Williams,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:23,ATL,sub,,,,Zaza Pachulia,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:23,PHX,free throw,,,,,,,2,,2,Robin Lopez,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,4:07,ATL,turnover,,,,,,,,,,Joe Johnson,,,bad pass,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,3:55,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,jump,26,15
+Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,3:31,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,layup,25,6
+Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,3:29,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,off,,
+Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,3:29,ATL,shot,,,,,,,,,,Joe Smith,2,,,made,,layup,25,6
+Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,3:22,PHX,shot,Steve Nash,,,,,,,,,Jason Richardson,2,,,made,,layup,25,6
+Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,3:10,ATL,turnover,,,,,,,,,,Joe Smith,,,bad pass,,Jared Dudley,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,3:05,ATL,foul,,,,,,,,Amare Stoudemire,,Joe Smith,,,,,,shooting,,
+Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,3:05,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,3:05,ATL,sub,,,,Maurice Evans,,Mike Bibby,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,3:05,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,2:48,ATL,shot,Zaza Pachulia,,,,,,,,,Joe Smith,2,,,made,,dunk,25,6
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,2:33,ATL,foul,,,,,,,,Robin Lopez,,Zaza Pachulia,,,,,,shooting,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,2:33,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,2:33,PHX,free throw,,,,,,,1,,2,Robin Lopez,,,foul,missed,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,2:33,PHX,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,2:33,PHX,free throw,,,,,,,2,,2,Robin Lopez,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,1,2:33,ATL,timeout,,,,,,,,,,,,,,,,short,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Channing Frye,Jared Dudley,Jason Richardson,Steve Nash,1,2:33,PHX,sub,,,,Channing Frye,,Robin Lopez,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Channing Frye,Jared Dudley,Jason Richardson,Steve Nash,1,2:19,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,30,21
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Channing Frye,Jared Dudley,Jason Richardson,Steve Nash,1,2:17,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Channing Frye,Jared Dudley,Jason Richardson,Steve Nash,1,2:02,PHX,shot,Jason Richardson,,,,,,,,,Jared Dudley,3,,,made,,3pt,2,4
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Channing Frye,Jared Dudley,Jason Richardson,Steve Nash,1,1:42,ATL,shot,Jamal Crawford,,,,,,,,,Joe Smith,2,,,made,,jump,45,7
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Channing Frye,Jared Dudley,Jason Richardson,Steve Nash,1,1:29,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,26,24
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Channing Frye,Jared Dudley,Jason Richardson,Steve Nash,1,1:28,PHX,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Channing Frye,Jared Dudley,Jason Richardson,Steve Nash,1,1:28,ATL,foul,,,,,,,,Amare Stoudemire,,Zaza Pachulia,,,,,,loose ball,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,1:28,PHX,sub,,,,Goran Dragic,,Jason Richardson,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,1:28,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,1:28,ATL,sub,,,,Jason Collins,,Zaza Pachulia,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,1:28,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,missed,,,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,1:27,ATL,rebound,,,,,,,,,,Maurice Evans,,,,,,def,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,1:13,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,47,17
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,1:11,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,off,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,1:11,PHX,foul,,,,,,,,Joe Smith,,Jared Dudley,,,,,,shooting,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,1:11,ATL,free throw,,,,,,,1,,2,Joe Smith,,,foul,made,,,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,1:11,ATL,free throw,,,,,,,2,,2,Joe Smith,,,foul,missed,,,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,1:10,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:56,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,22,31
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:53,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,off,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:50,PHX,shot,Channing Frye,,,,,,,,,Amare Stoudemire,2,,,made,,dunk,25,6
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:39,ATL,shot,,,Amare Stoudemire,,,,,,,Jason Collins,,,,missed,,jump,33,12
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:37,ATL,rebound,,,,,,,,,,Jason Collins,,,,,,off,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:36,ATL,shot,,,Goran Dragic,,,,,,,Jason Collins,,,,missed,,layup,25,6
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:36,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:29,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,jump,16,22
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:27,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:07,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,43,17
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:05,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:00,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,3pt,42,24
+Jamal Crawford,Jason Collins,Joe Johnson,Joe Smith,Maurice Evans,Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Steve Nash,1,0:00,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,11:49,PHX,foul,,,,,,,,Mike Bibby,,Channing Frye,,,,,,offensive,,
+Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,11:49,PHX,turnover,,,,,,,,,,Channing Frye,,,foul,,,,,
+Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,11:35,ATL,turnover,,,,,,,,,,Joe Smith,,,bad pass,,,,,
+Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,11:20,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,turnaround jump,19,15
+Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,11:07,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,30,12
+Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,11:05,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,11:05,PHX,turnover,,,,,,,,,,Goran Dragic,,,traveling,,,,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,11:05,ATL,sub,,,,Josh Smith,,Joe Smith,,,,,,,,,,,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,10:47,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,3pt,48,6
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,10:45,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,def,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,10:36,ATL,foul,,,,,,,,Channing Frye,,Jamal Crawford,,,,,,shooting,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,10:36,PHX,free throw,,,,,,,1,,2,Channing Frye,,,foul,made,,,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,10:36,PHX,free throw,,,,,,,2,,2,Channing Frye,,,foul,made,,,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,10:17,PHX,foul,,,,,,,,Mike Bibby,,Goran Dragic,,,,,,shooting,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,10:17,ATL,free throw,,,,,,,1,,2,Mike Bibby,,,foul,made,,,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,10:17,ATL,free throw,,,,,,,2,,2,Mike Bibby,,,foul,made,,,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,10:03,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,3pt,25,31
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,10:01,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,9:49,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,32,11
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,9:47,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,def,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,9:38,PHX,shot,,,,,,,,,,Channing Frye,2,,,made,,dunk,25,6
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,9:16,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,layup,25,6
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,9:14,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,9:06,PHX,shot,,,,,,,,,,Channing Frye,2,,,made,,jump,11,16
+Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,8:57,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,8:57,ATL,sub,,,,Joe Johnson,,Maurice Evans,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,8:45,ATL,turnover,,,,,,,,,,Jamal Crawford,,,bad pass,,Jared Dudley,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,8:31,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,dunk,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,8:28,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,8:26,ATL,shot,Mike Bibby,,,,,,,,,Josh Smith,2,,,made,,dunk,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,8:06,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,3pt,39,26
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,8:04,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,7:51,ATL,shot,,,,,,,,,,Joe Johnson,3,,,made,,3pt,46,22
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,7:36,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,24,27
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,7:33,PHX,rebound,,,,,,,,,,Goran Dragic,,,,,,off,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,7:21,PHX,shot,,,,,,,,,,Goran Dragic,2,,,made,,step back jump,20,20
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,7:09,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,running jump,22,15
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,7:06,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,7:03,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,driving layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,6:41,PHX,foul,,,,,,,,Joe Johnson,,Grant Hill,,,,,,personal,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,6:34,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,jump,26,13
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,6:17,PHX,shot,,,Jamal Crawford,,,,,,,Goran Dragic,,,,missed,,jump,33,6
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,2,6:17,PHX,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,2,6:17,PHX,sub,,,,Jason Richardson,,Jared Dudley,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,2,6:13,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,38,19
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,2,6:12,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,2,6:01,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,4,7
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,2,5:59,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,2,5:47,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,turnaround jump,42,9
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,2,5:44,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,2,5:42,ATL,foul,,,,,,,,Goran Dragic,,Marvin Williams,,,,,,offensive,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,2,5:42,ATL,turnover,,,,,,,,,,Marvin Williams,,,foul,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,2,5:42,PHX,timeout,,,,,,,,,,,,,,,,official,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,Robin Lopez,2,5:42,PHX,sub,,,,Robin Lopez,,Channing Frye,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,Robin Lopez,2,5:32,PHX,shot,,,,,,,,,,Robin Lopez,2,,,made,,jump,33,14
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,Robin Lopez,2,5:17,ATL,shot,Mike Bibby,,,,,,,,,Josh Smith,2,,,made,,dunk,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,Robin Lopez,2,4:55,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,3pt,2,5
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Goran Dragic,Grant Hill,Jason Richardson,Louis Amundson,Robin Lopez,2,4:55,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jason Richardson,Robin Lopez,2,4:55,PHX,sub,,,,Amare Stoudemire,,Louis Amundson,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,4:55,PHX,sub,,,,Steve Nash,,Goran Dragic,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,4:55,ATL,sub,,,,Al Horford,,Marvin Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,4:43,ATL,turnover,,,,,,,,,,Mike Bibby,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,4:26,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,jump,32,11
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,4:06,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,jump,23,17
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:59,PHX,shot,,,Josh Smith,,,,,,,Grant Hill,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:56,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:55,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:54,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:53,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:32,PHX,foul,,,,,,,,Al Horford,,Amare Stoudemire,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:32,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:32,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:21,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,1,7
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:19,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:13,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,13,27
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:11,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,3:04,PHX,shot,Jason Richardson,,,,,,,,,Robin Lopez,2,,,made,,dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,2:33,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,6,23
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,2:30,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,2:23,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,Mike Bibby,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,2:18,PHX,foul,,,,,,,,Josh Smith,,Amare Stoudemire,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,2:18,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,2:18,ATL,sub,,,,Marvin Williams,,Jamal Crawford,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,2:18,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,2:18,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,2:06,PHX,turnover,,,,,,,,,,Grant Hill,,,bad pass,,Josh Smith,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,2:01,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,2:00,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,1:55,PHX,shot,Steve Nash,,,,,,,,,Grant Hill,3,,,made,,3pt,2,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,1:38,PHX,foul,,,,,,,,Mike Bibby,,Steve Nash,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,1:38,ATL,free throw,,,,,,,1,,2,Mike Bibby,,,foul,made,,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,1:38,ATL,sub,,,,Zaza Pachulia,,Al Horford,,,,,,,,,,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,1:38,ATL,free throw,,,,,,,2,,2,Mike Bibby,,,foul,made,,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,1:24,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,jump,9,5
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,1:22,ATL,rebound,,,,,,,,,,,,,,,,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,1:22,PHX,foul,,,,,,,,Marvin Williams,,Jason Richardson,,,,,,personal,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jason Richardson,Louis Amundson,Robin Lopez,Steve Nash,2,1:22,PHX,sub,,,,Louis Amundson,,Amare Stoudemire,,,,,,,,,,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jason Richardson,Louis Amundson,Robin Lopez,Steve Nash,2,1:22,ATL,free throw,,,,,,,1,,2,Marvin Williams,,,foul,made,,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,1:22,PHX,sub,,,,Jared Dudley,,Jason Richardson,,,,,,,,,,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,1:22,ATL,free throw,,,,,,,2,,2,Marvin Williams,,,foul,made,,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,1:09,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,13,19
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,1:08,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,off,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,1:06,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,10,5
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,1:05,ATL,rebound,,,,,,,,,,,,,,,,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,0:49,PHX,foul,,,,,,,,Josh Smith,,Robin Lopez,,,,,,shooting,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,0:49,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,made,,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,0:49,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,made,,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,0:39,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,Josh Smith,,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,0:37,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,slam dunk,25,6
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,0:23,PHX,shot,,,,,,,,,,Robin Lopez,,,,missed,,jump,33,6
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,0:21,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,0:03,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,floating jump,19,13
+Joe Johnson,Joe Smith,Josh Smith,Marvin Williams,Mike Bibby,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,0:02,ATL,sub,,,,Joe Smith,,Zaza Pachulia,,,,,,,,,,,,
+Joe Johnson,Joe Smith,Josh Smith,Marvin Williams,Mike Bibby,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,0:02,PHX,timeout,,,,,,,,,,,,,,,,short,,
+Joe Johnson,Joe Smith,Josh Smith,Mario West,Marvin Williams,Grant Hill,Jared Dudley,Louis Amundson,Robin Lopez,Steve Nash,2,0:02,ATL,sub,,,,Mario West,,Mike Bibby,,,,,,,,,,,,
+Joe Johnson,Joe Smith,Josh Smith,Mario West,Marvin Williams,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,2,0:02,PHX,sub,,,,Goran Dragic,,Robin Lopez,,,,,,,,,,,,
+Joe Johnson,Joe Smith,Josh Smith,Mario West,Marvin Williams,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Steve Nash,2,0:02,PHX,sub,,,,Channing Frye,,Louis Amundson,,,,,,,,,,,,
+Joe Johnson,Joe Smith,Josh Smith,Mario West,Marvin Williams,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Steve Nash,2,0:00,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,Joe Johnson,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,11:46,PHX,turnover,,,,,,,,,,Robin Lopez,,,3 second violation,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,11:29,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,11:14,PHX,shot,,,Josh Smith,,,,,,,Robin Lopez,,,,missed,,jump,29,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,11:11,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,11:10,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,11:09,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,10:54,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,43,10
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,10:52,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,10:37,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,3pt,5,22
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,10:34,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,10:20,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,10,18
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,10:18,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,9:58,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,38,21
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,9:55,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,9:54,PHX,shot,,,,,,,,,,Robin Lopez,,,,missed,,dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,9:52,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,9:48,ATL,shot,Joe Johnson,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,9:18,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,jump,17,22
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,8:56,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,27,15
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,8:54,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,8:50,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,8:34,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,23,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,8:33,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,8:33,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,tip,23,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,8:29,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,8:26,PHX,turnover,,,,,,,,,,Steve Nash,,,lost ball,,Joe Johnson,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,8:23,ATL,shot,Joe Johnson,,,,,,,,,Marvin Williams,2,,,made,,dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,8:15,PHX,shot,Steve Nash,,,,,,,,,Grant Hill,2,,,made,,jump,13,16
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,7:59,PHX,foul,,,,,,,,Josh Smith,,Amare Stoudemire,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,7:59,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,7:59,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,7:57,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,7:40,PHX,shot,Grant Hill,,,,,,,,,Steve Nash,2,,,made,,jump,43,20
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,7:14,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,40,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,7:12,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,7:03,PHX,shot,,,,,,,,,,Robin Lopez,,,,missed,,jump,22,15
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,7:01,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,7:01,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,7:01,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,tip,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,6:49,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,jump bank,31,10
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,6:30,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,21,30
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,6:27,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,6:20,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,48,7
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,6:20,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,6:20,ATL,sub,,,,Jamal Crawford,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,6:14,ATL,turnover,,,,,,,,,,Joe Johnson,,,lost ball,,Grant Hill,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,6:09,PHX,shot,Steve Nash,,,,,,,,,Robin Lopez,2,,,made,,jump,25,15
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,5:43,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,25,15
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,5:42,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,5:35,PHX,shot,,,Josh Smith,,,,,,,Robin Lopez,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,5:33,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,5:28,ATL,turnover,,,,,,,,,,Marvin Williams,,,out of bounds lost ball turnover,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,3,5:28,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jason Richardson,Robin Lopez,3,5:28,PHX,sub,,,,Goran Dragic,,Steve Nash,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jason Richardson,Robin Lopez,3,5:09,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,jump,15,8
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jason Richardson,Robin Lopez,3,5:09,PHX,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jason Richardson,Robin Lopez,3,5:09,ATL,foul,,,,,,,,Robin Lopez,,Marvin Williams,,,,,,loose ball,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jason Richardson,Robin Lopez,3,4:55,PHX,turnover,,,,,,,,,,Grant Hill,,,poss lost ball turnover,,Jamal Crawford,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jason Richardson,Robin Lopez,3,4:45,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,4,5
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jason Richardson,Robin Lopez,3,4:45,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jason Richardson,Robin Lopez,3,4:38,PHX,turnover,,,,,,,,,,Goran Dragic,,,3 second violation,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jason Richardson,Robin Lopez,3,4:20,ATL,turnover,,,,,,,,,,Jamal Crawford,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,4:20,PHX,sub,,,,Jared Dudley,,Jason Richardson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,4:01,PHX,shot,,,,,,,,,,Robin Lopez,,,,missed,,jump,15,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,4:01,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,3:54,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,jump bank,35,11
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,3:54,PHX,foul,,,,,,,,Jamal Crawford,,Goran Dragic,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,3:54,ATL,sub,,,,Mike Bibby,,Marvin Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,3:54,ATL,free throw,,,,,,,1,,1,Jamal Crawford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,3:39,ATL,foul,,,,,,,,Amare Stoudemire,,Josh Smith,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,3:28,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,jump,31,11
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,3:08,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,46,16
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,3:06,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,2:58,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,3pt,42,26
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,2:56,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,2:46,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,47,16
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,2:43,PHX,rebound,,,,,,,,,,Goran Dragic,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,2:29,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,2:29,PHX,sub,,,,Channing Frye,,Amare Stoudemire,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,2:27,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,jump,39,21
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,2:12,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,2,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,2:10,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,1:47,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,29,12
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,1:45,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,1:45,PHX,shot,,,,,,,,,,Channing Frye,2,,,made,,tip,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,1:26,ATL,shot,,,Grant Hill,,,,,,,Al Horford,,,,missed,,jump,31,12
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,1:23,PHX,rebound,,,,,,,,,,Goran Dragic,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,1:16,ATL,foul,,,,,,,,Robin Lopez,,Josh Smith,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,1:16,ATL,sub,,,,Marvin Williams,,Josh Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,1:11,PHX,shot,,,,,,,,,,Goran Dragic,2,,,made,,jump,14,15
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,0:47,ATL,shot,Marvin Williams,,,,,,,,,Al Horford,2,,,made,,jump,11,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,0:26,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,jump,30,16
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,0:26,ATL,foul,,,,,,,,Grant Hill,,Marvin Williams,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,0:26,PHX,free throw,,,,,,,1,,1,Grant Hill,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Robin Lopez,3,0:05,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,jump bank,17,11
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,11:39,ATL,shot,,,,,,,,,,Al Horford,2,,,made,,running bank,22,13
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,11:13,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,41,27
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,11:11,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,10:57,ATL,shot,,,,,,,,,,Al Horford,2,,,made,,jump,11,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,10:41,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,14,29
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,10:40,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,10:27,ATL,turnover,,,,,,,,,,Joe Johnson,,,bad pass,,Jared Dudley,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,10:22,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,reverse layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,10:21,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,10:21,PHX,shot,,,,,,,,,,Jared Dudley,2,,,made,,tip,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,9:57,PHX,foul,,,,,,,,Al Horford,,Channing Frye,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,9:57,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,9:57,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,9:57,ATL,sub,,,,Josh Smith,,Joe Johnson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,9:57,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,9:56,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,9:45,PHX,shot,Jared Dudley,,,,,,,,,Jason Richardson,2,,,made,,reverse dunk,25,6
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,9:20,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,18,12
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,9:17,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,def,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,9:13,PHX,shot,Goran Dragic,,,,,,,,,Channing Frye,2,,,made,,dunk,25,6
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,9:09,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,8:53,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,47,20
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,8:49,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,8:31,PHX,shot,,,,,,,,,,Jared Dudley,,,,missed,,3pt,2,6
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,8:29,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,off,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,8:27,PHX,shot,,,,,,,,,,Louis Amundson,2,,,made,,reverse layup,25,6
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,8:11,PHX,foul,,,,,,,,Jamal Crawford,,Louis Amundson,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,8:11,ATL,sub,,,,Joe Johnson,,Marvin Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,7:57,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,38,21
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,7:55,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,7:39,PHX,shot,Jared Dudley,,,,,,,,,Louis Amundson,2,,,made,,jump bank,20,12
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,7:18,PHX,foul,,,,,,,,Al Horford,,Jared Dudley,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,7:18,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,7:18,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,7:18,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,7:17,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,6:53,PHX,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,6:38,ATL,turnover,,,,,,,,,,Mike Bibby,,,bad pass,,Channing Frye,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,6:29,ATL,foul,,,,,,,,Louis Amundson,,Al Horford,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,6:29,PHX,free throw,,,,,,,1,,2,Louis Amundson,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,6:29,PHX,free throw,,,,,,,2,,2,Louis Amundson,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,6:28,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,6:15,ATL,turnover,,,,,,,,,,Mike Bibby,,,bad pass,,Jared Dudley,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,5:53,PHX,shot,Channing Frye,,,,,,,,,Jared Dudley,2,,,made,,reverse layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,5:43,ATL,timeout,,,,,,,,,,,,,,,,short,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,5:43,ATL,timeout,,,,,,,,,,,,,,,,official,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,5:24,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,running jump,22,12
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,5:07,ATL,foul,,,,,,,,Jared Dudley,,Jamal Crawford,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,4:57,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,7,24
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,4:55,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,4:48,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,jump,42,10
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,4:30,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,jump,11,13
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,4:28,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,4:16,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,25,14
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,4:14,PHX,rebound,,,,,,,,,,Goran Dragic,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,4:11,PHX,shot,Jason Richardson,,,,,,,,,Louis Amundson,2,,,made,,dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,3:42,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,8,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,3:42,PHX,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,4,3:42,ATL,foul,,,,,,,,Louis Amundson,,Joe Johnson,,,,,,loose ball,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Robin Lopez,4,3:42,PHX,sub,,,,Robin Lopez,,Louis Amundson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Amare Stoudemire,Goran Dragic,Jared Dudley,Jason Richardson,Robin Lopez,4,3:42,PHX,sub,,,,Amare Stoudemire,,Channing Frye,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Jared Dudley,Jason Richardson,Robin Lopez,4,3:42,ATL,sub,,,,Marvin Williams,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Jared Dudley,Jason Richardson,Robin Lopez,4,3:23,PHX,shot,,,Al Horford,,,,,,,Goran Dragic,,,,missed,,jump,11,18
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Jared Dudley,Jason Richardson,Robin Lopez,4,3:22,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Goran Dragic,Jared Dudley,Jason Richardson,Robin Lopez,4,3:22,PHX,foul,,,,,,,,Al Horford,,Goran Dragic,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,3:22,PHX,sub,,,,Steve Nash,,Goran Dragic,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,3:13,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,jump,10,17
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,2:53,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,running hook,21,14
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,2:49,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,2:45,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,Robin Lopez,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,2:44,ATL,foul,,,,,,,,Robin Lopez,,Jamal Crawford,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,2:44,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,2:22,PHX,foul,,,,,,,,Josh Smith,,Amare Stoudemire,,,,,,offensive,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,2:22,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,foul,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,2:01,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,42,11
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,2:00,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,1:56,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,1,9
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,1:53,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,1:38,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,lost ball,,Josh Smith,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,1:31,ATL,shot,,,,,,,,,,Jamal Crawford,3,,,made,,3pt,27,32
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,1:15,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,3pt,39,27
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,1:14,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,4,1:14,ATL,foul,,,,,,,,Amare Stoudemire,,Josh Smith,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,1:14,PHX,sub,,,,Grant Hill,,Jason Richardson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,1:14,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,1:14,PHX,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,1:14,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,1:12,ATL,turnover,,,,,,,,,,Marvin Williams,,,bad pass,,Steve Nash,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,0:48,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,jump,13,13
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,0:42,PHX,foul,,,,,,,,Jamal Crawford,,Steve Nash,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,0:42,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,0:42,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,0:42,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,0:19,PHX,shot,,,,,,,,,,Jared Dudley,,,,missed,,3pt,24,32
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,4,0:17,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,off,,

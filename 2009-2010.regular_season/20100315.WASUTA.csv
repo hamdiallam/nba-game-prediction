@@ -1,0 +1,474 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,12:00,OFF,jump ball,,JaVale McGee,,,Mehmet Okur,,,,,,,Deron Williams,,,,,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,11:45,UTA,shot,C.J. Miles,,,,,,,,,Mehmet Okur,2,,,made,,running dunk,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,11:26,WAS,shot,Andray Blatche,,,,,,,,,Mike Miller,2,,,made,,jump,40,24
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,11:13,UTA,shot,Carlos Boozer,,,,,,,,,Deron Williams,2,,,made,,jump,27,23
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:55,WAS,shot,,,,,,,,,,Mike Miller,,,,missed,,running hook,22,7
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:54,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:49,UTA,shot,Deron Williams,,,,,,,,,Mehmet Okur,2,,,made,,layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:49,WAS,foul,,,,,,,,Mehmet Okur,,JaVale McGee,,,,,,shooting,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:49,UTA,free throw,,,,,,,1,,1,Mehmet Okur,,,foul,missed,,,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:48,WAS,rebound,,,,,,,,,,JaVale McGee,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:47,UTA,foul,,,,,,,,JaVale McGee,,Carlos Boozer,,,,,,personal,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:40,UTA,foul,,,,,,,,Mike Miller,,Wesley Matthews,,,,,,shooting,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:40,WAS,free throw,,,,,,,1,,2,Mike Miller,,,foul,made,,,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:40,WAS,free throw,,,,,,,2,,2,Mike Miller,,,foul,missed,,,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:37,WAS,rebound,,,,,,,,,,Andray Blatche,,,,,,off,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:37,WAS,shot,,,,,,,,,,Andray Blatche,2,,,made,,tip,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:18,UTA,shot,,,JaVale McGee,,,,,,,Carlos Boozer,,,,missed,,jump hook,25,10
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:16,WAS,rebound,,,,,,,,,,Mike Miller,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,10:09,WAS,shot,Mike Miller,,,,,,,,,Andray Blatche,2,,,made,,jump,44,5
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,9:57,UTA,shot,,,Shaun Livingston,,,,,,,Deron Williams,,,,missed,,layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,9:54,WAS,rebound,,,,,,,,,,Al Thornton,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,9:51,WAS,shot,Andray Blatche,,,,,,,,,Mike Miller,2,,,made,,layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,9:34,UTA,shot,,,,,,,,,,Deron Williams,,,,missed,,jump,28,23
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,9:33,WAS,rebound,,,,,,,,,,JaVale McGee,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,9:17,WAS,shot,,,Wesley Matthews,,,,,,,Mike Miller,,,,missed,,jump,11,22
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,9:15,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,9:09,UTA,shot,Deron Williams,,,,,,,,,Carlos Boozer,2,,,made,,layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,8:56,WAS,shot,,,,,,,,,,Andray Blatche,,,,missed,,fade away jumper,9,4
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,8:55,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,8:50,UTA,shot,,,Shaun Livingston,,,,,,,Deron Williams,,,,missed,,driving layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,8:50,UTA,rebound,,,,,,,,,,,,,,,,,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,8:48,UTA,shot,,,,,,,,,,C.J. Miles,,,,missed,,jump,42,17
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,8:46,WAS,rebound,,,,,,,,,,Mike Miller,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,8:30,WAS,shot,,,,,,,,,,Al Thornton,,,,missed,,jump,10,22
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,8:29,UTA,rebound,,,,,,,,,,Deron Williams,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,8:16,UTA,shot,Mehmet Okur,,,,,,,,,Wesley Matthews,2,,,made,,jump,25,15
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,7:57,WAS,shot,,,,,,,,,,Shaun Livingston,,,,missed,,jump,6,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,7:55,WAS,rebound,,,,,,,,,,Mike Miller,,,,,,off,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,7:50,WAS,shot,,,,,,,,,,Andray Blatche,,,,missed,,jump,20,23
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,7:48,UTA,rebound,,,,,,,,,,Deron Williams,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,7:39,UTA,shot,Deron Williams,,,,,,,,,Mehmet Okur,3,,,made,,3pt,15,28
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,7:37,WAS,timeout,,,,,,,,,,,,,,,,regular,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,7:17,WAS,shot,,,,,,,,,,Andray Blatche,,,,missed,,jump,36,15
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,7:16,UTA,rebound,,,,,,,,,,Wesley Matthews,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,7:02,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,jump,37,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,7:01,WAS,rebound,,,,,,,,,,JaVale McGee,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,6:37,WAS,shot,,,,,,,,,,Shaun Livingston,,,,missed,,jump,18,24
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,6:35,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,6:18,UTA,foul,,,,,,,,Shaun Livingston,,Deron Williams,,,,,,offensive,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,6:18,UTA,turnover,,,,,,,,,,Deron Williams,,,foul,,,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,6:18,WAS,sub,,,,James Singleton,,JaVale McGee,,,,,,,,,,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:58,WAS,shot,,,,,,,,,,Al Thornton,,,,missed,,layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:54,WAS,rebound,,,,,,,,,,Al Thornton,,,,,,off,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:54,WAS,shot,,,Mehmet Okur,,,,,,,Al Thornton,,,,missed,,layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:53,WAS,rebound,,,,,,,,,,Andray Blatche,,,,,,off,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:52,WAS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:36,UTA,shot,,,,,,,,,,Deron Williams,,,,missed,,3pt,41,25
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:35,WAS,rebound,,,,,,,,,,Mike Miller,,,,,,def,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:27,WAS,shot,,,Mehmet Okur,,,,,,,Al Thornton,,,,missed,,layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:25,WAS,rebound,,,,,,,,,,Andray Blatche,,,,,,off,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:24,WAS,shot,,,,,,,,,,Andray Blatche,2,,,made,,layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:14,UTA,foul,,,,,,,,Shaun Livingston,,Mehmet Okur,,,,,,offensive,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,5:14,UTA,turnover,,,,,,,,,,Mehmet Okur,,,foul,,,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,4:55,WAS,shot,,,,,,,,,,Shaun Livingston,,,,missed,,jump,4,13
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,4:54,UTA,rebound,,,,,,,,,,Wesley Matthews,,,,,,def,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,4:38,WAS,sub,,,,Randy Foye,,Shaun Livingston,,,,,,,,,,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,4:33,UTA,shot,,,,,,,,,,Mehmet Okur,,,,missed,,jump,36,20
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,4:32,WAS,rebound,,,,,,,,,,Mike Miller,,,,,,def,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,4:16,WAS,shot,,,,,,,,,,Al Thornton,,,,missed,,jump,20,18
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,4:15,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,1,4:08,WAS,foul,,,,,,,,Deron Williams,,Randy Foye,,,,,,personal,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,4:08,UTA,sub,,,,Paul Millsap,,Mehmet Okur,,,,,,,,,,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,4:04,WAS,foul,,,,,,,,Carlos Boozer,,Mike Miller,,,,,,shooting,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,4:04,UTA,free throw,,,,,,,1,,2,Carlos Boozer,,,foul,made,,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,4:04,UTA,free throw,,,,,,,2,,2,Carlos Boozer,,,foul,made,,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,3:54,WAS,shot,,,,,,,,,,Randy Foye,2,,,made,,jump,29,26
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,3:35,UTA,shot,,,,,,,,,,Paul Millsap,2,,,made,,driving layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,3:09,WAS,shot,,,,,,,,,,Mike Miller,,,,missed,,3pt,49,7
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,3:08,WAS,rebound,,,,,,,,,,Randy Foye,,,,,,off,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,3:04,WAS,turnover,,,,,,,,,,Randy Foye,,,lost ball,,Deron Williams,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,3:01,UTA,shot,Wesley Matthews,,,,,,,,,Deron Williams,2,,,made,,layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,2:42,WAS,shot,Randy Foye,,,,,,,,,Mike Miller,2,,,made,,jump,13,25
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,2:20,UTA,shot,,,,,,,,,,Paul Millsap,,,,missed,,layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,2:18,WAS,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,2:06,WAS,turnover,,,,,,,,,,James Singleton,,,lost ball,,C.J. Miles,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,2:02,UTA,shot,,,,,,,,,,Deron Williams,2,,,made,,driving layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,1:54,WAS,timeout,,,,,,,,,,,,,,,,short,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,1,1:54,UTA,timeout,,,,,,,,,,,,,,,,regular,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,1:54,UTA,sub,,,,Kyle Korver,,C.J. Miles,,,,,,,,,,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,1:39,WAS,shot,Randy Foye,,,,,,,,,Andray Blatche,2,,,made,,jump,33,26
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,1:21,UTA,shot,Kyle Korver,,,,,,,,,Paul Millsap,2,,,made,,fade away jumper,16,13
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,1:00,WAS,shot,Andray Blatche,,,,,,,,,Mike Miller,2,,,made,,layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,0:47,UTA,shot,,,,,,,,,,Kyle Korver,,,,missed,,3pt,2,7
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,0:46,WAS,rebound,,,,,,,,,,Mike Miller,,,,,,def,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,0:34,WAS,shot,Randy Foye,,,,,,,,,Mike Miller,3,,,made,,3pt,2,7
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,0:29,UTA,shot,,,,,,,,,,Deron Williams,,,,missed,,jump,21,10
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,0:28,WAS,rebound,,,,,,,,,,,,,,,,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,0:09,WAS,shot,,,,,,,,,,Randy Foye,3,,,made,,3pt,7,23
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,0:02,UTA,shot,Deron Williams,,,,,,,,,Carlos Boozer,2,,,made,,layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,0:00,WAS,shot,,,,,,,,,,Randy Foye,,,,missed,,3pt,12,52
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,1,0:00,WAS,rebound,,,,,,,,,,,,,,,,,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,11:44,WAS,shot,,,,,,,,,,Randy Foye,,,,missed,,jump,34,26
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,11:43,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,def,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,11:25,UTA,shot,,,,,,,,,,Paul Millsap,2,,,made,,jump,36,21
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,11:05,WAS,shot,,,,,,,,,,Andray Blatche,,,,missed,,layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,11:02,UTA,rebound,,,,,,,,,,C.J. Miles,,,,,,def,,
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,10:59,UTA,shot,C.J. Miles,,,,,,,,,Sundiata Gaines,2,,,made,,driving layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,10:59,WAS,foul,,,,,,,,Sundiata Gaines,,Mike Miller,,,,,,shooting,,
+Al Thornton,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,10:59,WAS,sub,,,,JaVale McGee,,Andray Blatche,,,,,,,,,,,,
+Al Thornton,JaVale McGee,James Singleton,Quinton Ross,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,10:59,WAS,sub,,,,Quinton Ross,,Mike Miller,,,,,,,,,,,,
+Al Thornton,JaVale McGee,James Singleton,Quinton Ross,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,10:59,UTA,free throw,,,,,,,1,,1,Sundiata Gaines,,,foul,made,,,,
+Al Thornton,JaVale McGee,James Singleton,Quinton Ross,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,10:39,WAS,shot,Quinton Ross,,,,,,,,,Al Thornton,2,,,made,,jump,38,21
+Al Thornton,JaVale McGee,James Singleton,Quinton Ross,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,10:26,UTA,shot,,,,,,,,,,Paul Millsap,,,,missed,,layup,25,6
+Al Thornton,JaVale McGee,James Singleton,Quinton Ross,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,10:26,WAS,rebound,,,,,,,,,,,,,,,,,,
+Al Thornton,JaVale McGee,James Singleton,Quinton Ross,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,10:18,UTA,foul,,,,,,,,Randy Foye,,Sundiata Gaines,,,,,,personal,,
+Al Thornton,JaVale McGee,James Singleton,Quinton Ross,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,10:02,WAS,shot,,,,,,,,,,Quinton Ross,,,,missed,,jump,39,20
+Al Thornton,JaVale McGee,James Singleton,Quinton Ross,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,9:59,WAS,rebound,,,,,,,,,,James Singleton,,,,,,off,,
+Al Thornton,JaVale McGee,James Singleton,Quinton Ross,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,9:59,WAS,shot,,,,,,,,,,James Singleton,,,,missed,,tip,25,6
+Al Thornton,JaVale McGee,James Singleton,Quinton Ross,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,9:59,WAS,rebound,,,,,,,,,,,,,,,,,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,9:59,WAS,sub,,,,Earl Boykins,,Randy Foye,,,,,,,,,,,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,9:45,UTA,foul,,,,,,,,Al Thornton,,C.J. Miles,,,,,,personal,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,9:35,WAS,shot,,,,,,,,,,Quinton Ross,,,,missed,,jump,35,25
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,9:34,UTA,rebound,,,,,,,,,,Paul Millsap,,,,,,def,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,9:21,UTA,foul,,,,,,,,James Singleton,,Mehmet Okur,,,,,,offensive,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,9:21,UTA,turnover,,,,,,,,,,Mehmet Okur,,,foul,,,,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,9:07,WAS,shot,Earl Boykins,,,,,,,,,James Singleton,2,,,made,,jump,38,22
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:49,UTA,shot,,,,,,,,,,C.J. Miles,,,,missed,,3pt,10,25
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:45,WAS,rebound,,,,,,,,,,Al Thornton,,,,,,def,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:41,WAS,shot,,,C.J. Miles,,,,,,,Quinton Ross,,,,missed,,layup,25,6
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:36,UTA,rebound,,,,,,,,,,Sundiata Gaines,,,,,,def,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:34,WAS,foul,,,,,,,,Paul Millsap,,James Singleton,,,,,,shooting,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:34,UTA,timeout,,,,,,,,,,,,,,,,official,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:34,UTA,free throw,,,,,,,1,,2,Paul Millsap,,,foul,missed,,,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:34,UTA,rebound,,,,,,,,,,,,,,,,,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:34,UTA,free throw,,,,,,,2,,2,Paul Millsap,,,foul,made,,,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:19,WAS,shot,,,,,,,,,,Earl Boykins,,,,missed,,jump,35,22
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:17,WAS,rebound,,,,,,,,,,James Singleton,,,,,,off,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:17,WAS,shot,,,,,,,,,,James Singleton,,,,missed,,dunk,25,6
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:16,UTA,rebound,,,,,,,,,,C.J. Miles,,,,,,def,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:14,WAS,foul,,,,,,,,Sundiata Gaines,,Quinton Ross,,,,,,shooting,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:14,UTA,free throw,,,,,,,1,,2,Sundiata Gaines,,,foul,missed,,,,
+Al Thornton,Earl Boykins,JaVale McGee,James Singleton,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:14,UTA,rebound,,,,,,,,,,,,,,,,,,
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Quinton Ross,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:14,WAS,sub,,,,Mike Miller,,Al Thornton,,,,,,,,,,,,
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:14,WAS,sub,,,,Randy Foye,,Quinton Ross,,,,,,,,,,,,
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:14,UTA,free throw,,,,,,,2,,2,Sundiata Gaines,,,foul,missed,,,,
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,8:12,WAS,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,7:58,WAS,shot,,,,,,,,,,James Singleton,,,,missed,,jump,6,5
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,7:57,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,def,,
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,7:38,UTA,shot,,,,,,,,,,Paul Millsap,,,,missed,,layup,25,6
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,7:37,UTA,rebound,,,,,,,,,,C.J. Miles,,,,,,off,,
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,7:37,UTA,shot,,,,,,,,,,C.J. Miles,2,,,made,,tip,25,6
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,7:24,WAS,shot,,,,,,,,,,Earl Boykins,2,,,made,,jump bank,38,12
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,6:56,UTA,shot,C.J. Miles,,,,,,,,,Sundiata Gaines,3,,,made,,3pt,49,9
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,6:39,WAS,shot,,,,,,,,,,JaVale McGee,2,,,made,,driving dunk,25,6
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,6:17,UTA,shot,,,,,,,,,,Kyle Korver,2,,,made,,jump,5,7
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,5:57,WAS,turnover,,,,,,,,,,Randy Foye,,,bad pass,,Mehmet Okur,,,
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,5:44,UTA,shot,,,,,,,,,,C.J. Miles,,,,missed,,3pt,41,25
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,5:42,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,off,,
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,5:42,UTA,shot,,,,,,,,,,Mehmet Okur,2,,,made,,hook,24,14
+Earl Boykins,JaVale McGee,James Singleton,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,5:36,WAS,timeout,,,,,,,,,,,,,,,,regular,,
+Andray Blatche,Earl Boykins,JaVale McGee,Mike Miller,Randy Foye,C.J. Miles,Kyle Korver,Mehmet Okur,Paul Millsap,Sundiata Gaines,2,5:36,WAS,sub,,,,Andray Blatche,,James Singleton,,,,,,,,,,,,
+Andray Blatche,Earl Boykins,JaVale McGee,Mike Miller,Randy Foye,C.J. Miles,Deron Williams,Kyle Korver,Mehmet Okur,Paul Millsap,2,5:36,UTA,sub,,,,Deron Williams,,Sundiata Gaines,,,,,,,,,,,,
+Andray Blatche,Earl Boykins,JaVale McGee,Mike Miller,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,5:36,UTA,sub,,,,Carlos Boozer,,Mehmet Okur,,,,,,,,,,,,
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,5:36,WAS,sub,,,,Shaun Livingston,,Earl Boykins,,,,,,,,,,,,
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,5:25,WAS,shot,Mike Miller,,,,,,,,,JaVale McGee,2,,,made,,layup,25,6
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,5:05,UTA,shot,C.J. Miles,,,,,,,,,Paul Millsap,2,,,made,,jump,6,5
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,4:47,UTA,foul,,,,,,,,Andray Blatche,,Paul Millsap,,,,,,shooting,,
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,4:47,WAS,free throw,,,,,,,1,,2,Andray Blatche,,,foul,made,,,,
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,4:47,WAS,free throw,,,,,,,2,,2,Andray Blatche,,,foul,made,,,,
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,4:34,UTA,shot,Deron Williams,,,,,,,,,Kyle Korver,2,,,made,,jump,27,26
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,4:17,UTA,foul,,,,,,,,Andray Blatche,,Paul Millsap,,,,,,shooting,,
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,4:17,WAS,free throw,,,,,,,1,,2,Andray Blatche,,,foul,made,,,,
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,4:17,WAS,free throw,,,,,,,2,,2,Andray Blatche,,,foul,made,,,,
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,4:07,UTA,shot,,,,,,,,,,C.J. Miles,,,,missed,,driving layup,25,6
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,4:05,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,off,,
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,4:05,UTA,shot,,,,,,,,,,Carlos Boozer,2,,,made,,putback slam dunk,25,6
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,3:53,WAS,turnover,,,,,,,,,,Andray Blatche,,,bad pass,,Deron Williams,,,
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,3:41,UTA,shot,Deron Williams,,,,,,,,,Carlos Boozer,2,,,made,,layup,25,6
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,3:22,WAS,turnover,,,,,,,,,,Andray Blatche,,,bad pass,,Kyle Korver,,,
+Andray Blatche,JaVale McGee,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,3:17,UTA,turnover,,,,,,,,,,C.J. Miles,,,bad pass,,,,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,3:17,WAS,sub,,,,James Singleton,,JaVale McGee,,,,,,,,,,,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,3:05,UTA,violation,,,,,,,,,,C.J. Miles,,,,,,kicked ball,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,2:54,WAS,shot,,,,,,,,,,Andray Blatche,,,,missed,,jump,35,23
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,2:51,WAS,rebound,,,,,,,,,,James Singleton,,,,,,off,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,2:38,WAS,shot,,,,,,,,,,Mike Miller,,,,missed,,layup,25,6
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,2:36,WAS,rebound,,,,,,,,,,Andray Blatche,,,,,,off,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,2:36,WAS,shot,,,,,,,,,,Andray Blatche,2,,,made,,tip,25,6
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,2:18,UTA,shot,Deron Williams,,,,,,,,,Carlos Boozer,2,,,made,,layup,25,6
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,2:06,UTA,foul,,,,,,,,Mike Miller,,Kyle Korver,,,,,,personal,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,2,2:06,UTA,timeout,,,,,,,,,,,,,,,,regular,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,2:06,UTA,sub,,,,Wesley Matthews,,C.J. Miles,,,,,,,,,,,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,2:06,WAS,free throw,,,,,,,1,,2,Mike Miller,,,foul,made,,,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,2:06,WAS,free throw,,,,,,,2,,2,Mike Miller,,,foul,made,,,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,1:42,UTA,shot,Carlos Boozer,,,,,,,,,Wesley Matthews,3,,,made,,3pt,49,7
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,1:25,WAS,shot,,,,,,,,,,James Singleton,,,,missed,,layup,25,6
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,1:23,WAS,rebound,,,,,,,,,,Shaun Livingston,,,,,,off,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,1:23,WAS,shot,,,,,,,,,,Shaun Livingston,2,,,made,,putback layup,25,6
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,1:09,WAS,foul,,,,,,,,Paul Millsap,,Andray Blatche,,,,,,shooting,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,1:09,UTA,free throw,,,,,,,1,,2,Paul Millsap,,,foul,missed,,,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,1:09,UTA,rebound,,,,,,,,,,,,,,,,,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,1:09,UTA,free throw,,,,,,,2,,2,Paul Millsap,,,foul,made,,,,
+Andray Blatche,James Singleton,Mike Miller,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,0:57,WAS,turnover,,,,,,,,,,Shaun Livingston,,,poss lost ball turnover,,,,,
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,0:57,WAS,sub,,,,Al Thornton,,Mike Miller,,,,,,,,,,,,
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,0:46,UTA,shot,Kyle Korver,,,,,,,,,Carlos Boozer,2,,,made,,layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,2,0:46,WAS,foul,,,,,,,,Carlos Boozer,,Andray Blatche,,,,,,shooting,,
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Kyrylo Fesenko,Wesley Matthews,2,0:46,UTA,sub,,,,Kyrylo Fesenko,,Paul Millsap,,,,,,,,,,,,
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Kyrylo Fesenko,Wesley Matthews,2,0:46,UTA,free throw,,,,,,,1,,1,Carlos Boozer,,,foul,made,,,,
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Kyrylo Fesenko,Wesley Matthews,2,0:28,WAS,shot,,,,,,,,,,Andray Blatche,,,,missed,,jump,40,8
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Kyrylo Fesenko,Wesley Matthews,2,0:27,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Kyrylo Fesenko,Wesley Matthews,2,0:06,UTA,shot,,,,,,,,,,Deron Williams,2,,,made,,layup,25,6
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Kyrylo Fesenko,Wesley Matthews,2,0:01,WAS,shot,,,,,,,,,,Andray Blatche,,,,missed,,jump,27,24
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Kyrylo Fesenko,Wesley Matthews,2,0:01,WAS,rebound,,,,,,,,,,Shaun Livingston,,,,,,off,,
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Kyrylo Fesenko,Wesley Matthews,2,0:00,WAS,shot,,,,,,,,,,Shaun Livingston,,,,missed,,jump,25,22
+Al Thornton,Andray Blatche,James Singleton,Randy Foye,Shaun Livingston,Carlos Boozer,Deron Williams,Kyle Korver,Kyrylo Fesenko,Wesley Matthews,2,0:00,WAS,rebound,,,,,,,,,,,,,,,,,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,11:53,UTA,foul,,,,,,,,Mike Miller,,Wesley Matthews,,,,,,personal,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,11:41,WAS,shot,,,,,,,,,,Shaun Livingston,,,,missed,,jump,14,24
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,11:40,UTA,rebound,,,,,,,,,,Wesley Matthews,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,11:32,UTA,shot,,,,,,,,,,Wesley Matthews,2,,,made,,driving layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,11:06,WAS,shot,,,,,,,,,,Andray Blatche,,,,missed,,turnaround jump,32,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,11:05,UTA,rebound,,,,,,,,,,Deron Williams,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:59,UTA,shot,,,,,,,,,,Deron Williams,2,,,made,,driving layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:58,WAS,timeout,,,,,,,,,,,,,,,,regular,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:44,WAS,shot,Andray Blatche,,,,,,,,,Shaun Livingston,2,,,made,,layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:25,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,jump,16,22
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:24,WAS,rebound,,,,,,,,,,Andray Blatche,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:12,WAS,shot,,,,,,,,,,Al Thornton,,,,missed,,jump,35,4
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:09,WAS,rebound,,,,,,,,,,JaVale McGee,,,,,,off,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:09,WAS,shot,,,,,,,,,,JaVale McGee,,,,missed,,tip,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:08,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:05,WAS,foul,,,,,,,,Deron Williams,,Shaun Livingston,,,,,,shooting,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:05,UTA,free throw,,,,,,,1,,2,Deron Williams,,,foul,made,,,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:05,UTA,free throw,,,,,,,2,,2,Deron Williams,,,foul,missed,,,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,10:04,WAS,rebound,,,,,,,,,,JaVale McGee,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,9:50,UTA,foul,,,,,,,,Andray Blatche,,Carlos Boozer,,,,,,personal,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,9:37,WAS,shot,,,,,,,,,,Al Thornton,,,,missed,,jump,12,24
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,9:36,UTA,rebound,,,,,,,,,,Deron Williams,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,9:20,UTA,shot,,,JaVale McGee,,,,,,,Wesley Matthews,,,,missed,,layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,9:17,WAS,rebound,,,,,,,,,,Shaun Livingston,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,9:08,WAS,shot,,,,,,,,,,JaVale McGee,,,,missed,,reverse layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,9:06,WAS,rebound,,,,,,,,,,Andray Blatche,,,,,,off,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,9:04,WAS,shot,,,Mehmet Okur,,,,,,,Andray Blatche,,,,missed,,layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,9:02,WAS,rebound,,,,,,,,,,JaVale McGee,,,,,,off,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,9:01,WAS,shot,,,,,,,,,,JaVale McGee,,,,missed,,layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:59,WAS,rebound,,,,,,,,,,Al Thornton,,,,,,off,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:59,WAS,shot,,,,,,,,,,Al Thornton,,,,missed,,layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:58,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:52,UTA,shot,Deron Williams,,,,,,,,,Mehmet Okur,2,,,made,,jump,40,24
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:26,WAS,shot,,,,,,,,,,JaVale McGee,,,,missed,,layup,25,6
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:25,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,def,,
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:19,UTA,shot,Deron Williams,,,,,,,,,Carlos Boozer,2,,,made,,jump,32,8
+Al Thornton,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:19,WAS,foul,,,,,,,,Carlos Boozer,,Andray Blatche,,,,,,shooting,,
+Al Thornton,Andray Blatche,Fabricio Oberto,Mike Miller,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:19,WAS,sub,,,,Fabricio Oberto,,JaVale McGee,,,,,,,,,,,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Shaun Livingston,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:19,WAS,sub,,,,Nick Young,,Al Thornton,,,,,,,,,,,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:19,WAS,sub,,,,Randy Foye,,Shaun Livingston,,,,,,,,,,,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:19,UTA,free throw,,,,,,,1,,1,Carlos Boozer,,,foul,made,,,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,8:01,WAS,turnover,,,,,,,,,,Andray Blatche,,,lost ball,,C.J. Miles,,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,7:55,UTA,turnover,,,,,,,,,,Mehmet Okur,,,double dribble,,,,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,7:37,WAS,shot,,,,,,,,,,Nick Young,,,,missed,,3pt,2,9
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,7:35,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,7:18,UTA,shot,Deron Williams,,,,,,,,,Mehmet Okur,2,,,made,,jump,26,29
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,7:16,WAS,timeout,,,,,,,,,,,,,,,,regular,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:56,WAS,shot,Randy Foye,,,,,,,,,Andray Blatche,2,,,made,,slam dunk,25,6
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:54,WAS,foul,,,,,,,,,,Blatche,,,,,,technical,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:54,UTA,free throw,,,,,,,1,,1,Mehmet Okur,,,technical,made,,,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:42,UTA,shot,,,,,,,,,,Deron Williams,2,,,made,,driving layup,25,6
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:42,WAS,foul,,,,,,,,Deron Williams,,Randy Foye,,,,,,shooting,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:42,UTA,free throw,,,,,,,1,,1,Deron Williams,,,foul,made,,,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:20,WAS,shot,,,,,,,,,,Nick Young,2,,,made,,fade away jumper,25,16
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:09,WAS,foul,,,,,,,,Deron Williams,,Andray Blatche,,,,,,shooting,,
+Andray Blatche,Fabricio Oberto,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:09,UTA,free throw,,,,,,,1,,2,Deron Williams,,,foul,made,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:09,WAS,sub,,,,James Singleton,,Andray Blatche,,,,,,,,,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:09,UTA,free throw,,,,,,,2,,2,Deron Williams,,,foul,missed,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,6:08,WAS,rebound,,,,,,,,,,Mike Miller,,,,,,def,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,5:57,WAS,shot,,,,,,,,,,Nick Young,,,,missed,,3pt,48,10
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,5:55,UTA,rebound,,,,,,,,,,C.J. Miles,,,,,,def,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,5:47,UTA,shot,,,,,,,,,,Carlos Boozer,2,,,made,,jump bank,19,6
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Mehmet Okur,Wesley Matthews,3,5:47,WAS,foul,,,,,,,,Carlos Boozer,,Fabricio Oberto,,,,,,shooting,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:47,UTA,sub,,,,Paul Millsap,,Mehmet Okur,,,,,,,,,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:47,UTA,free throw,,,,,,,1,,1,Carlos Boozer,,,foul,made,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:34,UTA,foul,,,,,,,,James Singleton,,Paul Millsap,,,,,,shooting,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:34,WAS,free throw,,,,,,,1,,2,James Singleton,,,foul,made,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:34,WAS,free throw,,,,,,,2,,2,James Singleton,,,foul,made,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:13,UTA,shot,,,,,,,,,,C.J. Miles,,,,missed,,jump,38,8
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:13,WAS,rebound,,,,,,,,,,,,,,,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:13,UTA,foul,,,,,,,,Fabricio Oberto,,Carlos Boozer,,,,,,loose ball,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:04,WAS,shot,,,,,,,,,,Mike Miller,,,,missed,,jump,18,27
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:01,UTA,rebound,,,,,,,,,,,,,,,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:01,WAS,foul,,,,,,,,Carlos Boozer,,James Singleton,,,,,,loose ball,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:01,UTA,free throw,,,,,,,1,,2,Carlos Boozer,,,foul,made,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,5:01,UTA,free throw,,,,,,,2,,2,Carlos Boozer,,,foul,made,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,4:47,WAS,shot,,,,,,,,,,Randy Foye,,,,missed,,3pt,48,20
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,4:45,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,4:26,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,fade away jumper,16,21
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,4:24,WAS,rebound,,,,,,,,,,Nick Young,,,,,,def,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,4:13,WAS,turnover,,,,,,,,,,Nick Young,,,lost ball,,C.J. Miles,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,4:12,WAS,foul,,,,,,,,C.J. Miles,,Nick Young,,,,,,clear path,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,4:12,UTA,free throw,,,,,,,1,,2,C.J. Miles,,,foul,missed,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,4:12,UTA,rebound,,,,,,,,,,,,,,,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,C.J. Miles,Carlos Boozer,Deron Williams,Paul Millsap,Wesley Matthews,3,4:12,UTA,free throw,,,,,,,2,,2,C.J. Miles,,,foul,made,,,,
+Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Randy Foye,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,4:12,UTA,sub,,,,Kyle Korver,,C.J. Miles,,,,,,,,,,,,
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,4:12,WAS,sub,,,,Earl Boykins,,Randy Foye,,,,,,,,,,,,
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,4:07,UTA,shot,,,,,,,,,,Wesley Matthews,,,,missed,,3pt,46,20
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,4:05,UTA,rebound,,,,,,,,,,Paul Millsap,,,,,,off,,
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,4:05,UTA,shot,,,,,,,,,,Paul Millsap,,,,missed,,tip,25,6
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,4:04,WAS,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,3:42,WAS,shot,,,,,,,,,,Nick Young,,,,missed,,jump,19,22
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,3:40,UTA,rebound,,,,,,,,,,Kyle Korver,,,,,,def,,
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,3:22,UTA,shot,,,,,,,,,,Paul Millsap,,,,missed,,jump,19,25
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,3:21,WAS,rebound,,,,,,,,,,Mike Miller,,,,,,def,,
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,3:07,WAS,shot,,,,,,,,,,Earl Boykins,,,,missed,,running hook,31,13
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,3:05,UTA,rebound,,,,,,,,,,Deron Williams,,,,,,def,,
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,3:03,WAS,foul,,,,,,,,Kyle Korver,,Nick Young,,,,,,shooting,,
+Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Nick Young,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,3:03,UTA,free throw,,,,,,,1,,2,Kyle Korver,,,foul,made,,,,
+Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,3:03,WAS,sub,,,,Alonzo Gee,,Nick Young,,,,,,,,,,,,
+Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,3:03,UTA,free throw,,,,,,,2,,2,Kyle Korver,,,foul,missed,,,,
+Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,3:02,WAS,rebound,,,,,,,,,,Mike Miller,,,,,,def,,
+Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,2:47,WAS,turnover,,,,,,,,,,Earl Boykins,,,traveling,,,,,
+Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,2:36,WAS,foul,,,,,,,,Wesley Matthews,,Fabricio Oberto,,,,,,shooting,,
+Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,2:36,UTA,free throw,,,,,,,1,,2,Wesley Matthews,,,foul,made,,,,
+Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,2:36,UTA,free throw,,,,,,,2,,2,Wesley Matthews,,,foul,made,,,,
+Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,2:23,UTA,foul,,,,,,,,Alonzo Gee,,Carlos Boozer,,,,,,shooting,,
+Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Carlos Boozer,Deron Williams,Kyle Korver,Paul Millsap,Wesley Matthews,3,2:23,WAS,free throw,,,,,,,1,,2,Alonzo Gee,,,foul,made,,,,
+Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Mike Miller,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,2:23,UTA,sub,,,,Kyrylo Fesenko,,Carlos Boozer,,,,,,,,,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,2:23,WAS,sub,,,,Al Thornton,,Mike Miller,,,,,,,,,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,2:23,WAS,free throw,,,,,,,2,,2,Alonzo Gee,,,foul,missed,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,2:20,WAS,rebound,,,,,,,,,,Fabricio Oberto,,,,,,off,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,2:12,WAS,shot,,,,,,,,,,James Singleton,,,,missed,,jump,15,24
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,2:11,UTA,rebound,,,,,,,,,,Paul Millsap,,,,,,def,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:58,WAS,foul,,,,,,,,Paul Millsap,,Alonzo Gee,,,,,,shooting,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:58,UTA,free throw,,,,,,,1,,2,Paul Millsap,,,foul,missed,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:58,UTA,rebound,,,,,,,,,,,,,,,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:58,UTA,free throw,,,,,,,2,,2,Paul Millsap,,,foul,missed,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:57,WAS,rebound,,,,,,,,,,Fabricio Oberto,,,,,,def,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:37,WAS,shot,,,,,,,,,,Earl Boykins,,,,missed,,3pt,2,9
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:36,UTA,rebound,,,,,,,,,,Kyrylo Fesenko,,,,,,def,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:30,UTA,shot,,,,,,,,,,Deron Williams,2,,,made,,driving layup,25,6
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:16,UTA,foul,,,,,,,,Fabricio Oberto,,Kyrylo Fesenko,,,,,,shooting,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:16,WAS,free throw,,,,,,,1,,2,Fabricio Oberto,,,foul,made,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:16,WAS,free throw,,,,,,,2,,2,Fabricio Oberto,,,foul,made,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,1:09,UTA,shot,Deron Williams,,,,,,,,,Wesley Matthews,3,,,made,,3pt,48,10
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,0:53,WAS,shot,,,,,,,,,,Earl Boykins,,,,missed,,running jump,25,17
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,0:52,UTA,rebound,,,,,,,,,,Paul Millsap,,,,,,def,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,0:42,UTA,shot,,,,,,,,,,Deron Williams,,,,missed,,jump,18,24
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,0:41,WAS,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,0:30,UTA,foul,,,,,,,,Al Thornton,,Wesley Matthews,,,,,,shooting,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,0:30,WAS,free throw,,,,,,,1,,2,Al Thornton,,,foul,made,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,0:30,WAS,free throw,,,,,,,2,,2,Al Thornton,,,foul,made,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,0:09,UTA,shot,,,,,,,,,,Kyle Korver,,,,missed,,jump,4,9
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,0:07,WAS,rebound,,,,,,,,,,,,,,,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,0:07,UTA,foul,,,,,,,,James Singleton,,Paul Millsap,,,,,,loose ball,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Wesley Matthews,3,0:07,WAS,free throw,,,,,,,1,,2,James Singleton,,,foul,made,,,,
+Al Thornton,Alonzo Gee,Earl Boykins,Fabricio Oberto,James Singleton,Deron Williams,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Wesley Matthews,3,0:07,UTA,sub,,,,Mehmet Okur,,Paul Millsap,,,,,,,,,,,,
+Al Thornton,Alonzo Gee,Fabricio Oberto,James Singleton,Quinton Ross,Deron Williams,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Wesley Matthews,3,0:07,WAS,sub,,,,Quinton Ross,,Earl Boykins,,,,,,,,,,,,
+Al Thornton,Alonzo Gee,Fabricio Oberto,James Singleton,Quinton Ross,Deron Williams,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Wesley Matthews,3,0:07,WAS,free throw,,,,,,,2,,2,James Singleton,,,foul,made,,,,
+Al Thornton,Alonzo Gee,Fabricio Oberto,James Singleton,Quinton Ross,Deron Williams,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Wesley Matthews,3,0:01,UTA,shot,,,,,,,,,,Deron Williams,,,,missed,,layup,25,6
+Al Thornton,Alonzo Gee,Fabricio Oberto,James Singleton,Quinton Ross,Deron Williams,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Wesley Matthews,3,0:01,UTA,rebound,,,,,,,,,,Kyrylo Fesenko,,,,,,off,,
+Al Thornton,Alonzo Gee,Fabricio Oberto,James Singleton,Quinton Ross,Deron Williams,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Wesley Matthews,3,0:01,UTA,shot,,,,,,,,,,Kyrylo Fesenko,,,,missed,,tip,25,6
+Al Thornton,Alonzo Gee,Fabricio Oberto,James Singleton,Quinton Ross,Deron Williams,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Wesley Matthews,3,0:01,UTA,rebound,,,,,,,,,,,,,,,,,,
+Al Thornton,Alonzo Gee,Fabricio Oberto,James Singleton,Quinton Ross,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,Wesley Matthews,3,0:01,UTA,sub,,,,Sundiata Gaines,,Deron Williams,,,,,,,,,,,,
+Al Thornton,Alonzo Gee,Fabricio Oberto,James Singleton,Quinton Ross,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,Wesley Matthews,3,0:00,UTA,shot,,,,,,,,,,Kyle Korver,,,,missed,,jump,42,18
+Al Thornton,Alonzo Gee,Fabricio Oberto,James Singleton,Quinton Ross,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,Wesley Matthews,3,0:00,UTA,rebound,,,,,,,,,,,,,,,,,,
+Al Thornton,Alonzo Gee,Andray Blatche,JaVale McGee,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,11:52,UTA,turnover,,,,,,,,,,Sundiata Gaines,,,lost ball,,Shaun Livingston,,,
+Al Thornton,Alonzo Gee,Andray Blatche,JaVale McGee,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,11:36,WAS,turnover,,,,,,,,,,Andray Blatche,,,bad pass,,Sundiata Gaines,,,
+Al Thornton,Alonzo Gee,Andray Blatche,JaVale McGee,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,11:31,UTA,shot,Sundiata Gaines,,,,,,,,,Kyle Korver,2,,,made,,reverse layup,25,6
+Al Thornton,Alonzo Gee,Andray Blatche,JaVale McGee,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,11:04,WAS,turnover,,,,,,,,,,Al Thornton,,,step out of bounds turnover,,,,,
+Al Thornton,Alonzo Gee,Andray Blatche,JaVale McGee,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,10:49,UTA,shot,Sundiata Gaines,,,,,,,,,Kyrylo Fesenko,2,,,made,,dunk,25,6
+Al Thornton,Alonzo Gee,Andray Blatche,JaVale McGee,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,10:26,WAS,shot,Alonzo Gee,,,,,,,,,Shaun Livingston,2,,,made,,jump,45,4
+Al Thornton,Alonzo Gee,Andray Blatche,JaVale McGee,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,10:08,UTA,shot,Mehmet Okur,,,,,,,,,Kyle Korver,2,,,made,,jump,17,22
+Al Thornton,Alonzo Gee,Andray Blatche,JaVale McGee,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:50,UTA,foul,,,,,,,,JaVale McGee,,Kyrylo Fesenko,,,,,,shooting,,
+Al Thornton,Alonzo Gee,Andray Blatche,JaVale McGee,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:50,WAS,free throw,,,,,,,1,,2,JaVale McGee,,,foul,made,,,,
+Alonzo Gee,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:50,WAS,sub,,,,Mike Miller,,Al Thornton,,,,,,,,,,,,
+Alonzo Gee,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:50,WAS,free throw,,,,,,,2,,2,JaVale McGee,,,foul,missed,,,,
+Alonzo Gee,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:47,WAS,rebound,,,,,,,,,,Alonzo Gee,,,,,,off,,
+Alonzo Gee,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:47,WAS,shot,,,,,,,,,,Alonzo Gee,2,,,made,,tip,25,6
+Alonzo Gee,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:34,UTA,shot,Kyle Korver,,,,,,,,,Kyrylo Fesenko,2,,,made,,jump hook,25,11
+Alonzo Gee,Andray Blatche,JaVale McGee,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:21,WAS,turnover,,,,,,,,,,Alonzo Gee,,,poss lost ball turnover,,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:21,WAS,sub,,,,James Singleton,,JaVale McGee,,,,,,,,,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:07,UTA,shot,,,,,,,,,,Sundiata Gaines,,,,missed,,3pt,21,31
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:05,UTA,rebound,,,,,,,,,,Kyle Korver,,,,,,off,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:02,UTA,shot,,,James Singleton,,,,,,,Kyrylo Fesenko,,,,missed,,layup,25,6
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Sundiata Gaines,4,9:02,UTA,rebound,,,,,,,,,,,,,,,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,9:02,UTA,sub,,,,Paul Millsap,,Mehmet Okur,,,,,,,,,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,8:47,UTA,shot,,,,,,,,,,Kyrylo Fesenko,,,,missed,,jump,30,9
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,8:46,WAS,rebound,,,,,,,,,,Alonzo Gee,,,,,,def,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,8:40,WAS,shot,,,,,,,,,,Alonzo Gee,2,,,made,,driving layup,25,6
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,8:24,UTA,shot,,,,,,,,,,Kyle Korver,,,,missed,,jump,28,22
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,8:23,WAS,rebound,,,,,,,,,,Mike Miller,,,,,,def,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,8:10,WAS,shot,,,,,,,,,,Andray Blatche,2,,,made,,jump bank,32,8
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,7:54,UTA,shot,Kyle Korver,,,,,,,,,Sundiata Gaines,2,,,made,,layup,25,6
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,7:35,WAS,shot,,,,,,,,,,Mike Miller,,,,missed,,jump,9,5
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,7:33,UTA,rebound,,,,,,,,,,Kyle Korver,,,,,,def,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,7:31,UTA,turnover,,,,,,,,,,Kyle Korver,,,bad pass,,James Singleton,,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,7:23,WAS,shot,Mike Miller,,,,,,,,,Alonzo Gee,3,,,made,,3pt,47,19
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,7:04,UTA,shot,,,James Singleton,,,,,,,Paul Millsap,,,,missed,,layup,25,6
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,7:02,WAS,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,6:54,UTA,foul,,,,,,,,Andray Blatche,,Paul Millsap,,,,,,personal,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,6:54,WAS,timeout,,,,,,,,,,,,,,,,official,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,6:46,UTA,foul,,,,,,,,Alonzo Gee,,C.J. Miles,,,,,,shooting,,
+Alonzo Gee,Andray Blatche,James Singleton,Mike Miller,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,6:46,WAS,free throw,,,,,,,1,,2,Alonzo Gee,,,foul,made,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,6:46,WAS,sub,,,,Nick Young,,Mike Miller,,,,,,,,,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,6:46,WAS,free throw,,,,,,,2,,2,Alonzo Gee,,,foul,made,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,6:31,UTA,shot,Kyrylo Fesenko,,,,,,,,,Kyle Korver,2,,,made,,jump,20,24
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,6:13,WAS,shot,,,Kyrylo Fesenko,,,,,,,Andray Blatche,,,,missed,,layup,25,6
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,6:12,UTA,rebound,,,,,,,,,,Sundiata Gaines,,,,,,def,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,5:51,UTA,shot,,,,,,,,,,Sundiata Gaines,2,,,made,,jump,17,22
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,5:27,UTA,foul,,,,,,,,Andray Blatche,,Kyrylo Fesenko,,,,,,shooting,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Shaun Livingston,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,5:27,UTA,timeout,,,,,,,,,,,,,,,,regular,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,4,5:27,WAS,sub,,,,Randy Foye,,Shaun Livingston,,,,,,,,,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyle Korver,Kyrylo Fesenko,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,5:27,UTA,sub,,,,Wesley Matthews,,C.J. Miles,,,,,,,,,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,5:27,UTA,sub,,,,Othyus Jeffers,,Kyle Korver,,,,,,,,,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,5:27,WAS,free throw,,,,,,,1,,2,Andray Blatche,,,foul,made,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,5:27,WAS,free throw,,,,,,,2,,2,Andray Blatche,,,foul,missed,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,5:26,WAS,rebound,,,,,,,,,,James Singleton,,,,,,off,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,5:22,WAS,shot,Randy Foye,,,,,,,,,Andray Blatche,2,,,made,,slam dunk,25,6
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,5:05,UTA,turnover,,,,,,,,,,Kyrylo Fesenko,,,lost ball,,Andray Blatche,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:54,WAS,shot,Alonzo Gee,,,,,,,,,Andray Blatche,2,,,made,,jump,26,15
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:39,UTA,turnover,,,,,,,,,,Othyus Jeffers,,,bad pass,,Alonzo Gee,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:35,WAS,shot,,,,,,,,,,Alonzo Gee,,,,missed,,layup,25,6
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:33,UTA,rebound,,,,,,,,,,Paul Millsap,,,,,,def,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:25,UTA,shot,,,,,,,,,,Wesley Matthews,,,,missed,,3pt,2,9
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:23,WAS,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:07,UTA,foul,,,,,,,,Andray Blatche,,Kyrylo Fesenko,,,,,,shooting,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:07,WAS,free throw,,,,,,,1,,2,Andray Blatche,,,foul,missed,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:07,WAS,rebound,,,,,,,,,,,,,,,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:07,WAS,free throw,,,,,,,2,,2,Andray Blatche,,,foul,made,,,,
+Alonzo Gee,Andray Blatche,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:06,WAS,foul,,,,,,,,Sundiata Gaines,,Randy Foye,,,,,,personal,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,4:06,WAS,sub,,,,JaVale McGee,,Andray Blatche,,,,,,,,,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,3:53,UTA,shot,Wesley Matthews,,,,,,,,,Sundiata Gaines,2,,,made,,jump,8,3
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,3:29,WAS,shot,,,,,,,,,,Nick Young,2,,,made,,jump,29,20
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,3:14,UTA,shot,,,,,,,,,,Othyus Jeffers,,,,missed,,driving layup,25,6
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,3:13,WAS,rebound,,,,,,,,,,JaVale McGee,,,,,,def,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,3:09,WAS,turnover,,,,,,,,,,JaVale McGee,,,bad pass,,Wesley Matthews,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:52,UTA,shot,,,,,,,,,,Kyrylo Fesenko,,,,missed,,jump hook,25,13
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:51,WAS,rebound,,,,,,,,,,Alonzo Gee,,,,,,def,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:44,WAS,shot,Nick Young,,,,,,,,,Randy Foye,2,,,made,,jump,9,17
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:25,UTA,shot,,,,,,,,,,Paul Millsap,,,,missed,,jump,31,19
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:23,UTA,rebound,,,,,,,,,,Othyus Jeffers,,,,,,off,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:23,WAS,foul,,,,,,,,Othyus Jeffers,,James Singleton,,,,,,shooting,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:23,WAS,timeout,,,,,,,,,,,,,,,,regular,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:23,UTA,free throw,,,,,,,1,,2,Othyus Jeffers,,,foul,missed,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:23,UTA,rebound,,,,,,,,,,,,,,,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:23,UTA,free throw,,,,,,,2,,2,Othyus Jeffers,,,foul,missed,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:21,WAS,rebound,,,,,,,,,,JaVale McGee,,,,,,def,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:07,WAS,turnover,,,,,,,,,,Alonzo Gee,,,lost ball,,Othyus Jeffers,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,2:04,UTA,turnover,,,,,,,,,,Sundiata Gaines,,,palming turnover,,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,Kyrylo Fesenko,Othyus Jeffers,Paul Millsap,Sundiata Gaines,Wesley Matthews,4,1:53,UTA,foul,,,,,,,,Nick Young,,Paul Millsap,,,,,,shooting,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:53,UTA,sub,,,,C.J. Miles,,Paul Millsap,,,,,,,,,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:53,WAS,free throw,,,,,,,1,,2,Nick Young,,,foul,made,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:53,WAS,free throw,,,,,,,2,,2,Nick Young,,,foul,made,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:43,WAS,foul,,,,,,,,Wesley Matthews,,Nick Young,,,,,,personal,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:34,UTA,foul,,,,,,,,JaVale McGee,,Kyrylo Fesenko,,,,,,offensive,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:34,UTA,turnover,,,,,,,,,,Kyrylo Fesenko,,,foul,,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:34,WAS,timeout,,,,,,,,,,,,,,,,short,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:27,WAS,shot,,,,,,,,,,JaVale McGee,,,,missed,,alley oop layup,25,6
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:26,UTA,rebound,,,,,,,,,,Wesley Matthews,,,,,,def,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:15,WAS,foul,,,,,,,,C.J. Miles,,James Singleton,,,,,,shooting,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:15,UTA,free throw,,,,,,,1,,2,C.J. Miles,,,foul,missed,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:15,UTA,rebound,,,,,,,,,,,,,,,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,1:15,UTA,free throw,,,,,,,2,,2,C.J. Miles,,,foul,made,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:55,UTA,foul,,,,,,,,Randy Foye,,C.J. Miles,,,,,,shooting,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:55,WAS,free throw,,,,,,,1,,2,Randy Foye,,,foul,missed,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:55,WAS,rebound,,,,,,,,,,,,,,,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:55,WAS,free throw,,,,,,,2,,2,Randy Foye,,,foul,made,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:36,UTA,shot,,,,,,,,,,Sundiata Gaines,3,,,made,,3pt,19,30
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:27,WAS,shot,,,,,,,,,,JaVale McGee,2,,,made,,driving layup,25,6
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:10,UTA,shot,,,,,,,,,,C.J. Miles,,,,missed,,3pt,9,26
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:08,UTA,rebound,,,,,,,,,,Kyrylo Fesenko,,,,,,off,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:08,UTA,jump ball,,Nick Young,,,Kyrylo Fesenko,,,,,,,Othyus Jeffers,,,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:04,UTA,shot,,,JaVale McGee,,,,,,,Othyus Jeffers,,,,missed,,layup,25,6
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:04,UTA,rebound,,,,,,,,,,,,,,,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:03,WAS,foul,,,,,,,,Othyus Jeffers,,James Singleton,,,,,,shooting,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:03,UTA,free throw,,,,,,,1,,2,Othyus Jeffers,,,foul,made,,,,
+Alonzo Gee,JaVale McGee,James Singleton,Nick Young,Randy Foye,C.J. Miles,Kyrylo Fesenko,Othyus Jeffers,Sundiata Gaines,Wesley Matthews,4,0:03,UTA,free throw,,,,,,,2,,2,Othyus Jeffers,,,foul,made,,,,

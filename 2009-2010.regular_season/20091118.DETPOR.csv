@@ -1,0 +1,415 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,12:00,OFF,jump ball,,Ben Wallace,,,Greg Oden,,,,,,,Steve Blake,,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,11:50,POR,foul,,,,,,,,Jonas Jerebko,,Greg Oden,,,,,,offensive,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,11:50,POR,turnover,,,,,,,,,,Greg Oden,,,foul,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,11:30,DET,shot,,,Greg Oden,,,,,,,Ben Gordon,,,,missed,,driving layup,25,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,11:29,POR,rebound,,,,,,,,,,Brandon Roy,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,11:22,POR,shot,Andre Miller,,,,,,,,,Steve Blake,2,,,made,,jump,8,8
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,11:00,DET,shot,Ben Gordon,,,,,,,,,Charlie Villanueva,2,,,made,,jump,8,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,10:48,POR,shot,Andre Miller,,,,,,,,,LaMarcus Aldridge,2,,,made,,alley oop dunk,25,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,10:30,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,driving reverse layup,25,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,10:29,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,10:08,POR,shot,Brandon Roy,,,,,,,,,Andre Miller,2,,,made,,jump,9,14
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,9:52,DET,foul,,,,,,,,Steve Blake,,Charlie Villanueva,,,,,,offensive,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,9:52,DET,turnover,,,,,,,,,,Charlie Villanueva,,,foul,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,9:30,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,jump,39,8
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,9:29,DET,rebound,,,,,,,,,,Jonas Jerebko,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,9:17,DET,shot,Ben Gordon,,,,,,,,,Charlie Villanueva,3,,,made,,3pt,30,30
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,9:10,DET,foul,,,,,,,,Greg Oden,,Ben Wallace,,,,,,personal,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,8:58,POR,shot,,,,,,,,,,Greg Oden,,,,missed,,turnaround hook,19,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,8:58,POR,rebound,,,,,,,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,8:58,DET,foul,,,,,,,,LaMarcus Aldridge,,Charlie Villanueva,,,,,,personal,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,8:58,DET,sub,,,,Jason Maxiell,,Charlie Villanueva,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,8:45,POR,shot,,,,,,,,,,Greg Oden,,,,missed,,driving hook,31,7
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,8:44,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,8:32,DET,shot,,,,,,,,,,Rodney Stuckey,2,,,made,,pullup jump,29,26
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,8:14,DET,foul,,,,,,,,Andre Miller,,Rodney Stuckey,,,,,,personal,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,8:04,POR,shot,Andre Miller,,,,,,,,,Greg Oden,2,,,made,,turnaround hook,17,8
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,7:48,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,pullup jump,27,21
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,7:47,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,7:43,POR,shot,Andre Miller,,,,,,,,,LaMarcus Aldridge,2,,,made,,dunk,25,6
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,7:14,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,3pt,48,6
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,7:14,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,6:59,DET,foul,,,,,,,,LaMarcus Aldridge,,Jason Maxiell,,,,,,shooting,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,6:59,POR,free throw,,,,,,,1,,2,LaMarcus Aldridge,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,6:59,POR,free throw,,,,,,,2,,2,LaMarcus Aldridge,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,6:35,DET,shot,,,,,,,,,,Ben Wallace,,,,missed,,jump,19,8
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,6:34,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,6:16,POR,shot,Andre Miller,,,,,,,,,Steve Blake,3,,,made,,3pt,48,7
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,5:56,DET,shot,,,,,,,,,,Ben Gordon,2,,,made,,pullup jump,15,22
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,5:41,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,step back jump,37,6
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,5:40,POR,rebound,,,,,,,,,,Greg Oden,,,,,,off,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,5:40,POR,shot,,,,,,,,,,Greg Oden,,,,missed,,tip,25,6
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,5:33,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,5:26,DET,shot,,,,,,,,,,Jonas Jerebko,,,,missed,,jump,24,12
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,5:25,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,5:18,POR,shot,Steve Blake,,,,,,,,,Andre Miller,2,,,made,,jump,13,7
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,4:59,DET,shot,Ben Wallace,,,,,,,,,Ben Gordon,3,,,made,,3pt,8,23
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,1,4:51,POR,timeout,,,,,,,,,,,,,,,,regular,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,1,4:51,POR,sub,,,,Joel Przybilla,,Greg Oden,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,4:51,POR,sub,,,,Rudy Fernandez,,Andre Miller,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,4:43,POR,shot,,,Ben Wallace,,,,,,,Brandon Roy,,,,missed,,driving finger roll layup,25,6
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,4:42,DET,rebound,,,,,,,,,,Ben Gordon,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,4:38,DET,shot,Ben Gordon,,,,,,,,,Rodney Stuckey,2,,,made,,dunk,25,6
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,4:19,POR,turnover,,,,,,,,,,LaMarcus Aldridge,,,out of bounds lost ball turnover,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,3:54,DET,shot,,,,,,,,,,Ben Gordon,,,,missed,,jump,25,29
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,3:54,DET,rebound,,,,,,,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,3:54,DET,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,3:34,POR,shot,Brandon Roy,,,,,,,,,LaMarcus Aldridge,2,,,made,,pullup jump,17,24
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,3:11,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,running jump,21,8
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,3:09,POR,rebound,,,,,,,,,,Steve Blake,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,2:49,POR,shot,,,,,,,,,,Steve Blake,,,,missed,,3pt,46,18
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,2:47,DET,rebound,,,,,,,,,,Ben Gordon,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,2:42,DET,shot,,,,,,,,,,Jason Maxiell,,,,missed,,alley oop layup,25,6
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,2:41,POR,rebound,,,,,,,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,2:41,DET,foul,,,,,,,,Joel Przybilla,,Jason Maxiell,,,,,,loose ball,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,1,2:41,DET,timeout,,,,,,,,,,,,,,,,regular,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,2:41,POR,sub,,,,Martell Webster,,Brandon Roy,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,2:41,POR,free throw,,,,,,,1,,2,Joel Przybilla,,,foul,missed,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,2:41,POR,rebound,,,,,,,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,2:41,POR,free throw,,,,,,,2,,2,Joel Przybilla,,,foul,missed,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,2:40,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,2:30,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,driving layup,25,6
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,2:26,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,2:05,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,jump,41,17
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,2:04,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,2:01,DET,foul,,,,,,,,LaMarcus Aldridge,,Jonas Jerebko,,,,,,offensive,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,2:01,DET,turnover,,,,,,,,,,Jonas Jerebko,,,foul,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,1:45,POR,shot,,,,,,,,,,LaMarcus Aldridge,2,,,made,,running hook,29,9
+Ben Gordon,Ben Wallace,Jason Maxiell,Jonas Jerebko,Rodney Stuckey,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,1:20,POR,foul,,,,,,,,Jonas Jerebko,,Martell Webster,,,,,,shooting,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,1:20,DET,sub,,,,Will Bynum,,Jason Maxiell,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,1:20,DET,free throw,,,,,,,1,,2,Jonas Jerebko,,,foul,missed,,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,1:20,DET,rebound,,,,,,,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,1:20,DET,free throw,,,,,,,2,,2,Jonas Jerebko,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,1:03,POR,shot,,,,,,,,,,Rudy Fernandez,,,,missed,,3pt,24,30
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,1:02,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,def,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,0:43,DET,shot,,,,,,,,,,Rodney Stuckey,2,,,made,,driving layup,25,6
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,0:32,POR,shot,,,,,,,,,,Steve Blake,,,,missed,,jump,42,7
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,0:31,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,def,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,0:09,DET,turnover,,,,,,,,,,Will Bynum,,,bad pass,,Martell Webster,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,0:03,POR,shot,,,,,,,,,,Martell Webster,,,,missed,,3pt,46,18
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,0:01,DET,rebound,,,,,,,,,,Jonas Jerebko,,,,,,def,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,0:00,DET,shot,,,,,,,,,,Jonas Jerebko,,,,missed,,3pt,17,76
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,Steve Blake,1,0:00,DET,rebound,,,,,,,,,,,,,,,,,,
+Austin Daye,Jonas Jerebko,Kwame Brown,Rodney Stuckey,Will Bynum,Andre Miller,Joel Przybilla,Juwan Howard,Martell Webster,Rudy Fernandez,2,11:45,DET,turnover,,,,,,,,,,Will Bynum,,,bad pass,,,,,
+Austin Daye,Jonas Jerebko,Kwame Brown,Rodney Stuckey,Will Bynum,Andre Miller,Joel Przybilla,Juwan Howard,Martell Webster,Rudy Fernandez,2,11:31,POR,shot,Rudy Fernandez,,,,,,,,,Joel Przybilla,2,,,made,,layup,25,6
+Austin Daye,Jonas Jerebko,Kwame Brown,Rodney Stuckey,Will Bynum,Andre Miller,Joel Przybilla,Juwan Howard,Martell Webster,Rudy Fernandez,2,11:09,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,jump,23,29
+Austin Daye,Jonas Jerebko,Kwame Brown,Rodney Stuckey,Will Bynum,Andre Miller,Joel Przybilla,Juwan Howard,Martell Webster,Rudy Fernandez,2,11:08,POR,rebound,,,,,,,,,,Joel Przybilla,,,,,,def,,
+Austin Daye,Jonas Jerebko,Kwame Brown,Rodney Stuckey,Will Bynum,Andre Miller,Joel Przybilla,Juwan Howard,Martell Webster,Rudy Fernandez,2,10:46,POR,shot,Andre Miller,,,,,,,,,Joel Przybilla,2,,,made,,layup,25,6
+Austin Daye,Jonas Jerebko,Kwame Brown,Rodney Stuckey,Will Bynum,Andre Miller,Joel Przybilla,Juwan Howard,Martell Webster,Rudy Fernandez,2,10:29,POR,foul,,,,,,,,Austin Daye,,Martell Webster,,,,,,personal,,
+Austin Daye,Jonas Jerebko,Kwame Brown,Rodney Stuckey,Will Bynum,Andre Miller,Joel Przybilla,Juwan Howard,Martell Webster,Rudy Fernandez,2,10:17,POR,foul,,,,,,,,Jonas Jerebko,,Martell Webster,,,,,,personal,,
+Austin Daye,Jonas Jerebko,Kwame Brown,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,10:17,POR,sub,,,,Brandon Roy,,Martell Webster,,,,,,,,,,,,
+Austin Daye,Jonas Jerebko,Kwame Brown,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,10:15,DET,foul,,,,,,,,Rudy Fernandez,,Rodney Stuckey,,,,,,offensive,,
+Austin Daye,Jonas Jerebko,Kwame Brown,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,10:15,DET,turnover,,,,,,,,,,Rodney Stuckey,,,foul,,,,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,10:15,DET,sub,,,,Ben Gordon,,Rodney Stuckey,,,,,,,,,,,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,10:00,POR,turnover,,,,,,,,,,Juwan Howard,,,traveling,,,,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,9:42,DET,shot,Ben Gordon,,,,,,,,,Will Bynum,2,,,made,,jump,6,7
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,9:28,POR,turnover,,,,,,,,,,Rudy Fernandez,,,bad pass,,,,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,9:11,POR,foul,,,,,,,,Kwame Brown,,Joel Przybilla,,,,,,personal,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,9:02,DET,shot,,,,,,,,,,Will Bynum,2,,,made,,pullup jump,8,17
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,8:49,POR,shot,Andre Miller,,,,,,,,,Rudy Fernandez,2,,,made,,jump,13,22
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,8:30,DET,shot,Will Bynum,,,,,,,,,Ben Gordon,2,,,made,,jump,39,24
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,8:16,POR,shot,Joel Przybilla,,,,,,,,,Brandon Roy,2,,,made,,layup,25,6
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,8:02,DET,shot,,,,,,,,,,Will Bynum,2,,,made,,running jump,25,11
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,7:49,POR,shot,Andre Miller,,,,,,,,,Rudy Fernandez,2,,,made,,jump,15,22
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,Juwan Howard,Rudy Fernandez,2,7:32,DET,timeout,,,,,,,,,,,,,,,,regular,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,2,7:32,POR,sub,,,,Greg Oden,,Joel Przybilla,,,,,,,,,,,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,2,7:24,DET,shot,,,,,,,,,,Jonas Jerebko,,,,missed,,reverse layup,25,6
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,2,7:22,POR,rebound,,,,,,,,,,Juwan Howard,,,,,,def,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,2,7:08,POR,shot,Rudy Fernandez,,,,,,,,,Brandon Roy,2,,,made,,layup,25,6
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,2,6:49,DET,shot,,,,,,,,,,Will Bynum,,,,missed,,jump,38,18
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,2,6:46,DET,rebound,,,,,,,,,,Austin Daye,,,,,,off,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,2,6:43,DET,shot,,,,,,,,,,Austin Daye,2,,,made,,jump,25,21
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,2,6:28,POR,shot,,,,,,,,,,Greg Oden,2,,,made,,hook,15,7
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,2,6:00,DET,shot,,,,,,,,,,Ben Gordon,2,,,made,,running bank,18,8
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,2,5:50,DET,foul,,,,,,,,Rudy Fernandez,,Ben Gordon,,,,,,personal,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,2,5:50,POR,timeout,,,,,,,,,,,,,,,,official,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,2,5:50,POR,sub,,,,LaMarcus Aldridge,,Juwan Howard,,,,,,,,,,,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,2,5:34,POR,shot,,,,,,,,,,Brandon Roy,3,,,made,,3pt,47,8
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,2,5:19,DET,shot,,,,,,,,,,Ben Gordon,,,,missed,,jump,9,16
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,2,5:19,POR,rebound,,,,,,,,,,Andre Miller,,,,,,def,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,2,5:14,POR,turnover,,,,,,,,,,Andre Miller,,,out of bounds lost ball turnover,,,,,
+Austin Daye,Ben Gordon,Jonas Jerebko,Kwame Brown,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,2,4:56,POR,foul,,,,,,,,Jonas Jerebko,,LaMarcus Aldridge,,,,,,shooting,,
+Austin Daye,Ben Gordon,Charlie Villanueva,Jonas Jerebko,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,2,4:56,DET,sub,,,,Charlie Villanueva,,Kwame Brown,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Will Bynum,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,2,4:56,DET,sub,,,,Ben Wallace,,Austin Daye,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,4:56,POR,sub,,,,Steve Blake,,Andre Miller,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,4:56,DET,free throw,,,,,,,1,,2,Jonas Jerebko,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,4:56,DET,free throw,,,,,,,2,,2,Jonas Jerebko,,,foul,missed,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,4:54,DET,rebound,,,,,,,,,,Jonas Jerebko,,,,,,off,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,4:35,DET,shot,Will Bynum,,,,,,,,,Jonas Jerebko,2,,,made,,layup,25,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,4:19,POR,turnover,,,,,,,,,,Steve Blake,,,lost ball,,Jonas Jerebko,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,4:18,DET,turnover,,,,,,,,,,Jonas Jerebko,,,kicked ball violation,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,4:18,DET,sub,,,,Rodney Stuckey,,Jonas Jerebko,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,4:02,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,jump bank,16,9
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,4:01,DET,rebound,,,,,,,,,,Will Bynum,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,3:53,DET,turnover,,,,,,,,,,Will Bynum,,,bad pass,,Rudy Fernandez,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,3:35,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,jump,14,26
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,3:35,DET,rebound,,,,,,,,,,Rodney Stuckey,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,3:27,DET,shot,,,,,,,,,,Charlie Villanueva,,,,missed,,3pt,7,24
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,3:25,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,off,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,3:21,DET,shot,Ben Wallace,,,,,,,,,Charlie Villanueva,2,,,made,,driving layup,25,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,3:05,POR,shot,,,,,,,,,,Rudy Fernandez,,,,missed,,jump,46,7
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,3:05,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,off,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,3:05,DET,foul,,,,,,,,LaMarcus Aldridge,,Charlie Villanueva,,,,,,personal,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,3:05,DET,sub,,,,Jason Maxiell,,Charlie Villanueva,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,2:59,POR,shot,LaMarcus Aldridge,,,,,,,,,Brandon Roy,2,,,made,,jump,24,27
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,2:34,POR,foul,,,,,,,,Ben Gordon,,Greg Oden,,,,,,shooting,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,2:34,POR,timeout,,,,,,,,,,,,,,,,regular,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,2:34,POR,sub,,,,Joel Przybilla,,Greg Oden,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,2:34,DET,free throw,,,,,,,1,,2,Ben Gordon,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,2:34,DET,free throw,,,,,,,2,,2,Ben Gordon,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,2:17,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,jump,25,27
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,2:16,DET,rebound,,,,,,,,,,Ben Gordon,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,2:02,DET,shot,,,,,,,,,,Jason Maxiell,,,,missed,,jump,9,15
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,2:00,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,1:54,DET,foul,,,,,,,,Steve Blake,,Will Bynum,,,,,,shooting,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,1:54,POR,free throw,,,,,,,1,,2,Steve Blake,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,1:54,DET,sub,,,,Jonas Jerebko,,Jason Maxiell,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,1:54,POR,free throw,,,,,,,2,,2,Steve Blake,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,1:33,DET,shot,,,,,,,,,,Will Bynum,2,,,made,,jump,15,21
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,1:17,POR,shot,,,,,,,,,,LaMarcus Aldridge,2,,,made,,turnaround hook,16,7
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,1:07,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,running jump,20,13
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,1:07,POR,rebound,,,,,,,,,,Joel Przybilla,,,,,,def,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:52,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,hook,17,8
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:51,POR,rebound,,,,,,,,,,Brandon Roy,,,,,,off,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:51,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,tip,25,6
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:49,POR,rebound,,,,,,,,,,Rudy Fernandez,,,,,,off,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:45,DET,foul,,,,,,,,Brandon Roy,,Jonas Jerebko,,,,,,shooting,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:45,POR,free throw,,,,,,,1,,2,Brandon Roy,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:45,POR,free throw,,,,,,,2,,2,Brandon Roy,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:30,DET,turnover,,,,,,,,,,Jonas Jerebko,,,bad pass,,Rudy Fernandez,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:26,POR,shot,,,,,,,,,,Rudy Fernandez,2,,,made,,driving reverse layup,25,6
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:18,DET,timeout,,,,,,,,,,,,,,,,short,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:04,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,jump,15,15
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:03,DET,rebound,,,,,,,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:01,DET,shot,,,,,,,,,,Ben Gordon,,,,missed,,3pt,47,6
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:00,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,off,,
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:00,DET,shot,,,,,,,,,,Ben Wallace,,,,missed,,jump,25,21
+Ben Gordon,Ben Wallace,Jonas Jerebko,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,2,0:00,DET,rebound,,,,,,,,,,Jonas Jerebko,,,,,,off,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,11:42,POR,foul,,,,,,,,Ben Gordon,,Steve Blake,,,,,,personal,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,11:31,DET,shot,,,,,,,,,,Charlie Villanueva,,,,missed,,jump,41,16
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,11:30,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,11:17,POR,turnover,,,,,,,,,,Brandon Roy,,,bad pass,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,10:57,DET,shot,,,Greg Oden,,,,,,,Jonas Jerebko,,,,missed,,driving layup,25,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,10:57,DET,rebound,,,,,,,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,10:52,DET,shot,,,,,,,,,,Ben Gordon,,,,missed,,jump,16,23
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,10:51,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,10:47,POR,shot,Andre Miller,,,,,,,,,LaMarcus Aldridge,2,,,made,,layup,25,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,10:47,DET,foul,,,,,,,,LaMarcus Aldridge,,Jonas Jerebko,,,,,,shooting,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,10:47,POR,free throw,,,,,,,1,,1,LaMarcus Aldridge,,,foul,missed,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,10:44,DET,rebound,,,,,,,,,,Charlie Villanueva,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,10:25,DET,shot,,,,,,,,,,Rodney Stuckey,2,,,made,,pullup jump,16,23
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,10:05,POR,turnover,,,,,,,,,,Brandon Roy,,,traveling,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,9:40,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,3pt,18,29
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,9:39,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,9:16,POR,shot,,,,,,,,,,Andre Miller,,,,missed,,jump,36,25
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,9:14,DET,rebound,,,,,,,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,9:14,POR,foul,,,,,,,,Charlie Villanueva,,Greg Oden,,,,,,loose ball,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,9:01,DET,shot,,,Greg Oden,,,,,,,Ben Gordon,,,,missed,,layup,25,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,8:59,POR,rebound,,,,,,,,,,Brandon Roy,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,8:59,DET,foul,,,,,,,,Brandon Roy,,Ben Gordon,,,,,,personal,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,8:39,POR,shot,,,,,,,,,,Andre Miller,,,,missed,,jump,42,8
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,8:37,DET,rebound,,,,,,,,,,Rodney Stuckey,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,8:33,DET,shot,Rodney Stuckey,,,,,,,,,Charlie Villanueva,2,,,made,,layup,25,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,8:06,POR,shot,,,,,,,,,,Greg Oden,,,,missed,,jump hook,25,15
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,8:05,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,8:00,POR,foul,,,,,,,,Rodney Stuckey,,Greg Oden,,,,,,shooting,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,3,8:00,DET,free throw,,,,,,,1,,2,Rodney Stuckey,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,8:00,POR,sub,,,,Joel Przybilla,,Greg Oden,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,8:00,DET,free throw,,,,,,,2,,2,Rodney Stuckey,,,foul,made,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,7:43,POR,shot,Brandon Roy,,,,,,,,,Joel Przybilla,2,,,made,,layup,25,6
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,7:22,DET,shot,,,,,,,,,,Charlie Villanueva,2,,,made,,jump,17,7
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,7:04,POR,shot,,,Rodney Stuckey,,,,,,,Andre Miller,,,,missed,,jump,40,17
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,7:04,DET,rebound,,,,,,,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,6:58,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,jump,19,9
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,6:56,POR,rebound,,,,,,,,,,Joel Przybilla,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,6:53,POR,foul,,,,,,,,Charlie Villanueva,,Andre Miller,,,,,,offensive,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,6:53,POR,turnover,,,,,,,,,,Andre Miller,,,foul,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,6:35,DET,shot,,,,,,,,,,Charlie Villanueva,,,,missed,,jump,40,7
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,6:35,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,6:25,POR,shot,,,,,,,,,,Brandon Roy,2,,,made,,pullup jump,23,26
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,6:00,DET,shot,,,,,,,,,,Charlie Villanueva,,,,missed,,turnaround hook,18,8
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,5:59,POR,rebound,,,,,,,,,,Joel Przybilla,,,,,,def,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,5:52,POR,shot,Andre Miller,,,,,,,,,Brandon Roy,3,,,made,,3pt,3,16
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,5:28,DET,foul,,,,,,,,Joel Przybilla,,Jonas Jerebko,,,,,,offensive,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,5:28,DET,turnover,,,,,,,,,,Jonas Jerebko,,,foul,,,,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,5:28,POR,timeout,,,,,,,,,,,,,,,,regular,,
+Ben Gordon,Ben Wallace,Charlie Villanueva,Jason Maxiell,Rodney Stuckey,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,5:28,DET,sub,,,,Jason Maxiell,,Jonas Jerebko,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,5:28,DET,sub,,,,Will Bynum,,Charlie Villanueva,,,,,,,,,,,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,5:11,POR,shot,Steve Blake,,,,,,,,,LaMarcus Aldridge,2,,,made,,jump,42,11
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,4:41,DET,shot,,,,,,,,,,Will Bynum,,,,missed,,jump,45,5
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,4:40,DET,rebound,,,,,,,,,,Rodney Stuckey,,,,,,off,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,4:36,DET,shot,,,,,,,,,,Will Bynum,,,,missed,,3pt,47,5
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,4:35,POR,rebound,,,,,,,,,,Joel Przybilla,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,4:17,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,turnaround jump,15,9
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,4:16,POR,rebound,,,,,,,,,,Andre Miller,,,,,,off,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,4:16,POR,shot,,,,,,,,,,Andre Miller,2,,,made,,tip,25,6
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,3:44,DET,shot,,,,,,,,,,Jason Maxiell,,,,missed,,jump,23,26
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,3:42,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,3:25,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,3pt,27,31
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,3:24,DET,rebound,,,,,,,,,,Jason Maxiell,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,3:12,DET,shot,,,,,,,,,,Ben Gordon,,,,missed,,jump,8,8
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,3:12,POR,rebound,,,,,,,,,,Andre Miller,,,,,,def,,
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,3:07,POR,shot,Andre Miller,,,,,,,,,Brandon Roy,2,,,made,,driving dunk,25,6
+Ben Gordon,Ben Wallace,Jason Maxiell,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,3:05,DET,timeout,,,,,,,,,,,,,,,,regular,,
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,3,3:05,DET,sub,,,,Kwame Brown,,Ben Wallace,,,,,,,,,,,,
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,3:05,POR,sub,,,,Rudy Fernandez,,Andre Miller,,,,,,,,,,,,
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,2:52,DET,turnover,,,,,,,,,,Will Bynum,,,out of bounds lost ball turnover,,,,,
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,2:42,POR,shot,Brandon Roy,,,,,,,,,Steve Blake,2,,,made,,layup,25,6
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,2:10,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,3pt,49,9
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,2:09,POR,rebound,,,,,,,,,,Brandon Roy,,,,,,def,,
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,2:09,POR,turnover,,,,,,,,,,Rudy Fernandez,,,bad pass,,Ben Gordon,,,
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,2:06,DET,shot,,,LaMarcus Aldridge,,,,,,,Jason Maxiell,,,,missed,,layup,25,6
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,2:04,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,1:58,POR,shot,,,,,,,,,,Steve Blake,,,,missed,,3pt,3,17
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,1:58,DET,rebound,,,,,,,,,,Kwame Brown,,,,,,def,,
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,1:38,DET,shot,,,,,,,,,,Ben Gordon,,,,missed,,jump,45,7
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,1:38,POR,rebound,,,,,,,,,,Steve Blake,,,,,,def,,
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,1:28,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,jump,39,20
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,1:27,DET,rebound,,,,,,,,,,Rodney Stuckey,,,,,,def,,
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,1:02,DET,shot,,,,,,,,,,Kwame Brown,2,,,made,,jump,43,7
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,0:43,POR,shot,Brandon Roy,,,,,,,,,Steve Blake,3,,,made,,3pt,2,5
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,0:25,DET,shot,,,,,,,,,,Kwame Brown,,,,missed,,driving layup,25,6
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,0:24,DET,rebound,,,,,,,,,,Kwame Brown,,,,,,off,,
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,0:23,DET,shot,,,,,,,,,,Kwame Brown,2,,,made,,layup,25,6
+Ben Gordon,Jason Maxiell,Kwame Brown,Rodney Stuckey,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,0:05,DET,foul,,,,,,,,Brandon Roy,,Ben Gordon,,,,,,shooting,,
+Austin Daye,Ben Gordon,Jason Maxiell,Kwame Brown,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,0:05,DET,sub,,,,Austin Daye,,Rodney Stuckey,,,,,,,,,,,,
+Austin Daye,Ben Gordon,Jason Maxiell,Kwame Brown,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,0:05,POR,free throw,,,,,,,1,,2,Brandon Roy,,,foul,made,,,,
+Austin Daye,Ben Gordon,Jason Maxiell,Kwame Brown,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,0:05,POR,free throw,,,,,,,2,,2,Brandon Roy,,,foul,made,,,,
+Austin Daye,Ben Gordon,Jason Maxiell,Kwame Brown,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,0:02,POR,foul,,,,,,,,Will Bynum,,Brandon Roy,,,,,,personal,,
+Austin Daye,Ben Gordon,Jason Maxiell,Kwame Brown,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,0:00,DET,shot,,,,,,,,,,Will Bynum,,,,missed,,jump,39,23
+Austin Daye,Ben Gordon,Jason Maxiell,Kwame Brown,Will Bynum,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,0:00,DET,rebound,,,,,,,,,,,,,,,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,11:35,POR,shot,,,,,,,,,,Rudy Fernandez,,,,missed,,3pt,25,32
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,11:35,POR,rebound,,,,,,,,,,,,,,,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,11:35,DET,foul,,,,,,,,Joel Przybilla,,Austin Daye,,,,,,loose ball,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,11:23,POR,shot,,,,,,,,,,Martell Webster,,,,missed,,3pt,4,19
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,11:23,DET,rebound,,,,,,,,,,Kwame Brown,,,,,,def,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,11:03,DET,shot,,,,,,,,,,Kwame Brown,,,,missed,,jump bank,33,15
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,11:02,POR,rebound,,,,,,,,,,Martell Webster,,,,,,def,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,10:51,POR,shot,,,,,,,,,,Rudy Fernandez,,,,missed,,3pt,8,25
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,10:51,DET,rebound,,,,,,,,,,,,,,,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,10:37,POR,foul,,,,,,,,Kwame Brown,,Joel Przybilla,,,,,,personal,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,10:30,DET,shot,,,,,,,,,,Kwame Brown,2,,,made,,driving layup,25,6
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,10:05,POR,shot,,,,,,,,,,Martell Webster,,,,missed,,3pt,6,22
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,10:04,POR,jump ball,,Kwame Brown,,,Joel Przybilla,,,,,,,Andre Miller,,,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,10:04,POR,rebound,,,,,,,,,,,,,,,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,9:47,POR,shot,,,,,,,,,,LaMarcus Aldridge,2,,,made,,turnaround hook,31,11
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,9:29,DET,turnover,,,,,,,,,,Austin Daye,,,bad pass,,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Will Bynum,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,9:11,POR,shot,,,Jason Maxiell,,,,,,,Joel Przybilla,,,,missed,,layup,25,6
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,9:11,DET,sub,,,,Rodney Stuckey,,Will Bynum,,,,,,,,,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,9:11,POR,jump ball,,Jason Maxiell,,,Joel Przybilla,,,,,,,Rodney Stuckey,,,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,9:11,DET,rebound,,,,,,,,,,,,,,,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:54,DET,shot,,,Joel Przybilla,,,,,,,DaJuan Summers,,,,missed,,driving layup,25,6
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:53,DET,rebound,,,,,,,,,,DaJuan Summers,,,,,,off,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:53,POR,foul,,,,,,,,DaJuan Summers,,Joel Przybilla,,,,,,shooting,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:53,DET,timeout,,,,,,,,,,,,,,,,official,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:53,DET,free throw,,,,,,,1,,2,DaJuan Summers,,,foul,made,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:53,DET,free throw,,,,,,,2,,2,DaJuan Summers,,,foul,made,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:31,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,jump,41,15
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:30,DET,rebound,,,,,,,,,,DaJuan Summers,,,,,,def,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:22,POR,sub,,,,Greg Oden,,Joel Przybilla,,,,,,,,,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:17,DET,turnover,,,,,,,,,,Kwame Brown,,,traveling,,,,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:01,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,alley oop layup,25,6
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,8:00,DET,rebound,,,,,,,,,,Jason Maxiell,,,,,,def,,
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,7:52,DET,shot,Rodney Stuckey,,,,,,,,,Kwame Brown,2,,,made,,layup,25,6
+Austin Daye,DaJuan Summers,Jason Maxiell,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,7:26,DET,foul,,,,,,,,Andre Miller,,Rodney Stuckey,,,,,,shooting,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,4,7:26,DET,sub,,,,Ben Wallace,,Jason Maxiell,,,,,,,,,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,4,7:26,POR,sub,,,,Juwan Howard,,LaMarcus Aldridge,,,,,,,,,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,4,7:26,POR,free throw,,,,,,,1,,2,Andre Miller,,,foul,missed,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,4,7:26,POR,rebound,,,,,,,,,,,,,,,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,4,7:26,POR,free throw,,,,,,,2,,2,Andre Miller,,,foul,missed,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,4,7:26,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,def,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,4,6:59,DET,shot,,,,,,,,,,Rodney Stuckey,2,,,made,,pullup jump,8,8
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,4,6:37,POR,shot,Rudy Fernandez,,,,,,,,,Greg Oden,2,,,made,,dunk,25,6
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Andre Miller,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,4,6:22,POR,foul,,,,,,,,Rodney Stuckey,,Andre Miller,,,,,,shooting,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,6:22,POR,sub,,,,Steve Blake,,Andre Miller,,,,,,,,,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,6:22,DET,free throw,,,,,,,1,,2,Rodney Stuckey,,,foul,made,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,6:22,DET,free throw,,,,,,,2,,2,Rodney Stuckey,,,foul,made,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,5:59,POR,shot,Rudy Fernandez,,,,,,,,,Juwan Howard,2,,,made,,jump,24,24
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,5:40,DET,shot,,,,,,,,,,DaJuan Summers,,,,missed,,layup,25,6
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,5:39,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,5:31,POR,turnover,,,,,,,,,,Rudy Fernandez,,,traveling,,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Kwame Brown,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,5:31,POR,timeout,,,,,,,,,,,,,,,,regular,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jonas Jerebko,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,5:31,DET,sub,,,,Jonas Jerebko,,Kwame Brown,,,,,,,,,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jonas Jerebko,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,5:16,DET,shot,,,,,,,,,,Austin Daye,2,,,made,,pullup jump,20,23
+Austin Daye,Ben Wallace,DaJuan Summers,Jonas Jerebko,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,4:51,POR,shot,,,,,,,,,,Steve Blake,,,,missed,,driving reverse layup,25,6
+Austin Daye,Ben Wallace,DaJuan Summers,Jonas Jerebko,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,4:50,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,def,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jonas Jerebko,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,4:47,POR,foul,,,,,,,,Rodney Stuckey,,Juwan Howard,,,,,,shooting,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jonas Jerebko,Rodney Stuckey,Greg Oden,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,4:47,DET,free throw,,,,,,,1,,2,Rodney Stuckey,,,foul,made,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,Steve Blake,4,4:47,POR,sub,,,,Brandon Roy,,Martell Webster,,,,,,,,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,Steve Blake,4,4:47,DET,sub,,,,Charlie Villanueva,,DaJuan Summers,,,,,,,,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,Steve Blake,4,4:47,DET,free throw,,,,,,,2,,2,Rodney Stuckey,,,foul,made,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,Steve Blake,4,4:40,POR,turnover,,,,,,,,,,Steve Blake,,,lost ball,,Rodney Stuckey,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,Steve Blake,4,4:27,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,driving layup,25,6
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,Steve Blake,4,4:25,DET,rebound,,,,,,,,,,Rodney Stuckey,,,,,,off,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,Steve Blake,4,4:23,DET,shot,Rodney Stuckey,,,,,,,,,Austin Daye,3,,,made,,3pt,48,5
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,Steve Blake,4,4:04,POR,shot,,,,,,,,,,Rudy Fernandez,,,,missed,,3pt,3,12
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,Steve Blake,4,4:03,DET,rebound,,,,,,,,,,Rodney Stuckey,,,,,,def,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Greg Oden,Juwan Howard,Rudy Fernandez,Steve Blake,4,3:58,POR,foul,,,,,,,,Rodney Stuckey,,Steve Blake,,,,,,personal,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Brandon Roy,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,3:58,POR,sub,,,,LaMarcus Aldridge,,Juwan Howard,,,,,,,,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:58,POR,sub,,,,Andre Miller,,Rudy Fernandez,,,,,,,,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:58,DET,free throw,,,,,,,1,,2,Rodney Stuckey,,,foul,missed,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:58,DET,rebound,,,,,,,,,,,,,,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:58,DET,free throw,,,,,,,2,,2,Rodney Stuckey,,,foul,made,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:48,POR,turnover,,,,,,,,,,Greg Oden,,,lost ball,,Ben Wallace,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:34,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,3pt,21,30
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:33,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:13,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,jump,12,6
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:12,DET,rebound,,,,,,,,,,Jonas Jerebko,,,,,,def,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:08,DET,timeout,,,,,,,,,,,,,,,,regular,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:01,DET,shot,,,,,,,,,,Austin Daye,,,,missed,,3pt,5,21
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:00,DET,rebound,,,,,,,,,,Charlie Villanueva,,,,,,off,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,3:00,DET,shot,,,,,,,,,,Charlie Villanueva,2,,,made,,jump,29,9
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,2:33,POR,shot,,,,,,,,,,Andre Miller,,,,missed,,jump bank,9,11
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,2:33,POR,rebound,,,,,,,,,,,,,,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,2:33,POR,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,2:18,DET,shot,,,,,,,,,,Charlie Villanueva,,,,missed,,jump,21,10
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,2:18,POR,rebound,,,,,,,,,,,,,,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,2:18,DET,foul,,,,,,,,Andre Miller,,Jonas Jerebko,,,,,,loose ball,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:57,DET,foul,,,,,,,,LaMarcus Aldridge,,Rodney Stuckey,,,,,,shooting,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:57,POR,free throw,,,,,,,1,,2,LaMarcus Aldridge,,,foul,made,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:57,POR,free throw,,,,,,,2,,2,LaMarcus Aldridge,,,foul,made,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:51,DET,shot,,,,,,,,,,Rodney Stuckey,2,,,made,,driving layup,25,6
+Austin Daye,Ben Wallace,Charlie Villanueva,Jonas Jerebko,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:41,DET,foul,,,,,,,,Andre Miller,,Jonas Jerebko,,,,,,personal,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:41,DET,sub,,,,DaJuan Summers,,Jonas Jerebko,,,,,,,,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:41,POR,free throw,,,,,,,1,,2,Andre Miller,,,foul,missed,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:41,POR,rebound,,,,,,,,,,,,,,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:41,POR,free throw,,,,,,,2,,2,Andre Miller,,,foul,missed,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:40,DET,rebound,,,,,,,,,,Ben Wallace,,,,,,def,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:29,DET,shot,Rodney Stuckey,,,,,,,,,Charlie Villanueva,3,,,made,,3pt,2,6
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:29,POR,timeout,,,,,,,,,,,,,,,,regular,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:07,POR,turnover,,,,,,,,,,Steve Blake,,,bad pass,,DaJuan Summers,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,1:05,DET,shot,Rodney Stuckey,,,,,,,,,Charlie Villanueva,2,,,made,,layup,25,6
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:41,POR,shot,,,,,,,,,,Steve Blake,,,,missed,,3pt,40,25
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:40,POR,rebound,,,,,,,,,,Steve Blake,,,,,,off,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:25,POR,shot,LaMarcus Aldridge,,,,,,,,,Steve Blake,3,,,made,,3pt,42,24
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:25,DET,timeout,,,,,,,,,,,,,,,,regular,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:22,POR,foul,,,,,,,,Rodney Stuckey,,Brandon Roy,,,,,,shooting,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:22,DET,free throw,,,,,,,1,,2,Rodney Stuckey,,,foul,made,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jason Maxiell,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:22,DET,sub,,,,Jason Maxiell,,Charlie Villanueva,,,,,,,,,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jason Maxiell,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:22,DET,free throw,,,,,,,2,,2,Rodney Stuckey,,,foul,made,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jason Maxiell,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:22,POR,timeout,,,,,,,,,,,,,,,,short,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jason Maxiell,Rodney Stuckey,Andre Miller,Brandon Roy,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,0:22,POR,sub,,,,Rudy Fernandez,,Greg Oden,,,,,,,,,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jason Maxiell,Rodney Stuckey,Andre Miller,Brandon Roy,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,0:20,DET,foul,,,,,,,,Andre Miller,,Austin Daye,,,,,,personal,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jason Maxiell,Rodney Stuckey,Andre Miller,Brandon Roy,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,0:20,POR,free throw,,,,,,,1,,2,Andre Miller,,,foul,made,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jason Maxiell,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:20,POR,sub,,,,Greg Oden,,Rudy Fernandez,,,,,,,,,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jason Maxiell,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:20,POR,free throw,,,,,,,2,,2,Andre Miller,,,foul,made,,,,
+Austin Daye,Ben Wallace,DaJuan Summers,Jason Maxiell,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:20,DET,timeout,,,,,,,,,,,,,,,,short,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:20,DET,sub,,,,Charlie Villanueva,,Jason Maxiell,,,,,,,,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:13,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,jump,39,10
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:12,DET,rebound,,,,,,,,,,Austin Daye,,,,,,off,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:10,DET,shot,,,,,,,,,,Austin Daye,,,,missed,,jump bank,18,11
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:10,DET,rebound,,,,,,,,,,Charlie Villanueva,,,,,,off,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:10,DET,shot,,,,,,,,,,Charlie Villanueva,2,,,made,,tip,25,6
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:10,DET,foul,,,,,,,,Steve Blake,,Rodney Stuckey,,,,,,personal,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:10,POR,free throw,,,,,,,1,,2,Steve Blake,,,foul,made,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:10,POR,free throw,,,,,,,2,,2,Steve Blake,,,foul,made,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:10,DET,timeout,,,,,,,,,,,,,,,,short,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:07,DET,shot,,,,,,,,,,Charlie Villanueva,,,,missed,,3pt,24,35
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:06,POR,rebound,,,,,,,,,,Andre Miller,,,,,,def,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:05,DET,foul,,,,,,,,Andre Miller,,Austin Daye,,,,,,personal,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,4,0:05,POR,free throw,,,,,,,1,,2,Andre Miller,,,foul,made,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,0:05,POR,sub,,,,Rudy Fernandez,,Greg Oden,,,,,,,,,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,0:05,POR,free throw,,,,,,,2,,2,Andre Miller,,,foul,made,,,,
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,0:00,DET,shot,,,,,,,,,,Rodney Stuckey,,,,missed,,3pt,42,28
+Austin Daye,Ben Wallace,Charlie Villanueva,DaJuan Summers,Rodney Stuckey,Andre Miller,Brandon Roy,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,0:00,DET,rebound,,,,,,,,,,,,,,,,,,

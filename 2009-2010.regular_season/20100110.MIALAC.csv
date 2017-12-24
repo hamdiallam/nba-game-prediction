@@ -1,0 +1,431 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,12:00,OFF,jump ball,,Jermaine O'Neal,,,Marcus Camby,,,,,,,Michael Beasley,,,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,11:40,MIA,turnover,,,,,,,,,,Michael Beasley,,,lost ball,,Marcus Camby,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,11:34,LAC,shot,,,,,,,,,,Baron Davis,2,,,made,,driving layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,11:14,MIA,shot,,,,,,,,,,Quentin Richardson,,,,missed,,3pt,10,30
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,11:13,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,11:04,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,38,16
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,11:03,MIA,rebound,,,,,,,,,,Quentin Richardson,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,10:49,MIA,shot,Quentin Richardson,,,,,,,,,Dwyane Wade,2,,,made,,floating jump,32,7
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,10:30,LAC,shot,,,Jermaine O'Neal,,,,,,,Chris Kaman,,,,missed,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,10:27,MIA,rebound,,,,,,,,,,Rafer Alston,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,10:20,MIA,shot,,,,,,,,,,Rafer Alston,,,,missed,,3pt,44,25
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,10:19,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,10:07,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,8,10
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,10:06,MIA,rebound,,,,,,,,,,Quentin Richardson,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:55,MIA,shot,,,,,,,,,,Michael Beasley,,,,missed,,jump,9,12
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:54,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:49,MIA,foul,,,,,,,,Baron Davis,,Rafer Alston,,,,,,shooting,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:49,LAC,free throw,,,,,,,1,,2,Baron Davis,,,foul,made,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:49,LAC,free throw,,,,,,,2,,2,Baron Davis,,,foul,made,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:35,MIA,shot,,,,,,,,,,Rafer Alston,2,,,made,,floating jump,31,11
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:29,LAC,shot,Marcus Camby,,,,,,,,,Chris Kaman,2,,,made,,dunk,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:12,MIA,shot,Rafer Alston,,,,,,,,,Michael Beasley,2,,,made,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:02,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:00,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,off,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:00,LAC,shot,,,,,,,,,,Marcus Camby,,,,missed,,tip,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,9:00,MIA,rebound,,,,,,,,,,,,,,,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,8:41,MIA,shot,,,,,,,,,,Jermaine O'Neal,,,,missed,,jump,37,8
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,8:39,MIA,rebound,,,,,,,,,,Quentin Richardson,,,,,,off,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,8:39,MIA,shot,,,,,,,,,,Quentin Richardson,,,,missed,,tip,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,8:38,MIA,rebound,,,,,,,,,,Quentin Richardson,,,,,,off,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,8:38,MIA,shot,,,,,,,,,,Quentin Richardson,,,,missed,,tip,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,8:36,LAC,rebound,,,,,,,,,,Rasual Butler,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,8:20,LAC,shot,Baron Davis,,,,,,,,,Chris Kaman,2,,,made,,dunk,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,7:59,MIA,shot,,,,,,,,,,Quentin Richardson,2,,,made,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,7:30,LAC,shot,,,,,,,,,,Chris Kaman,2,,,made,,hook,19,10
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,7:05,MIA,turnover,,,,,,,,,,Michael Beasley,,,lost ball,,Baron Davis,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,7:01,LAC,shot,,,Jermaine O'Neal,,,,,,,Rasual Butler,,,,missed,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:59,MIA,rebound,,,,,,,,,,Rafer Alston,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:54,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:53,MIA,rebound,,,,,,,,,,Michael Beasley,,,,,,off,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:53,MIA,shot,,,,,,,,,,Michael Beasley,2,,,made,,putback dunk,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:35,LAC,shot,Baron Davis,,,,,,,,,Eric Gordon,2,,,made,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:22,LAC,foul,,,,,,,,Dwyane Wade,,Eric Gordon,,,,,,personal,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:14,LAC,foul,,,,,,,,Michael Beasley,,Marcus Camby,,,,,,shooting,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:14,MIA,free throw,,,,,,,1,,2,Michael Beasley,,,foul,made,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:14,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:14,MIA,free throw,,,,,,,2,,2,Michael Beasley,,,foul,made,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:57,LAC,shot,,,,,,,,,,Eric Gordon,2,,,made,,running jump,32,9
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:42,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,jump,26,22
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:41,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:34,LAC,shot,Baron Davis,,,,,,,,,Marcus Camby,2,,,made,,alley oop layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:13,MIA,shot,Quentin Richardson,,,,,,,,,Michael Beasley,3,,,made,,3pt,7,26
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:54,LAC,shot,Rasual Butler,,,,,,,,,Chris Kaman,2,,,made,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:35,MIA,turnover,,,,,,,,,,Jermaine O'Neal,,,traveling,,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:27,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,39,7
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:26,MIA,rebound,,,,,,,,,,Michael Beasley,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:15,MIA,shot,,,,,,,,,,Jermaine O'Neal,,,,missed,,jump,16,23
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:14,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:04,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,14,20
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:02,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,off,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:02,LAC,shot,,,,,,,,,,Marcus Camby,2,,,made,,tip,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:45,MIA,turnover,,,,,,,,,,Rafer Alston,,,bad pass,,,,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:45,MIA,sub,,,,Udonis Haslem,,Michael Beasley,,,,,,,,,,,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:33,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:32,MIA,rebound,,,,,,,,,,Rafer Alston,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:22,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:21,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:15,LAC,turnover,,,,,,,,,,Baron Davis,,,bad pass,,Dwyane Wade,,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:09,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:06,MIA,rebound,,,,,,,,,,Rafer Alston,,,,,,off,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:06,MIA,shot,,,,,,,,,,Rafer Alston,,,,missed,,tip,25,6
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:05,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:02,MIA,foul,,,,,,,,Rasual Butler,,Udonis Haslem,,,,,,shooting,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:02,MIA,sub,,,,Joel Anthony,,Jermaine O'Neal,,,,,,,,,,,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:02,LAC,free throw,,,,,,,1,,2,Rasual Butler,,,foul,missed,,,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:02,LAC,rebound,,,,,,,,,,,,,,,,,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:02,LAC,free throw,,,,,,,2,,2,Rasual Butler,,,foul,made,,,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,2:59,MIA,timeout,,,,,,,,,,,,,,,,regular,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:59,LAC,sub,,,,Craig Smith,,Chris Kaman,,,,,,,,,,,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:35,MIA,shot,,,,,,,,,,Quentin Richardson,,,,missed,,jump,8,8
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:34,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:29,LAC,shot,Baron Davis,,,,,,,,,Eric Gordon,2,,,made,,driving layup,25,6
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:07,LAC,foul,,,,,,,,Joel Anthony,,Craig Smith,,,,,,shooting,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:07,MIA,free throw,,,,,,,1,,2,Joel Anthony,,,foul,made,,,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,2:07,LAC,sub,,,,Al Thornton,,Rasual Butler,,,,,,,,,,,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,2:07,MIA,free throw,,,,,,,2,,2,Joel Anthony,,,foul,made,,,,
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:49,LAC,shot,,,Quentin Richardson,,,,,,,Craig Smith,,,,missed,,layup,25,6
+Dwyane Wade,Joel Anthony,Quentin Richardson,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:49,LAC,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:49,MIA,sub,,,,Dorell Wright,,Quentin Richardson,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:47,LAC,shot,Baron Davis,,,,,,,,,Eric Gordon,2,,,made,,jump,44,6
+Dorell Wright,Dwyane Wade,Joel Anthony,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:22,LAC,foul,,,,,,,,,,Al Thornton,,,,,,defense 3 second,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:22,MIA,free throw,,,,,,,1,,1,Dorell Wright,,,technical,made,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:17,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,jump,32,24
+Dorell Wright,Dwyane Wade,Joel Anthony,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:16,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:04,MIA,foul,,,,,,,,Marcus Camby,,Udonis Haslem,,,,,,personal,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:04,MIA,sub,,,,Mario Chalmers,,Rafer Alston,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:01,MIA,foul,,,,,,,,Eric Gordon,,Mario Chalmers,,,,,,personal,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:01,LAC,free throw,,,,,,,1,,2,Eric Gordon,,,foul,missed,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:01,LAC,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:01,MIA,sub,,,,Michael Beasley,,Udonis Haslem,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,1:01,LAC,free throw,,,,,,,2,,2,Eric Gordon,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,0:57,LAC,foul,,,,,,,,Mario Chalmers,,Baron Davis,,,,,,personal,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,0:50,MIA,shot,Mario Chalmers,,,,,,,,,Michael Beasley,2,,,made,,jump,37,21
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,0:42,MIA,foul,,,,,,,,Baron Davis,,Michael Beasley,,,,,,personal,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,0:42,LAC,free throw,,,,,,,1,,2,Baron Davis,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,0:42,LAC,free throw,,,,,,,2,,2,Baron Davis,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,0:18,MIA,shot,,,,,,,,,,Joel Anthony,,,,missed,,jump,35,14
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,0:17,LAC,rebound,,,,,,,,,,Eric Gordon,,,,,,def,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,0:03,MIA,foul,,,,,,,,Eric Gordon,,Michael Beasley,,,,,,shooting,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,1,0:03,LAC,free throw,,,,,,,1,,2,Eric Gordon,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Craig Smith,Eric Gordon,Marcus Camby,Mardy Collins,1,0:03,LAC,sub,,,,Mardy Collins,,Baron Davis,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Craig Smith,Eric Gordon,Marcus Camby,Mardy Collins,1,0:03,LAC,free throw,,,,,,,2,,2,Eric Gordon,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Craig Smith,Eric Gordon,Marcus Camby,Mardy Collins,1,0:00,MIA,shot,,,,,,,,,,Mario Chalmers,,,,missed,,3pt,42,27
+Dorell Wright,Dwyane Wade,Joel Anthony,Mario Chalmers,Michael Beasley,Al Thornton,Craig Smith,Eric Gordon,Marcus Camby,Mardy Collins,1,0:00,MIA,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,11:43,LAC,shot,,,,,,,,,,Ricky Davis,,,,missed,,jump,40,22
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,11:41,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,off,,
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,11:39,MIA,foul,,,,,,,,Al Thornton,,Joel Anthony,,,,,,loose ball,,
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,11:24,LAC,shot,Craig Smith,,,,,,,,,Al Thornton,2,,,made,,layup,25,6
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,11:24,MIA,foul,,,,,,,,Al Thornton,,Joel Anthony,,,,,,shooting,,
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,11:24,MIA,violation,,,,,,,,,,Joel Anthony,,,,,,lane,,
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,11:24,LAC,free throw,,,,,,,1,,1,Al Thornton,,,foul,made,,,,
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,11:04,MIA,turnover,,,,,,,,,,Michael Beasley,,,bad pass,,,,,
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,10:50,LAC,shot,Craig Smith,,,,,,,,,Al Thornton,2,,,made,,jump,42,16
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,10:31,MIA,shot,Mario Chalmers,,,,,,,,,Dorell Wright,2,,,made,,jump,20,27
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,10:10,MIA,foul,,,,,,,,Craig Smith,,Joel Anthony,,,,,,shooting,,
+Dorell Wright,Joel Anthony,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,10:10,LAC,free throw,,,,,,,1,,2,Craig Smith,,,foul,made,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,10:10,MIA,sub,,,,Jamaal Magloire,,Joel Anthony,,,,,,,,,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,10:10,LAC,free throw,,,,,,,2,,2,Craig Smith,,,foul,missed,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,10:09,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,off,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,10:07,LAC,shot,,,Mario Chalmers,,,,,,,Chris Kaman,,,,missed,,layup,25,6
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,10:07,MIA,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,10:07,LAC,foul,,,,,,,,Mario Chalmers,,Chris Kaman,,,,,,loose ball,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:50,MIA,shot,,,,,,,,,,Michael Beasley,,,,missed,,jump,10,6
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:49,MIA,rebound,,,,,,,,,,Michael Beasley,,,,,,off,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:45,MIA,shot,,,,,,,,,,Michael Beasley,,,,missed,,jump,15,12
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:44,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:30,LAC,turnover,,,,,,,,,,Ricky Davis,,,bad pass,,Jamaal Magloire,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:27,MIA,turnover,,,,,,,,,,Jamaal Magloire,,,step out of bounds turnover,,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:12,LAC,shot,,,Michael Beasley,,,,,,,Al Thornton,,,,missed,,layup,25,6
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:11,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,off,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:11,MIA,foul,,,,,,,,Chris Kaman,,Udonis Haslem,,,,,,shooting,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:11,LAC,free throw,,,,,,,1,,2,Chris Kaman,,,foul,made,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:11,LAC,free throw,,,,,,,2,,2,Chris Kaman,,,foul,made,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:08,MIA,timeout,,,,,,,,,,,,,,,,regular,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,9:08,MIA,sub,,,,Quentin Richardson,,Udonis Haslem,,,,,,,,,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,8:51,MIA,turnover,,,,,,,,,,Mario Chalmers,,,out of bounds lost ball turnover,,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,8:28,LAC,shot,Craig Smith,,,,,,,,,Mardy Collins,3,,,made,,3pt,10,26
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,8:11,LAC,foul,,,,,,,,,,Chris Kaman,,,,,,defense 3 second,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,8:11,MIA,free throw,,,,,,,1,,1,Michael Beasley,,,technical,missed,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,8:11,MIA,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,8:11,MIA,sub,,,,Dwyane Wade,,Mario Chalmers,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,8:03,LAC,foul,,,,,,,,Dorell Wright,,Mardy Collins,,,,,,personal,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,7:57,MIA,shot,,,,,,,,,,Michael Beasley,2,,,made,,jump,32,12
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,7:42,LAC,turnover,,,,,,,,,,Mardy Collins,,,bad pass,,Dwyane Wade,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,7:38,MIA,shot,,,,,,,,,,Dwyane Wade,2,,,made,,driving dunk,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,7:13,LAC,shot,,,,,,,,,,Ricky Davis,,,,missed,,3pt,38,30
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Ricky Davis,2,7:12,MIA,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,2,7:12,LAC,sub,,,,Rasual Butler,,Ricky Davis,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,2,7:04,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,2,7:02,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,2,6:58,LAC,shot,,,Dorell Wright,,,,,,,Mardy Collins,,,,missed,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,2,6:56,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,off,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,2,6:37,LAC,shot,,,,,,,,,,Mardy Collins,,,,missed,,3pt,12,28
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,2,6:37,LAC,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,2,6:37,LAC,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Marcus Camby,Mardy Collins,Rasual Butler,2,6:37,LAC,sub,,,,Marcus Camby,,Craig Smith,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Marcus Camby,Mardy Collins,Rasual Butler,2,6:24,MIA,shot,Dwyane Wade,,,,,,,,,Dorell Wright,2,,,made,,alley oop dunk,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Chris Kaman,Marcus Camby,Mardy Collins,Rasual Butler,2,6:15,LAC,timeout,,,,,,,,,,,,,,,,short,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,2,6:15,LAC,sub,,,,Baron Davis,,Mardy Collins,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,2,6:01,LAC,shot,Baron Davis,,,,,,,,,Rasual Butler,2,,,made,,jump,34,24
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,2,5:48,MIA,shot,Dwyane Wade,,,,,,,,,Michael Beasley,2,,,made,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,2,5:29,MIA,violation,,,,,,,,,,Jamaal Magloire,,,,,,defensive goaltending,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,2,5:29,LAC,shot,Baron Davis,,,,,,,,,Chris Kaman,2,,,made,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,2,5:18,MIA,shot,Michael Beasley,,,,,,,,,Jamaal Magloire,2,,,made,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,2,4:58,LAC,turnover,,,,,,,,,,Baron Davis,,,bad pass,,Jamaal Magloire,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,2,4:56,MIA,turnover,,,,,,,,,,Dwyane Wade,,,bad pass,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Al Thornton,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,2,4:56,LAC,timeout,,,,,,,,,,,,,,,,official,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,4:56,LAC,sub,,,,Eric Gordon,,Al Thornton,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,4:39,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,9,17
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,4:38,MIA,rebound,,,,,,,,,,Quentin Richardson,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,4:17,MIA,shot,,,,,,,,,,Dorell Wright,,,,missed,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,4:16,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,4:11,LAC,shot,,,Jamaal Magloire,,,,,,,Eric Gordon,,,,missed,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,4:08,MIA,rebound,,,,,,,,,,Dorell Wright,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,4:04,MIA,shot,,,Chris Kaman,,,,,,,Dorell Wright,,,,missed,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,4:03,MIA,rebound,,,,,,,,,,Dwyane Wade,,,,,,off,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,4:00,MIA,shot,,,,,,,,,,Dwyane Wade,2,,,made,,putback layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,3:53,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,3:53,LAC,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,3:44,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,11,8
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,3:43,MIA,rebound,,,,,,,,,,Michael Beasley,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,3:32,MIA,shot,,,,,,,,,,Dwyane Wade,3,,,made,,3pt,26,33
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,3:15,LAC,shot,Baron Davis,,,,,,,,,Rasual Butler,3,,,made,,3pt,49,10
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:56,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,jump,31,9
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:55,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:48,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:46,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,off,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:46,LAC,shot,,,,,,,,,,Marcus Camby,,,,missed,,tip,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:44,MIA,rebound,,,,,,,,,,Michael Beasley,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:33,MIA,turnover,,,,,,,,,,Dwyane Wade,,,5 second violation,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:33,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:14,LAC,shot,,,,,,,,,,Chris Kaman,2,,,made,,turnaround bank hook,15,9
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:01,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,3pt,16,31
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:00,LAC,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:37,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,20,11
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:36,MIA,rebound,,,,,,,,,,Jamaal Magloire,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:29,MIA,shot,,,,,,,,,,Dorell Wright,,,,missed,,3pt,49,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:28,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:21,LAC,turnover,,,,,,,,,,Eric Gordon,,,bad pass,,Quentin Richardson,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:12,MIA,shot,,,,,,,,,,Dwyane Wade,2,,,made,,floating jump,20,12
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Michael Beasley,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:57,MIA,foul,,,,,,,,Baron Davis,,Michael Beasley,,,,,,shooting,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:57,MIA,sub,,,,Jermaine O'Neal,,Michael Beasley,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:57,LAC,free throw,,,,,,,1,,2,Baron Davis,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:57,LAC,free throw,,,,,,,2,,2,Baron Davis,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:40,MIA,shot,,,,,,,,,,Dorell Wright,,,,missed,,jump,23,13
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:39,MIA,rebound,,,,,,,,,,Jamaal Magloire,,,,,,off,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:39,MIA,shot,,,,,,,,,,Jamaal Magloire,,,,missed,,tip,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:37,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,Ricky Davis,2,0:35,LAC,sub,,,,Ricky Davis,,Eric Gordon,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,Ricky Davis,2,0:35,LAC,jump ball,,Jermaine O'Neal,,,Marcus Camby,,,,,,,Chris Kaman,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,Ricky Davis,2,0:27,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,3pt,5,22
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,Ricky Davis,2,0:26,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,off,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,Ricky Davis,2,0:26,LAC,shot,,,,,,,,,,Marcus Camby,2,,,made,,tip,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,Ricky Davis,2,0:08,MIA,shot,,,,,,,,,,Quentin Richardson,,,,missed,,3pt,2,18
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,Ricky Davis,2,0:08,MIA,rebound,,,,,,,,,,Jamaal Magloire,,,,,,off,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,Ricky Davis,2,0:06,MIA,shot,,,,,,,,,,Jamaal Magloire,2,,,made,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Jermaine O'Neal,Quentin Richardson,Baron Davis,Chris Kaman,Marcus Camby,Rasual Butler,Ricky Davis,2,0:00,LAC,shot,Baron Davis,,,,,,,,,Chris Kaman,2,,,made,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,11:43,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,11:42,MIA,rebound,,,,,,,,,,Jermaine O'Neal,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,11:28,MIA,shot,,,,,,,,,,Michael Beasley,,,,missed,,jump,25,27
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,11:27,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,11:11,LAC,shot,,,,,,,,,,Rasual Butler,,,,missed,,3pt,43,24
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,11:10,MIA,rebound,,,,,,,,,,Dwyane Wade,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,10:55,MIA,turnover,,,,,,,,,,Michael Beasley,,,lost ball,,Eric Gordon,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,10:38,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,3pt,48,17
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,10:37,MIA,rebound,,,,,,,,,,Jermaine O'Neal,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,10:26,LAC,foul,,,,,,,,Jermaine O'Neal,,Chris Kaman,,,,,,shooting,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,10:26,MIA,free throw,,,,,,,1,,2,Jermaine O'Neal,,,foul,made,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,10:26,MIA,free throw,,,,,,,2,,2,Jermaine O'Neal,,,foul,made,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,10:13,LAC,shot,Baron Davis,,,,,,,,,Eric Gordon,2,,,made,,floating jump,32,11
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,10:02,MIA,foul,,,,,,,,Eric Gordon,,Jermaine O'Neal,,,,,,offensive,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,10:02,MIA,turnover,,,,,,,,,,Jermaine O'Neal,,,foul,,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,9:44,LAC,shot,,,,,,,,,,Chris Kaman,2,,,made,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,9:29,MIA,shot,,,,,,,,,,Jermaine O'Neal,,,,missed,,jump,18,10
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,9:28,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,9:20,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,44,7
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,9:19,MIA,rebound,,,,,,,,,,Quentin Richardson,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,9:08,LAC,foul,,,,,,,,Quentin Richardson,,Chris Kaman,,,,,,shooting,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,9:08,MIA,free throw,,,,,,,1,,2,Quentin Richardson,,,foul,made,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,9:08,MIA,free throw,,,,,,,2,,2,Quentin Richardson,,,foul,made,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:45,LAC,turnover,,,,,,,,,,Eric Gordon,,,bad pass,,Michael Beasley,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:30,MIA,shot,Michael Beasley,,,,,,,,,Dwyane Wade,2,,,made,,jump,45,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:08,MIA,foul,,,,,,,,Rasual Butler,,Jermaine O'Neal,,,,,,shooting,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:08,LAC,free throw,,,,,,,1,,2,Rasual Butler,,,foul,made,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:08,LAC,free throw,,,,,,,2,,2,Rasual Butler,,,foul,made,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:53,MIA,turnover,,,,,,,,,,Jermaine O'Neal,,,lost ball,,Marcus Camby,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:47,LAC,shot,Baron Davis,,,,,,,,,Chris Kaman,2,,,made,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:45,MIA,timeout,,,,,,,,,,,,,,,,regular,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:45,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,jump,26,20
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:45,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:19,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,13,9
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:17,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,off,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:17,LAC,shot,,,,,,,,,,Marcus Camby,,,,missed,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:17,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,off,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:15,LAC,turnover,,,,,,,,,,Baron Davis,,,bad pass,,Dwyane Wade,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,6:58,MIA,shot,,,,,,,,,,Dwyane Wade,2,,,made,,driving dunk,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,6:45,LAC,shot,Marcus Camby,,,,,,,,,Rasual Butler,2,,,made,,jump,42,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,6:17,MIA,shot,,,Chris Kaman,,,,,,,Rafer Alston,,,,missed,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,6:16,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,6:09,LAC,turnover,,,,,,,,,,Eric Gordon,,,lost ball,,Quentin Richardson,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,6:05,MIA,shot,Quentin Richardson,,,,,,,,,Dwyane Wade,2,,,made,,reverse layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:47,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,3pt,49,5
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:45,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,off,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:40,MIA,foul,,,,,,,,Rasual Butler,,Rafer Alston,,,,,,personal,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:29,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:27,MIA,rebound,,,,,,,,,,Quentin Richardson,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:23,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,3pt,40,26
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:21,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:05,LAC,turnover,,,,,,,,,,Rasual Butler,,,traveling,,,,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:49,MIA,shot,,,,,,,,,,Jermaine O'Neal,,,,missed,,jump,10,12
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:47,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Michael Beasley,Quentin Richardson,Rafer Alston,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:38,MIA,foul,,,,,,,,Chris Kaman,,Michael Beasley,,,,,,personal,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:38,MIA,sub,,,,Udonis Haslem,,Michael Beasley,,,,,,,,,,,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:27,LAC,turnover,,,,,,,,,,Baron Davis,,,lost ball,,Rafer Alston,,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:21,MIA,shot,,,,,,,,,,Dwyane Wade,2,,,made,,driving layup,25,6
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:21,LAC,foul,,,,,,,,Dwyane Wade,,Eric Gordon,,,,,,shooting,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:21,LAC,foul,,,,,,,,,,Baron Davis,,,,,,technical,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:21,MIA,free throw,,,,,,,1,,1,Dwyane Wade,,,technical,made,,,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:21,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:21,MIA,free throw,,,,,,,1,,1,Dwyane Wade,,,foul,missed,,,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:20,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:05,LAC,shot,Baron Davis,,,,,,,,,Eric Gordon,3,,,made,,3pt,48,19
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:42,MIA,turnover,,,,,,,,,,Rafer Alston,,,lost ball,,Marcus Camby,,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:27,LAC,shot,Baron Davis,,,,,,,,,Chris Kaman,2,,,made,,layup,25,6
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:25,MIA,timeout,,,,,,,,,,,,,,,,short,,
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:14,MIA,shot,,,,,,,,,,Quentin Richardson,,,,missed,,3pt,1,11
+Dwyane Wade,Jermaine O'Neal,Quentin Richardson,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:13,LAC,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jermaine O'Neal,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:11,MIA,sub,,,,Dorell Wright,,Quentin Richardson,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jermaine O'Neal,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:58,LAC,turnover,,,,,,,,,,Baron Davis,,,discontinue dribble,,,,,
+Dorell Wright,Dwyane Wade,Jermaine O'Neal,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:38,MIA,shot,Rafer Alston,,,,,,,,,Dwyane Wade,2,,,made,,turnaround jump,41,6
+Dorell Wright,Dwyane Wade,Jermaine O'Neal,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:20,MIA,foul,,,,,,,,Eric Gordon,,Rafer Alston,,,,,,shooting,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:20,MIA,sub,,,,Jamaal Magloire,,Jermaine O'Neal,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,3,2:20,LAC,sub,,,,Craig Smith,,Chris Kaman,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,3,2:20,LAC,free throw,,,,,,,1,,2,Eric Gordon,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,2:20,LAC,sub,,,,Al Thornton,,Rasual Butler,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,2:20,LAC,free throw,,,,,,,2,,2,Eric Gordon,,,foul,missed,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,2:19,MIA,rebound,,,,,,,,,,Dorell Wright,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,2:05,MIA,shot,,,,,,,,,,Rafer Alston,,,,missed,,jump,46,15
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,2:03,MIA,rebound,,,,,,,,,,Udonis Haslem,,,,,,off,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:53,MIA,turnover,,,,,,,,,,Dwyane Wade,,,bad pass,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:35,MIA,foul,,,,,,,,Al Thornton,,Udonis Haslem,,,,,,shooting,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:35,LAC,free throw,,,,,,,1,,2,Al Thornton,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:35,LAC,free throw,,,,,,,2,,2,Al Thornton,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:21,MIA,shot,,,,,,,,,,Dorell Wright,,,,missed,,jump,7,10
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:20,LAC,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:20,MIA,foul,,,,,,,,Craig Smith,,Jamaal Magloire,,,,,,loose ball,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:20,LAC,free throw,,,,,,,1,,2,Craig Smith,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:20,LAC,free throw,,,,,,,2,,2,Craig Smith,,,foul,missed,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:19,MIA,rebound,,,,,,,,,,Jamaal Magloire,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:09,MIA,shot,,,Marcus Camby,,,,,,,Udonis Haslem,,,,missed,,layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:09,MIA,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:03,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,3pt,2,17
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,1:02,MIA,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,0:51,MIA,shot,,,,,,,,,,Udonis Haslem,,,,missed,,jump,36,20
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,0:51,LAC,rebound,,,,,,,,,,Al Thornton,,,,,,def,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,0:33,MIA,foul,,,,,,,,Craig Smith,,Jamaal Magloire,,,,,,shooting,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,3,0:33,LAC,free throw,,,,,,,1,,2,Craig Smith,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Marcus Camby,Rasual Butler,3,0:33,LAC,sub,,,,Rasual Butler,,Eric Gordon,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Marcus Camby,Rasual Butler,3,0:33,LAC,free throw,,,,,,,2,,2,Craig Smith,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Marcus Camby,Rasual Butler,3,0:23,MIA,shot,,,,,,,,,,Rafer Alston,2,,,made,,driving layup,25,6
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Marcus Camby,Rasual Butler,3,0:00,MIA,foul,,,,,,,,Craig Smith,,Jamaal Magloire,,,,,,shooting,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Marcus Camby,Rasual Butler,3,0:00,LAC,free throw,,,,,,,1,,2,Craig Smith,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Jamaal Magloire,Rafer Alston,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Marcus Camby,Rasual Butler,3,0:00,LAC,free throw,,,,,,,2,,2,Craig Smith,,,foul,made,,,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,11:46,MIA,shot,Mario Chalmers,,,,,,,,,Udonis Haslem,2,,,made,,jump,37,19
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,11:22,LAC,turnover,,,,,,,,,,Al Thornton,,,step out of bounds turnover,,,,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,11:11,MIA,shot,,,,,,,,,,Dwyane Wade,,,,missed,,jump,30,13
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,11:10,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,11:01,LAC,shot,Chris Kaman,,,,,,,,,Craig Smith,2,,,made,,layup,25,6
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,10:33,MIA,shot,,,,,,,,,,Michael Beasley,,,,missed,,jump,36,14
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,10:32,LAC,rebound,,,,,,,,,,Rasual Butler,,,,,,def,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,10:22,LAC,turnover,,,,,,,,,,Craig Smith,,,lost ball,,Michael Beasley,,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,10:17,MIA,shot,,,,,,,,,,Dorell Wright,,,,missed,,jump,10,11
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,10:15,LAC,rebound,,,,,,,,,,Mardy Collins,,,,,,def,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,10:06,LAC,turnover,,,,,,,,,,Al Thornton,,,bad pass,,Mario Chalmers,,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,9:52,MIA,shot,,,,,,,,,,Dwyane Wade,2,,,made,,reverse layup,25,6
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,9:52,LAC,foul,,,,,,,,Dwyane Wade,,Rasual Butler,,,,,,shooting,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,9:52,MIA,free throw,,,,,,,1,,1,Dwyane Wade,,,foul,missed,,,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,9:51,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,9:33,LAC,shot,Al Thornton,,,,,,,,,Rasual Butler,3,,,made,,3pt,48,8
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,9:19,MIA,shot,,,,,,,,,,Michael Beasley,,,,missed,,jump,34,24
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,9:18,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,9:08,LAC,foul,,,,,,,,Udonis Haslem,,Al Thornton,,,,,,offensive,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,9:08,LAC,turnover,,,,,,,,,,Al Thornton,,,foul,,,,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,8:58,MIA,shot,Dwyane Wade,,,,,,,,,Udonis Haslem,2,,,made,,jump,40,7
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,8:41,LAC,shot,,,,,,,,,,Al Thornton,2,,,made,,fade away jumper,25,20
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,8:22,MIA,shot,,,,,,,,,,Udonis Haslem,,,,missed,,jump,35,13
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,8:21,LAC,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Dwyane Wade,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,8:21,LAC,timeout,,,,,,,,,,,,,,,,official,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,8:21,MIA,sub,,,,Jamaal Magloire,,Dwyane Wade,,,,,,,,,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,7:57,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,36,7
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,7:55,MIA,rebound,,,,,,,,,,Dorell Wright,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,7:38,MIA,shot,,,,,,,,,,Michael Beasley,,,,missed,,jump,36,21
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,7:36,LAC,rebound,,,,,,,,,,Al Thornton,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,7:24,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,26,19
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,7:24,MIA,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,7:08,MIA,shot,Udonis Haslem,,,,,,,,,Mario Chalmers,3,,,made,,3pt,44,23
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,6:43,LAC,turnover,,,,,,,,,,Mardy Collins,,,bad pass,,Mario Chalmers,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,6:36,MIA,shot,,,,,,,,,,Udonis Haslem,,,,missed,,jump,38,17
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,6:35,LAC,rebound,,,,,,,,,,Al Thornton,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,6:26,LAC,shot,,,,,,,,,,Al Thornton,,,,missed,,pullup jump,35,21
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,6:23,MIA,rebound,,,,,,,,,,Dorell Wright,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,6:13,MIA,shot,Dorell Wright,,,,,,,,,Udonis Haslem,2,,,made,,jump,39,7
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,5:57,LAC,shot,,,,,,,,,,Rasual Butler,,,,missed,,jump,10,20
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,5:56,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,off,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,5:42,LAC,turnover,,,,,,,,,,Mardy Collins,,,bad pass,,Mario Chalmers,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,5:39,MIA,shot,,,,,,,,,,Mario Chalmers,2,,,made,,driving layup,25,6
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,4,5:38,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Chris Kaman,Craig Smith,Rasual Butler,4,5:38,LAC,sub,,,,Baron Davis,,Mardy Collins,,,,,,,,,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,5:38,LAC,sub,,,,Ricky Davis,,Chris Kaman,,,,,,,,,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,5:15,LAC,shot,,,,,,,,,,Craig Smith,,,,missed,,jump,34,23
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,5:14,MIA,rebound,,,,,,,,,,Dorell Wright,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:58,LAC,foul,,,,,,,,Mario Chalmers,,Baron Davis,,,,,,shooting,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:58,MIA,free throw,,,,,,,1,,2,Mario Chalmers,,,foul,made,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:58,MIA,free throw,,,,,,,2,,2,Mario Chalmers,,,foul,made,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:49,MIA,foul,,,,,,,,Baron Davis,,Mario Chalmers,,,,,,personal,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:42,LAC,shot,Baron Davis,,,,,,,,,Al Thornton,2,,,made,,dunk,25,6
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:20,MIA,shot,,,,,,,,,,Mario Chalmers,,,,missed,,3pt,26,33
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:19,LAC,rebound,,,,,,,,,,Al Thornton,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:11,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,3pt,33,31
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:10,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,off,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:10,MIA,foul,,,,,,,,Craig Smith,,Dorell Wright,,,,,,shooting,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:10,LAC,free throw,,,,,,,1,,2,Craig Smith,,,foul,made,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:10,LAC,free throw,,,,,,,2,,2,Craig Smith,,,foul,missed,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:09,LAC,rebound,,,,,,,,,,Ricky Davis,,,,,,off,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:03,LAC,shot,,,,,,,,,,Rasual Butler,,,,missed,,3pt,3,20
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,4:02,LAC,rebound,,,,,,,,,,Ricky Davis,,,,,,off,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,3:51,LAC,shot,,,,,,,,,,Ricky Davis,,,,missed,,jump,44,6
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,3:50,MIA,rebound,,,,,,,,,,Michael Beasley,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,3:32,MIA,shot,,,,,,,,,,Mario Chalmers,2,,,made,,jump,20,24
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,3:18,MIA,foul,,,,,,,,Al Thornton,,Jamaal Magloire,,,,,,shooting,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,Craig Smith,Rasual Butler,Ricky Davis,4,3:18,LAC,free throw,,,,,,,1,,2,Al Thornton,,,foul,made,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,3:18,LAC,sub,,,,DeAndre Jordan,,Craig Smith,,,,,,,,,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,3:18,LAC,free throw,,,,,,,2,,2,Al Thornton,,,foul,made,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,3:04,MIA,shot,,,,,,,,,,Michael Beasley,,,,missed,,running jump,26,11
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,3:04,MIA,rebound,,,,,,,,,,Michael Beasley,,,,,,off,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,3:04,LAC,foul,,,,,,,,Michael Beasley,,Al Thornton,,,,,,shooting,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,3:04,MIA,free throw,,,,,,,1,,2,Michael Beasley,,,foul,made,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,3:04,MIA,free throw,,,,,,,2,,2,Michael Beasley,,,foul,made,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,2:43,LAC,shot,,,,,,,,,,Al Thornton,,,,missed,,jump,40,20
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,2:42,MIA,rebound,,,,,,,,,,Jamaal Magloire,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,2:29,LAC,violation,,,,,,,,,,Al Thornton,,,,,,defensive goaltending,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,2:29,MIA,shot,,,,,,,,,,Michael Beasley,2,,,made,,driving layup,25,6
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,2:29,LAC,foul,,,,,,,,Michael Beasley,,DeAndre Jordan,,,,,,shooting,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,2:29,MIA,timeout,,,,,,,,,,,,,,,,regular,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,2:29,MIA,free throw,,,,,,,1,,1,Michael Beasley,,,foul,made,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,2:07,LAC,shot,,,,,,,,,,Baron Davis,3,,,made,,3pt,25,32
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,1:45,MIA,shot,,,Rasual Butler,,,,,,,Dorell Wright,,,,missed,,layup,25,6
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,1:45,MIA,rebound,,,,,,,,,,,,,,,,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,1:41,MIA,shot,,,,,,,,,,Mario Chalmers,,,,missed,,3pt,9,29
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,1:40,LAC,rebound,,,,,,,,,,Ricky Davis,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,1:37,LAC,turnover,,,,,,,,,,Ricky Davis,,,bad pass,,Michael Beasley,,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,1:29,MIA,shot,,,DeAndre Jordan,,,,,,,Mario Chalmers,,,,missed,,layup,25,6
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,1:28,MIA,rebound,,,,,,,,,,Jamaal Magloire,,,,,,off,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,1:28,MIA,shot,,,,,,,,,,Jamaal Magloire,2,,,made,,tip,25,6
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,1:05,LAC,shot,,,,,,,,,,Al Thornton,,,,missed,,jump,13,20
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,1:04,MIA,rebound,,,,,,,,,,Jamaal Magloire,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,0:51,MIA,shot,,,,,,,,,,Mario Chalmers,2,,,made,,jump,29,25
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,0:28,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,3pt,26,34
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,0:27,MIA,rebound,,,,,,,,,,Jamaal Magloire,,,,,,def,,
+Dorell Wright,Jamaal Magloire,Mario Chalmers,Michael Beasley,Udonis Haslem,Al Thornton,Baron Davis,DeAndre Jordan,Rasual Butler,Ricky Davis,4,0:21,MIA,turnover,,,,,,,,,,Udonis Haslem,,,out of bounds lost ball turnover,,,,,

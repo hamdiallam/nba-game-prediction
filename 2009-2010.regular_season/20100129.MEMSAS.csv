@@ -1,0 +1,427 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,12:00,OFF,jump ball,,Marc Gasol,,,Tim Duncan,,,,,,,Zach Randolph,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,11:42,MEM,shot,Rudy Gay,,,,,,,,,Marc Gasol,2,,,made,,layup,24,8
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,11:23,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,28,23
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,11:21,MEM,rebound,,,,,,,,,,Mike Conley,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,11:00,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,33,7
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,10:59,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,10:42,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,25,10
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,10:40,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,10:38,MEM,shot,Zach Randolph,,,,,,,,,O.J. Mayo,2,,,made,,layup,27,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,10:38,SAS,foul,,,,,,,,O.J. Mayo,,Keith Bogans,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,10:38,MEM,free throw,,,,,,,1,,1,O.J. Mayo,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,10:27,SAS,shot,Keith Bogans,,,,,,,,,Richard Jefferson,2,,,made,,jump,9,14
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,10:09,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,jump,11,5
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,9:54,SAS,shot,Richard Jefferson,,,,,,,,,George Hill,2,,,made,,layup,23,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,9:54,MEM,foul,,,,,,,,George Hill,,Marc Gasol,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,9:54,SAS,free throw,,,,,,,1,,1,George Hill,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,9:51,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,9:42,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,32,10
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,9:40,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,9:35,SAS,foul,,,,,,,,Marc Gasol,,Tim Duncan,,,,,,personal,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,9:28,SAS,foul,,,,,,,,Rudy Gay,,Richard Jefferson,,,,,,personal,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,9:16,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,driving layup,27,7
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,9:04,SAS,shot,,,,,,,,,,George Hill,2,,,made,,layup,26,7
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,8:37,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,turnaround fade away,32,18
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,8:36,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,8:27,MEM,foul,,,,,,,,Richard Jefferson,,Marc Gasol,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,8:27,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,made,,,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,8:27,MEM,sub,,,,Hasheem Thabeet,,Marc Gasol,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,8:27,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,8:06,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,25,22
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,8:04,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,7:52,SAS,shot,Tim Duncan,,,,,,,,,Antonio McDyess,2,,,made,,jump,16,20
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,7:32,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,jump,37,16
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,7:15,SAS,shot,Tim Duncan,,,,,,,,,Richard Jefferson,2,,,made,,layup,25,7
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,7:01,MEM,shot,,,George Hill,,,,,,,Hasheem Thabeet,,,,missed,,layup,24,6
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,7:01,MEM,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,6:52,MEM,turnover,,,,,,,,,,O.J. Mayo,,,bad pass,,,,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,6:37,SAS,shot,George Hill,,,,,,,,,Keith Bogans,3,,,made,,3pt,2,6
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,6:22,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,15,20
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,6:20,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,6:11,SAS,foul,,,,,,,,Zach Randolph,,Antonio McDyess,,,,,,shooting,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,6:11,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,6:11,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,5:57,SAS,shot,Richard Jefferson,,,,,,,,,Antonio McDyess,2,,,made,,jump,39,15
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,5:34,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,layup,27,7
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,5:32,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,5:27,SAS,shot,,,,,,,,,,George Hill,2,,,made,,layup,24,7
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,1,5:21,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,1,5:21,SAS,sub,,,,Roger Mason,,Antonio McDyess,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,5:21,SAS,sub,,,,Matt Bonner,,Keith Bogans,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,5:21,SAS,sub,,,,Manu Ginobili,,George Hill,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,5:11,MEM,shot,,,,,,,,,,Hasheem Thabeet,,,,missed,,layup,24,9
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,5:10,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,5:01,SAS,shot,Manu Ginobili,,,,,,,,,Roger Mason,2,,,made,,jump,43,9
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,4:44,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,jump,11,5
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,4:27,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,driving layup,23,7
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,4:27,MEM,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,4:10,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,jump,37,8
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,3:52,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,48,6
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,3:51,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,def,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,3:41,MEM,shot,Mike Conley,,,,,,,,,Zach Randolph,2,,,made,,jump bank,25,11
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,3:22,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,16,29
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,3:20,MEM,rebound,,,,,,,,,,Mike Conley,,,,,,def,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,3:07,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,13,10
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,3:06,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,2:56,MEM,foul,,,,,,,,Tim Duncan,,Hasheem Thabeet,,,,,,shooting,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,1,2:56,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,1,2:56,SAS,sub,,,,Keith Bogans,,Richard Jefferson,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,1,2:56,MEM,sub,,,,Sam Young,,O.J. Mayo,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,1,2:56,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,made,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,1,2:56,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,1,2:43,MEM,turnover,,,,,,,,,,Zach Randolph,,,traveling,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,2:43,SAS,sub,,,,DeJuan Blair,,Tim Duncan,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,2:30,SAS,turnover,,,,,,,,,,Roger Mason,,,out of bounds lost ball turnover,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,2:05,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,jump,12,22
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,2:04,SAS,rebound,,,,,,,,,,Keith Bogans,,,,,,def,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,1:56,SAS,turnover,,,,,,,,,,Manu Ginobili,,,out of bounds lost ball turnover,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,1:44,MEM,shot,,,Matt Bonner,,,,,,,Hasheem Thabeet,,,,missed,,layup,24,7
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,1:44,MEM,jump ball,,Hasheem Thabeet,,,Matt Bonner,,,,,,,Manu Ginobili,,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,1:44,SAS,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,1:41,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,layup,23,6
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,1:18,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,jump,15,19
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,1:16,SAS,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,1:16,MEM,sub,,,,Jamaal Tinsley,,Mike Conley,,,,,,,,,,,,
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,1:16,MEM,sub,,,,Steven Hunter,,Hasheem Thabeet,,,,,,,,,,,,
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,1:01,SAS,shot,Manu Ginobili,,,,,,,,,Roger Mason,3,,,made,,3pt,2,5
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,0:46,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,38,19
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,0:43,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,0:43,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,layup,26,6
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,0:33,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,2,6
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,0:31,MEM,rebound,,,,,,,,,,,,,,,,,,
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,0:12,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,23,13
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,0:11,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,0:03,MEM,foul,,,,,,,,Manu Ginobili,,Zach Randolph,,,,,,personal,,
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,0:00,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,fade away jumper,20,10
+Jamaal Tinsley,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,1,0:00,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,11:44,SAS,turnover,,,,,,,,,,Matt Bonner,,,bad pass,,,,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,11:21,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,jump,19,6
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,11:20,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,11:10,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,40,24
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,11:08,MEM,rebound,,,,,,,,,,,,,,,,,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,10:56,MEM,shot,,,Roger Mason,,,,,,,Jamaal Tinsley,,,,missed,,jump,33,8
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,10:55,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,10:35,SAS,shot,Manu Ginobili,,,,,,,,,Matt Bonner,3,,,made,,3pt,8,24
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,10:13,MEM,shot,Marc Gasol,,,,,,,,,Rudy Gay,2,,,made,,layup,26,6
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,9:54,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,48,6
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,9:52,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,9:41,MEM,turnover,,,,,,,,,,Marc Gasol,,,lost ball,,Matt Bonner,,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,9:34,SAS,shot,Roger Mason,,,,,,,,,Manu Ginobili,3,,,made,,3pt,3,16
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,9:16,MEM,shot,,,,,,,,,,Marc Gasol,2,,,made,,turnaround jump,32,7
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,2,9:02,MEM,foul,,,,,,,,Matt Bonner,,DeMarre Carroll,,,,,,personal,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,2,9:02,SAS,sub,,,,George Hill,,Keith Bogans,,,,,,,,,,,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,2,8:56,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,,,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,2,8:56,MEM,timeout,,,,,,,,,,,,,,,,official,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,2,8:33,MEM,shot,Marc Gasol,,,,,,,,,Jamaal Tinsley,3,,,made,,3pt,32,30
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,2,8:12,SAS,turnover,,,,,,,,,,Matt Bonner,,,lost ball,,Jamaal Tinsley,,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,2,8:06,MEM,shot,Rudy Gay,,,,,,,,,O.J. Mayo,2,,,made,,layup,25,6
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,2,7:51,SAS,shot,Manu Ginobili,,,,,,,,,DeJuan Blair,2,,,made,,layup,26,8
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,2,7:51,MEM,foul,,,,,,,,DeJuan Blair,,DeMarre Carroll,,,,,,shooting,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,2,7:51,SAS,sub,,,,Antonio McDyess,,Matt Bonner,,,,,,,,,,,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,7:51,SAS,sub,,,,Richard Jefferson,,Manu Ginobili,,,,,,,,,,,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,7:51,SAS,free throw,,,,,,,1,,1,DeJuan Blair,,,foul,missed,,,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,7:50,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,7:27,MEM,shot,Jamaal Tinsley,,,,,,,,,DeMarre Carroll,2,,,made,,jump,33,24
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,7:08,SAS,shot,,,,,,,,,,George Hill,,,,missed,,driving reverse layup,23,6
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,7:07,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,7:06,SAS,shot,,,,,,,,,,DeJuan Blair,2,,,made,,dunk,25,6
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,6:56,MEM,turnover,,,,,,,,,,O.J. Mayo,,,bad pass,,DeJuan Blair,,,
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,6:53,SAS,shot,Richard Jefferson,,,,,,,,,George Hill,2,,,made,,layup,23,7
+DeMarre Carroll,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,6:48,MEM,timeout,,,,,,,,,,,,,,,,short,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,6:48,MEM,sub,,,,Zach Randolph,,DeMarre Carroll,,,,,,,,,,,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,6:48,MEM,sub,,,,Sam Young,,Rudy Gay,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,6:48,MEM,sub,,,,Mike Conley,,Jamaal Tinsley,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,6:30,MEM,shot,O.J. Mayo,,,,,,,,,Zach Randolph,2,,,made,,jump,25,10
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,2,6:12,SAS,turnover,,,,,,,,,,George Hill,,,bad pass,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,2,6:12,SAS,sub,,,,Manu Ginobili,,Roger Mason,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,2,5:55,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,driving layup,24,7
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,2,5:55,SAS,foul,,,,,,,,Sam Young,,Richard Jefferson,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,2,5:55,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,5:55,SAS,sub,,,,Tim Duncan,,DeJuan Blair,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,5:55,MEM,free throw,,,,,,,1,,1,Sam Young,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,5:43,SAS,shot,Tim Duncan,,,,,,,,,Richard Jefferson,2,,,made,,jump,31,9
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,5:19,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,turnaround bank,16,8
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,5:01,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,17,14
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,5:00,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:52,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,hook,19,9
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:51,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:42,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,23,24
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:41,SAS,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:35,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,6,21
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:34,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:26,SAS,foul,,,,,,,,Zach Randolph,,Antonio McDyess,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:26,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:26,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:25,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:17,SAS,shot,,,,,,,,,,George Hill,2,,,made,,running layup,21,8
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:17,MEM,foul,,,,,,,,George Hill,,Mike Conley,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:17,SAS,free throw,,,,,,,1,,1,George Hill,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,4:16,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,3:58,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,step back jump,30,22
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,3:37,SAS,shot,Antonio McDyess,,,,,,,,,Tim Duncan,2,,,made,,reverse layup,26,7
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,3:20,MEM,shot,O.J. Mayo,,,,,,,,,Zach Randolph,2,,,made,,layup,23,7
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,3:05,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,39,5
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,3:03,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:56,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,fade away jumper,18,12
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:55,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:37,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,layup,25,9
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:36,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:19,SAS,shot,,,Marc Gasol,,,,,,,Tim Duncan,,,,missed,,jump,29,9
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:19,MEM,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:19,SAS,foul,,,,,,,,Marc Gasol,,Tim Duncan,,,,,,loose ball,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:19,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:19,MEM,sub,,,,Hamed Haddadi,,Marc Gasol,,,,,,,,,,,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:19,MEM,sub,,,,Rudy Gay,,Sam Young,,,,,,,,,,,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:05,MEM,turnover,,,,,,,,,,Rudy Gay,,,lost ball,,Richard Jefferson,,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,2:00,SAS,shot,,,,,,,,,,Antonio McDyess,2,,,made,,layup,25,8
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,1:49,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,driving reverse layup,26,7
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,1:47,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,1:40,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,3pt,36,28
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,1:38,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,1:31,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,layup,22,6
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,1:29,MEM,rebound,,,,,,,,,,Hamed Haddadi,,,,,,off,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,1:29,MEM,shot,,,,,,,,,,Hamed Haddadi,2,,,made,,layup,25,7
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,1:11,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump bank,22,9
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,2,1:11,MEM,foul,,,,,,,,Tim Duncan,,Hamed Haddadi,,,,,,shooting,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,1:11,SAS,sub,,,,Keith Bogans,,Richard Jefferson,,,,,,,,,,,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,1:11,SAS,sub,,,,DeJuan Blair,,Antonio McDyess,,,,,,,,,,,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,1:11,SAS,free throw,,,,,,,1,,1,Tim Duncan,,,foul,made,,,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:54,MEM,shot,,,Tim Duncan,,,,,,,Mike Conley,,,,missed,,jump,23,9
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:51,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:45,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,3,10
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:42,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:41,SAS,shot,,,Hamed Haddadi,,,,,,,DeJuan Blair,,,,missed,,jump,24,9
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:39,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:38,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,2,,,made,,layup,27,8
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:28,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,20,6
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:27,MEM,rebound,,,,,,,,,,Hamed Haddadi,,,,,,def,,
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:26,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,2,,,made,,layup,24,7
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:03,SAS,shot,Keith Bogans,,,,,,,,,Tim Duncan,2,,,made,,jump,23,10
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:00,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,9,27
+Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,2,0:00,MEM,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,11:41,MEM,foul,,,,,,,,Richard Jefferson,,Rudy Gay,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,11:41,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,11:41,SAS,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,11:41,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,11:22,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,running jump,30,10
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,11:21,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,11:10,SAS,shot,George Hill,,,,,,,,,Tim Duncan,2,,,made,,jump,10,8
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,10:48,MEM,turnover,,,,,,,,,,Rudy Gay,,,lost ball,,George Hill,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,10:43,SAS,shot,George Hill,,,,,,,,,Richard Jefferson,2,,,made,,reverse dunk,24,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,10:43,MEM,timeout,,,,,,,,,,,,,,,,short,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,10:26,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,jump,26,11
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,10:25,SAS,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,10:09,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,driving layup,24,8
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,10:08,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,9:52,SAS,shot,George Hill,,,,,,,,,Tim Duncan,2,,,made,,jump,39,13
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,9:27,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,jump,8,7
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,9:00,SAS,turnover,,,,,,,,,,Tim Duncan,,,lost ball,,Rudy Gay,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,8:53,SAS,foul,,,,,,,,Mike Conley,,George Hill,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,8:53,MEM,free throw,,,,,,,1,,2,Mike Conley,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,8:53,MEM,free throw,,,,,,,2,,2,Mike Conley,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,8:37,SAS,shot,,,,,,,,,,George Hill,,,,missed,,layup,23,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,8:35,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,8:35,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,tip,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,8:34,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,8:26,MEM,shot,Mike Conley,,,,,,,,,Marc Gasol,2,,,made,,jump,25,16
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,8:10,MEM,foul,,,,,,,,Tim Duncan,,Marc Gasol,,,,,,personal,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,7:59,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,23,11
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,7:58,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,7:44,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,jump,11,22
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,7:43,SAS,rebound,,,,,,,,,,Keith Bogans,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,7:36,SAS,shot,,,,,,,,,,George Hill,2,,,made,,driving finger roll layup,24,7
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,3,7:11,SAS,foul,,,,,,,,Marc Gasol,,George Hill,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,7:11,SAS,sub,,,,Manu Ginobili,,Keith Bogans,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,7:11,MEM,free throw,,,,,,,1,,2,Marc Gasol,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,7:11,MEM,free throw,,,,,,,2,,2,Marc Gasol,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,6:45,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,pullup jump,12,18
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,6:30,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,turnaround hook,25,12
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,6:30,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,6:16,SAS,shot,,,Rudy Gay,,,,,,,Tim Duncan,,,,missed,,jump,25,9
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,6:15,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,5:55,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,jump,11,14
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,5:54,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,5:39,SAS,shot,George Hill,,,,,,,,,Antonio McDyess,2,,,made,,jump,38,17
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,5:12,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,28,11
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,5:11,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,4:59,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,26,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,4:40,MEM,foul,,,,,,,,George Hill,,O.J. Mayo,,,,,,offensive,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,3,4:40,MEM,turnover,,,,,,,,,,O.J. Mayo,,,foul,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,4:40,SAS,sub,,,,Roger Mason,,George Hill,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,4:25,SAS,shot,Tim Duncan,,,,,,,,,Manu Ginobili,3,,,made,,3pt,4,22
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,4:22,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,4:22,SAS,sub,,,,DeJuan Blair,,Antonio McDyess,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,4:06,MEM,shot,Mike Conley,,,,,,,,,Rudy Gay,2,,,made,,jump,21,10
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,3:50,SAS,shot,Manu Ginobili,,,,,,,,,DeJuan Blair,2,,,made,,reverse layup,24,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,3:33,MEM,turnover,,,,,,,,,,Mike Conley,,,bad pass,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,3:16,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump bank,36,12
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,3:15,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,3:12,SAS,foul,,,,,,,,Zach Randolph,,Roger Mason,,,,,,shooting,,
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,3:12,MEM,sub,,,,Sam Young,,O.J. Mayo,,,,,,,,,,,,
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,3:12,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,3:12,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,2:52,SAS,shot,Manu Ginobili,,,,,,,,,Tim Duncan,2,,,made,,jump bank,32,8
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,2:30,MEM,shot,Marc Gasol,,,,,,,,,Sam Young,2,,,made,,layup,26,6
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,2:07,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,fade away jumper,38,12
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,2:06,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,2:02,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,jump,31,10
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,2:01,SAS,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,3,2:01,MEM,foul,,,,,,,,Tim Duncan,,Marc Gasol,,,,,,loose ball,,
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,Tim Duncan,3,2:00,SAS,sub,,,,Keith Bogans,,Richard Jefferson,,,,,,,,,,,,
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,Tim Duncan,3,1:42,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,jump,32,20
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,Tim Duncan,3,1:41,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,Tim Duncan,3,1:38,SAS,turnover,,,,,,,,,,DeJuan Blair,,,bad pass,,Sam Young,,,
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,Tim Duncan,3,1:32,MEM,shot,,,,,,,,,,Sam Young,,,,missed,,running jump,29,7
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,Tim Duncan,3,1:32,SAS,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,Tim Duncan,3,1:32,MEM,sub,,,,Hasheem Thabeet,,Marc Gasol,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,1:32,SAS,sub,,,,Antonio McDyess,,Tim Duncan,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,1:19,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,layup,26,6
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,1:11,MEM,shot,Mike Conley,,,,,,,,,Sam Young,2,,,made,,layup,25,6
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:49,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,8,24
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:48,SAS,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:48,MEM,foul,,,,,,,,DeJuan Blair,,Hasheem Thabeet,,,,,,loose ball,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:42,SAS,turnover,,,,,,,,,,Keith Bogans,,,bad pass,,Mike Conley,,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:40,SAS,foul,,,,,,,,Mike Conley,,Keith Bogans,,,,,,shooting,,
+Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:40,MEM,free throw,,,,,,,1,,2,Mike Conley,,,foul,made,,,,
+DeMarre Carroll,Hasheem Thabeet,Mike Conley,Rudy Gay,Sam Young,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:40,MEM,sub,,,,DeMarre Carroll,,Zach Randolph,,,,,,,,,,,,
+DeMarre Carroll,Hasheem Thabeet,Mike Conley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:40,MEM,sub,,,,Steven Hunter,,Rudy Gay,,,,,,,,,,,,
+DeMarre Carroll,Hasheem Thabeet,Mike Conley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:40,MEM,free throw,,,,,,,2,,2,Mike Conley,,,foul,missed,,,,
+DeMarre Carroll,Hasheem Thabeet,Mike Conley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:38,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeMarre Carroll,Hasheem Thabeet,Mike Conley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:28,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,layup,23,7
+DeMarre Carroll,Hasheem Thabeet,Mike Conley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:27,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,def,,
+DeMarre Carroll,Hasheem Thabeet,Mike Conley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:11,MEM,shot,,,DeJuan Blair,,,,,,,Steven Hunter,,,,missed,,layup,26,6
+DeMarre Carroll,Hasheem Thabeet,Mike Conley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:10,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,off,,
+DeMarre Carroll,Hasheem Thabeet,Mike Conley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:10,SAS,foul,,,,,,,,Hasheem Thabeet,,DeJuan Blair,,,,,,shooting,,
+DeMarre Carroll,Hasheem Thabeet,Mike Conley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:10,MEM,free throw,,,,,,,1,,2,Hasheem Thabeet,,,foul,missed,,,,
+DeMarre Carroll,Hasheem Thabeet,Mike Conley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:10,MEM,rebound,,,,,,,,,,,,,,,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Keith Bogans,Manu Ginobili,Roger Mason,3,0:10,MEM,sub,,,,Jamaal Tinsley,,Mike Conley,,,,,,,,,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Manu Ginobili,Matt Bonner,Roger Mason,3,0:10,SAS,sub,,,,Matt Bonner,,Keith Bogans,,,,,,,,,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Manu Ginobili,Matt Bonner,Roger Mason,3,0:10,MEM,free throw,,,,,,,2,,2,Hasheem Thabeet,,,foul,made,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Manu Ginobili,Matt Bonner,Roger Mason,3,0:00,SAS,shot,,,Steven Hunter,,,,,,,DeJuan Blair,,,,missed,,layup,23,6
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Manu Ginobili,Matt Bonner,Roger Mason,3,0:00,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,off,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Manu Ginobili,Matt Bonner,Roger Mason,3,0:00,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,layup,23,7
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,Antonio McDyess,DeJuan Blair,Manu Ginobili,Matt Bonner,Roger Mason,3,0:00,MEM,rebound,,,,,,,,,,Steven Hunter,,,,,,def,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,4,11:50,MEM,turnover,,,,,,,,,,DeMarre Carroll,,,bad pass,,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,4,11:28,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,8,17
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,4,11:26,MEM,rebound,,,,,,,,,,Jamaal Tinsley,,,,,,def,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,4,11:14,MEM,shot,,,,,,,,,,DeMarre Carroll,,,,missed,,pullup jump,12,23
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,4,11:13,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Sam Young,Steven Hunter,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,4,11:08,MEM,foul,,,,,,,,Manu Ginobili,,DeMarre Carroll,,,,,,personal,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,4,11:08,MEM,sub,,,,Rudy Gay,,Steven Hunter,,,,,,,,,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,11:08,SAS,sub,,,,Richard Jefferson,,Matt Bonner,,,,,,,,,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,10:50,SAS,shot,,,,,,,,,,George Hill,,,,missed,,layup,24,6
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,10:49,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,off,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,10:49,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,tip,27,6
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,10:45,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,def,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,10:28,SAS,foul,,,,,,,,Hasheem Thabeet,,DeJuan Blair,,,,,,shooting,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,10:28,MEM,free throw,,,,,,,1,,2,Hasheem Thabeet,,,foul,made,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,10:28,MEM,free throw,,,,,,,2,,2,Hasheem Thabeet,,,foul,made,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,10:18,SAS,shot,Manu Ginobili,,,,,,,,,George Hill,2,,,made,,dunk,25,8
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:52,MEM,shot,,,,,,,,,,DeMarre Carroll,,,,missed,,3pt,10,26
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:47,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:39,MEM,foul,,,,,,,,Manu Ginobili,,DeMarre Carroll,,,,,,shooting,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:39,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:39,MEM,sub,,,,O.J. Mayo,,DeMarre Carroll,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:39,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:28,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,pullup jump,35,4
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:27,SAS,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:13,SAS,shot,,,Hasheem Thabeet,,,,,,,Manu Ginobili,,,,missed,,running layup,22,6
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:13,SAS,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:10,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,jump,12,6
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:08,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:08,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,putback layup,19,6
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:08,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,9:08,SAS,foul,,,,,,,,Rudy Gay,,Manu Ginobili,,,,,,personal,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,8:57,MEM,turnover,,,,,,,,,,Rudy Gay,,,lost ball,,Roger Mason,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,8:51,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,alley oop layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,8:51,SAS,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,8:51,SAS,timeout,,,,,,,,,,,,,,,,official,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,8:51,MEM,sub,,,,Zach Randolph,,Hasheem Thabeet,,,,,,,,,,,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,8:51,MEM,sub,,,,Mike Conley,,Jamaal Tinsley,,,,,,,,,,,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,8:39,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,layup,24,7
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,8:38,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,8:38,SAS,shot,,,,,,,,,,DeJuan Blair,2,,,made,,putback layup,24,6
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,8:25,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,layup,23,6
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,8:25,SAS,foul,,,,,,,,Mike Conley,,Richard Jefferson,,,,,,shooting,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,4,8:25,SAS,sub,,,,Tim Duncan,,DeJuan Blair,,,,,,,,,,,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,8:25,SAS,sub,,,,Keith Bogans,,Manu Ginobili,,,,,,,,,,,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,8:25,MEM,free throw,,,,,,,1,,1,Mike Conley,,,foul,made,,,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,8:03,SAS,shot,,,,,,,,,,Roger Mason,3,,,made,,3pt,17,30
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,7:47,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,3,,,made,,3pt,12,26
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,7:27,SAS,turnover,,,,,,,,,,George Hill,,,bad pass,,Zach Randolph,,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,7:24,MEM,turnover,,,,,,,,,,Mike Conley,,,poss lost ball turnover,,,,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,7:00,SAS,shot,Tim Duncan,,,,,,,,,Roger Mason,3,,,made,,3pt,6,23
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,6:38,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,pullup jump,28,22
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,6:19,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,24,31
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,6:18,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,off,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,6:18,MEM,foul,,,,,,,,Richard Jefferson,,Rudy Gay,,,,,,loose ball,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,6:07,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump,34,12
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,5:58,MEM,turnover,,,,,,,,,,Mike Conley,,,bad pass,,George Hill,,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,5:56,MEM,foul,,,,,,,,Roger Mason,,Rudy Gay,,,,,,personal,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,5:56,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,4,5:56,MEM,sub,,,,Marc Gasol,,Sam Young,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,5:56,SAS,sub,,,,Antonio McDyess,,Keith Bogans,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,5:32,SAS,shot,,,,,,,,,,Roger Mason,2,,,made,,pullup jump,9,19
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,5:06,MEM,shot,Marc Gasol,,,,,,,,,O.J. Mayo,3,,,made,,3pt,40,27
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,4:41,SAS,shot,,,Marc Gasol,,,,,,,Tim Duncan,,,,missed,,jump,24,11
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,4:40,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,4:36,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,23,31
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,4:35,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,4:11,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,3pt,12,27
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,4:10,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,4:00,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,36,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,3:59,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,3:54,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,running jump,18,8
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,3:53,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,3:53,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,layup,22,7
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,3:32,SAS,shot,Tim Duncan,,,,,,,,,Roger Mason,3,,,made,,3pt,48,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,3:15,MEM,turnover,,,,,,,,,,O.J. Mayo,,,bad pass,,George Hill,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,3:11,SAS,turnover,,,,,,,,,,Roger Mason,,,bad pass,,Mike Conley,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,3:06,MEM,shot,Rudy Gay,,,,,,,,,O.J. Mayo,2,,,made,,layup,24,8
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,2:43,SAS,shot,,,,,,,,,,George Hill,2,,,made,,pullup jump,8,16
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,2:32,MEM,shot,Mike Conley,,,,,,,,,Zach Randolph,2,,,made,,jump bank,38,7
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,2:11,SAS,turnover,,,,,,,,,,Roger Mason,,,bad pass,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,4,2:11,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,2:11,SAS,sub,,,,Manu Ginobili,,Richard Jefferson,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,1:57,SAS,foul,,,,,,,,Rudy Gay,,Manu Ginobili,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,1:57,MEM,free throw,,,,,,,1,,2,Rudy Gay,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,1:57,MEM,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,1:57,MEM,free throw,,,,,,,2,,2,Rudy Gay,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,1:38,SAS,turnover,,,,,,,,,,Manu Ginobili,,,lost ball,,Rudy Gay,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,1:33,MEM,turnover,,,,,,,,,,Mike Conley,,,poss lost ball turnover,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,1:11,SAS,shot,Tim Duncan,,,,,,,,,Antonio McDyess,2,,,made,,jump,9,7
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,1:04,MEM,shot,Marc Gasol,,,,,,,,,O.J. Mayo,3,,,made,,3pt,26,30
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:38,SAS,turnover,,,,,,,,,,Tim Duncan,,,lost ball,,Marc Gasol,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:38,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:33,SAS,foul,,,,,,,,Mike Conley,,George Hill,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:33,MEM,free throw,,,,,,,1,,2,Mike Conley,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:33,MEM,free throw,,,,,,,2,,2,Mike Conley,,,foul,made,,,,
+DeMarre Carroll,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:33,MEM,sub,,,,DeMarre Carroll,,Marc Gasol,,,,,,,,,,,,
+DeMarre Carroll,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:32,MEM,foul,,,,,,,,George Hill,,DeMarre Carroll,,,,,,personal,,
+DeMarre Carroll,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:32,SAS,free throw,,,,,,,1,,2,George Hill,,,foul,made,,,,
+DeMarre Carroll,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,4,0:32,SAS,sub,,,,Keith Bogans,,Roger Mason,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,4,0:32,MEM,sub,,,,Marc Gasol,,DeMarre Carroll,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,4,0:32,SAS,free throw,,,,,,,2,,2,George Hill,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,4,0:32,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Manu Ginobili,Roger Mason,Tim Duncan,4,0:32,SAS,sub,,,,Roger Mason,,Antonio McDyess,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:32,SAS,sub,,,,Richard Jefferson,,Tim Duncan,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:28,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,4,18
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:27,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:26,MEM,foul,,,,,,,,Roger Mason,,O.J. Mayo,,,,,,personal,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:26,SAS,free throw,,,,,,,1,,2,Roger Mason,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:26,SAS,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:26,SAS,free throw,,,,,,,2,,2,Roger Mason,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:19,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,layup,24,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:19,SAS,timeout,,,,,,,,,,,,,,,,short,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Roger Mason,4,0:19,SAS,sub,,,,Antonio McDyess,,Richard Jefferson,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:19,SAS,sub,,,,Tim Duncan,,Keith Bogans,,,,,,,,,,,,
+DeMarre Carroll,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:19,MEM,sub,,,,DeMarre Carroll,,Marc Gasol,,,,,,,,,,,,
+DeMarre Carroll,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:18,MEM,foul,,,,,,,,Antonio McDyess,,Rudy Gay,,,,,,personal,,
+DeMarre Carroll,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,4,0:18,SAS,free throw,,,,,,,1,,2,Antonio McDyess,,,foul,made,,,,
+DeMarre Carroll,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:18,SAS,sub,,,,Richard Jefferson,,Tim Duncan,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:18,MEM,sub,,,,Marc Gasol,,DeMarre Carroll,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:18,SAS,free throw,,,,,,,2,,2,Antonio McDyess,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:17,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:07,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,3pt,22,32
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,4,0:05,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,

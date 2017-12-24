@@ -1,0 +1,430 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,12:00,OFF,jump ball,,Brad Miller,,,Luis Scola,,,,,,,Derrick Rose,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:43,CHI,shot,Derrick Rose,,,,,,,,,Kirk Hinrich,2,,,made,,jump,23,25
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:21,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,jump,19,24
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:20,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:05,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,42,18
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:04,HOU,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:44,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,driving layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:43,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:43,HOU,foul,,,,,,,,Taj Gibson,,Chuck Hayes,,,,,,loose ball,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:32,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,driving layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:31,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:20,CHI,shot,Taj Gibson,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,42,24
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:56,CHI,foul,,,,,,,,Luis Scola,,Brad Miller,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:56,HOU,free throw,,,,,,,1,,2,Luis Scola,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:56,HOU,free throw,,,,,,,2,,2,Luis Scola,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:43,CHI,shot,Derrick Rose,,,,,,,,,Brad Miller,2,,,made,,jump,19,10
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:43,HOU,foul,,,,,,,,Brad Miller,,Chuck Hayes,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,9:43,HOU,sub,,,,Carl Landry,,Chuck Hayes,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,9:43,CHI,free throw,,,,,,,1,,1,Brad Miller,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,9:26,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,18,30
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,9:25,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,9:11,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,18,24
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,9:10,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:55,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,44,23
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:54,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:51,HOU,shot,,,Kirk Hinrich,,,,,,,Shane Battier,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:49,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:40,CHI,shot,Luol Deng,,,,,,,,,Taj Gibson,2,,,made,,dunk,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:28,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,driving layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:27,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:21,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,reverse layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:20,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:15,CHI,foul,,,,,,,,Aaron Brooks,,Derrick Rose,,,,,,personal,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:08,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,16,28
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:07,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:02,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,35,20
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,8:01,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,7:55,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,driving reverse layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,7:48,CHI,turnover,,,,,,,,,,Derrick Rose,,,lost ball,,Trevor Ariza,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,7:46,HOU,shot,Trevor Ariza,,,,,,,,,Luis Scola,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,7:46,CHI,foul,,,,,,,,Luis Scola,,Brad Miller,,,,,,shooting,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,7:46,CHI,sub,,,,Tyrus Thomas,,Brad Miller,,,,,,,,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,7:46,HOU,free throw,,,,,,,1,,1,Luis Scola,,,foul,missed,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,7:46,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,7:28,CHI,shot,,,,,,,,,,Tyrus Thomas,2,,,made,,jump,23,15
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,7:09,HOU,shot,,,,,,,,,,Carl Landry,,,,missed,,jump,15,11
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,7:08,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,6:53,CHI,turnover,,,,,,,,,,Taj Gibson,,,step out of bounds turnover,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,6:38,CHI,foul,,,,,,,,,,Tyrus Thomas,,,,,,defense 3 second,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,6:38,HOU,free throw,,,,,,,1,,1,Aaron Brooks,,,technical,made,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,6:29,HOU,shot,,,,,,,,,,Shane Battier,2,,,made,,turnaround hook,32,9
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,6:16,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,34,22
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,6:15,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,6:03,HOU,shot,,,Tyrus Thomas,,,,,,,Carl Landry,,,,missed,,driving layup,25,6
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,6:02,HOU,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:53,HOU,shot,,,Tyrus Thomas,,,,,,,Trevor Ariza,,,,missed,,jump,16,20
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:51,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,off,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:51,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,jump,15,20
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:51,HOU,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:51,HOU,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:51,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:51,CHI,sub,,,,John Salmons,,Kirk Hinrich,,,,,,,,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:40,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,running jump,32,11
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:40,HOU,foul,,,,,,,,Luol Deng,,Aaron Brooks,,,,,,shooting,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:40,CHI,free throw,,,,,,,1,,1,Luol Deng,,,foul,made,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:25,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,jump,24,22
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,5:02,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,pullup jump,11,7
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,4:42,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,jump,8,9
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,4:41,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,4:23,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,32,11
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,4:22,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,4:17,HOU,shot,,,,,,,,,,Aaron Brooks,3,,,made,,3pt,12,28
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,4:00,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,3pt,2,7
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,3:59,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,3:46,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,jump,3,13
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,3:44,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,3:42,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,layup,25,6
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,1,3:42,HOU,foul,,,,,,,,Derrick Rose,,Aaron Brooks,,,,,,shooting,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,1,3:42,HOU,sub,,,,Kyle Lowry,,Shane Battier,,,,,,,,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,1,3:42,CHI,free throw,,,,,,,1,,1,Derrick Rose,,,foul,made,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,1,3:29,HOU,shot,Kyle Lowry,,,,,,,,,Luis Scola,2,,,made,,hook,30,12
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,1,3:11,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,driving layup,25,6
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,1,3:05,HOU,shot,,,Derrick Rose,,,,,,,Aaron Brooks,,,,missed,,driving layup,25,6
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,1,3:04,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:58,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,6,22
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:56,HOU,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:55,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:55,HOU,sub,,,,Chase Budinger,,Aaron Brooks,,,,,,,,,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:55,CHI,sub,,,,Kirk Hinrich,,Derrick Rose,,,,,,,,,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:37,HOU,shot,Luis Scola,,,,,,,,,Trevor Ariza,2,,,made,,layup,25,6
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:17,CHI,turnover,,,,,,,,,,Luol Deng,,,bad pass,,Trevor Ariza,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:14,CHI,foul,,,,,,,,Trevor Ariza,,Luol Deng,,,,,,personal,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:02,HOU,shot,,,Tyrus Thomas,,,,,,,Carl Landry,,,,missed,,layup,25,6
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:01,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,off,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:55,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,45,21
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:54,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:44,HOU,foul,,,,,,,,Taj Gibson,,Luis Scola,,,,,,shooting,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:44,CHI,free throw,,,,,,,1,,2,Taj Gibson,,,foul,made,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:44,CHI,sub,,,,James Johnson,,Luol Deng,,,,,,,,,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:44,CHI,free throw,,,,,,,2,,2,Taj Gibson,,,foul,made,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:27,HOU,shot,Luis Scola,,,,,,,,,Kyle Lowry,3,,,made,,3pt,43,22
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:16,CHI,shot,Tyrus Thomas,,,,,,,,,Taj Gibson,2,,,made,,slam dunk,25,6
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:07,HOU,shot,,,,,,,,,,Kyle Lowry,,,,missed,,running jump,31,13
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:05,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:58,CHI,shot,Kirk Hinrich,,,,,,,,,John Salmons,3,,,made,,3pt,2,8
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:46,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,jump,41,18
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:44,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:36,CHI,foul,,,,,,,,Kyle Lowry,,Tyrus Thomas,,,,,,offensive,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:36,CHI,turnover,,,,,,,,,,Tyrus Thomas,,,foul,,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,1,0:36,HOU,sub,,,,David Andersen,,Luis Scola,,,,,,,,,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,1,0:27,HOU,shot,,,James Johnson,,,,,,,Kyle Lowry,,,,missed,,pullup jump,14,12
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,1,0:26,CHI,rebound,,,,,,,,,,James Johnson,,,,,,def,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,1,0:06,CHI,shot,,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,29,31
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,1,0:00,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,fade away jumper,14,10
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,1,0:00,HOU,rebound,,,,,,,,,,,,,,,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,11:45,HOU,shot,Shane Battier,,,,,,,,,Chase Budinger,2,,,made,,layup,25,6
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,11:23,CHI,shot,Kirk Hinrich,,,,,,,,,Taj Gibson,2,,,made,,layup,25,6
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,11:11,HOU,shot,Chase Budinger,,,,,,,,,Carl Landry,2,,,made,,jump,19,24
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,10:56,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,jump,20,24
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,10:55,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,def,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,10:41,CHI,foul,,,,,,,,Carl Landry,,Taj Gibson,,,,,,personal,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,10:27,HOU,shot,,,,,,,,,,David Andersen,,,,missed,,turnaround hook,30,12
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,10:26,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,10:02,CHI,shot,Kirk Hinrich,,,,,,,,,Tyrus Thomas,2,,,made,,jump,5,6
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:55,CHI,foul,,,,,,,,Chase Budinger,,James Johnson,,,,,,shooting,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:55,HOU,free throw,,,,,,,1,,2,Chase Budinger,,,foul,made,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:55,HOU,free throw,,,,,,,2,,2,Chase Budinger,,,foul,made,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:42,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,36,17
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:42,CHI,rebound,,,,,,,,,,,,,,,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:42,HOU,foul,,,,,,,,Taj Gibson,,Kyle Lowry,,,,,,personal,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:42,CHI,sub,,,,Brad Miller,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:31,CHI,shot,,,,,,,,,,James Johnson,,,,missed,,turnaround fade away,39,11
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:30,HOU,rebound,,,,,,,,,,Kyle Lowry,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:23,HOU,shot,Kyle Lowry,,,,,,,,,David Andersen,2,,,made,,layup,25,6
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:23,CHI,foul,,,,,,,,David Andersen,,Kirk Hinrich,,,,,,shooting,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:23,HOU,free throw,,,,,,,1,,1,David Andersen,,,foul,made,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,9:09,CHI,shot,,,,,,,,,,Tyrus Thomas,2,,,made,,jump bank,26,12
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:57,CHI,foul,,,,,,,,Kyle Lowry,,Tyrus Thomas,,,,,,shooting,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:57,HOU,timeout,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:57,CHI,sub,,,,Derrick Rose,,James Johnson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:57,HOU,free throw,,,,,,,1,,2,Kyle Lowry,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:57,HOU,free throw,,,,,,,2,,2,Kyle Lowry,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:47,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,driving layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:47,HOU,foul,,,,,,,,Brad Miller,,Carl Landry,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:47,CHI,sub,,,,Luol Deng,,Tyrus Thomas,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:47,CHI,free throw,,,,,,,1,,1,Brad Miller,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:34,HOU,shot,,,Brad Miller,,,,,,,Chase Budinger,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:32,HOU,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:31,CHI,foul,,,,,,,,Carl Landry,,John Salmons,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:31,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:31,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:21,HOU,foul,,,,,,,,Derrick Rose,,Kyle Lowry,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:21,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:21,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,8:00,HOU,shot,Shane Battier,,,,,,,,,Carl Landry,2,,,made,,driving reverse layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,7:48,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,driving layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,7:35,HOU,shot,Kyle Lowry,,,,,,,,,Chase Budinger,3,,,made,,3pt,2,9
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,7:21,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,22,25
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,7:20,HOU,rebound,,,,,,,,,,Kyle Lowry,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,7:04,HOU,turnover,,,,,,,,,,David Andersen,,,bad pass,,Brad Miller,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,7:00,HOU,foul,,,,,,,,Luol Deng,,David Andersen,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Shane Battier,2,7:00,CHI,sub,,,,Taj Gibson,,Kirk Hinrich,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:00,HOU,sub,,,,Aaron Brooks,,Shane Battier,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,7:00,HOU,sub,,,,Luis Scola,,David Andersen,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,7:00,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,missed,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,7:00,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,7:00,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,6:47,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,jump,20,25
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,6:46,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,6:36,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,fade away jumper,11,11
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,6:14,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,jump,9,11
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,6:01,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,25,11
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,6:00,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,5:49,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,running bank,21,11
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,5:38,HOU,shot,,,,,,,,,,Carl Landry,,,,missed,,jump,39,19
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,5:37,HOU,rebound,,,,,,,,,,Kyle Lowry,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,5:33,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,jump,41,10
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,5:32,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,5:25,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,5:14,CHI,foul,,,,,,,,Kyle Lowry,,Brad Miller,,,,,,offensive,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,5:14,CHI,turnover,,,,,,,,,,Brad Miller,,,foul,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,5:14,CHI,sub,,,,Tyrus Thomas,,Brad Miller,,,,,,,,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,4:53,HOU,shot,,,,,,,,,,Carl Landry,,,,missed,,turnaround fade away,21,15
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,4:52,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,4:36,CHI,shot,Derrick Rose,,,,,,,,,Taj Gibson,2,,,made,,driving layup,25,6
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,4:25,HOU,shot,,,,,,,,,,Aaron Brooks,3,,,made,,3pt,32,30
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,4:06,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,fade away jumper,30,23
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,3:52,HOU,shot,Kyle Lowry,,,,,,,,,Luis Scola,2,,,made,,jump,29,24
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,3:32,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,driving layup,25,6
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,3:16,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,jump,31,22
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,3:16,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,3:12,CHI,shot,Derrick Rose,,,,,,,,,Taj Gibson,2,,,made,,dunk,25,6
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,2,3:12,HOU,foul,,,,,,,,Derrick Rose,,Kyle Lowry,,,,,,loose ball,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,2,3:12,HOU,sub,,,,Trevor Ariza,,Kyle Lowry,,,,,,,,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,2,3:12,CHI,sub,,,,Kirk Hinrich,,John Salmons,,,,,,,,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,2,3:12,CHI,free throw,,,,,,,1,,1,Derrick Rose,,,foul,missed,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,2,3:11,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,2,2:48,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,3pt,11,27
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,2,2:47,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,2,2:36,CHI,foul,,,,,,,,Luis Scola,,Derrick Rose,,,,,,offensive,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,2,2:36,CHI,turnover,,,,,,,,,,Derrick Rose,,,foul,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,2,2:36,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,2,2:36,HOU,sub,,,,Chuck Hayes,,Carl Landry,,,,,,,,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:36,HOU,sub,,,,Shane Battier,,Chase Budinger,,,,,,,,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:17,HOU,turnover,,,,,,,,,,Aaron Brooks,,,bad pass,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:04,CHI,shot,Kirk Hinrich,,,,,,,,,Luol Deng,2,,,made,,jump,7,18
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:40,HOU,shot,,,Tyrus Thomas,,,,,,,Luis Scola,,,,missed,,jump,25,15
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:40,HOU,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:38,CHI,foul,,,,,,,,Luis Scola,,Tyrus Thomas,,,,,,shooting,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:38,HOU,free throw,,,,,,,1,,2,Luis Scola,,,foul,made,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:38,CHI,sub,,,,John Salmons,,Tyrus Thomas,,,,,,,,,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:38,HOU,free throw,,,,,,,2,,2,Luis Scola,,,foul,made,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:15,CHI,shot,Kirk Hinrich,,,,,,,,,Luol Deng,2,,,made,,jump,16,24
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:59,HOU,shot,,,,,,,,,,Chuck Hayes,,,,missed,,jump,26,14
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:58,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,off,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:51,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,driving layup,25,6
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:29,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,pullup jump,39,15
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:16,HOU,shot,,,Taj Gibson,,,,,,,Aaron Brooks,,,,missed,,driving layup,25,6
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:13,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,off,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:13,HOU,shot,,,,,,,,,,Luis Scola,2,,,made,,layup,25,6
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:01,CHI,foul,,,,,,,,Chuck Hayes,,Derrick Rose,,,,,,offensive,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:01,CHI,turnover,,,,,,,,,,Derrick Rose,,,foul,,,,,
+Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:01,CHI,sub,,,,Jannero Pargo,,Derrick Rose,,,,,,,,,,,,
+Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:00,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,47,51
+Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:00,HOU,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:43,HOU,shot,Aaron Brooks,,,,,,,,,Chuck Hayes,2,,,made,,driving layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:16,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,22,26
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:16,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:58,HOU,shot,,,,,,,,,,Luis Scola,2,,,made,,finger roll layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:44,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,32,23
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:43,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:34,HOU,shot,Chuck Hayes,,,,,,,,,Aaron Brooks,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:27,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:14,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,28,23
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:13,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:49,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,13,28
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:48,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:39,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,4,21
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:38,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:31,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,6,22
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:29,HOU,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:29,CHI,foul,,,,,,,,Shane Battier,,Kirk Hinrich,,,,,,loose ball,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:16,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,driving layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:11,HOU,foul,,,,,,,,Derrick Rose,,Chuck Hayes,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:11,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:11,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:11,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:55,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,turnaround hook,17,9
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:54,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:41,CHI,shot,,,Shane Battier,,,,,,,Kirk Hinrich,,,,missed,,driving layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:39,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:28,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,jump,21,23
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:27,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:16,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,pullup jump,25,13
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:00,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,jump hook,25,14
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:59,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:50,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:47,HOU,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:31,CHI,foul,,,,,,,,Trevor Ariza,,Luol Deng,,,,,,personal,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:26,HOU,turnover,,,,,,,,,,Chuck Hayes,,,bad pass,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:15,HOU,foul,,,,,,,,Taj Gibson,,Luis Scola,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:15,CHI,free throw,,,,,,,1,,2,Taj Gibson,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:15,CHI,free throw,,,,,,,2,,2,Taj Gibson,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:02,CHI,foul,,,,,,,,Shane Battier,,Kirk Hinrich,,,,,,personal,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Chuck Hayes,Kyle Lowry,Luis Scola,Trevor Ariza,3,7:02,HOU,sub,,,,Kyle Lowry,,Shane Battier,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,7:02,HOU,sub,,,,Carl Landry,,Chuck Hayes,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,6:57,HOU,turnover,,,,,,,,,,Kyle Lowry,,,out of bounds lost ball turnover,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,6:45,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,jump,17,21
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,6:17,HOU,shot,,,,,,,,,,Kyle Lowry,,,,missed,,3pt,19,30
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,6:16,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,5:56,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,jump,21,14
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,5:38,HOU,shot,Carl Landry,,,,,,,,,Luis Scola,2,,,made,,turnaround hook,22,12
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,5:24,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,17,20
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,5:23,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,5:09,CHI,turnover,,,,,,,,,,Derrick Rose,,,bad pass,,Trevor Ariza,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,5:07,CHI,foul,,,,,,,,Trevor Ariza,,Derrick Rose,,,,,,shooting,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,5:07,CHI,sub,,,,John Salmons,,Derrick Rose,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,5:07,HOU,free throw,,,,,,,1,,2,Trevor Ariza,,,foul,made,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,5:07,CHI,sub,,,,Tyrus Thomas,,Brad Miller,,,,,,,,,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,5:07,HOU,free throw,,,,,,,2,,2,Trevor Ariza,,,foul,missed,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,5:07,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,off,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,4:59,HOU,shot,,,Tyrus Thomas,,,,,,,Luis Scola,,,,missed,,layup,25,6
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,4:57,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,4:45,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,39,22
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,4:44,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,4:42,CHI,foul,,,,,,,,Luis Scola,,Luol Deng,,,,,,offensive,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,4:42,CHI,turnover,,,,,,,,,,Luol Deng,,,foul,,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,4:26,HOU,turnover,,,,,,,,,,Carl Landry,,,3 second violation,,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,4:08,CHI,shot,Taj Gibson,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,22,30
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,3:54,HOU,shot,Aaron Brooks,,,,,,,,,Trevor Ariza,3,,,made,,3pt,42,25
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Kyle Lowry,Luis Scola,Trevor Ariza,3,3:33,CHI,turnover,,,,,,,,,,Luol Deng,,,3 second violation,,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,3:33,HOU,sub,,,,Chase Budinger,,Aaron Brooks,,,,,,,,,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,3:17,HOU,shot,Chase Budinger,,,,,,,,,Carl Landry,2,,,made,,turnaround jump,12,9
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,2:49,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,pullup jump,9,23
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,2:27,HOU,shot,,,Tyrus Thomas,,,,,,,Trevor Ariza,,,,missed,,layup,25,6
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,2:25,HOU,rebound,,,,,,,,,,,,,,,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,2:25,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,2:23,HOU,turnover,,,,,,,,,,Carl Landry,,,bad pass,,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,2:04,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,driving layup,25,6
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,1:49,HOU,shot,,,,,,,,,,Chase Budinger,3,,,made,,3pt,22,32
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,1:33,HOU,foul,,,,,,,,Tyrus Thomas,,Luis Scola,,,,,,personal,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,1:23,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,33,20
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,1:22,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,1:09,CHI,foul,,,,,,,,Chase Budinger,,Luol Deng,,,,,,shooting,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,1:09,HOU,free throw,,,,,,,1,,2,Chase Budinger,,,foul,made,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,1:09,CHI,sub,,,,James Johnson,,Luol Deng,,,,,,,,,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,1:09,HOU,free throw,,,,,,,2,,2,Chase Budinger,,,foul,made,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,0:48,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,running jump,31,12
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,0:45,CHI,rebound,,,,,,,,,,James Johnson,,,,,,off,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,0:41,CHI,turnover,,,,,,,,,,James Johnson,,,out of bounds lost ball turnover,,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,0:41,HOU,turnover,,,,,,,,,,Kyle Lowry,,,bad pass,,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,0:29,CHI,turnover,,,,,,,,,,Tyrus Thomas,,,traveling,,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,0:06,CHI,foul,,,,,,,,Luis Scola,,Tyrus Thomas,,,,,,shooting,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,0:06,HOU,free throw,,,,,,,1,,2,Luis Scola,,,foul,made,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,3,0:06,HOU,free throw,,,,,,,2,,2,Luis Scola,,,foul,made,,,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:45,HOU,foul,,,,,,,,John Salmons,,Luis Scola,,,,,,personal,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:32,CHI,shot,Kirk Hinrich,,,,,,,,,John Salmons,3,,,made,,3pt,6,22
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:13,CHI,foul,,,,,,,,Luis Scola,,James Johnson,,,,,,personal,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:04,HOU,shot,Kyle Lowry,,,,,,,,,Chase Budinger,3,,,made,,3pt,49,14
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:41,HOU,foul,,,,,,,,Kirk Hinrich,,Kyle Lowry,,,,,,shooting,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:41,CHI,sub,,,,Luol Deng,,James Johnson,,,,,,,,,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:41,CHI,free throw,,,,,,,1,,2,Kirk Hinrich,,,foul,missed,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:41,CHI,rebound,,,,,,,,,,,,,,,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:41,CHI,free throw,,,,,,,2,,2,Kirk Hinrich,,,foul,made,,,,
+John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:34,CHI,foul,,,,,,,,Luis Scola,,Taj Gibson,,,,,,personal,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:27,CHI,sub,,,,Brad Miller,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:25,CHI,sub,,,,Derrick Rose,,Kirk Hinrich,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:20,HOU,shot,,,,,,,,,,Luis Scola,2,,,made,,running layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,9:54,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,driving reverse layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,9:31,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,turnaround jump,17,9
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,9:30,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,9:29,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,9:10,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,driving layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,9:09,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,9:03,HOU,shot,,,,,,,,,,Kyle Lowry,,,,missed,,jump,33,22
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,9:02,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:45,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,15,19
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:45,HOU,rebound,,,,,,,,,,Kyle Lowry,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:39,HOU,shot,,,,,,,,,,Kyle Lowry,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:37,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:37,HOU,shot,,,,,,,,,,Trevor Ariza,2,,,made,,putback slam dunk,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:37,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,8:37,HOU,sub,,,,Shane Battier,,Luis Scola,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,8:37,CHI,sub,,,,Taj Gibson,,Tyrus Thomas,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,8:23,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,pullup jump,38,19
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,7:57,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,driving layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,7:40,CHI,shot,John Salmons,,,,,,,,,Brad Miller,3,,,made,,3pt,1,9
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,7:17,HOU,shot,,,Luol Deng,,,,,,,Shane Battier,,,,missed,,running jump,13,11
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,7:16,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,7:02,CHI,foul,,,,,,,,Kyle Lowry,,Taj Gibson,,,,,,offensive,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,7:02,CHI,turnover,,,,,,,,,,Taj Gibson,,,foul,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,7:02,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,6:51,CHI,foul,,,,,,,,Carl Landry,,Luol Deng,,,,,,personal,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,6:51,HOU,foul,,,,,,,,,,Carl Landry,,,,,,technical,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,6:51,CHI,free throw,,,,,,,1,,1,Brad Miller,,,technical,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,6:51,CHI,sub,,,,Kirk Hinrich,,Luol Deng,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,6:38,HOU,shot,,,,,,,,,,Carl Landry,,,,missed,,jump,36,14
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,6:37,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,6:15,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,fade away jumper,44,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,6:14,HOU,rebound,,,,,,,,,,Kyle Lowry,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,6:06,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,3pt,18,31
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Shane Battier,Trevor Ariza,4,6:06,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,6:06,HOU,sub,,,,Luis Scola,,Shane Battier,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,6:06,HOU,sub,,,,Aaron Brooks,,Kyle Lowry,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,5:49,CHI,shot,Kirk Hinrich,,,,,,,,,Brad Miller,3,,,made,,3pt,17,30
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,5:34,HOU,turnover,,,,,,,,,,Aaron Brooks,,,bad pass,,John Salmons,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,5:23,CHI,shot,Brad Miller,,,,,,,,,Taj Gibson,2,,,made,,slam dunk,25,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,5:21,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,5:08,CHI,foul,,,,,,,,Carl Landry,,Taj Gibson,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,5:08,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,5:08,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,4:56,CHI,shot,,,Carl Landry,,,,,,,Kirk Hinrich,,,,missed,,running layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,4:54,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,4:48,HOU,shot,Chase Budinger,,,,,,,,,Carl Landry,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,4:48,CHI,foul,,,,,,,,Carl Landry,,John Salmons,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,4:48,HOU,free throw,,,,,,,1,,1,Carl Landry,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,4:24,CHI,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,4:07,HOU,turnover,,,,,,,,,,Aaron Brooks,,,bad pass,,Kirk Hinrich,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,4:01,CHI,jump ball,,Kirk Hinrich,,,Aaron Brooks,,,,,,,Derrick Rose,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,3:47,HOU,foul,,,,,,,,Brad Miller,,Luis Scola,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,3:47,CHI,free throw,,,,,,,1,,2,Brad Miller,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,3:47,CHI,free throw,,,,,,,2,,2,Brad Miller,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,3:40,CHI,violation,,,,,,,,,,Derrick Rose,,,,,,kicked ball,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,3:36,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,38,30
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,3:35,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,3:22,HOU,foul,,,,,,,,Taj Gibson,,Trevor Ariza,,,,,,personal,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,3:07,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,44,18
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,3:06,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,2:51,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,14,29
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,2:50,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,2:26,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,23,26
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,2:25,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,2:18,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,2:18,CHI,sub,,,,Luol Deng,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,2:08,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,18,30
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,2:07,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,1:56,HOU,shot,Trevor Ariza,,,,,,,,,Carl Landry,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,1:56,CHI,foul,,,,,,,,Carl Landry,,Brad Miller,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,1:56,HOU,free throw,,,,,,,1,,1,Carl Landry,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,1:41,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,driving layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,1:40,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,1:36,HOU,shot,,,,,,,,,,Aaron Brooks,3,,,made,,3pt,26,30
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,1:21,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,1:20,HOU,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,1:20,CHI,sub,,,,Taj Gibson,,John Salmons,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,1:08,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,37,29
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,1:08,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:48,HOU,foul,,,,,,,,Taj Gibson,,Carl Landry,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:48,CHI,free throw,,,,,,,1,,2,Taj Gibson,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:48,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:48,CHI,free throw,,,,,,,2,,2,Taj Gibson,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:48,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:30,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,step back jump,32,15
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:30,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:30,CHI,sub,,,,Tyrus Thomas,,Brad Miller,,,,,,,,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:23,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,driving layup,25,6
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:23,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:19,HOU,foul,,,,,,,,Derrick Rose,,Chase Budinger,,,,,,personal,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,4,0:19,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,made,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:19,HOU,sub,,,,Shane Battier,,Luis Scola,,,,,,,,,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:19,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,made,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:12,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,48,11
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:11,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:10,HOU,foul,,,,,,,,Tyrus Thomas,,Shane Battier,,,,,,personal,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:10,CHI,free throw,,,,,,,1,,2,Tyrus Thomas,,,foul,made,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:10,CHI,free throw,,,,,,,2,,2,Tyrus Thomas,,,foul,missed,,,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:09,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:03,HOU,shot,,,,,,,,,,Shane Battier,,,,missed,,3pt,17,31
+Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:02,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,

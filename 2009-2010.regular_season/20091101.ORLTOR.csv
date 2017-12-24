@@ -1,0 +1,468 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,12:00,OFF,jump ball,,Dwight Howard,,,Chris Bosh,,,,,,,Jameer Nelson,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,11:41,ORL,shot,,,,,,,,,,Dwight Howard,2,,,made,,layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,11:22,TOR,turnover,,,,,,,,,,Chris Bosh,,,lost ball,,Dwight Howard,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,11:09,ORL,turnover,,,,,,,,,,Dwight Howard,,,traveling,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,10:51,TOR,shot,,,,,,,,,,Jose Calderon,,,,missed,,3pt,6,22
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,10:49,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,10:43,ORL,shot,Matt Barnes,,,,,,,,,Jameer Nelson,2,,,made,,driving finger roll layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,10:33,TOR,shot,,,,,,,,,,Jose Calderon,2,,,made,,driving layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,10:17,ORL,shot,,,,,,,,,,Matt Barnes,,,,missed,,3pt,2,9
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,10:16,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:55,TOR,shot,,,,,,,,,,Andrea Bargnani,,,,missed,,driving hook,27,13
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:54,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:46,ORL,shot,,,Andrea Bargnani,,,,,,,Jameer Nelson,,,,missed,,driving layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:45,TOR,rebound,,,,,,,,,,Andrea Bargnani,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:38,ORL,foul,,,,,,,,Chris Bosh,,Ryan Anderson,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:38,TOR,free throw,,,,,,,1,,2,Chris Bosh,,,foul,missed,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:38,TOR,rebound,,,,,,,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:38,TOR,free throw,,,,,,,2,,2,Chris Bosh,,,foul,missed,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:37,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:16,ORL,shot,,,,,,,,,,J.J. Redick,,,,missed,,3pt,7,24
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:15,ORL,rebound,,,,,,,,,,Ryan Anderson,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:13,ORL,shot,,,,,,,,,,Ryan Anderson,,,,missed,,tip,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:11,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,9:05,TOR,shot,Jose Calderon,,,,,,,,,Chris Bosh,3,,,made,,3pt,34,30
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:48,ORL,shot,,,,,,,,,,J.J. Redick,,,,missed,,jump,37,20
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:46,ORL,rebound,,,,,,,,,,Ryan Anderson,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:44,ORL,shot,,,,,,,,,,Ryan Anderson,,,,missed,,tip,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:43,ORL,rebound,,,,,,,,,,Ryan Anderson,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:42,ORL,shot,,,,,,,,,,Ryan Anderson,,,,missed,,tip,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:41,TOR,rebound,,,,,,,,,,Hedo Turkoglu,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:30,TOR,turnover,,,,,,,,,,Andrea Bargnani,,,lost ball,,Matt Barnes,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:26,TOR,foul,,,,,,,,Matt Barnes,,Hedo Turkoglu,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:26,ORL,free throw,,,,,,,1,,2,Matt Barnes,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:26,ORL,free throw,,,,,,,2,,2,Matt Barnes,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:12,TOR,turnover,,,,,,,,,,Hedo Turkoglu,,,bad pass,,Matt Barnes,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,8:05,ORL,turnover,,,,,,,,,,Matt Barnes,,,bad pass,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,7:48,TOR,shot,,,,,,,,,,Andrea Bargnani,2,,,made,,pullup jump,32,22
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,7:24,ORL,shot,Dwight Howard,,,,,,,,,J.J. Redick,3,,,made,,3pt,46,19
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,7:08,TOR,shot,,,,,,,,,,Chris Bosh,,,,missed,,fade away jumper,25,14
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,7:07,ORL,rebound,,,,,,,,,,J.J. Redick,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,7:00,ORL,shot,Jameer Nelson,,,,,,,,,Ryan Anderson,3,,,made,,3pt,47,18
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,6:39,TOR,shot,Hedo Turkoglu,,,,,,,,,Chris Bosh,2,,,made,,fade away jumper,11,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,6:27,ORL,shot,,,,,,,,,,Ryan Anderson,,,,missed,,3pt,31,30
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,6:26,TOR,rebound,,,,,,,,,,DeMar DeRozan,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,6:19,TOR,shot,,,,,,,,,,DeMar DeRozan,,,,missed,,driving layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,6:17,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,6:15,TOR,shot,,,Matt Barnes,,,,,,,Chris Bosh,,,,missed,,hook,30,9
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,6:15,TOR,rebound,,,,,,,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,6:06,TOR,shot,Jose Calderon,,,,,,,,,DeMar DeRozan,3,,,made,,3pt,2,7
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,5:42,ORL,shot,,,,,,,,,,Dwight Howard,2,,,made,,driving hook,20,12
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,5:24,TOR,shot,,,Matt Barnes,,,,,,,Chris Bosh,,,,missed,,jump,26,10
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,5:23,ORL,rebound,,,,,,,,,,J.J. Redick,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,5:18,ORL,shot,J.J. Redick,,,,,,,,,Ryan Anderson,3,,,made,,3pt,3,19
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,5:17,TOR,timeout,,,,,,,,,,,,,,,,regular,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,1,5:17,TOR,foul,,,,,,,,,,Chris Bosh,,,,,,technical,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,5:17,TOR,sub,,,,Rasho Nesterovic,,Chris Bosh,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,5:17,ORL,free throw,,,,,,,1,,1,Jameer Nelson,,,technical,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,5:03,TOR,shot,Jose Calderon,,,,,,,,,Rasho Nesterovic,2,,,made,,reverse layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,4:42,ORL,turnover,,,,,,,,,,Jameer Nelson,,,bad pass,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,4:28,TOR,shot,,,,,,,,,,Hedo Turkoglu,2,,,made,,driving layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,4:16,TOR,foul,,,,,,,,J.J. Redick,,DeMar DeRozan,,,,,,personal,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,4:06,ORL,shot,,,Rasho Nesterovic,,,,,,,Dwight Howard,,,,missed,,driving hook,23,14
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,4:03,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,4:01,ORL,shot,,,Rasho Nesterovic,,,,,,,Dwight Howard,,,,missed,,layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,3:59,TOR,rebound,,,,,,,,,,Hedo Turkoglu,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,3:47,TOR,shot,,,,,,,,,,Rasho Nesterovic,,,,missed,,turnaround jump,22,13
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,3:45,ORL,rebound,,,,,,,,,,J.J. Redick,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,3:37,ORL,shot,J.J. Redick,,,,,,,,,Ryan Anderson,3,,,made,,3pt,9,24
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,3:21,TOR,shot,Jose Calderon,,,,,,,,,Andrea Bargnani,2,,,made,,layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,3:07,ORL,shot,Matt Barnes,,,,,,,,,J.J. Redick,3,,,made,,3pt,48,5
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,2:46,TOR,turnover,,,,,,,,,,Jose Calderon,,,bad pass,,Matt Barnes,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,2:41,ORL,shot,Jameer Nelson,,,,,,,,,J.J. Redick,2,,,made,,running layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,2:18,TOR,shot,,,,,,,,,,Hedo Turkoglu,,,,missed,,jump,12,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,2:17,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,2:12,TOR,foul,,,,,,,,Dwight Howard,,Rasho Nesterovic,,,,,,personal,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,2:12,ORL,timeout,,,,,,,,,,,,,,,,regular,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,2:12,ORL,sub,,,,Marcin Gortat,,Dwight Howard,,,,,,,,,,,,
+Anthony Johnson,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Andrea Bargnani,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,2:12,ORL,sub,,,,Anthony Johnson,,J.J. Redick,,,,,,,,,,,,
+Anthony Johnson,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,2:12,TOR,sub,,,,Chris Bosh,,Andrea Bargnani,,,,,,,,,,,,
+Anthony Johnson,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,1,2:12,TOR,sub,,,,Antoine Wright,,DeMar DeRozan,,,,,,,,,,,,
+Anthony Johnson,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Rasho Nesterovic,1,2:12,TOR,sub,,,,Jarrett Jack,,Jose Calderon,,,,,,,,,,,,
+Anthony Johnson,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Rasho Nesterovic,1,1:58,ORL,shot,Anthony Johnson,,,,,,,,,Jameer Nelson,3,,,made,,3pt,37,27
+Anthony Johnson,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Rasho Nesterovic,1,1:43,TOR,shot,,,,,,,,,,Chris Bosh,2,,,made,,layup,25,6
+Anthony Johnson,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Rasho Nesterovic,1,1:43,ORL,foul,,,,,,,,Chris Bosh,,Marcin Gortat,,,,,,shooting,,
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Rasho Nesterovic,1,1:43,ORL,sub,,,,Brandon Bass,,Ryan Anderson,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Rasho Nesterovic,1,1:43,TOR,free throw,,,,,,,1,,1,Chris Bosh,,,foul,made,,,,
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Rasho Nesterovic,1,1:31,ORL,shot,Jameer Nelson,,,,,,,,,Brandon Bass,2,,,made,,jump,41,7
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Rasho Nesterovic,1,1:12,TOR,shot,Antoine Wright,,,,,,,,,Jarrett Jack,3,,,made,,3pt,41,24
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Rasho Nesterovic,1,0:54,ORL,shot,,,,,,,,,,Brandon Bass,,,,missed,,jump,44,10
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Rasho Nesterovic,1,0:54,TOR,rebound,,,,,,,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Rasho Nesterovic,1,0:54,ORL,foul,,,,,,,,Chris Bosh,,Marcin Gortat,,,,,,loose ball,,
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,1,0:54,TOR,sub,,,,Marco Belinelli,,Hedo Turkoglu,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,1,0:54,TOR,free throw,,,,,,,1,,2,Chris Bosh,,,foul,made,,,,
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,1,0:54,TOR,free throw,,,,,,,2,,2,Chris Bosh,,,foul,made,,,,
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,1,0:42,ORL,shot,Jameer Nelson,,,,,,,,,Matt Barnes,2,,,made,,pullup jump,16,21
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,1,0:36,TOR,turnover,,,,,,,,,,Jarrett Jack,,,lost ball,,Jameer Nelson,,,
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,1,0:30,TOR,violation,,,,,,,,,,Rasho Nesterovic,,,,,,kicked ball,,
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,1,0:18,ORL,shot,Marcin Gortat,,,,,,,,,Jameer Nelson,3,,,made,,3pt,20,30
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,1,0:01,TOR,shot,,,,,,,,,,Jarrett Jack,2,,,made,,pullup jump,32,24
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,1,0:00,ORL,shot,,,,,,,,,,Matt Barnes,,,,missed,,3pt,31,51
+Anthony Johnson,Brandon Bass,Jameer Nelson,Marcin Gortat,Matt Barnes,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,1,0:00,ORL,rebound,,,,,,,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,11:47,TOR,shot,,,Brandon Bass,,,,,,,Chris Bosh,,,,missed,,jump,32,13
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,11:45,ORL,rebound,,,,,,,,,,Marcin Gortat,,,,,,def,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,11:40,ORL,shot,Jason Williams,,,,,,,,,J.J. Redick,3,,,made,,3pt,2,17
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,11:23,TOR,shot,,,,,,,,,,Antoine Wright,,,,missed,,running jump,32,9
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,11:22,TOR,rebound,,,,,,,,,,Rasho Nesterovic,,,,,,off,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,11:21,TOR,shot,,,,,,,,,,Rasho Nesterovic,2,,,made,,tip,25,6
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,10:59,ORL,shot,Brandon Bass,,,,,,,,,Anthony Johnson,2,,,made,,pullup jump,41,6
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,10:49,TOR,turnover,,,,,,,,,,Marco Belinelli,,,traveling,,,,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,10:26,ORL,shot,,,,,,,,,,Marcin Gortat,,,,missed,,driving hook,28,13
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,10:25,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,10:15,TOR,shot,Jarrett Jack,,,,,,,,,Chris Bosh,2,,,made,,jump,9,11
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,10:04,ORL,shot,,,,,,,,,,Brandon Bass,,,,missed,,jump,30,26
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,10:03,ORL,rebound,,,,,,,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,10:03,TOR,foul,,,,,,,,Marcin Gortat,,Chris Bosh,,,,,,loose ball,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,9:43,ORL,shot,Anthony Johnson,,,,,,,,,Jason Williams,2,,,made,,running jump,16,12
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,9:27,TOR,shot,,,Brandon Bass,,,,,,,Chris Bosh,,,,missed,,turnaround fade away,39,8
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,9:25,ORL,rebound,,,,,,,,,,Brandon Bass,,,,,,def,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,9:13,ORL,shot,,,,,,,,,,Brandon Bass,2,,,made,,jump hook,25,9
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,9:05,TOR,turnover,,,,,,,,,,Jarrett Jack,,,traveling,,,,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,8:46,ORL,shot,Jason Williams,,,,,,,,,J.J. Redick,2,,,made,,driving layup,25,6
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,8:46,TOR,foul,,,,,,,,J.J. Redick,,Jarrett Jack,,,,,,shooting,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Antoine Wright,Chris Bosh,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,8:46,ORL,timeout,,,,,,,,,,,,,,,,official,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Andrea Bargnani,Antoine Wright,Jarrett Jack,Marco Belinelli,Rasho Nesterovic,2,8:46,TOR,sub,,,,Andrea Bargnani,,Chris Bosh,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Amir Johnson,Andrea Bargnani,Antoine Wright,Jarrett Jack,Marco Belinelli,2,8:46,TOR,sub,,,,Amir Johnson,,Rasho Nesterovic,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Amir Johnson,Andrea Bargnani,Antoine Wright,Jarrett Jack,Marco Belinelli,2,8:46,ORL,free throw,,,,,,,1,,1,J.J. Redick,,,foul,missed,,,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Amir Johnson,Andrea Bargnani,Antoine Wright,Jarrett Jack,Marco Belinelli,2,8:45,TOR,rebound,,,,,,,,,,Marco Belinelli,,,,,,def,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Amir Johnson,Andrea Bargnani,Antoine Wright,Jarrett Jack,Marco Belinelli,2,8:33,ORL,foul,,,,,,,,Amir Johnson,,Marcin Gortat,,,,,,personal,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Amir Johnson,Andrea Bargnani,Antoine Wright,Jarrett Jack,Marco Belinelli,2,8:33,ORL,sub,,,,Dwight Howard,,Marcin Gortat,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Amir Johnson,Andrea Bargnani,Antoine Wright,Jarrett Jack,Marco Belinelli,2,8:23,TOR,shot,,,,,,,,,,Marco Belinelli,,,,missed,,pullup jump,42,11
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Amir Johnson,Andrea Bargnani,Antoine Wright,Jarrett Jack,Marco Belinelli,2,8:22,ORL,rebound,,,,,,,,,,Brandon Bass,,,,,,def,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Amir Johnson,Andrea Bargnani,Antoine Wright,Jarrett Jack,Marco Belinelli,2,8:16,TOR,foul,,,,,,,,Dwight Howard,,Antoine Wright,,,,,,shooting,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Amir Johnson,Andrea Bargnani,Antoine Wright,Jarrett Jack,Marco Belinelli,2,8:16,ORL,free throw,,,,,,,1,,2,Dwight Howard,,,foul,made,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Jarrett Jack,Marco Belinelli,2,8:16,ORL,sub,,,,Ryan Anderson,,Brandon Bass,,,,,,,,,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,8:16,TOR,sub,,,,Hedo Turkoglu,,Marco Belinelli,,,,,,,,,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,8:16,ORL,free throw,,,,,,,2,,2,Dwight Howard,,,foul,made,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,8:06,TOR,foul,,,,,,,,Ryan Anderson,,Amir Johnson,,,,,,offensive,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,8:06,TOR,turnover,,,,,,,,,,Amir Johnson,,,foul,,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,7:52,TOR,foul,,,,,,,,Dwight Howard,,Andrea Bargnani,,,,,,shooting,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,7:52,ORL,free throw,,,,,,,1,,2,Dwight Howard,,,foul,made,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,7:52,ORL,free throw,,,,,,,2,,2,Dwight Howard,,,foul,made,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,7:35,TOR,shot,,,,,,,,,,Hedo Turkoglu,,,,missed,,fade away jumper,40,12
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,7:33,TOR,rebound,,,,,,,,,,Amir Johnson,,,,,,off,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,7:27,TOR,shot,,,,,,,,,,Andrea Bargnani,,,,missed,,hook bank,16,10
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,7:25,ORL,rebound,,,,,,,,,,Ryan Anderson,,,,,,def,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,7:09,ORL,shot,Anthony Johnson,,,,,,,,,J.J. Redick,3,,,made,,3pt,48,9
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Hedo Turkoglu,Jarrett Jack,2,7:03,TOR,timeout,,,,,,,,,,,,,,,,regular,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,2,7:03,TOR,sub,,,,Chris Bosh,,Jarrett Jack,,,,,,,,,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,7:03,TOR,sub,,,,Jose Calderon,,Amir Johnson,,,,,,,,,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:50,TOR,shot,,,,,,,,,,Hedo Turkoglu,2,,,made,,running bank,29,13
+Anthony Johnson,Dwight Howard,J.J. Redick,Jason Williams,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:50,ORL,foul,,,,,,,,Hedo Turkoglu,,J.J. Redick,,,,,,shooting,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:50,ORL,sub,,,,Brandon Bass,,Ryan Anderson,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:50,TOR,free throw,,,,,,,1,,1,Hedo Turkoglu,,,foul,made,,,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:36,TOR,foul,,,,,,,,Dwight Howard,,Andrea Bargnani,,,,,,shooting,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:36,ORL,sub,,,,Matt Barnes,,Anthony Johnson,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:36,ORL,free throw,,,,,,,1,,2,Dwight Howard,,,foul,made,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:36,ORL,free throw,,,,,,,2,,2,Dwight Howard,,,foul,made,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:23,TOR,shot,Hedo Turkoglu,,,,,,,,,Antoine Wright,2,,,made,,layup,25,6
+Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:09,ORL,shot,,,,,,,,,,Jason Williams,,,,missed,,3pt,3,18
+Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:08,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:00,ORL,foul,,,,,,,,Andrea Bargnani,,Brandon Bass,,,,,,personal,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,6:00,ORL,sub,,,,Jameer Nelson,,Jason Williams,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:52,TOR,shot,,,,,,,,,,Antoine Wright,,,,missed,,pullup jump,7,5
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:52,TOR,rebound,,,,,,,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:52,ORL,foul,,,,,,,,Chris Bosh,,Brandon Bass,,,,,,loose ball,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:45,TOR,shot,,,,,,,,,,Antoine Wright,,,,missed,,driving layup,25,6
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:43,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:36,ORL,shot,,,,,,,,,,J.J. Redick,,,,missed,,3pt,31,31
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:35,TOR,rebound,,,,,,,,,,Hedo Turkoglu,,,,,,def,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:23,ORL,foul,,,,,,,,Chris Bosh,,Dwight Howard,,,,,,shooting,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:23,TOR,free throw,,,,,,,1,,2,Chris Bosh,,,foul,missed,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:23,TOR,rebound,,,,,,,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:23,TOR,sub,,,,Amir Johnson,,Andrea Bargnani,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:23,TOR,free throw,,,,,,,2,,2,Chris Bosh,,,foul,made,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:04,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,3pt,45,20
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,5:03,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,4:54,TOR,shot,Jose Calderon,,,,,,,,,Chris Bosh,2,,,made,,running finger roll layup,25,6
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,4:47,ORL,timeout,,,,,,,,,,,,,,,,regular,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,4:34,ORL,shot,,,,,,,,,,J.J. Redick,,,,missed,,jump,43,8
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,4:33,ORL,rebound,,,,,,,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,4:18,ORL,shot,,,,,,,,,,Dwight Howard,,,,missed,,jump hook,25,12
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,4:17,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,4:15,TOR,timeout,,,,,,,,,,,,,,,,short,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,4:02,ORL,foul,,,,,,,,Chris Bosh,,Dwight Howard,,,,,,shooting,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,4:02,TOR,free throw,,,,,,,1,,2,Chris Bosh,,,foul,made,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,4:02,TOR,free throw,,,,,,,2,,2,Chris Bosh,,,foul,missed,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,4:01,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,3:42,TOR,foul,,,,,,,,Dwight Howard,,Jose Calderon,,,,,,personal,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,3:42,ORL,free throw,,,,,,,1,,2,Dwight Howard,,,foul,made,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,3:42,ORL,free throw,,,,,,,2,,2,Dwight Howard,,,foul,missed,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,3:41,TOR,rebound,,,,,,,,,,Antoine Wright,,,,,,def,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,3:27,TOR,shot,Antoine Wright,,,,,,,,,Amir Johnson,2,,,made,,slam dunk,25,6
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,3:05,ORL,shot,,,Hedo Turkoglu,,,,,,,Dwight Howard,,,,missed,,hook,16,8
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,3:03,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,off,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:59,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,running bank,15,10
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:58,TOR,rebound,,,,,,,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:43,TOR,turnover,,,,,,,,,,Chris Bosh,,,bad pass,,Matt Barnes,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:39,ORL,shot,,,,,,,,,,Matt Barnes,,,,missed,,driving finger roll layup,25,6
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:37,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,off,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:35,ORL,shot,,,Hedo Turkoglu,,,,,,,Dwight Howard,,,,missed,,layup,25,6
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:34,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,off,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:32,ORL,shot,,,,,,,,,,Matt Barnes,,,,missed,,layup,25,6
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:31,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:23,TOR,shot,Hedo Turkoglu,,,,,,,,,Antoine Wright,3,,,made,,3pt,44,21
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:21,ORL,timeout,,,,,,,,,,,,,,,,short,,
+Brandon Bass,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:21,ORL,sub,,,,Ryan Anderson,,Dwight Howard,,,,,,,,,,,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:21,ORL,sub,,,,Marcin Gortat,,Brandon Bass,,,,,,,,,,,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:21,TOR,violation,,,,,,,,,,,,,,,,delay of game,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:05,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,pullup jump,32,27
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,2:04,TOR,rebound,,,,,,,,,,Amir Johnson,,,,,,def,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,1:53,TOR,shot,,,,,,,,,,Chris Bosh,2,,,made,,driving slam dunk,25,6
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,1:42,ORL,shot,,,,,,,,,,Jameer Nelson,2,,,made,,driving layup,25,6
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,1:28,TOR,turnover,,,,,,,,,,Amir Johnson,,,lost ball,,Jameer Nelson,,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,1:14,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,running bank,13,10
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,1:12,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,1:05,TOR,shot,,,,,,,,,,Jose Calderon,2,,,made,,pullup jump,6,8
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,0:47,TOR,foul,,,,,,,,J.J. Redick,,Amir Johnson,,,,,,shooting,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,0:47,ORL,free throw,,,,,,,1,,2,J.J. Redick,,,foul,made,,,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,0:47,TOR,sub,,,,Andrea Bargnani,,Amir Johnson,,,,,,,,,,,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,0:47,ORL,free throw,,,,,,,2,,2,J.J. Redick,,,foul,made,,,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,0:40,TOR,shot,,,,,,,,,,Jose Calderon,2,,,made,,driving layup,25,6
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,0:22,ORL,shot,J.J. Redick,,,,,,,,,Matt Barnes,3,,,made,,3pt,11,27
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,0:03,ORL,foul,,,,,,,,Jose Calderon,,Jameer Nelson,,,,,,shooting,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,0:03,TOR,free throw,,,,,,,1,,2,Jose Calderon,,,foul,missed,,,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,0:03,TOR,rebound,,,,,,,,,,,,,,,,,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jose Calderon,2,0:03,TOR,sub,,,,Amir Johnson,,Andrea Bargnani,,,,,,,,,,,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Jarrett Jack,Jose Calderon,2,0:03,TOR,sub,,,,Jarrett Jack,,Hedo Turkoglu,,,,,,,,,,,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Jarrett Jack,Jose Calderon,2,0:03,TOR,free throw,,,,,,,2,,2,Jose Calderon,,,foul,made,,,,
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Jarrett Jack,Jose Calderon,2,0:00,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,3pt,37,39
+J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Jarrett Jack,Jose Calderon,2,0:00,ORL,rebound,,,,,,,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,11:45,TOR,shot,Jose Calderon,,,,,,,,,DeMar DeRozan,2,,,made,,jump,22,24
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,11:26,TOR,foul,,,,,,,,Ryan Anderson,,DeMar DeRozan,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,11:26,ORL,free throw,,,,,,,1,,2,Ryan Anderson,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,11:26,ORL,free throw,,,,,,,2,,2,Ryan Anderson,,,foul,missed,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,11:26,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,11:05,TOR,shot,,,,,,,,,,Chris Bosh,,,,missed,,jump,37,8
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,11:04,ORL,rebound,,,,,,,,,,Ryan Anderson,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,10:49,TOR,foul,,,,,,,,,,DeMar DeRozan,,,,,,defense 3 second,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,10:49,ORL,free throw,,,,,,,1,,1,Jameer Nelson,,,technical,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,10:39,ORL,shot,,,,,,,,,,Dwight Howard,,,,missed,,hook,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,10:38,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,10:29,TOR,shot,Hedo Turkoglu,,,,,,,,,Chris Bosh,3,,,made,,3pt,38,28
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,10:09,TOR,foul,,,,,,,,J.J. Redick,,DeMar DeRozan,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,10:09,ORL,free throw,,,,,,,1,,2,J.J. Redick,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,10:09,ORL,free throw,,,,,,,2,,2,J.J. Redick,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:56,TOR,shot,Chris Bosh,,,,,,,,,Hedo Turkoglu,3,,,made,,3pt,47,19
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:41,TOR,foul,,,,,,,,Matt Barnes,,Andrea Bargnani,,,,,,personal,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:33,ORL,shot,,,,,,,,,,Ryan Anderson,,,,missed,,3pt,41,25
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:31,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:20,ORL,shot,,,,,,,,,,J.J. Redick,,,,missed,,driving layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:19,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:19,TOR,foul,,,,,,,,Dwight Howard,,Hedo Turkoglu,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:19,ORL,free throw,,,,,,,1,,2,Dwight Howard,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:19,ORL,free throw,,,,,,,2,,2,Dwight Howard,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:09,TOR,turnover,,,,,,,,,,Andrea Bargnani,,,lost ball,,Matt Barnes,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:01,ORL,shot,Matt Barnes,,,,,,,,,Dwight Howard,2,,,made,,layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:01,TOR,foul,,,,,,,,Dwight Howard,,Chris Bosh,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,9:01,ORL,free throw,,,,,,,1,,1,Dwight Howard,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,8:49,TOR,shot,,,,,,,,,,Hedo Turkoglu,2,,,made,,step back jump,42,7
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,8:30,ORL,shot,,,,,,,,,,Ryan Anderson,,,,missed,,3pt,15,29
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,8:29,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,8:17,ORL,foul,,,,,,,,Chris Bosh,,J.J. Redick,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,8:17,TOR,free throw,,,,,,,1,,2,Chris Bosh,,,foul,missed,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,3,8:17,TOR,rebound,,,,,,,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,8:17,TOR,sub,,,,Rasho Nesterovic,,Andrea Bargnani,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,8:17,TOR,free throw,,,,,,,2,,2,Chris Bosh,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,7:59,ORL,shot,,,,,,,,,,Dwight Howard,,,,missed,,driving hook,28,11
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,7:58,TOR,rebound,,,,,,,,,,Rasho Nesterovic,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,7:41,TOR,shot,,,,,,,,,,Hedo Turkoglu,2,,,made,,step back jump,23,20
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,7:33,TOR,foul,,,,,,,,Jameer Nelson,,Rasho Nesterovic,,,,,,personal,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,7:33,ORL,free throw,,,,,,,1,,2,Jameer Nelson,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,7:33,ORL,free throw,,,,,,,2,,2,Jameer Nelson,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,7:11,TOR,shot,,,,,,,,,,Jose Calderon,,,,missed,,jump,8,21
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,7:10,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,7:01,ORL,shot,,,,,,,,,,Jameer Nelson,3,,,made,,3pt,24,31
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,6:46,TOR,shot,Rasho Nesterovic,,,,,,,,,Hedo Turkoglu,2,,,made,,floating jump,41,12
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,6:35,ORL,shot,Matt Barnes,,,,,,,,,Ryan Anderson,3,,,made,,3pt,33,33
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,6:15,TOR,shot,,,,,,,,,,Jose Calderon,,,,missed,,jump,16,26
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,6:14,ORL,rebound,,,,,,,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,6:01,ORL,turnover,,,,,,,,,,Matt Barnes,,,lost ball,,Hedo Turkoglu,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,5:46,ORL,foul,,,,,,,,Chris Bosh,,Ryan Anderson,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,DeMar DeRozan,Hedo Turkoglu,Jose Calderon,Rasho Nesterovic,3,5:46,TOR,timeout,,,,,,,,,,,,,,,,regular,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,5:46,TOR,sub,,,,Jarrett Jack,,DeMar DeRozan,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,5:46,TOR,free throw,,,,,,,1,,2,Chris Bosh,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,5:46,TOR,free throw,,,,,,,2,,2,Chris Bosh,,,foul,missed,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,5:46,ORL,rebound,,,,,,,,,,Jameer Nelson,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,5:28,ORL,shot,,,,,,,,,,Jameer Nelson,3,,,made,,3pt,17,31
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,5:15,ORL,foul,,,,,,,,Hedo Turkoglu,,Matt Barnes,,,,,,personal,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,5:08,ORL,foul,,,,,,,,Jose Calderon,,Jameer Nelson,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,5:08,TOR,free throw,,,,,,,1,,3,Jose Calderon,,,foul,missed,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,5:08,TOR,rebound,,,,,,,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,5:08,TOR,free throw,,,,,,,2,,3,Jose Calderon,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,5:08,TOR,free throw,,,,,,,3,,3,Jose Calderon,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,4:54,ORL,shot,,,,,,,,,,Jameer Nelson,3,,,made,,3pt,39,25
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,4:35,TOR,shot,,,Dwight Howard,,,,,,,Chris Bosh,,,,missed,,running jump,16,10
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,4:33,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,4:12,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,3pt,15,29
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,4:11,TOR,rebound,,,,,,,,,,Jose Calderon,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,3:58,ORL,foul,,,,,,,,Chris Bosh,,Ryan Anderson,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,3:58,TOR,free throw,,,,,,,1,,2,Chris Bosh,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,3:58,TOR,free throw,,,,,,,2,,2,Chris Bosh,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,3:41,TOR,foul,,,,,,,,Dwight Howard,,Rasho Nesterovic,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,Rasho Nesterovic,3,3:41,TOR,sub,,,,Andrea Bargnani,,Chris Bosh,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,3:41,TOR,sub,,,,Amir Johnson,,Rasho Nesterovic,,,,,,,,,,,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,3:41,ORL,sub,,,,Anthony Johnson,,J.J. Redick,,,,,,,,,,,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,3:41,ORL,free throw,,,,,,,1,,2,Dwight Howard,,,foul,made,,,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,3:41,ORL,free throw,,,,,,,2,,2,Dwight Howard,,,foul,made,,,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,3:41,ORL,foul,,,,,,,,Andrea Bargnani,,Matt Barnes,,,,,,loose ball,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,3:41,ORL,foul,,,,,,,,Andrea Bargnani,,Matt Barnes,,,,,,technical,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,3:41,TOR,free throw,,,,,,,1,,1,Jose Calderon,,,technical,made,,,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,3:41,TOR,free throw,,,,,,,1,,2,Andrea Bargnani,,,foul,made,,,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,3:41,TOR,free throw,,,,,,,2,,2,Andrea Bargnani,,,foul,made,,,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,3:27,ORL,shot,Ryan Anderson,,,,,,,,,Dwight Howard,2,,,made,,hook bank,19,9
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,3:08,TOR,shot,Amir Johnson,,,,,,,,,Andrea Bargnani,3,,,made,,3pt,15,30
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,2:43,TOR,foul,,,,,,,,Jameer Nelson,,Amir Johnson,,,,,,shooting,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Hedo Turkoglu,Jarrett Jack,Jose Calderon,3,2:43,ORL,timeout,,,,,,,,,,,,,,,,regular,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,DeMar DeRozan,Jarrett Jack,Jose Calderon,3,2:43,TOR,sub,,,,DeMar DeRozan,,Hedo Turkoglu,,,,,,,,,,,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,2:43,TOR,sub,,,,Antoine Wright,,Jose Calderon,,,,,,,,,,,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,2:43,ORL,free throw,,,,,,,1,,2,Jameer Nelson,,,foul,missed,,,,
+Anthony Johnson,Dwight Howard,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,2:43,ORL,rebound,,,,,,,,,,,,,,,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jameer Nelson,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,2:43,ORL,sub,,,,J.J. Redick,,Matt Barnes,,,,,,,,,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jameer Nelson,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,2:43,ORL,free throw,,,,,,,2,,2,Jameer Nelson,,,foul,made,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jameer Nelson,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,2:24,TOR,shot,,,,,,,,,,Antoine Wright,2,,,made,,pullup jump,10,21
+Anthony Johnson,Dwight Howard,J.J. Redick,Jameer Nelson,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,2:07,ORL,shot,,,,,,,,,,Ryan Anderson,2,,,made,,jump bank,33,10
+Anthony Johnson,Dwight Howard,J.J. Redick,Jameer Nelson,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,1:55,TOR,shot,Antoine Wright,,,,,,,,,Andrea Bargnani,3,,,made,,3pt,34,29
+Anthony Johnson,Dwight Howard,J.J. Redick,Jameer Nelson,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,1:33,ORL,turnover,,,,,,,,,,Dwight Howard,,,bad pass,,,,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jameer Nelson,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,1:30,ORL,foul,,,,,,,,Andrea Bargnani,,Ryan Anderson,,,,,,personal,,
+Anthony Johnson,Dwight Howard,J.J. Redick,Jameer Nelson,Ryan Anderson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,1:30,TOR,free throw,,,,,,,1,,2,Andrea Bargnani,,,foul,made,,,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,1:30,ORL,sub,,,,Brandon Bass,,Ryan Anderson,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,1:30,TOR,free throw,,,,,,,2,,2,Andrea Bargnani,,,foul,made,,,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,1:18,ORL,turnover,,,,,,,,,,Jameer Nelson,,,bad pass,,Antoine Wright,,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,1:12,TOR,shot,,,,,,,,,,Antoine Wright,,,,missed,,driving layup,25,6
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,1:11,TOR,rebound,,,,,,,,,,DeMar DeRozan,,,,,,off,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,1:09,TOR,shot,,,,,,,,,,DeMar DeRozan,2,,,made,,layup,25,6
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:54,ORL,shot,Jameer Nelson,,,,,,,,,J.J. Redick,3,,,made,,3pt,10,25
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:41,ORL,foul,,,,,,,,DeMar DeRozan,,Dwight Howard,,,,,,shooting,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:41,TOR,free throw,,,,,,,1,,2,DeMar DeRozan,,,foul,missed,,,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:41,TOR,rebound,,,,,,,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:41,TOR,free throw,,,,,,,2,,2,DeMar DeRozan,,,foul,made,,,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:19,TOR,foul,,,,,,,,Anthony Johnson,,Antoine Wright,,,,,,shooting,,
+Anthony Johnson,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:19,ORL,free throw,,,,,,,1,,2,Anthony Johnson,,,foul,made,,,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jameer Nelson,Marcin Gortat,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:19,ORL,sub,,,,Marcin Gortat,,Dwight Howard,,,,,,,,,,,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jameer Nelson,Marcin Gortat,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:19,ORL,free throw,,,,,,,2,,2,Anthony Johnson,,,foul,made,,,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jameer Nelson,Marcin Gortat,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:01,TOR,shot,,,,,,,,,,Jarrett Jack,,,,missed,,running jump,15,8
+Anthony Johnson,Brandon Bass,J.J. Redick,Jameer Nelson,Marcin Gortat,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:00,TOR,rebound,,,,,,,,,,DeMar DeRozan,,,,,,off,,
+Anthony Johnson,Brandon Bass,J.J. Redick,Jameer Nelson,Marcin Gortat,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:00,TOR,shot,,,,,,,,,,DeMar DeRozan,,,,missed,,layup,25,6
+Anthony Johnson,Brandon Bass,J.J. Redick,Jameer Nelson,Marcin Gortat,Amir Johnson,Andrea Bargnani,Antoine Wright,DeMar DeRozan,Jarrett Jack,3,0:00,TOR,rebound,,,,,,,,,,,,,,,,,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,11:47,ORL,shot,Jason Williams,,,,,,,,,J.J. Redick,2,,,made,,jump,5,9
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,11:30,ORL,foul,,,,,,,,Chris Bosh,,Matt Barnes,,,,,,shooting,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,11:30,TOR,free throw,,,,,,,1,,2,Chris Bosh,,,foul,made,,,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,11:30,TOR,free throw,,,,,,,2,,2,Chris Bosh,,,foul,made,,,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,11:16,ORL,turnover,,,,,,,,,,J.J. Redick,,,out of bounds lost ball turnover,,,,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,11:10,ORL,foul,,,,,,,,Andrea Bargnani,,Matt Barnes,,,,,,shooting,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,11:10,TOR,free throw,,,,,,,1,,2,Andrea Bargnani,,,foul,made,,,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,11:10,TOR,free throw,,,,,,,2,,2,Andrea Bargnani,,,foul,made,,,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,10:48,ORL,shot,,,,,,,,,,Brandon Bass,2,,,made,,turnaround jump,32,13
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,10:37,TOR,shot,,,,,,,,,,Antoine Wright,,,,missed,,3pt,5,21
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,10:36,ORL,rebound,,,,,,,,,,J.J. Redick,,,,,,def,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,10:27,ORL,shot,,,,,,,,,,J.J. Redick,,,,missed,,3pt,25,33
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,10:26,TOR,rebound,,,,,,,,,,Andrea Bargnani,,,,,,def,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,10:17,TOR,shot,Jarrett Jack,,,,,,,,,Andrea Bargnani,3,,,made,,3pt,25,31
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,10:03,ORL,shot,,,,,,,,,,Brandon Bass,,,,missed,,jump,35,24
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,10:01,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,off,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,10:00,TOR,foul,,,,,,,,Matt Barnes,,Antoine Wright,,,,,,shooting,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,10:00,ORL,free throw,,,,,,,1,,2,Matt Barnes,,,foul,made,,,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,10:00,ORL,free throw,,,,,,,2,,2,Matt Barnes,,,foul,made,,,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,9:47,TOR,shot,,,,,,,,,,Chris Bosh,,,,missed,,jump hook,25,10
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,9:46,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,9:30,ORL,shot,,,,,,,,,,Matt Barnes,,,,missed,,3pt,14,29
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,9:29,TOR,rebound,,,,,,,,,,Jarrett Jack,,,,,,def,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,9:23,TOR,shot,,,,,,,,,,Hedo Turkoglu,,,,missed,,3pt,41,24
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,9:22,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,9:08,ORL,shot,,,,,,,,,,Marcin Gortat,,,,missed,,turnaround hook,35,10
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,9:07,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,def,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,8:55,TOR,shot,,,,,,,,,,Chris Bosh,,,,missed,,jump hook,21,12
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,8:54,TOR,rebound,,,,,,,,,,Antoine Wright,,,,,,off,,
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,8:50,TOR,shot,Antoine Wright,,,,,,,,,Andrea Bargnani,3,,,made,,3pt,26,31
+Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,8:49,ORL,timeout,,,,,,,,,,,,,,,,regular,,
+Brandon Bass,J.J. Redick,Jason Williams,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,8:49,ORL,sub,,,,Ryan Anderson,,Marcin Gortat,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,8:49,ORL,sub,,,,Dwight Howard,,Brandon Bass,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,8:34,ORL,shot,J.J. Redick,,,,,,,,,Ryan Anderson,3,,,made,,3pt,24,31
+Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,8:19,ORL,foul,,,,,,,,Chris Bosh,,J.J. Redick,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,8:19,TOR,free throw,,,,,,,1,,2,Chris Bosh,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,8:19,TOR,free throw,,,,,,,2,,2,Chris Bosh,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,7:55,ORL,shot,,,,,,,,,,Ryan Anderson,,,,missed,,jump,7,10
+Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,7:54,TOR,rebound,,,,,,,,,,Andrea Bargnani,,,,,,def,,
+Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,7:47,ORL,foul,,,,,,,,Chris Bosh,,Ryan Anderson,,,,,,personal,,
+Dwight Howard,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,7:47,ORL,sub,,,,Marcin Gortat,,Ryan Anderson,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,7:43,TOR,turnover,,,,,,,,,,Jarrett Jack,,,bad pass,,Dwight Howard,,,
+Dwight Howard,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,7:30,ORL,shot,J.J. Redick,,,,,,,,,Matt Barnes,3,,,made,,3pt,2,6
+Dwight Howard,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,7:14,TOR,shot,,,,,,,,,,Chris Bosh,2,,,made,,driving slam dunk,25,6
+Dwight Howard,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,6:50,ORL,turnover,,,,,,,,,,Matt Barnes,,,out of bounds lost ball turnover,,,,,
+Dwight Howard,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,6:32,TOR,shot,,,,,,,,,,Hedo Turkoglu,2,,,made,,driving layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,6:15,ORL,sub,,,,Jameer Nelson,,Jason Williams,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,6:06,ORL,shot,,,,,,,,,,Marcin Gortat,,,,missed,,jump,14,7
+Dwight Howard,J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,6:04,TOR,rebound,,,,,,,,,,Jarrett Jack,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,6:00,TOR,shot,,,,,,,,,,Andrea Bargnani,,,,missed,,jump,28,28
+Dwight Howard,J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,6:00,ORL,rebound,,,,,,,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,6:00,TOR,foul,,,,,,,,Matt Barnes,,Hedo Turkoglu,,,,,,loose ball,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,5:44,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,jump,45,8
+Dwight Howard,J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,5:43,TOR,rebound,,,,,,,,,,Jarrett Jack,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,5:27,TOR,shot,,,,,,,,,,Chris Bosh,2,,,made,,jump,33,20
+Dwight Howard,J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,5:12,TOR,foul,,,,,,,,Dwight Howard,,Chris Bosh,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Marcin Gortat,Matt Barnes,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,5:12,ORL,timeout,,,,,,,,,,,,,,,,official,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,5:12,ORL,sub,,,,Ryan Anderson,,Marcin Gortat,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,5:12,TOR,sub,,,,Jose Calderon,,Antoine Wright,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,5:12,ORL,free throw,,,,,,,1,,2,Dwight Howard,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,5:12,ORL,free throw,,,,,,,2,,2,Dwight Howard,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,4:57,TOR,turnover,,,,,,,,,,Chris Bosh,,,bad pass,,Matt Barnes,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,4:56,TOR,foul,,,,,,,,Matt Barnes,,Chris Bosh,,,,,,personal,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,4:44,ORL,turnover,,,,,,,,,,Dwight Howard,,,3 second violation,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,4:30,TOR,shot,,,,,,,,,,Andrea Bargnani,2,,,made,,driving layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,4:18,ORL,shot,,,,,,,,,,Jameer Nelson,2,,,made,,driving layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,4:05,TOR,shot,,,,,,,,,,Andrea Bargnani,2,,,made,,driving layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,3:46,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,driving layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,3:43,ORL,rebound,,,,,,,,,,Ryan Anderson,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,3:42,ORL,shot,,,,,,,,,,Ryan Anderson,2,,,made,,putback dunk,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,3:22,TOR,turnover,,,,,,,,,,Jarrett Jack,,,bad pass,,J.J. Redick,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,3:10,ORL,shot,,,,,,,,,,Matt Barnes,,,,missed,,3pt,27,31
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,3:09,TOR,rebound,,,,,,,,,,Jose Calderon,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:49,TOR,shot,,,,,,,,,,Jose Calderon,,,,missed,,3pt,2,10
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:48,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:46,TOR,shot,,,,,,,,,,Chris Bosh,,,,missed,,tip,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:45,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:29,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,driving layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:27,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:26,ORL,shot,,,,,,,,,,Dwight Howard,2,,,made,,layup,25,6
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:26,TOR,foul,,,,,,,,Dwight Howard,,Andrea Bargnani,,,,,,shooting,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:26,TOR,timeout,,,,,,,,,,,,,,,,regular,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:26,ORL,sub,,,,Brandon Bass,,Ryan Anderson,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:26,ORL,free throw,,,,,,,1,,1,Dwight Howard,,,foul,missed,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:26,TOR,rebound,,,,,,,,,,Andrea Bargnani,,,,,,def,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:07,TOR,shot,,,,,,,,,,Andrea Bargnani,,,,missed,,3pt,9,25
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,2:07,ORL,rebound,,,,,,,,,,J.J. Redick,,,,,,def,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,1:54,TOR,foul,,,,,,,,Jameer Nelson,,Jarrett Jack,,,,,,personal,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,1:54,ORL,free throw,,,,,,,1,,2,Jameer Nelson,,,foul,made,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,1:54,ORL,free throw,,,,,,,2,,2,Jameer Nelson,,,foul,made,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,1:41,TOR,shot,,,,,,,,,,Hedo Turkoglu,2,,,made,,running bank,19,10
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,1:41,ORL,foul,,,,,,,,Hedo Turkoglu,,Matt Barnes,,,,,,shooting,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,1:41,TOR,sub,,,,Amir Johnson,,Andrea Bargnani,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,1:41,TOR,sub,,,,Antoine Wright,,Jose Calderon,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,1:41,ORL,sub,,,,Ryan Anderson,,Brandon Bass,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,1:41,TOR,free throw,,,,,,,1,,1,Hedo Turkoglu,,,foul,made,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,1:19,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,step back jump,14,23
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,1:18,ORL,rebound,,,,,,,,,,Jameer Nelson,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,1:00,ORL,shot,,,Chris Bosh,,,,,,,Dwight Howard,,,,missed,,jump hook,28,13
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,0:59,ORL,rebound,,,,,,,,,,,,,,,,,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,0:59,ORL,timeout,,,,,,,,,,,,,,,,short,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,0:52,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,3pt,36,29
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,0:51,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,off,,
+Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Ryan Anderson,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,0:31,TOR,foul,,,,,,,,J.J. Redick,,Antoine Wright,,,,,,personal,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,0:31,ORL,sub,,,,Brandon Bass,,Ryan Anderson,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,0:31,ORL,free throw,,,,,,,1,,2,J.J. Redick,,,foul,made,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,0:31,ORL,free throw,,,,,,,2,,2,J.J. Redick,,,foul,made,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Antoine Wright,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,0:31,TOR,timeout,,,,,,,,,,,,,,,,short,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Amir Johnson,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,4,0:31,TOR,sub,,,,Andrea Bargnani,,Antoine Wright,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,0:31,TOR,sub,,,,Jose Calderon,,Amir Johnson,,,,,,,,,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,0:24,TOR,shot,,,,,,,,,,Hedo Turkoglu,,,,missed,,step back jump,44,6
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,0:22,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,off,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,0:22,TOR,shot,,,,,,,,,,Chris Bosh,2,,,made,,layup,25,6
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,0:16,TOR,foul,,,,,,,,Jameer Nelson,,Jarrett Jack,,,,,,personal,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,0:16,ORL,free throw,,,,,,,1,,2,Jameer Nelson,,,foul,made,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,0:16,ORL,free throw,,,,,,,2,,2,Jameer Nelson,,,foul,made,,,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,0:08,TOR,shot,,,,,,,,,,Jarrett Jack,,,,missed,,3pt,20,30
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,0:07,TOR,rebound,,,,,,,,,,Chris Bosh,,,,,,off,,
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,0:03,TOR,shot,,,,,,,,,,Hedo Turkoglu,,,,missed,,3pt,45,21
+Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Andrea Bargnani,Chris Bosh,Hedo Turkoglu,Jarrett Jack,Jose Calderon,4,0:03,ORL,rebound,,,,,,,,,,J.J. Redick,,,,,,def,,

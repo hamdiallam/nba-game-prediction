@@ -1,0 +1,445 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,12:00,OFF,jump ball,,Joakim Noah,,,Kendrick Perkins,,,,,,,Derrick Rose,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,11:40,CHI,shot,,,Kendrick Perkins,,,,,,,Taj Gibson,,,,missed,,jump,22,8
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,11:38,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,11:29,BOS,shot,,,,,,,,,,Paul Pierce,2,,,made,,jump,30,26
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,11:12,CHI,shot,Luol Deng,,,,,,,,,Kirk Hinrich,2,,,made,,jump,24,14
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,10:56,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,jump,22,8
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,10:55,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,10:49,CHI,shot,,,Kendrick Perkins,,,,,,,Taj Gibson,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,10:49,BOS,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,10:49,BOS,jump ball,,Taj Gibson,,,Kendrick Perkins,,,,,,,Rajon Rondo,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,10:33,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,3pt,48,15
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,10:32,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,10:22,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,37,15
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,9:58,BOS,shot,Paul Pierce,,,,,,,,,Brian Scalabrine,2,,,made,,driving layup,26,7
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,9:45,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,running bank,21,9
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,9:27,BOS,shot,Paul Pierce,,,,,,,,,Ray Allen,2,,,made,,jump,13,9
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,9:11,BOS,foul,,,,,,,,Joakim Noah,,Kendrick Perkins,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,9:11,CHI,free throw,,,,,,,1,,2,Joakim Noah,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,9:11,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,9:11,CHI,free throw,,,,,,,2,,2,Joakim Noah,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,8:46,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,3pt,25,30
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,8:45,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,8:40,CHI,shot,Kirk Hinrich,,,,,,,,,Taj Gibson,2,,,made,,running layup,26,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,8:40,BOS,foul,,,,,,,,Taj Gibson,,Brian Scalabrine,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,8:40,CHI,free throw,,,,,,,1,,1,Taj Gibson,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,8:39,BOS,rebound,,,,,,,,,,Brian Scalabrine,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,8:20,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,jump,17,21
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,8:19,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,8:12,BOS,shot,,,,,,,,,,Brian Scalabrine,,,,missed,,3pt,47,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,8:11,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,7:56,BOS,foul,,,,,,,,Luol Deng,,Ray Allen,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,7:56,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,7:56,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,7:46,BOS,turnover,,,,,,,,,,Paul Pierce,,,lost ball,,Luol Deng,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,7:38,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,27,24
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,7:35,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,7:35,CHI,shot,,,,,,,,,,Taj Gibson,2,,,made,,putback dunk,25,7
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,7:09,BOS,shot,,,Joakim Noah,,,,,,,Kendrick Perkins,,,,missed,,reverse layup,24,7
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,7:08,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,7:07,BOS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:54,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,driving layup,23,7
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:44,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:38,CHI,foul,,,,,,,,Rajon Rondo,,Derrick Rose,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:38,BOS,free throw,,,,,,,1,,2,Rajon Rondo,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:38,BOS,free throw,,,,,,,2,,2,Rajon Rondo,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:38,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:26,CHI,shot,,,,,,,,,,Joakim Noah,2,,,made,,driving layup,27,7
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:15,CHI,foul,,,,,,,,Paul Pierce,,Luol Deng,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:15,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:15,BOS,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:15,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:14,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,6:12,BOS,shot,,,,,,,,,,Kendrick Perkins,2,,,made,,putback layup,24,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,5:49,CHI,shot,Kirk Hinrich,,,,,,,,,Luol Deng,2,,,made,,jump,7,18
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,5:25,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,jump,21,22
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,5:24,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,5:20,BOS,foul,,,,,,,,Derrick Rose,,Rajon Rondo,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,5:20,CHI,sub,,,,John Salmons,,Taj Gibson,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,5:20,CHI,sub,,,,Tyrus Thomas,,Kirk Hinrich,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,5:11,CHI,turnover,,,,,,,,,,Tyrus Thomas,,,traveling,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,4:52,BOS,shot,,,,,,,,,,Kendrick Perkins,2,,,made,,hook,23,9
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,4:38,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,fade away jumper,35,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,4:35,BOS,rebound,,,,,,,,,,Brian Scalabrine,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,4:11,CHI,foul,,,,,,,,Rajon Rondo,,Derrick Rose,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,4:11,BOS,free throw,,,,,,,1,,3,Rajon Rondo,,,foul,made,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,4:11,CHI,sub,,,,Kirk Hinrich,,Derrick Rose,,,,,,,,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,4:11,BOS,free throw,,,,,,,2,,3,Rajon Rondo,,,foul,missed,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,4:11,BOS,rebound,,,,,,,,,,,,,,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,4:11,BOS,free throw,,,,,,,3,,3,Rajon Rondo,,,foul,missed,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,4:11,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,3:55,CHI,shot,Tyrus Thomas,,,,,,,,,Luol Deng,2,,,made,,jump,34,19
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,3:35,BOS,shot,,,,,,,,,,Rajon Rondo,2,,,made,,driving layup,24,8
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,3:15,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,37,8
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,3:14,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,off,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,3:11,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,31,11
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,3:11,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,off,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,3:11,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,tip,24,6
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,3:11,BOS,rebound,,,,,,,,,,,,,,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,1,3:11,CHI,foul,,,,,,,,Paul Pierce,,Tyrus Thomas,,,,,,loose ball,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,3:11,BOS,sub,,,,Tony Allen,,Paul Pierce,,,,,,,,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,3:11,BOS,sub,,,,Glen Davis,,Brian Scalabrine,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,3:11,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:57,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,layup,24,7
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:56,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:46,CHI,shot,Kirk Hinrich,,,,,,,,,Brad Miller,2,,,made,,jump,29,25
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:34,CHI,foul,,,,,,,,Rajon Rondo,,Kirk Hinrich,,,,,,personal,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:34,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:34,BOS,free throw,,,,,,,1,,2,Rajon Rondo,,,foul,made,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:34,BOS,free throw,,,,,,,2,,2,Rajon Rondo,,,foul,missed,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:34,BOS,rebound,,,,,,,,,,Rajon Rondo,,,,,,off,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:27,BOS,turnover,,,,,,,,,,Rajon Rondo,,,bad pass,,Tyrus Thomas,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:04,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,33,9
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:03,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,off,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,2:03,CHI,shot,,,,,,,,,,Tyrus Thomas,2,,,made,,putback dunk,24,7
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,1:44,CHI,foul,,,,,,,,Kendrick Perkins,,Brad Miller,,,,,,personal,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,1:44,BOS,free throw,,,,,,,1,,2,Kendrick Perkins,,,foul,missed,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,1:44,BOS,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,1:44,CHI,sub,,,,James Johnson,,Luol Deng,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,1:44,BOS,free throw,,,,,,,2,,2,Kendrick Perkins,,,foul,made,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,1:30,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,23,27
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,1:29,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,1:15,BOS,shot,Tony Allen,,,,,,,,,Rajon Rondo,2,,,made,,running jump,25,15
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,0:50,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,44,23
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,0:49,BOS,rebound,,,,,,,,,,Tony Allen,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,0:42,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,3pt,48,10
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,0:41,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,0:35,CHI,shot,,,,,,,,,,Kirk Hinrich,2,,,made,,driving layup,24,7
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,0:16,BOS,shot,,,James Johnson,,,,,,,Glen Davis,,,,missed,,layup,25,5
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,0:15,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,Tony Allen,1,0:03,CHI,shot,,,,,,,,,,Kirk Hinrich,2,,,made,,driving layup,25,7
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Ray Allen,Shelden Williams,Tony Allen,2,11:43,BOS,turnover,,,,,,,,,,Ray Allen,,,bad pass,,Kirk Hinrich,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Ray Allen,Shelden Williams,Tony Allen,2,11:38,CHI,turnover,,,,,,,,,,Kirk Hinrich,,,bad pass,,Glen Davis,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Ray Allen,Shelden Williams,Tony Allen,2,11:33,CHI,foul,,,,,,,,Tony Allen,,James Johnson,,,,,,personal,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Ray Allen,Shelden Williams,Tony Allen,2,11:25,BOS,turnover,,,,,,,,,,Ray Allen,,,bad pass,,Tyrus Thomas,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Ray Allen,Shelden Williams,Tony Allen,2,11:22,BOS,foul,,,,,,,,Tyrus Thomas,,Tony Allen,,,,,,shooting,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Ray Allen,Shelden Williams,Tony Allen,2,11:22,CHI,free throw,,,,,,,1,,2,Tyrus Thomas,,,foul,made,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,11:22,BOS,sub,,,,Paul Pierce,,Ray Allen,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,11:22,CHI,free throw,,,,,,,2,,2,Tyrus Thomas,,,foul,missed,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,11:21,BOS,rebound,,,,,,,,,,Shelden Williams,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,11:05,BOS,shot,Paul Pierce,,,,,,,,,Tony Allen,2,,,made,,jump,27,9
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,10:44,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,layup,27,6
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,10:43,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,off,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,10:40,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,37,17
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,10:39,BOS,rebound,,,,,,,,,,Glen Davis,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,10:32,BOS,turnover,,,,,,,,,,Tony Allen,,,bad pass,,Tyrus Thomas,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,10:19,CHI,turnover,,,,,,,,,,James Johnson,,,traveling,,,,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,10:19,CHI,sub,,,,Jannero Pargo,,Kirk Hinrich,,,,,,,,,,,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,10:06,BOS,foul,,,,,,,,Tyrus Thomas,,Glen Davis,,,,,,offensive,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,10:06,BOS,turnover,,,,,,,,,,Glen Davis,,,foul,,,,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,9:58,CHI,turnover,,,,,,,,,,Jannero Pargo,,,lost ball,,Tony Allen,,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,9:54,BOS,shot,,,James Johnson,,,,,,,Paul Pierce,,,,missed,,layup,25,7
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,9:51,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,9:44,CHI,shot,Jannero Pargo,,,,,,,,,John Salmons,3,,,made,,3pt,44,22
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,9:26,BOS,shot,Paul Pierce,,,,,,,,,Eddie House,2,,,made,,jump,46,16
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,9:10,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,3pt,47,8
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,9:09,BOS,rebound,,,,,,,,,,Glen Davis,,,,,,def,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:58,BOS,shot,,,,,,,,,,Paul Pierce,3,,,made,,3pt,25,30
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:39,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,layup,26,8
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:38,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,off,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:35,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,putback layup,24,6
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:33,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,off,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:32,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,putback layup,23,5
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:31,CHI,rebound,,,,,,,,,,John Salmons,,,,,,off,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:30,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,putback layup,27,7
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:29,BOS,rebound,,,,,,,,,,Glen Davis,,,,,,def,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:28,CHI,foul,,,,,,,,Glen Davis,,Tyrus Thomas,,,,,,personal,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:28,BOS,timeout,,,,,,,,,,,,,,,,official,,
+Brad Miller,Jannero Pargo,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:28,CHI,sub,,,,Luol Deng,,James Johnson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Shelden Williams,Tony Allen,2,8:28,CHI,sub,,,,Derrick Rose,,Jannero Pargo,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,8:28,BOS,sub,,,,Brian Scalabrine,,Shelden Williams,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,8:15,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,jump,22,7
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,8:14,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,8:02,CHI,foul,,,,,,,,Glen Davis,,Derrick Rose,,,,,,offensive,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,8:02,CHI,turnover,,,,,,,,,,Derrick Rose,,,foul,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,8:02,CHI,sub,,,,Kirk Hinrich,,Derrick Rose,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,7:51,BOS,turnover,,,,,,,,,,Eddie House,,,bad pass,,Tyrus Thomas,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,7:45,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,jump,21,8
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,7:43,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,off,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,7:41,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,jump,34,7
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,7:40,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,7:20,BOS,shot,,,,,,,,,,Glen Davis,2,,,made,,jump,24,12
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,7:03,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,fade away jumper,36,8
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,7:02,BOS,rebound,,,,,,,,,,Glen Davis,,,,,,def,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,6:54,BOS,turnover,,,,,,,,,,Tony Allen,,,lost ball,,Luol Deng,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,6:39,BOS,foul,,,,,,,,Brad Miller,,Brian Scalabrine,,,,,,personal,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,6:39,CHI,sub,,,,Taj Gibson,,Tyrus Thomas,,,,,,,,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,6:39,CHI,sub,,,,Joakim Noah,,Brad Miller,,,,,,,,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,6:28,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,step back jump,26,24
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,5:59,BOS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,5:42,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,13,19
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,5:41,BOS,rebound,,,,,,,,,,Brian Scalabrine,,,,,,def,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,5:29,CHI,foul,,,,,,,,Glen Davis,,Taj Gibson,,,,,,shooting,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Eddie House,Glen Davis,Paul Pierce,Tony Allen,2,5:29,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Glen Davis,Paul Pierce,Rajon Rondo,Tony Allen,2,5:29,BOS,sub,,,,Rajon Rondo,,Eddie House,,,,,,,,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Glen Davis,Paul Pierce,Rajon Rondo,Tony Allen,2,5:29,BOS,free throw,,,,,,,1,,2,Glen Davis,,,foul,made,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Glen Davis,Paul Pierce,Rajon Rondo,Tony Allen,2,5:29,BOS,free throw,,,,,,,2,,2,Glen Davis,,,foul,made,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Glen Davis,Paul Pierce,Rajon Rondo,Tony Allen,2,5:17,CHI,shot,Kirk Hinrich,,,,,,,,,Luol Deng,2,,,made,,jump,38,23
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Glen Davis,Paul Pierce,Rajon Rondo,Tony Allen,2,5:00,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,jump,14,19
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Glen Davis,Paul Pierce,Rajon Rondo,Tony Allen,2,4:59,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Glen Davis,Paul Pierce,Rajon Rondo,Tony Allen,2,4:43,BOS,foul,,,,,,,,Luol Deng,,Paul Pierce,,,,,,shooting,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Glen Davis,Paul Pierce,Rajon Rondo,Ray Allen,2,4:43,BOS,sub,,,,Ray Allen,,Tony Allen,,,,,,,,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,4:43,BOS,sub,,,,Kendrick Perkins,,Glen Davis,,,,,,,,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,4:43,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,4:43,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,4:29,BOS,shot,,,Joakim Noah,,,,,,,Paul Pierce,,,,missed,,layup,25,8
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,4:27,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,off,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,4:18,BOS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,4:08,CHI,turnover,,,,,,,,,,Kirk Hinrich,,,bad pass,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,3:49,BOS,shot,,,Taj Gibson,,,,,,,Kendrick Perkins,,,,missed,,layup,23,5
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,3:47,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,off,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,3:45,BOS,shot,,,Joakim Noah,,,,,,,Kendrick Perkins,,,,missed,,layup,25,8
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,3:43,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,3:38,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,45,6
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,3:37,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,def,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,3:26,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,3pt,12,27
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,3:25,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,3:15,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,jump,28,26
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,3:14,BOS,rebound,,,,,,,,,,Ray Allen,,,,,,def,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,3:02,BOS,shot,Rajon Rondo,,,,,,,,,Brian Scalabrine,2,,,made,,driving layup,25,6
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,2:52,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,2:41,CHI,shot,Kirk Hinrich,,,,,,,,,Joakim Noah,2,,,made,,jump bank hook,32,8
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,2:27,BOS,shot,Rajon Rondo,,,,,,,,,Brian Scalabrine,3,,,made,,3pt,2,9
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,2:12,CHI,turnover,,,,,,,,,,Luol Deng,,,lost ball,,Rajon Rondo,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,2:04,BOS,shot,Rajon Rondo,,,,,,,,,Ray Allen,2,,,made,,running layup,25,9
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,1:49,BOS,foul,,,,,,,,Luol Deng,,Paul Pierce,,,,,,shooting,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,1:49,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,1:49,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,1:24,BOS,shot,,,,,,,,,,Brian Scalabrine,,,,missed,,3pt,23,30
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,1:21,BOS,rebound,,,,,,,,,,Rajon Rondo,,,,,,off,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,1:12,BOS,shot,,,,,,,,,,Brian Scalabrine,,,,missed,,3pt,49,7
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,1:12,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,1:03,BOS,foul,,,,,,,,Joakim Noah,,Brian Scalabrine,,,,,,personal,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,1:03,CHI,free throw,,,,,,,1,,2,Joakim Noah,,,foul,made,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,1:03,CHI,free throw,,,,,,,2,,2,Joakim Noah,,,foul,made,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,0:43,BOS,shot,,,,,,,,,,Brian Scalabrine,,,,missed,,3pt,2,7
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,0:43,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,0:37,CHI,shot,Luol Deng,,,,,,,,,Taj Gibson,2,,,made,,layup,23,6
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,0:27,BOS,shot,,,Joakim Noah,,,,,,,Paul Pierce,,,,missed,,layup,24,6
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,0:25,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,2,0:20,CHI,turnover,,,,,,,,,,Joakim Noah,,,out of bounds lost ball turnover,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Eddie House,Paul Pierce,Rajon Rondo,Ray Allen,2,0:20,BOS,sub,,,,Eddie House,,Kendrick Perkins,,,,,,,,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Paul Pierce,Rajon Rondo,Ray Allen,Tony Allen,2,0:20,BOS,sub,,,,Tony Allen,,Brian Scalabrine,,,,,,,,,,,,
+Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Paul Pierce,Rajon Rondo,Ray Allen,Tony Allen,2,0:03,BOS,shot,Rajon Rondo,,,,,,,,,Eddie House,3,,,made,,3pt,1,11
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,11:42,BOS,shot,Kendrick Perkins,,,,,,,,,Ray Allen,2,,,made,,driving layup,25,8
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,11:23,CHI,shot,Luol Deng,,,,,,,,,Taj Gibson,2,,,made,,jump,32,16
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,11:05,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,jump,24,18
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,11:04,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,11:01,BOS,foul,,,,,,,,Derrick Rose,,Brian Scalabrine,,,,,,personal,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,11:01,BOS,sub,,,,Glen Davis,,Brian Scalabrine,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,10:53,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,37,24
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,10:35,BOS,turnover,,,,,,,,,,Glen Davis,,,3 second violation,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,10:27,CHI,turnover,,,,,,,,,,Joakim Noah,,,bad pass,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,10:15,BOS,shot,,,,,,,,,,Paul Pierce,2,,,made,,driving layup,23,7
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,10:04,CHI,shot,Taj Gibson,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,48,5
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,9:48,CHI,foul,,,,,,,,Paul Pierce,,Taj Gibson,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,9:48,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,9:48,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,9:37,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,20,24
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,9:36,BOS,rebound,,,,,,,,,,Glen Davis,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,9:28,BOS,turnover,,,,,,,,,,Ray Allen,,,traveling,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,9:13,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,40,5
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,9:13,BOS,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,9:13,CHI,foul,,,,,,,,Kendrick Perkins,,Joakim Noah,,,,,,loose ball,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,9:04,BOS,shot,,,,,,,,,,Rajon Rondo,2,,,made,,driving layup,23,7
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,8:59,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,8:46,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,driving layup,22,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,8:18,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,jump,23,28
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,8:17,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,8:12,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,7,23
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,8:09,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,8:06,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,layup,26,8
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,8:05,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,8:01,CHI,shot,,,,,,,,,,Kirk Hinrich,2,,,made,,running jump,25,12
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,7:35,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,jump,37,15
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,7:35,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,7:25,CHI,shot,Luol Deng,,,,,,,,,Taj Gibson,2,,,made,,jump,10,7
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,7:24,BOS,timeout,,,,,,,,,,,,,,,,short,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,7:01,BOS,shot,,,,,,,,,,Rajon Rondo,2,,,made,,driving layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,6:54,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,17,11
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,6:53,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,6:46,BOS,shot,Rajon Rondo,,,,,,,,,Paul Pierce,2,,,made,,jump,35,15
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,6:35,BOS,foul,,,,,,,,Taj Gibson,,Kendrick Perkins,,,,,,personal,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,6:22,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,jump,14,20
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,6:21,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,6:21,CHI,foul,,,,,,,,Kendrick Perkins,,Luol Deng,,,,,,personal,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,5:59,BOS,turnover,,,,,,,,,,Rajon Rondo,,,bad pass,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,5:45,CHI,shot,,,Kendrick Perkins,,,,,,,Luol Deng,,,,missed,,jump,25,13
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,5:43,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,5:39,CHI,foul,,,,,,,,Paul Pierce,,Taj Gibson,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,5:39,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,5:39,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,5:39,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,5:25,CHI,shot,Kirk Hinrich,,,,,,,,,Taj Gibson,2,,,made,,jump,11,22
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,5:07,BOS,shot,,,,,,,,,,Paul Pierce,2,,,made,,turnaround jump,23,17
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,4:50,CHI,shot,,,Kendrick Perkins,,,,,,,Taj Gibson,,,,missed,,dunk,28,9
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,4:49,BOS,rebound,,,,,,,,,,Rajon Rondo,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,4:42,BOS,shot,,,,,,,,,,Rajon Rondo,2,,,made,,running layup,24,7
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,4:19,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,30,25
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,4:18,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,4:11,CHI,sub,,,,John Salmons,,Taj Gibson,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,4:11,CHI,sub,,,,Tyrus Thomas,,Kirk Hinrich,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:59,BOS,shot,,,Luol Deng,,,,,,,Paul Pierce,,,,missed,,layup,24,9
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:59,BOS,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:57,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,jump,44,9
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:56,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:52,BOS,foul,,,,,,,,Luol Deng,,Glen Davis,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:52,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:52,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:52,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:39,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,layup,28,7
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:38,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:33,CHI,shot,Brad Miller,,,,,,,,,Derrick Rose,2,,,made,,jump,27,19
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,3,3:07,CHI,foul,,,,,,,,Kendrick Perkins,,John Salmons,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,3:07,BOS,sub,,,,Eddie House,,Ray Allen,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,3:07,BOS,free throw,,,,,,,1,,2,Kendrick Perkins,,,foul,missed,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,3:07,BOS,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,3:07,BOS,free throw,,,,,,,2,,2,Kendrick Perkins,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,2:56,CHI,turnover,,,,,,,,,,Derrick Rose,,,lost ball,,Kendrick Perkins,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,2:39,BOS,shot,,,Luol Deng,,,,,,,Paul Pierce,,,,missed,,jump,17,18
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,2:37,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,2:26,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,23,24
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,2:25,BOS,rebound,,,,,,,,,,Glen Davis,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,2:07,BOS,shot,,,,,,,,,,Glen Davis,2,,,made,,layup,27,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,1:45,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,10,25
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,1:44,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,1:35,BOS,shot,Rajon Rondo,,,,,,,,,Eddie House,2,,,made,,jump,12,25
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,1:15,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,layup,21,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,1:13,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,1:12,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,layup,25,7
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,0:53,BOS,shot,,,,,,,,,,Rajon Rondo,2,,,made,,running jump,24,11
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,0:37,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,James Johnson,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,0:37,CHI,sub,,,,James Johnson,,Derrick Rose,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,3,0:37,CHI,sub,,,,Kirk Hinrich,,Luol Deng,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Rajon Rondo,Shelden Williams,3,0:37,BOS,sub,,,,Shelden Williams,,Kendrick Perkins,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Rajon Rondo,Shelden Williams,3,0:34,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,42,16
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Rajon Rondo,Shelden Williams,3,0:34,BOS,rebound,,,,,,,,,,Shelden Williams,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Rajon Rondo,Shelden Williams,3,0:21,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,3pt,23,30
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Rajon Rondo,Shelden Williams,3,0:20,BOS,rebound,,,,,,,,,,Glen Davis,,,,,,off,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Rajon Rondo,Shelden Williams,3,0:19,CHI,foul,,,,,,,,Glen Davis,,Tyrus Thomas,,,,,,shooting,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Rajon Rondo,Shelden Williams,3,0:19,BOS,free throw,,,,,,,1,,2,Glen Davis,,,foul,missed,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Paul Pierce,Rajon Rondo,Shelden Williams,3,0:19,BOS,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,3,0:19,BOS,sub,,,,Tony Allen,,Paul Pierce,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,J.R. Giddens,Rajon Rondo,Shelden Williams,Tony Allen,3,0:19,BOS,sub,,,,J.R. Giddens,,Eddie House,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,J.R. Giddens,Rajon Rondo,Shelden Williams,Tony Allen,3,0:19,BOS,free throw,,,,,,,2,,2,Glen Davis,,,foul,missed,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,J.R. Giddens,Rajon Rondo,Shelden Williams,Tony Allen,3,0:19,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,J.R. Giddens,Rajon Rondo,Shelden Williams,Tony Allen,3,0:04,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,layup,24,8
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,J.R. Giddens,Rajon Rondo,Shelden Williams,Tony Allen,3,0:04,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,off,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Glen Davis,J.R. Giddens,Rajon Rondo,Shelden Williams,Tony Allen,3,0:04,CHI,shot,,,,,,,,,,Tyrus Thomas,2,,,made,,putback layup,24,7
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,11:44,CHI,jump ball,,Tyrus Thomas,,,Glen Davis,,,,,,,Eddie House,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,11:44,CHI,turnover,,,,,,,,,,Kirk Hinrich,,,bad pass,,Rajon Rondo,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,11:38,BOS,shot,,,,,,,,,,Eddie House,2,,,made,,layup,25,7
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,11:29,BOS,violation,,,,,,,,,,Eddie House,,,,,,kicked ball,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,11:15,CHI,shot,,,,,,,,,,James Johnson,,,,missed,,jump,7,8
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,11:14,BOS,rebound,,,,,,,,,,Shelden Williams,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,11:11,BOS,turnover,,,,,,,,,,Rajon Rondo,,,bad pass,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,10:58,CHI,shot,Brad Miller,,,,,,,,,John Salmons,2,,,made,,layup,23,7
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,10:38,BOS,shot,Rajon Rondo,,,,,,,,,Eddie House,2,,,made,,jump,44,19
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,10:19,BOS,foul,,,,,,,,Tyrus Thomas,,Shelden Williams,,,,,,shooting,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,10:19,CHI,sub,,,,Luol Deng,,James Johnson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,10:19,CHI,sub,,,,Derrick Rose,,Kirk Hinrich,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,10:19,CHI,free throw,,,,,,,1,,2,Tyrus Thomas,,,foul,missed,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,10:19,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,10:19,CHI,free throw,,,,,,,2,,2,Tyrus Thomas,,,foul,missed,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,10:19,BOS,rebound,,,,,,,,,,Tony Allen,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,10:04,BOS,shot,,,,,,,,,,Tony Allen,,,,missed,,layup,24,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,10:04,BOS,rebound,,,,,,,,,,Glen Davis,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,9:38,BOS,shot,,,,,,,,,,Glen Davis,,,,missed,,jump,24,14
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,9:37,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,9:37,BOS,foul,,,,,,,,Brad Miller,,Tony Allen,,,,,,loose ball,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,9:37,CHI,sub,,,,Taj Gibson,,Tyrus Thomas,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,9:26,CHI,shot,Derrick Rose,,,,,,,,,Luol Deng,2,,,made,,jump,10,23
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Rajon Rondo,Shelden Williams,Tony Allen,4,9:24,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Rajon Rondo,Ray Allen,Shelden Williams,4,9:24,BOS,sub,,,,Ray Allen,,Tony Allen,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,9:24,BOS,sub,,,,Kendrick Perkins,,Shelden Williams,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,9:15,BOS,foul,,,,,,,,Brad Miller,,Kendrick Perkins,,,,,,offensive,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,9:15,BOS,turnover,,,,,,,,,,Kendrick Perkins,,,foul,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,9:04,BOS,foul,,,,,,,,Luol Deng,,Ray Allen,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,9:04,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,missed,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,9:04,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,9:04,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,8:40,BOS,shot,,,,,,,,,,Ray Allen,2,,,made,,jump,29,13
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,8:26,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,17,23
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,8:25,BOS,rebound,,,,,,,,,,Eddie House,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,8:06,BOS,shot,Eddie House,,,,,,,,,Kendrick Perkins,2,,,made,,layup,24,7
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,8:06,CHI,foul,,,,,,,,Kendrick Perkins,,Brad Miller,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Glen Davis,Kendrick Perkins,Rajon Rondo,Ray Allen,4,8:06,CHI,sub,,,,Joakim Noah,,Brad Miller,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,8:06,BOS,sub,,,,Paul Pierce,,Glen Davis,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,8:06,BOS,free throw,,,,,,,1,,1,Kendrick Perkins,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,8:05,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,7:53,CHI,shot,,,Kendrick Perkins,,,,,,,Derrick Rose,,,,missed,,layup,25,9
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,7:52,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,7:50,CHI,shot,Derrick Rose,,,,,,,,,Luol Deng,2,,,made,,jump,6,5
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,7:35,BOS,shot,,,,,,,,,,Eddie House,,,,missed,,3pt,1,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,7:34,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,7:18,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,4,13
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,7:17,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,7:15,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,7:10,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,pullup jump,23,23
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,6:58,BOS,turnover,,,,,,,,,,Rajon Rondo,,,bad pass,,Taj Gibson,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,6:55,CHI,shot,Taj Gibson,,,,,,,,,Joakim Noah,2,,,made,,layup,26,7
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,6:41,CHI,foul,,,,,,,,Kendrick Perkins,,Joakim Noah,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,6:41,BOS,sub,,,,Brian Scalabrine,,Eddie House,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,6:41,BOS,free throw,,,,,,,1,,2,Kendrick Perkins,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,6:41,BOS,free throw,,,,,,,2,,2,Kendrick Perkins,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,6:25,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,driving finger roll layup,26,8
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,6:05,CHI,foul,,,,,,,,Paul Pierce,,Joakim Noah,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,6:05,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,6:05,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,5:42,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,hook,27,13
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,5:41,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,5:28,BOS,shot,Paul Pierce,,,,,,,,,Kendrick Perkins,2,,,made,,turnaround fade away,18,11
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,5:09,CHI,turnover,,,,,,,,,,Derrick Rose,,,bad pass,,Rajon Rondo,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,5:06,BOS,turnover,,,,,,,,,,Rajon Rondo,,,bad pass,,Taj Gibson,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:53,CHI,shot,Derrick Rose,,,,,,,,,Taj Gibson,2,,,made,,dunk,25,7
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:38,BOS,shot,,,,,,,,,,Brian Scalabrine,,,,missed,,jump,37,25
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:37,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:30,BOS,foul,,,,,,,,Luol Deng,,Brian Scalabrine,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brian Scalabrine,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:30,CHI,timeout,,,,,,,,,,,,,,,,official,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:30,BOS,sub,,,,Eddie House,,Brian Scalabrine,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:25,BOS,foul,,,,,,,,Derrick Rose,,Rajon Rondo,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:25,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:25,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:25,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:11,BOS,shot,,,,,,,,,,Kendrick Perkins,,,,missed,,turnaround fade away,31,8
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,4:10,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,3:59,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,35,24
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,3:58,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,3:50,BOS,shot,Eddie House,,,,,,,,,Paul Pierce,3,,,made,,3pt,21,30
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,3:42,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,3:23,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,13,25
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,3:22,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,3:07,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,jump,15,21
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,3:06,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:53,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,23,11
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:52,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:38,BOS,shot,,,Taj Gibson,,,,,,,Rajon Rondo,,,,missed,,jump,29,7
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:35,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:33,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,layup,22,7
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:31,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:17,BOS,foul,,,,,,,,Joakim Noah,,Paul Pierce,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:17,CHI,sub,,,,Kirk Hinrich,,John Salmons,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:17,CHI,free throw,,,,,,,1,,2,Joakim Noah,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:17,CHI,free throw,,,,,,,2,,2,Joakim Noah,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:03,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,3pt,46,18
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,2:02,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:48,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,driving layup,26,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:48,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:43,CHI,foul,,,,,,,,Paul Pierce,,Joakim Noah,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:43,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:43,BOS,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:43,BOS,sub,,,,Glen Davis,,Eddie House,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:43,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:24,BOS,foul,,,,,,,,Joakim Noah,,Glen Davis,,,,,,personal,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Glen Davis,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:24,CHI,free throw,,,,,,,1,,2,Joakim Noah,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:24,BOS,sub,,,,Eddie House,,Glen Davis,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:24,CHI,sub,,,,John Salmons,,Taj Gibson,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:24,CHI,free throw,,,,,,,2,,2,Joakim Noah,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:14,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,3pt,1,11
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,1:13,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,0:53,CHI,shot,Derrick Rose,,,,,,,,,Joakim Noah,2,,,made,,hook,31,8
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,0:43,BOS,shot,Paul Pierce,,,,,,,,,Kendrick Perkins,2,,,made,,jump,16,19
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,0:27,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,driving layup,26,7
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,0:12,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,3pt,9,27
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Eddie House,Kendrick Perkins,Paul Pierce,Rajon Rondo,Ray Allen,4,0:12,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,

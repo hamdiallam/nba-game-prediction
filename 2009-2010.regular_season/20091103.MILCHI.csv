@@ -1,0 +1,455 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,12:00,OFF,jump ball,,Andrew Bogut,,,Joakim Noah,,,,,,,Brandon Jennings,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,11:45,MIL,shot,,,,,,,,,,Andrew Bogut,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,11:44,MIL,rebound,,,,,,,,,,Hakim Warrick,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,11:44,MIL,shot,,,,,,,,,,Hakim Warrick,2,,,made,,putback dunk,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,11:26,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,6,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,11:25,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,11:21,MIL,shot,Andrew Bogut,,,,,,,,,Carlos Delfino,2,,,made,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,11:21,CHI,foul,,,,,,,,Carlos Delfino,,Luol Deng,,,,,,shooting,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,11:21,MIL,free throw,,,,,,,1,,1,Carlos Delfino,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,11:17,CHI,turnover,,,,,,,,,,John Salmons,,,out of bounds lost ball turnover,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,10:54,MIL,turnover,,,,,,,,,,Carlos Delfino,,,out of bounds lost ball turnover,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,10:40,CHI,shot,,,Andrew Bogut,,,,,,,John Salmons,,,,missed,,jump,20,13
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,10:38,MIL,rebound,,,,,,,,,,Charlie Bell,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,10:33,MIL,shot,,,,,,,,,,Charlie Bell,,,,missed,,jump,26,17
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,10:31,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,10:29,MIL,foul,,,,,,,,Derrick Rose,,Carlos Delfino,,,,,,shooting,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,10:29,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,10:29,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,10:13,MIL,shot,,,,,,,,,,Carlos Delfino,,,,missed,,3pt,12,28
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,10:11,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,9:55,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,pullup jump,36,21
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,9:36,MIL,shot,Carlos Delfino,,,,,,,,,Brandon Jennings,3,,,made,,3pt,26,32
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,9:21,CHI,turnover,,,,,,,,,,Joakim Noah,,,bad pass,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,9:08,CHI,foul,,,,,,,,Hakim Warrick,,John Salmons,,,,,,shooting,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,9:08,MIL,free throw,,,,,,,1,,2,Hakim Warrick,,,foul,missed,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,9:08,MIL,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,9:08,MIL,free throw,,,,,,,2,,2,Hakim Warrick,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,8:59,CHI,turnover,,,,,,,,,,John Salmons,,,lost ball,,Charlie Bell,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,8:54,MIL,shot,Charlie Bell,,,,,,,,,Brandon Jennings,2,,,made,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,8:43,CHI,turnover,,,,,,,,,,Derrick Rose,,,out of bounds lost ball turnover,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,8:35,MIL,shot,,,,,,,,,,Brandon Jennings,,,,missed,,jump,9,20
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,8:35,CHI,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,8:35,MIL,foul,,,,,,,,Joakim Noah,,Andrew Bogut,,,,,,loose ball,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,8:10,CHI,turnover,,,,,,,,,,John Salmons,,,bad pass,,Hakim Warrick,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,7:49,MIL,shot,,,,,,,,,,Carlos Delfino,,,,missed,,3pt,42,26
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,7:49,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,7:33,CHI,foul,,,,,,,,Hakim Warrick,,Taj Gibson,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,7:23,MIL,shot,,,,,,,,,,Hakim Warrick,,,,missed,,jump,17,26
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,7:22,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,7:12,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,jump,13,18
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,7:11,MIL,rebound,,,,,,,,,,Carlos Delfino,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,6:59,MIL,shot,Brandon Jennings,,,,,,,,,Charlie Bell,2,,,made,,jump,20,24
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,1,6:55,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,6:55,CHI,sub,,,,Kirk Hinrich,,Joakim Noah,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,6:55,CHI,sub,,,,Brad Miller,,Derrick Rose,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,6:50,CHI,foul,,,,,,,,Charlie Bell,,Taj Gibson,,,,,,offensive,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,6:50,CHI,turnover,,,,,,,,,,Taj Gibson,,,foul,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,6:28,MIL,shot,Andrew Bogut,,,,,,,,,Hakim Warrick,2,,,made,,jump,19,25
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,6:02,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,15,12
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,6:01,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,5:55,MIL,shot,,,,,,,,,,Brandon Jennings,,,,missed,,jump,36,26
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,5:53,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,5:43,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,5:41,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,5:41,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,5:27,MIL,turnover,,,,,,,,,,Charlie Bell,,,bad pass,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,5:27,CHI,sub,,,,Joakim Noah,,Taj Gibson,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,5:02,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,35,26
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,5:02,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,5:02,CHI,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,4:42,MIL,shot,,,,,,,,,,Brandon Jennings,2,,,made,,pullup jump,22,23
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,4:30,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,38,17
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,4:29,MIL,rebound,,,,,,,,,,Hakim Warrick,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,4:20,MIL,shot,,,,,,,,,,Brandon Jennings,2,,,made,,jump,14,24
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,4:06,CHI,shot,John Salmons,,,,,,,,,Brad Miller,2,,,made,,jump,8,9
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,3:53,MIL,shot,Brandon Jennings,,,,,,,,,Hakim Warrick,2,,,made,,jump,37,21
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,3:41,CHI,turnover,,,,,,,,,,Kirk Hinrich,,,bad pass,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:41,CHI,sub,,,,Derrick Rose,,John Salmons,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:41,MIL,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:41,MIL,sub,,,,Luc Richard Mbah a Moute,,Brandon Jennings,,,,,,,,,,,,
+Carlos Delfino,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:41,MIL,sub,,,,Dan Gadzuric,,Andrew Bogut,,,,,,,,,,,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:41,MIL,sub,,,,Luke Ridnour,,Carlos Delfino,,,,,,,,,,,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:30,MIL,turnover,,,,,,,,,,Luke Ridnour,,,bad pass,,,,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:19,MIL,foul,,,,,,,,Kirk Hinrich,,Charlie Bell,,,,,,personal,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:08,CHI,shot,,,Dan Gadzuric,,,,,,,Kirk Hinrich,,,,missed,,driving layup,25,6
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:08,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:08,MIL,foul,,,,,,,,Luol Deng,,Dan Gadzuric,,,,,,shooting,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:08,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,3:08,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,2:54,MIL,shot,,,,,,,,,,Charlie Bell,,,,missed,,jump,37,24
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,2:53,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,2:47,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,41,10
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,2:46,MIL,rebound,,,,,,,,,,Charlie Bell,,,,,,def,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,2:29,MIL,shot,,,Joakim Noah,,,,,,,Dan Gadzuric,,,,missed,,layup,25,6
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,2:27,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,2:15,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,reverse layup,25,6
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,2:14,MIL,rebound,,,,,,,,,,Luke Ridnour,,,,,,def,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,2:03,MIL,shot,,,,,,,,,,Luke Ridnour,,,,missed,,jump,36,22
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,2:02,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,1:47,CHI,shot,Joakim Noah,,,,,,,,,Luol Deng,2,,,made,,jump,20,14
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,1:16,MIL,shot,Charlie Bell,,,,,,,,,Luke Ridnour,2,,,made,,jump,46,6
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:57,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,layup,25,6
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:56,MIL,rebound,,,,,,,,,,Hakim Warrick,,,,,,def,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:51,MIL,shot,Luke Ridnour,,,,,,,,,Luc Richard Mbah a Moute,2,,,made,,a moute jump,38,6
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:34,MIL,foul,,,,,,,,Luol Deng,,Luke Ridnour,,,,,,shooting,,
+Charlie Bell,Dan Gadzuric,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:34,MIL,sub,,,,Ersan Ilyasova,,Hakim Warrick,,,,,,,,,,,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:34,MIL,sub,,,,Jodie Meeks,,Charlie Bell,,,,,,,,,,,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:34,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,missed,,,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:34,CHI,rebound,,,,,,,,,,,,,,,,,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:34,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:24,MIL,shot,,,,,,,,,,Jodie Meeks,,,,missed,,3pt,23,31
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:23,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:03,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,3pt,47,6
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,1,0:02,MIL,rebound,,,,,,,,,,Jodie Meeks,,,,,,def,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,11:37,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,31,25
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,11:35,CHI,rebound,,,,,,,,,,John Salmons,,,,,,off,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,11:29,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,29,14
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,11:10,MIL,shot,,,Joakim Noah,,,,,,,Ersan Ilyasova,,,,missed,,jump,28,14
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,11:08,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,11:05,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,11:02,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,off,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,11:00,CHI,turnover,,,,,,,,,,Derrick Rose,,,bad pass,,Ersan Ilyasova,,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,10:55,MIL,shot,,,,,,,,,,Luke Ridnour,,,,missed,,jump,24,22
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,10:55,CHI,rebound,,,,,,,,,,,,,,,,,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,10:55,MIL,foul,,,,,,,,Brad Miller,,Ersan Ilyasova,,,,,,loose ball,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,10:35,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,38,7
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,10:33,MIL,rebound,,,,,,,,,,Dan Gadzuric,,,,,,def,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,10:12,MIL,shot,,,Brad Miller,,,,,,,Luc Richard Mbah a Moute,,,,missed,,a moute layup,25,6
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,10:11,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,10:11,MIL,foul,,,,,,,,Brad Miller,,Luc Richard Mbah a Moute,,,,,,personal,,
+Carlos Delfino,Dan Gadzuric,Ersan Ilyasova,Jodie Meeks,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,10:11,MIL,sub,,,,Carlos Delfino,,Luke Ridnour,,,,,,,,,,,,
+Brandon Jennings,Carlos Delfino,Dan Gadzuric,Ersan Ilyasova,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,10:11,MIL,sub,,,,Brandon Jennings,,Jodie Meeks,,,,,,,,,,,,
+Brandon Jennings,Carlos Delfino,Dan Gadzuric,Ersan Ilyasova,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,9:59,CHI,turnover,,,,,,,,,,Derrick Rose,,,lost ball,,Brandon Jennings,,,
+Brandon Jennings,Carlos Delfino,Dan Gadzuric,Ersan Ilyasova,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,9:42,MIL,shot,,,,,,,,,,Ersan Ilyasova,,,,missed,,layup,25,6
+Brandon Jennings,Carlos Delfino,Dan Gadzuric,Ersan Ilyasova,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,9:41,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Brandon Jennings,Carlos Delfino,Dan Gadzuric,Ersan Ilyasova,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,9:30,MIL,foul,,,,,,,,Joakim Noah,,Ersan Ilyasova,,,,,,shooting,,
+Brandon Jennings,Carlos Delfino,Dan Gadzuric,Ersan Ilyasova,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,9:30,CHI,free throw,,,,,,,1,,2,Joakim Noah,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,9:30,MIL,sub,,,,Andrew Bogut,,Ersan Ilyasova,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,9:30,CHI,free throw,,,,,,,2,,2,Joakim Noah,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,9:11,MIL,shot,,,,,,,,,,Andrew Bogut,2,,,made,,hook,16,7
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,8:59,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,8,26
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,8:58,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,8:43,MIL,shot,,,,,,,,,,Andrew Bogut,2,,,made,,running jump,35,7
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,8:43,CHI,foul,,,,,,,,Andrew Bogut,,Brad Miller,,,,,,shooting,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,8:43,MIL,timeout,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,8:43,MIL,free throw,,,,,,,1,,1,Andrew Bogut,,,foul,missed,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,8:41,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,8:26,CHI,shot,Derrick Rose,,,,,,,,,John Salmons,2,,,made,,jump,9,14
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,8:11,MIL,shot,,,,,,,,,,Andrew Bogut,2,,,made,,jump,15,8
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,7:53,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,41,8
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,7:52,MIL,rebound,,,,,,,,,,Dan Gadzuric,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,7:48,MIL,turnover,,,,,,,,,,Dan Gadzuric,,,lost ball,,Joakim Noah,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,7:45,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,7:44,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,7:39,MIL,shot,,,,,,,,,,Brandon Jennings,,,,missed,,jump,25,15
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,7:35,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,7:20,MIL,shot,,,,,,,,,,Andrew Bogut,2,,,made,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,6:57,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,34,24
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,6:56,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,6:40,MIL,shot,,,,,,,,,,Brandon Jennings,,,,missed,,jump,16,21
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,6:39,MIL,rebound,,,,,,,,,,Dan Gadzuric,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,2,6:21,MIL,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,2,6:21,CHI,sub,,,,Luol Deng,,Joakim Noah,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Dan Gadzuric,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,6:21,CHI,sub,,,,Taj Gibson,,Derrick Rose,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,6:21,MIL,sub,,,,Hakim Warrick,,Dan Gadzuric,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,6:16,MIL,shot,,,,,,,,,,Hakim Warrick,,,,missed,,jump,37,24
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,6:14,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,6:00,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,19,24
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,5:58,MIL,rebound,,,,,,,,,,Hakim Warrick,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,5:41,MIL,shot,,,,,,,,,,Hakim Warrick,,,,missed,,jump,31,7
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,5:39,MIL,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,5:30,MIL,shot,,,,,,,,,,Carlos Delfino,,,,missed,,3pt,10,26
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,5:29,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,5:25,CHI,shot,Kirk Hinrich,,,,,,,,,John Salmons,2,,,made,,dunk,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,5:08,MIL,turnover,,,,,,,,,,Brandon Jennings,,,lost ball,,Kirk Hinrich,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:50,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,39,13
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:49,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:49,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,15,10
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:46,MIL,rebound,,,,,,,,,,Hakim Warrick,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:38,CHI,foul,,,,,,,,Brandon Jennings,,Kirk Hinrich,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:38,MIL,sub,,,,Charlie Bell,,Carlos Delfino,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:32,MIL,shot,,,Taj Gibson,,,,,,,Brandon Jennings,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:32,MIL,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:26,MIL,shot,,,,,,,,,,Charlie Bell,2,,,made,,layup,25,6
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:16,CHI,turnover,,,,,,,,,,Luol Deng,,,lost ball,,Luc Richard Mbah a Moute,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:11,MIL,turnover,,,,,,,,,,Brandon Jennings,,,lost ball,,Kirk Hinrich,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:01,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,11,10
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:01,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:01,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,tip,25,6
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:01,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:01,MIL,foul,,,,,,,,Taj Gibson,,Andrew Bogut,,,,,,shooting,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:01,CHI,free throw,,,,,,,1,,2,Taj Gibson,,,foul,missed,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:01,CHI,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:01,CHI,free throw,,,,,,,2,,2,Taj Gibson,,,foul,missed,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,4:00,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,3:36,MIL,shot,,,,,,,,,,Andrew Bogut,,,,missed,,hook,31,11
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,3:35,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,3:35,MIL,foul,,,,,,,,Luol Deng,,Hakim Warrick,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,3:35,CHI,sub,,,,Joakim Noah,,Brad Miller,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,3:35,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,3:35,MIL,sub,,,,Dan Gadzuric,,Andrew Bogut,,,,,,,,,,,,
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,3:35,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,3:10,MIL,shot,,,,,,,,,,Hakim Warrick,,,,missed,,3pt,15,30
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,3:10,MIL,rebound,,,,,,,,,,,,,,,,,,
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:44,MIL,shot,,,,,,,,,,Luc Richard Mbah a Moute,2,,,made,,a moute fade away jumper,6,8
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:33,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,33,20
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:31,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:31,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,tip,25,6
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:29,MIL,rebound,,,,,,,,,,Brandon Jennings,,,,,,def,,
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:26,MIL,shot,Brandon Jennings,,,,,,,,,Dan Gadzuric,2,,,made,,dunk,25,6
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:14,CHI,turnover,,,,,,,,,,John Salmons,,,bad pass,,Brandon Jennings,,,
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:11,CHI,foul,,,,,,,,Brandon Jennings,,Kirk Hinrich,,,,,,shooting,,
+Brandon Jennings,Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:11,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:11,MIL,sub,,,,Roko Ukic,,Charlie Bell,,,,,,,,,,,,
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:11,MIL,free throw,,,,,,,1,,2,Brandon Jennings,,,foul,made,,,,
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,2:11,MIL,free throw,,,,,,,2,,2,Brandon Jennings,,,foul,made,,,,
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,1:53,CHI,shot,Joakim Noah,,,,,,,,,Luol Deng,2,,,made,,reverse layup,25,6
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,1:31,MIL,shot,,,,,,,,,,Luc Richard Mbah a Moute,,,,missed,,a moute jump,36,24
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,1:30,MIL,rebound,,,,,,,,,,Dan Gadzuric,,,,,,off,,
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,1:27,MIL,shot,Dan Gadzuric,,,,,,,,,Brandon Jennings,2,,,made,,jump,30,13
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,1:09,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,41,27
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,1:08,MIL,rebound,,,,,,,,,,Dan Gadzuric,,,,,,def,,
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,0:47,MIL,shot,,,,,,,,,,Luc Richard Mbah a Moute,,,,missed,,a moute 3pt,2,5
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,0:46,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,0:44,CHI,shot,Kirk Hinrich,,,,,,,,,Luol Deng,2,,,made,,layup,25,6
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,0:26,MIL,shot,,,,,,,,,,Brandon Jennings,,,,missed,,3pt,40,29
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,0:25,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Brandon Jennings,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,0:19,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,0:19,MIL,sub,,,,Charlie Bell,,Brandon Jennings,,,,,,,,,,,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,0:19,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,0:06,CHI,shot,,,,,,,,,,Kirk Hinrich,2,,,made,,jump,25,13
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,0:00,MIL,shot,,,,,,,,,,Roko Ukic,,,,missed,,jump,35,20
+Charlie Bell,Dan Gadzuric,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,2,0:00,MIL,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,11:45,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,37,19
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,11:44,MIL,rebound,,,,,,,,,,Charlie Bell,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,11:28,MIL,turnover,,,,,,,,,,Andrew Bogut,,,bad pass,,Taj Gibson,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,11:14,CHI,shot,Derrick Rose,,,,,,,,,Luol Deng,2,,,made,,jump,35,17
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,11:04,CHI,foul,,,,,,,,Charlie Bell,,John Salmons,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,10:55,MIL,shot,,,Luol Deng,,,,,,,Carlos Delfino,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,10:53,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,10:45,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,2,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,10:43,MIL,rebound,,,,,,,,,,Carlos Delfino,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,10:41,MIL,shot,Carlos Delfino,,,,,,,,,Charlie Bell,2,,,made,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,10:26,CHI,shot,John Salmons,,,,,,,,,Taj Gibson,2,,,made,,jump,14,14
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,10:00,MIL,shot,,,John Salmons,,,,,,,Charlie Bell,,,,missed,,3pt,1,14
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,9:58,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,9:54,CHI,shot,Derrick Rose,,,,,,,,,Luol Deng,2,,,made,,jump,8,19
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,9:35,MIL,shot,,,,,,,,,,Hakim Warrick,,,,missed,,jump,10,17
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,9:34,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,9:21,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,40,15
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,9:20,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,9:00,MIL,shot,,,,,,,,,,Brandon Jennings,,,,missed,,3pt,36,28
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,8:59,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,8:47,CHI,turnover,,,,,,,,,,Luol Deng,,,lost ball,,Carlos Delfino,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,8:44,MIL,shot,,,,,,,,,,Carlos Delfino,2,,,made,,driving dunk,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,8:28,CHI,turnover,,,,,,,,,,Derrick Rose,,,bad pass,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,8:17,MIL,shot,Charlie Bell,,,,,,,,,Andrew Bogut,2,,,made,,hook,37,7
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,8:06,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,38,20
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,8:06,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,8:06,CHI,foul,,,,,,,,Andrew Bogut,,Joakim Noah,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,7:49,MIL,shot,Carlos Delfino,,,,,,,,,Hakim Warrick,2,,,made,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,7:34,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,7:33,MIL,rebound,,,,,,,,,,Carlos Delfino,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,7:29,CHI,foul,,,,,,,,Carlos Delfino,,Luol Deng,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,7:13,MIL,shot,,,,,,,,,,Hakim Warrick,,,,missed,,jump,42,12
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,7:12,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,7:08,CHI,foul,,,,,,,,Hakim Warrick,,Taj Gibson,,,,,,offensive,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,7:08,CHI,turnover,,,,,,,,,,Taj Gibson,,,foul,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,6:57,MIL,shot,Hakim Warrick,,,,,,,,,Charlie Bell,2,,,made,,jump,5,7
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,3,6:57,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:57,CHI,sub,,,,Kirk Hinrich,,Joakim Noah,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:57,CHI,sub,,,,Brad Miller,,Derrick Rose,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:38,MIL,foul,,,,,,,,Brad Miller,,Brandon Jennings,,,,,,shooting,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:38,CHI,free throw,,,,,,,1,,2,Brad Miller,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:38,CHI,sub,,,,Jannero Pargo,,John Salmons,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:38,CHI,free throw,,,,,,,2,,2,Brad Miller,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:38,MIL,turnover,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:29,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,36,20
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:28,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:28,CHI,shot,,,Andrew Bogut,,,,,,,Brad Miller,,,,missed,,tip,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:28,CHI,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:25,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,42,12
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:24,MIL,rebound,,,,,,,,,,Hakim Warrick,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:19,MIL,shot,,,,,,,,,,Brandon Jennings,,,,missed,,jump,37,24
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:18,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:06,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,17,26
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:05,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:03,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:02,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:01,MIL,foul,,,,,,,,Taj Gibson,,Charlie Bell,,,,,,shooting,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:01,CHI,free throw,,,,,,,1,,2,Taj Gibson,,,foul,missed,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:01,CHI,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,6:01,CHI,free throw,,,,,,,2,,2,Taj Gibson,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,5:39,MIL,shot,Carlos Delfino,,,,,,,,,Brandon Jennings,3,,,made,,3pt,4,19
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,5:20,CHI,shot,Brad Miller,,,,,,,,,Jannero Pargo,3,,,made,,3pt,7,23
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,5:04,MIL,shot,,,,,,,,,,Charlie Bell,,,,missed,,jump,16,22
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,5:03,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,4:57,CHI,shot,,,,,,,,,,Kirk Hinrich,2,,,made,,jump,29,27
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,4:37,MIL,shot,,,Luol Deng,,,,,,,Carlos Delfino,,,,missed,,jump,17,27
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,4:35,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,4:20,CHI,shot,Kirk Hinrich,,,,,,,,,Taj Gibson,2,,,made,,jump bank,28,23
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,4:19,MIL,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Hakim Warrick,Luke Ridnour,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,3,4:19,MIL,sub,,,,Luke Ridnour,,Brandon Jennings,,,,,,,,,,,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Hakim Warrick,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,4:19,CHI,sub,,,,John Salmons,,Taj Gibson,,,,,,,,,,,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Hakim Warrick,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,4:04,CHI,foul,,,,,,,,Charlie Bell,,Kirk Hinrich,,,,,,personal,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Hakim Warrick,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,4:02,CHI,foul,,,,,,,,Luke Ridnour,,Brad Miller,,,,,,personal,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Hakim Warrick,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,4:02,MIL,free throw,,,,,,,1,,2,Luke Ridnour,,,foul,missed,,,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Hakim Warrick,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,4:02,MIL,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,4:02,MIL,sub,,,,Ersan Ilyasova,,Hakim Warrick,,,,,,,,,,,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,4:02,MIL,free throw,,,,,,,2,,2,Luke Ridnour,,,foul,missed,,,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,4:00,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,3:45,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,3pt,42,24
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,3:44,MIL,rebound,,,,,,,,,,Carlos Delfino,,,,,,def,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,3:42,MIL,turnover,,,,,,,,,,Carlos Delfino,,,bad pass,,Jannero Pargo,,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,3:39,CHI,shot,,,,,,,,,,Jannero Pargo,2,,,made,,jump,39,15
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,3:22,MIL,shot,,,,,,,,,,Andrew Bogut,,,,missed,,hook,15,8
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,3:20,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,3:08,CHI,shot,Jannero Pargo,,,,,,,,,John Salmons,3,,,made,,3pt,4,18
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,2:55,MIL,foul,,,,,,,,Brad Miller,,Andrew Bogut,,,,,,offensive,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,2:55,MIL,turnover,,,,,,,,,,Andrew Bogut,,,foul,,,,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,2:55,MIL,sub,,,,Luc Richard Mbah a Moute,,Carlos Delfino,,,,,,,,,,,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,2:42,CHI,turnover,,,,,,,,,,Brad Miller,,,traveling,,,,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,2:19,MIL,shot,Luc Richard Mbah a Moute,,,,,,,,,Luke Ridnour,2,,,made,,jump,8,10
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,2:05,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,27,27
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,2:04,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,2:04,MIL,foul,,,,,,,,Luol Deng,,Ersan Ilyasova,,,,,,shooting,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,2:04,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,2:04,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,1:51,MIL,turnover,,,,,,,,,,Luke Ridnour,,,bad pass,,John Salmons,,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,1:40,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,45,21
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,1:38,MIL,rebound,,,,,,,,,,Ersan Ilyasova,,,,,,def,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,1:23,MIL,turnover,,,,,,,,,,Luc Richard Mbah a Moute,,,bad pass,,John Salmons,,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,1:05,MIL,foul,,,,,,,,Jannero Pargo,,Charlie Bell,,,,,,personal,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,0:59,MIL,foul,,,,,,,,Brad Miller,,Luke Ridnour,,,,,,shooting,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,0:59,CHI,free throw,,,,,,,1,,2,Brad Miller,,,foul,missed,,,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,0:59,CHI,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,0:59,CHI,free throw,,,,,,,2,,2,Brad Miller,,,foul,made,,,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,0:41,MIL,shot,,,,,,,,,,Andrew Bogut,,,,missed,,hook,13,7
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,0:40,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Andrew Bogut,Charlie Bell,Ersan Ilyasova,Luc Richard Mbah a Moute,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,0:30,CHI,turnover,,,,,,,,,,Kirk Hinrich,,,palming turnover,,,,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,0:30,MIL,sub,,,,Carlos Delfino,,Luc Richard Mbah a Moute,,,,,,,,,,,,
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,0:08,MIL,shot,Luke Ridnour,,,,,,,,,Andrew Bogut,2,,,made,,running layup,25,6
+Andrew Bogut,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Luke Ridnour,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,3,0:00,CHI,shot,Kirk Hinrich,,,,,,,,,Luol Deng,3,,,made,,3pt,2,10
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,11:35,MIL,shot,,,John Salmons,,,,,,,Carlos Delfino,,,,missed,,jump,23,16
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,11:34,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,11:23,MIL,foul,,,,,,,,Brad Miller,,Charlie Bell,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,11:14,CHI,shot,,,Andrew Bogut,,,,,,,John Salmons,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,11:12,MIL,rebound,,,,,,,,,,Carlos Delfino,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,11:03,MIL,shot,,,,,,,,,,Brandon Jennings,2,,,made,,jump,24,27
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,10:47,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,29,24
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,10:46,MIL,rebound,,,,,,,,,,Charlie Bell,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,10:37,MIL,shot,,,,,,,,,,Brandon Jennings,,,,missed,,floating jump,18,15
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,10:36,CHI,rebound,,,,,,,,,,Jannero Pargo,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,10:22,CHI,shot,,,,,,,,,,Jannero Pargo,2,,,made,,driving layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,10:04,MIL,shot,Luc Richard Mbah a Moute,,,,,,,,,Carlos Delfino,3,,,made,,3pt,44,23
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,9:49,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,jump,34,22
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,9:22,CHI,foul,,,,,,,,Brandon Jennings,,Kirk Hinrich,,,,,,shooting,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Luc Richard Mbah a Moute,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,9:22,CHI,sub,,,,Derrick Rose,,Kirk Hinrich,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,9:22,MIL,sub,,,,Roko Ukic,,Charlie Bell,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,9:22,MIL,free throw,,,,,,,1,,2,Brandon Jennings,,,foul,missed,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,9:22,MIL,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,9:22,MIL,free throw,,,,,,,2,,2,Brandon Jennings,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,9:05,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,fade away jumper,10,9
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,9:03,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,9:03,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,9:03,MIL,foul,,,,,,,,Luol Deng,,Andrew Bogut,,,,,,shooting,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,9:03,CHI,free throw,,,,,,,1,,1,Luol Deng,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,8:37,MIL,shot,,,,,,,,,,Roko Ukic,,,,missed,,3pt,14,30
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,8:36,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,8:25,CHI,shot,Derrick Rose,,,,,,,,,Brad Miller,3,,,made,,3pt,12,27
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,8:01,MIL,shot,,,,,,,,,,Luc Richard Mbah a Moute,,,,missed,,a moute 3pt,49,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,8:00,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,7:50,MIL,foul,,,,,,,,Brad Miller,,Luc Richard Mbah a Moute,,,,,,shooting,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,7:50,CHI,timeout,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,7:50,MIL,sub,,,,Hakim Warrick,,Carlos Delfino,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,7:50,CHI,free throw,,,,,,,1,,2,Brad Miller,,,foul,missed,,,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,7:50,CHI,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,7:50,CHI,free throw,,,,,,,2,,2,Brad Miller,,,foul,missed,,,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,7:49,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,7:31,MIL,shot,,,,,,,,,,Andrew Bogut,2,,,made,,hook,23,13
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,7:20,CHI,shot,,,Hakim Warrick,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,7:18,MIL,rebound,,,,,,,,,,Luc Richard Mbah a Moute,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,6:59,MIL,shot,,,,,,,,,,Roko Ukic,,,,missed,,3pt,40,27
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,6:58,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,6:41,CHI,shot,Brad Miller,,,,,,,,,Derrick Rose,2,,,made,,dunk,25,6
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,6:18,MIL,shot,,,,,,,,,,Hakim Warrick,,,,missed,,jump,23,26
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,6:17,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,6:05,CHI,shot,Brad Miller,,,,,,,,,Jannero Pargo,3,,,made,,3pt,11,26
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,5:39,MIL,shot,,,,,,,,,,Hakim Warrick,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,5:39,MIL,rebound,,,,,,,,,,Hakim Warrick,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,5:39,CHI,foul,,,,,,,,Hakim Warrick,,Jannero Pargo,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Brad Miller,Derrick Rose,Jannero Pargo,John Salmons,Luol Deng,4,5:39,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Derrick Rose,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,5:39,CHI,sub,,,,Kirk Hinrich,,Brad Miller,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:39,CHI,sub,,,,Joakim Noah,,Jannero Pargo,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:27,MIL,shot,,,,,,,,,,Andrew Bogut,,,,missed,,hook,24,12
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:24,MIL,rebound,,,,,,,,,,Hakim Warrick,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:24,MIL,shot,,,,,,,,,,Hakim Warrick,,,,missed,,tip,25,6
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:23,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:21,MIL,foul,,,,,,,,Derrick Rose,,Roko Ukic,,,,,,shooting,,
+Andrew Bogut,Brandon Jennings,Hakim Warrick,Luc Richard Mbah a Moute,Roko Ukic,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:21,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:21,MIL,sub,,,,Charlie Bell,,Roko Ukic,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:21,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:05,MIL,shot,,,Joakim Noah,,,,,,,Andrew Bogut,,,,missed,,jump,27,12
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:03,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:59,MIL,shot,,,,,,,,,,Charlie Bell,,,,missed,,3pt,49,6
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:58,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:46,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,39,16
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:36,CHI,foul,,,,,,,,Brandon Jennings,,Kirk Hinrich,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,4:36,CHI,sub,,,,Jannero Pargo,,Kirk Hinrich,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,4:30,MIL,shot,,,,,,,,,,Brandon Jennings,,,,missed,,3pt,42,26
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,4:27,MIL,rebound,,,,,,,,,,Hakim Warrick,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,4:14,MIL,shot,,,,,,,,,,Brandon Jennings,2,,,made,,jump,24,15
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,4:02,MIL,foul,,,,,,,,Luol Deng,,Hakim Warrick,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,4:02,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,4:02,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,missed,,,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,4:00,MIL,rebound,,,,,,,,,,Andrew Bogut,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,3:51,CHI,foul,,,,,,,,Andrew Bogut,,Joakim Noah,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,3:41,MIL,shot,Brandon Jennings,,,,,,,,,Hakim Warrick,2,,,made,,jump,41,19
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,3:26,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,11,17
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,3:13,MIL,shot,,,Joakim Noah,,,,,,,Brandon Jennings,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Charlie Bell,Hakim Warrick,Luc Richard Mbah a Moute,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,3:13,MIL,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,3:13,MIL,sub,,,,Carlos Delfino,,Luc Richard Mbah a Moute,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Luol Deng,4,3:13,MIL,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,3:13,CHI,sub,,,,Kirk Hinrich,,Jannero Pargo,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,3:00,MIL,shot,,,Joakim Noah,,,,,,,Hakim Warrick,,,,missed,,jump,28,15
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,2:58,MIL,rebound,,,,,,,,,,Hakim Warrick,,,,,,off,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,2:56,MIL,shot,Hakim Warrick,,,,,,,,,Charlie Bell,3,,,made,,3pt,7,26
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,2:42,CHI,shot,Derrick Rose,,,,,,,,,Joakim Noah,2,,,made,,driving dunk,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,2:16,MIL,shot,,,,,,,,,,Brandon Jennings,,,,missed,,layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,2:15,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,2:03,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,35,21
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,2:02,MIL,rebound,,,,,,,,,,Charlie Bell,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,1:48,MIL,shot,,,,,,,,,,Charlie Bell,,,,missed,,3pt,36,29
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,1:47,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,1:41,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:41,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:28,CHI,shot,Brad Miller,,,,,,,,,Derrick Rose,2,,,made,,dunk,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:11,MIL,shot,,,,,,,,,,Andrew Bogut,2,,,made,,hook,26,12
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,0:55,CHI,foul,,,,,,,,Andrew Bogut,,Brad Miller,,,,,,offensive,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,0:55,CHI,turnover,,,,,,,,,,Brad Miller,,,foul,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:55,CHI,sub,,,,Joakim Noah,,Brad Miller,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:45,MIL,shot,,,,,,,,,,Brandon Jennings,2,,,made,,driving layup,25,6
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:45,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,0:45,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,0:29,CHI,turnover,,,,,,,,,,Derrick Rose,,,bad pass,,Andrew Bogut,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,0:22,MIL,shot,,,,,,,,,,Brandon Jennings,2,,,made,,jump,32,12
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,0:22,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,0:21,MIL,foul,,,,,,,,Brad Miller,,Andrew Bogut,,,,,,personal,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,0:21,CHI,free throw,,,,,,,1,,2,Brad Miller,,,foul,missed,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,0:21,CHI,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,0:21,CHI,free throw,,,,,,,2,,2,Brad Miller,,,foul,made,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,0:21,MIL,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:21,CHI,sub,,,,Joakim Noah,,Brad Miller,,,,,,,,,,,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:14,MIL,shot,,,Derrick Rose,,,,,,,Brandon Jennings,,,,missed,,jump,21,17
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:13,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Andrew Bogut,Brandon Jennings,Carlos Delfino,Charlie Bell,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:13,MIL,foul,,,,,,,,Joakim Noah,,Andrew Bogut,,,,,,personal,,
+Brandon Jennings,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:13,MIL,sub,,,,Ersan Ilyasova,,Andrew Bogut,,,,,,,,,,,,
+Brandon Jennings,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:13,CHI,free throw,,,,,,,1,,2,Joakim Noah,,,foul,missed,,,,
+Brandon Jennings,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:13,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brandon Jennings,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:13,CHI,free throw,,,,,,,2,,2,Joakim Noah,,,foul,missed,,,,
+Brandon Jennings,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:12,MIL,rebound,,,,,,,,,,Carlos Delfino,,,,,,def,,
+Brandon Jennings,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:12,MIL,timeout,,,,,,,,,,,,,,,,short,,
+Brandon Jennings,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:01,MIL,shot,,,,,,,,,,Ersan Ilyasova,,,,missed,,3pt,8,27
+Brandon Jennings,Carlos Delfino,Charlie Bell,Ersan Ilyasova,Hakim Warrick,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,0:01,CHI,rebound,,,,,,,,,,,,,,,,,,

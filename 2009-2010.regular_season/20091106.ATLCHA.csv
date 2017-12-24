@@ -1,0 +1,443 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,12:00,OFF,jump ball,,Josh Smith,,,Tyson Chandler,,,,,,,Raja Bell,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,11:48,ATL,foul,,,,,,,,Boris Diaw,,Josh Smith,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,11:42,CHA,shot,,,,,,,,,,Raymond Felton,,,,missed,,jump,36,24
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,11:41,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,11:26,CHA,foul,,,,,,,,Joe Johnson,,Raja Bell,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,11:26,ATL,free throw,,,,,,,1,,2,Joe Johnson,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,11:26,ATL,free throw,,,,,,,2,,2,Joe Johnson,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,11:13,CHA,shot,,,,,,,,,,Gerald Wallace,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,11:13,CHA,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,11:06,CHA,shot,Raymond Felton,,,,,,,,,Raja Bell,3,,,made,,3pt,13,29
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,10:45,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,36,19
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,10:44,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,10:30,CHA,shot,,,,,,,,,,Gerald Wallace,,,,missed,,jump,38,22
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,10:28,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,10:23,ATL,foul,,,,,,,,Gerald Wallace,,Josh Smith,,,,,,offensive,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,10:23,ATL,turnover,,,,,,,,,,Josh Smith,,,foul,,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,10:23,ATL,sub,,,,Joe Smith,,Josh Smith,,,,,,,,,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,10:12,CHA,shot,Raymond Felton,,,,,,,,,Raja Bell,3,,,made,,3pt,47,16
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,9:55,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,30,23
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,9:53,CHA,rebound,,,,,,,,,,Raymond Felton,,,,,,def,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,9:49,CHA,shot,Raymond Felton,,,,,,,,,Gerald Wallace,2,,,made,,slam dunk,25,6
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,9:26,CHA,foul,,,,,,,,Marvin Williams,,Tyson Chandler,,,,,,personal,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,9:12,ATL,shot,,,,,,,,,,Marvin Williams,2,,,made,,jump,10,8
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,8:52,CHA,shot,Boris Diaw,,,,,,,,,Raja Bell,2,,,made,,reverse layup,25,6
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,8:35,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,jump,34,8
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,8:18,CHA,shot,,,,,,,,,,Raymond Felton,,,,missed,,3pt,1,9
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,8:16,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,8:09,ATL,shot,Mike Bibby,,,,,,,,,Joe Johnson,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,7:53,CHA,shot,,,Marvin Williams,,,,,,,Gerald Wallace,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,7:51,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,7:36,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,11,29
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,7:35,CHA,rebound,,,,,,,,,,Tyson Chandler,,,,,,def,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,7:15,CHA,shot,,,,,,,,,,Raymond Felton,,,,missed,,reverse layup,25,6
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,7:13,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,def,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,7:03,ATL,shot,Mike Bibby,,,,,,,,,Al Horford,2,,,made,,turnaround hook,17,8
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,6:49,CHA,shot,,,,,,,,,,Gerald Wallace,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,6:49,ATL,foul,,,,,,,,Gerald Wallace,,Joe Smith,,,,,,shooting,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,6:49,CHA,free throw,,,,,,,1,,1,Gerald Wallace,,,foul,made,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,6:35,ATL,shot,,,,,,,,,,Mike Bibby,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,6:20,CHA,shot,Boris Diaw,,,,,,,,,Raja Bell,2,,,made,,jump,30,24
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,6:09,CHA,foul,,,,,,,,,,Boris Diaw,,,,,,defense 3 second,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,6:09,ATL,free throw,,,,,,,1,,1,Joe Johnson,,,technical,made,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,5:58,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,driving jump,28,11
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,5:38,CHA,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,5:38,ATL,sub,,,,Jamal Crawford,,Marvin Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,5:30,CHA,shot,,,,,,,,,,Raymond Felton,,,,missed,,jump,42,7
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,5:28,CHA,rebound,,,,,,,,,,Tyson Chandler,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,5:28,CHA,shot,,,,,,,,,,Tyson Chandler,2,,,made,,tip,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,5:08,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,2,8
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,5:06,CHA,rebound,,,,,,,,,,Raymond Felton,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,4:51,CHA,shot,,,,,,,,,,Raja Bell,2,,,made,,jump,8,11
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,4:29,ATL,shot,,,Tyson Chandler,,,,,,,Al Horford,,,,missed,,running hook,23,10
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,1,4:27,CHA,rebound,,,,,,,,,,Boris Diaw,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,4:20,CHA,sub,,,,Vladimir Radmanovic,,Tyson Chandler,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,4:20,ATL,sub,,,,Marvin Williams,,Joe Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,4:15,ATL,foul,,,,,,,,Raymond Felton,,Jamal Crawford,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,4:03,ATL,foul,,,,,,,,Raymond Felton,,Mike Bibby,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,3:53,CHA,shot,Raja Bell,,,,,,,,,Vladimir Radmanovic,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,3:48,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,3:36,ATL,shot,,,,,,,,,,Al Horford,2,,,made,,fade away jumper,23,11
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,3:25,CHA,shot,Raymond Felton,,,,,,,,,Boris Diaw,2,,,made,,hook,27,12
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,3:11,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,hook,17,10
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,3:11,CHA,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,2:59,CHA,shot,,,Marvin Williams,,,,,,,Gerald Wallace,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,2:57,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,2:45,ATL,shot,Mike Bibby,,,,,,,,,Al Horford,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,2:32,CHA,turnover,,,,,,,,,,Raymond Felton,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,2:18,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,9,29
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,2:17,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,2:05,CHA,shot,,,Al Horford,,,,,,,Boris Diaw,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,2:03,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,2:01,CHA,foul,,,,,,,,Marvin Williams,,Vladimir Radmanovic,,,,,,shooting,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,2:01,ATL,sub,,,,Jeff Teague,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,Vladimir Radmanovic,1,2:01,CHA,sub,,,,Nazr Mohammed,,Boris Diaw,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Gerald Wallace,Nazr Mohammed,Raymond Felton,Ronald Murray,Vladimir Radmanovic,1,2:01,CHA,sub,,,,Ronald Murray,,Raja Bell,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Vladimir Radmanovic,1,2:01,CHA,sub,,,,D.J. Augustin,,Raymond Felton,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Vladimir Radmanovic,1,2:01,ATL,sub,,,,Zaza Pachulia,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Vladimir Radmanovic,1,2:01,ATL,free throw,,,,,,,1,,2,Marvin Williams,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Vladimir Radmanovic,1,2:01,ATL,free throw,,,,,,,2,,2,Marvin Williams,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Vladimir Radmanovic,1,1:59,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Vladimir Radmanovic,1,1:39,CHA,turnover,,,,,,,,,,Gerald Wallace,,,traveling,,,,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,1:39,CHA,sub,,,,Stephen Graham,,Gerald Wallace,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,1:39,CHA,timeout,,,,,,,,,,,,,,,,short,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,1:23,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,32,31
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,1:22,CHA,rebound,,,,,,,,,,Stephen Graham,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,1:04,CHA,shot,Stephen Graham,,,,,,,,,D.J. Augustin,3,,,made,,3pt,0,7
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,0:48,ATL,shot,,,,,,,,,,Zaza Pachulia,2,,,made,,hook,27,12
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,0:34,CHA,shot,Vladimir Radmanovic,,,,,,,,,Stephen Graham,2,,,made,,driving layup,25,6
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,0:29,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,driving layup,25,6
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,0:06,CHA,shot,,,,,,,,,,Stephen Graham,,,,missed,,jump,22,26
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,0:04,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,0:02,CHA,foul,,,,,,,,Jeff Teague,,D.J. Augustin,,,,,,personal,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Marvin Williams,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,0:02,ATL,timeout,,,,,,,,,,,,,,,,short,,
+Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,0:02,ATL,sub,,,,Mike Bibby,,Jeff Teague,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,0:00,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,10,31
+Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,1,0:00,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,11:50,CHA,foul,,,,,,,,Marvin Williams,,Vladimir Radmanovic,,,,,,personal,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,11:44,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,driving layup,25,6
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,11:26,CHA,shot,,,,,,,,,,Ronald Murray,3,,,made,,3pt,33,30
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,11:13,ATL,turnover,,,,,,,,,,Jeff Teague,,,step out of bounds turnover,,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,11:02,CHA,shot,,,,,,,,,,Ronald Murray,,,,missed,,3pt,47,8
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,10:56,ATL,rebound,,,,,,,,,,Maurice Evans,,,,,,def,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,10:53,ATL,shot,Maurice Evans,,,,,,,,,Zaza Pachulia,2,,,made,,layup,25,6
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,10:42,CHA,shot,Ronald Murray,,,,,,,,,Nazr Mohammed,2,,,made,,layup,25,6
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,10:29,ATL,shot,Jeff Teague,,,,,,,,,Maurice Evans,3,,,made,,3pt,2,7
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,10:06,CHA,turnover,,,,,,,,,,Stephen Graham,,,bad pass,,Jeff Teague,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,10:00,ATL,shot,Jeff Teague,,,,,,,,,Jamal Crawford,2,,,made,,driving layup,25,6
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,9:43,CHA,shot,Nazr Mohammed,,,,,,,,,D.J. Augustin,2,,,made,,layup,25,6
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,9:43,ATL,foul,,,,,,,,D.J. Augustin,,Jeff Teague,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,9:43,CHA,free throw,,,,,,,1,,1,D.J. Augustin,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,9:31,CHA,foul,,,,,,,,Marvin Williams,,Vladimir Radmanovic,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,2,9:31,ATL,free throw,,,,,,,1,,2,Marvin Williams,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Stephen Graham,2,9:31,CHA,sub,,,,Gerald Wallace,,Vladimir Radmanovic,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Stephen Graham,2,9:31,ATL,free throw,,,,,,,2,,2,Marvin Williams,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Stephen Graham,2,9:18,CHA,shot,,,,,,,,,,D.J. Augustin,2,,,made,,driving layup,25,6
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Stephen Graham,2,9:04,ATL,foul,,,,,,,,Stephen Graham,,Zaza Pachulia,,,,,,offensive,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Stephen Graham,2,9:04,ATL,turnover,,,,,,,,,,Zaza Pachulia,,,foul,,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Ronald Murray,Stephen Graham,Tyson Chandler,2,9:02,CHA,sub,,,,Tyson Chandler,,Nazr Mohammed,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,9:02,CHA,sub,,,,Boris Diaw,,Stephen Graham,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:42,CHA,shot,,,,,,,,,,Ronald Murray,,,,missed,,turnaround bank,37,12
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:41,CHA,rebound,,,,,,,,,,Ronald Murray,,,,,,off,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:32,CHA,shot,,,,,,,,,,Gerald Wallace,,,,missed,,3pt,1,6
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:30,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:25,ATL,shot,,,Gerald Wallace,,,,,,,Marvin Williams,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:22,CHA,rebound,,,,,,,,,,Boris Diaw,,,,,,def,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:19,CHA,shot,,,Zaza Pachulia,,,,,,,D.J. Augustin,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:19,CHA,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:19,CHA,timeout,,,,,,,,,,,,,,,,official,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:19,ATL,sub,,,,Joe Johnson,,Marvin Williams,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:19,ATL,sub,,,,Josh Smith,,Jeff Teague,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:06,CHA,turnover,,,,,,,,,,Boris Diaw,,,bad pass,,Joe Johnson,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,2,8:06,CHA,foul,,,,,,,,Joe Johnson,,Ronald Murray,,,,,,personal,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,8:06,CHA,sub,,,,Raja Bell,,Ronald Murray,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,7:53,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,fade away jumper,19,18
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,7:30,CHA,shot,Raja Bell,,,,,,,,,D.J. Augustin,3,,,made,,3pt,1,10
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,7:12,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,31,9
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,7:11,CHA,rebound,,,,,,,,,,D.J. Augustin,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,7:05,CHA,shot,,,,,,,,,,Gerald Wallace,,,,missed,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,7:04,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,off,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,7:04,CHA,shot,,,,,,,,,,Gerald Wallace,2,,,made,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,6:46,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,3pt,48,8
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,6:45,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,6:40,ATL,violation,,,,,,,,,,Josh Smith,,,,,,defensive goaltending,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,6:40,CHA,shot,Raja Bell,,,,,,,,,Boris Diaw,2,,,made,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,6:27,ATL,shot,,,,,,,,,,Zaza Pachulia,2,,,made,,driving layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,6:10,CHA,shot,Gerald Wallace,,,,,,,,,Tyson Chandler,2,,,made,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,5:58,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,6,10
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,5:57,CHA,rebound,,,,,,,,,,Tyson Chandler,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,5:46,CHA,shot,,,,,,,,,,Gerald Wallace,,,,missed,,jump,41,17
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,5:45,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,5:36,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,5:35,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,5:26,CHA,shot,,,,,,,,,,Raja Bell,,,,missed,,3pt,9,26
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,5:25,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,5:01,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,fade away jumper,6,9
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,4:58,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,4:57,ATL,foul,,,,,,,,Gerald Wallace,,Joe Johnson,,,,,,shooting,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Raja Bell,Tyson Chandler,2,4:57,CHA,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:57,CHA,sub,,,,Raymond Felton,,D.J. Augustin,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:57,ATL,sub,,,,Al Horford,,Zaza Pachulia,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:57,ATL,sub,,,,Mike Bibby,,Maurice Evans,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:57,CHA,free throw,,,,,,,1,,2,Gerald Wallace,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:57,CHA,free throw,,,,,,,2,,2,Gerald Wallace,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:37,ATL,shot,,,Tyson Chandler,,,,,,,Joe Johnson,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:36,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:32,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:32,CHA,foul,,,,,,,,Josh Smith,,Boris Diaw,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:32,ATL,free throw,,,,,,,1,,1,Josh Smith,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:21,CHA,turnover,,,,,,,,,,Raja Bell,,,bad pass,,Al Horford,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:15,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,38,27
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:12,CHA,rebound,,,,,,,,,,Boris Diaw,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,4:05,CHA,shot,Raymond Felton,,,,,,,,,Raja Bell,3,,,made,,3pt,11,27
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,3:45,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,3:22,CHA,shot,,,,,,,,,,Boris Diaw,,,,missed,,3pt,41,26
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,3:22,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,3:22,CHA,foul,,,,,,,,Josh Smith,,Tyson Chandler,,,,,,loose ball,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,2,3:22,ATL,sub,,,,Marvin Williams,,Jamal Crawford,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,3:22,CHA,sub,,,,Nazr Mohammed,,Tyson Chandler,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,3:22,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,3:22,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,3:22,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,3:21,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,3:07,CHA,shot,,,,,,,,,,Raymond Felton,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,2:43,ATL,shot,,,Nazr Mohammed,,,,,,,Josh Smith,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,2:41,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,2:21,CHA,shot,Raymond Felton,,,,,,,,,Nazr Mohammed,2,,,made,,fade away jumper,41,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,2:01,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,16,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,2:00,CHA,rebound,,,,,,,,,,Nazr Mohammed,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,1:47,CHA,shot,Boris Diaw,,,,,,,,,Raja Bell,3,,,made,,3pt,2,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,1:22,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,1:20,CHA,rebound,,,,,,,,,,Boris Diaw,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,1:04,CHA,shot,,,,,,,,,,Boris Diaw,,,,missed,,jump,27,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,1:03,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:51,CHA,foul,,,,,,,,Al Horford,,Nazr Mohammed,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:51,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:51,ATL,sub,,,,Jamal Crawford,,Josh Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:51,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:51,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:38,CHA,shot,,,,,,,,,,Raja Bell,,,,missed,,jump,21,25
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:37,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:25,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,8,26
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:24,CHA,rebound,,,,,,,,,,Raymond Felton,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:01,CHA,shot,,,,,,,,,,Raymond Felton,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:01,CHA,rebound,,,,,,,,,,Nazr Mohammed,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:01,CHA,shot,,,,,,,,,,Nazr Mohammed,2,,,made,,putback dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,2,0:00,ATL,shot,,,,,,,,,,Marvin Williams,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,11:37,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,37,18
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,11:36,CHA,rebound,,,,,,,,,,Tyson Chandler,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,11:18,CHA,foul,,,,,,,,Josh Smith,,Boris Diaw,,,,,,offensive,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,11:18,CHA,turnover,,,,,,,,,,Boris Diaw,,,foul,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,11:04,CHA,violation,,,,,,,,,,Tyson Chandler,,,,,,kicked ball,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,10:58,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,32,24
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,10:56,CHA,rebound,,,,,,,,,,Tyson Chandler,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,10:42,CHA,shot,,,,,,,,,,Gerald Wallace,,,,missed,,jump,26,23
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,10:40,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,10:28,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,10:26,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,10:25,CHA,foul,,,,,,,,Josh Smith,,Gerald Wallace,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,10:25,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,10:25,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,10:02,CHA,shot,Gerald Wallace,,,,,,,,,Raymond Felton,3,,,made,,3pt,48,9
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,9:43,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,34,25
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,9:42,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,9:26,ATL,foul,,,,,,,,Raymond Felton,,Mike Bibby,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,9:14,CHA,shot,,,,,,,,,,Gerald Wallace,,,,missed,,jump,17,21
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,9:13,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,9:00,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,8:47,CHA,turnover,,,,,,,,,,Raymond Felton,,,bad pass,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,8:33,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,34,31
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,8:32,CHA,rebound,,,,,,,,,,Tyson Chandler,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,8:22,CHA,shot,Raymond Felton,,,,,,,,,Tyson Chandler,2,,,made,,alley oop dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,8:10,ATL,turnover,,,,,,,,,,Mike Bibby,,,bad pass,,Raymond Felton,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,8:01,CHA,shot,,,,,,,,,,Raja Bell,,,,missed,,jump,37,17
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,8:00,CHA,rebound,,,,,,,,,,Boris Diaw,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,8:00,CHA,shot,,,,,,,,,,Boris Diaw,,,,missed,,tip,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,7:58,CHA,rebound,,,,,,,,,,Boris Diaw,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,7:58,ATL,foul,,,,,,,,Boris Diaw,,Josh Smith,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,7:58,CHA,free throw,,,,,,,1,,2,Boris Diaw,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,7:58,CHA,free throw,,,,,,,2,,2,Boris Diaw,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,7:57,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,7:38,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,running jump,24,14
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,7:26,CHA,shot,,,,,,,,,,Raymond Felton,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,7:11,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,7:11,ATL,sub,,,,Jamal Crawford,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,6:48,CHA,shot,,,,,,,,,,Boris Diaw,,,,missed,,hook,24,12
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,6:47,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,6:35,CHA,foul,,,,,,,,Jamal Crawford,,Raymond Felton,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,6:35,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,6:35,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,6:35,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,6:34,CHA,rebound,,,,,,,,,,Tyson Chandler,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,6:19,CHA,shot,,,,,,,,,,Raymond Felton,,,,missed,,driving layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,6:18,CHA,rebound,,,,,,,,,,Tyson Chandler,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,6:18,CHA,shot,,,,,,,,,,Tyson Chandler,2,,,made,,tip,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,5:57,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,running hook,25,13
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,5:56,CHA,rebound,,,,,,,,,,Boris Diaw,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,5:38,ATL,foul,,,,,,,,Boris Diaw,,Joe Johnson,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,5:38,CHA,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,5:38,ATL,sub,,,,Zaza Pachulia,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,5:38,CHA,free throw,,,,,,,1,,2,Boris Diaw,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,5:38,CHA,free throw,,,,,,,2,,2,Boris Diaw,,,foul,missed,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,5:36,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,5:15,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,driving layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,4:53,CHA,shot,Raja Bell,,,,,,,,,Boris Diaw,2,,,made,,hook,24,12
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,4:33,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,29,25
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,4:31,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,4:17,CHA,shot,Boris Diaw,,,,,,,,,Raja Bell,3,,,made,,3pt,30,31
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,3:54,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,28,14
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,3:53,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,3:40,CHA,foul,,,,,,,,Zaza Pachulia,,Tyson Chandler,,,,,,offensive,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raja Bell,Raymond Felton,Tyson Chandler,3,3:40,CHA,turnover,,,,,,,,,,Tyson Chandler,,,foul,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,Gerald Wallace,Nazr Mohammed,Raja Bell,Raymond Felton,3,3:40,CHA,sub,,,,Nazr Mohammed,,Tyson Chandler,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Raja Bell,3,3:40,CHA,sub,,,,D.J. Augustin,,Raymond Felton,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Stephen Graham,3,3:40,CHA,sub,,,,Stephen Graham,,Raja Bell,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,3:40,CHA,sub,,,,Ronald Murray,,Gerald Wallace,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,3:40,ATL,sub,,,,Jeff Teague,,Marvin Williams,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,3:40,ATL,sub,,,,Maurice Evans,,Joe Johnson,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,3:18,ATL,shot,Zaza Pachulia,,,,,,,,,Maurice Evans,3,,,made,,3pt,47,11
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,3:05,CHA,shot,,,,,,,,,,Nazr Mohammed,,,,missed,,jump,39,9
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,3:03,CHA,rebound,,,,,,,,,,Boris Diaw,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,3:01,CHA,shot,,,Josh Smith,,,,,,,D.J. Augustin,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,2:59,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,2:41,ATL,shot,,,,,,,,,,Zaza Pachulia,,,,missed,,jump,36,15
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,2:40,CHA,rebound,,,,,,,,,,Ronald Murray,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,2:24,CHA,shot,,,Josh Smith,,,,,,,D.J. Augustin,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,2:23,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,2:23,CHA,foul,,,,,,,,Jeff Teague,,D.J. Augustin,,,,,,loose ball,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,3,2:23,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,2:23,CHA,sub,,,,Vladimir Radmanovic,,Boris Diaw,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,2:01,ATL,shot,,,,,,,,,,Zaza Pachulia,,,,missed,,jump,39,10
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:59,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:59,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,tip,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:58,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:58,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,tip,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:38,CHA,shot,,,,,,,,,,Ronald Murray,,,,missed,,jump,11,21
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:36,CHA,rebound,,,,,,,,,,Ronald Murray,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:27,CHA,shot,,,,,,,,,,Ronald Murray,2,,,made,,pullup jump,11,8
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:13,ATL,shot,,,Nazr Mohammed,,,,,,,Zaza Pachulia,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:11,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:11,ATL,shot,,,Nazr Mohammed,,,,,,,Zaza Pachulia,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:08,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,1:08,ATL,shot,,,,,,,,,,Zaza Pachulia,2,,,made,,tip,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,0:54,CHA,shot,D.J. Augustin,,,,,,,,,Ronald Murray,3,,,made,,3pt,1,9
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,0:44,ATL,shot,,,,,,,,,,Jeff Teague,2,,,made,,driving layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,0:34,ATL,foul,,,,,,,,Ronald Murray,,Jamal Crawford,,,,,,personal,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,0:30,ATL,foul,,,,,,,,Ronald Murray,,Zaza Pachulia,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Nazr Mohammed,Ronald Murray,Stephen Graham,Vladimir Radmanovic,3,0:30,CHA,free throw,,,,,,,1,,2,Ronald Murray,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Nazr Mohammed,Ronald Murray,Stephen Graham,3,0:30,CHA,sub,,,,Gerald Wallace,,Vladimir Radmanovic,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Ronald Murray,Stephen Graham,Tyson Chandler,3,0:30,CHA,sub,,,,Tyson Chandler,,Nazr Mohammed,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Ronald Murray,Stephen Graham,Tyson Chandler,3,0:30,CHA,free throw,,,,,,,1,,1,Ronald Murray,,,technical,missed,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Ronald Murray,Stephen Graham,Tyson Chandler,3,0:30,CHA,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Gerald Wallace,Raymond Felton,Ronald Murray,Stephen Graham,Tyson Chandler,3,0:30,CHA,sub,,,,Raymond Felton,,D.J. Augustin,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Gerald Wallace,Raymond Felton,Ronald Murray,Stephen Graham,Tyson Chandler,3,0:30,CHA,free throw,,,,,,,2,,2,Ronald Murray,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Gerald Wallace,Raymond Felton,Ronald Murray,Stephen Graham,Tyson Chandler,3,0:10,CHA,foul,,,,,,,,Jamal Crawford,,Ronald Murray,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Gerald Wallace,Raymond Felton,Ronald Murray,Stephen Graham,Tyson Chandler,3,0:10,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raymond Felton,Ronald Murray,Tyson Chandler,3,0:10,CHA,sub,,,,Boris Diaw,,Stephen Graham,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raymond Felton,Ronald Murray,Tyson Chandler,3,0:10,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raymond Felton,Ronald Murray,Tyson Chandler,3,0:03,CHA,turnover,,,,,,,,,,Gerald Wallace,,,lost ball,,Josh Smith,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,Gerald Wallace,Raymond Felton,Ronald Murray,Tyson Chandler,3,0:01,ATL,shot,Jeff Teague,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,11:47,CHA,shot,D.J. Augustin,,,,,,,,,Tyson Chandler,2,,,made,,alley oop dunk,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,11:31,ATL,turnover,,,,,,,,,,Zaza Pachulia,,,lost ball,,Gerald Wallace,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,11:31,ATL,foul,,,,,,,,D.J. Augustin,,Maurice Evans,,,,,,personal,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,11:31,ATL,sub,,,,Al Horford,,Zaza Pachulia,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,11:22,CHA,shot,,,,,,,,,,Ronald Murray,,,,missed,,3pt,11,27
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,11:19,CHA,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,10:59,CHA,shot,,,,,,,,,,D.J. Augustin,,,,missed,,3pt,36,30
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,10:56,CHA,rebound,,,,,,,,,,Boris Diaw,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,10:56,CHA,shot,,,,,,,,,,Boris Diaw,2,,,made,,reverse layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,10:38,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,31,12
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,10:37,CHA,rebound,,,,,,,,,,D.J. Augustin,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,10:22,CHA,shot,,,,,,,,,,Ronald Murray,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,10:22,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,10:22,CHA,foul,,,,,,,,Josh Smith,,Ronald Murray,,,,,,personal,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,10:09,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,11,16
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,10:08,CHA,rebound,,,,,,,,,,Tyson Chandler,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,9:58,CHA,turnover,,,,,,,,,,Boris Diaw,,,3 second violation,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,9:43,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,35,22
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,9:42,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,9:26,CHA,shot,,,Jeff Teague,,,,,,,Gerald Wallace,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,9:24,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,9:24,CHA,shot,,,Josh Smith,,,,,,,Gerald Wallace,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,9:22,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,9:18,ATL,shot,,,Tyson Chandler,,,,,,,Jamal Crawford,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,9:18,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,Boris Diaw,D.J. Augustin,Gerald Wallace,Ronald Murray,Tyson Chandler,4,9:18,ATL,sub,,,,Joe Johnson,,Josh Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,9:18,CHA,sub,,,,Raja Bell,,Boris Diaw,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,9:13,ATL,shot,Joe Johnson,,,,,,,,,Al Horford,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,9:13,CHA,foul,,,,,,,,Al Horford,,Raja Bell,,,,,,shooting,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,9:13,ATL,free throw,,,,,,,1,,1,Al Horford,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,9:12,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,8:47,CHA,turnover,,,,,,,,,,Gerald Wallace,,,lost ball,,Jeff Teague,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,8:39,ATL,shot,,,,,,,,,,Jeff Teague,,,,missed,,floating jump,23,14
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,8:38,CHA,rebound,,,,,,,,,,Tyson Chandler,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,8:35,CHA,shot,D.J. Augustin,,,,,,,,,Ronald Murray,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,8:17,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,14,30
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,8:15,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,8:13,ATL,shot,Al Horford,,,,,,,,,Jamal Crawford,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,7:57,CHA,shot,,,,,,,,,,Raja Bell,2,,,made,,driving jump,18,8
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,7:57,ATL,foul,,,,,,,,Raja Bell,,Maurice Evans,,,,,,shooting,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,7:57,CHA,timeout,,,,,,,,,,,,,,,,official,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,7:57,ATL,sub,,,,Marvin Williams,,Jeff Teague,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,7:57,CHA,free throw,,,,,,,1,,1,Raja Bell,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,7:43,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,40,20
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,7:42,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,7:21,CHA,turnover,,,,,,,,,,Tyson Chandler,,,3 second violation,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:58,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,12,30
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:56,CHA,rebound,,,,,,,,,,D.J. Augustin,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:56,ATL,foul,,,,,,,,D.J. Augustin,,Al Horford,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:41,CHA,shot,,,Al Horford,,,,,,,D.J. Augustin,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:41,CHA,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:41,ATL,sub,,,,Jeff Teague,,Joe Johnson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:36,ATL,foul,,,,,,,,Gerald Wallace,,Al Horford,,,,,,shooting,,
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:36,CHA,free throw,,,,,,,1,,2,Gerald Wallace,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:36,CHA,free throw,,,,,,,2,,2,Gerald Wallace,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:23,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,reverse layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:22,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:19,CHA,turnover,,,,,,,,,,Gerald Wallace,,,bad pass,,Maurice Evans,,,
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:12,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,jump,14,22
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:11,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,6:11,ATL,shot,,,,,,,,,,Marvin Williams,2,,,made,,putback dunk,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,5:50,CHA,shot,,,Marvin Williams,,,,,,,Ronald Murray,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,5:47,CHA,rebound,,,,,,,,,,Raja Bell,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,5:45,CHA,turnover,,,,,,,,,,Raja Bell,,,bad pass,,Marvin Williams,,,
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,5:43,CHA,foul,,,,,,,,Jamal Crawford,,D.J. Augustin,,,,,,shooting,,
+Al Horford,Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,5:43,CHA,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,5:43,ATL,sub,,,,Zaza Pachulia,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,5:43,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,5:43,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,5:41,CHA,rebound,,,,,,,,,,Gerald Wallace,,,,,,def,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,5:21,CHA,shot,,,,,,,,,,Ronald Murray,3,,,made,,3pt,39,28
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Raja Bell,Ronald Murray,Tyson Chandler,4,5:10,CHA,foul,,,,,,,,Jamal Crawford,,Raja Bell,,,,,,personal,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Ronald Murray,Stephen Graham,Tyson Chandler,4,5:10,CHA,sub,,,,Stephen Graham,,Raja Bell,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Ronald Murray,Stephen Graham,Tyson Chandler,4,5:00,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,3pt,13,30
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Gerald Wallace,Ronald Murray,Stephen Graham,Tyson Chandler,4,4:59,CHA,rebound,,,,,,,,,,Ronald Murray,,,,,,def,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Ronald Murray,Stephen Graham,Tyson Chandler,4,4:42,CHA,sub,,,,Derrick Brown,,Gerald Wallace,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Ronald Murray,Stephen Graham,Tyson Chandler,4,4:38,CHA,shot,,,,,,,,,,Ronald Murray,,,,missed,,jump,29,25
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Ronald Murray,Stephen Graham,Tyson Chandler,4,4:36,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Ronald Murray,Stephen Graham,Tyson Chandler,4,4:23,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,3pt,1,9
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Ronald Murray,Stephen Graham,Tyson Chandler,4,4:22,CHA,rebound,,,,,,,,,,Ronald Murray,,,,,,def,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Ronald Murray,Stephen Graham,Tyson Chandler,4,4:07,CHA,shot,,,,,,,,,,D.J. Augustin,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Ronald Murray,Stephen Graham,Tyson Chandler,4,4:06,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Ronald Murray,Stephen Graham,Tyson Chandler,4,3:55,ATL,shot,,,Tyson Chandler,,,,,,,Zaza Pachulia,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Ronald Murray,Stephen Graham,Tyson Chandler,4,3:53,CHA,rebound,,,,,,,,,,Ronald Murray,,,,,,def,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Ronald Murray,Stephen Graham,Tyson Chandler,4,3:46,CHA,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Nazr Mohammed,Ronald Murray,Stephen Graham,4,3:46,CHA,sub,,,,Nazr Mohammed,,Tyson Chandler,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Marvin Williams,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,3:46,CHA,sub,,,,Gerald Henderson,,Ronald Murray,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Zaza Pachulia,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,3:46,ATL,sub,,,,Jason Collins,,Marvin Williams,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,3:46,ATL,sub,,,,Randolph Morris,,Zaza Pachulia,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,3:36,CHA,shot,,,,,,,,,,Derrick Brown,,,,missed,,jump,12,20
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,3:35,ATL,rebound,,,,,,,,,,Jeff Teague,,,,,,def,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,3:30,ATL,shot,,,,,,,,,,Jeff Teague,2,,,made,,driving layup,25,6
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,3:11,ATL,foul,,,,,,,,Gerald Henderson,,Randolph Morris,,,,,,shooting,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,3:11,CHA,free throw,,,,,,,1,,2,Gerald Henderson,,,foul,missed,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,3:11,CHA,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,3:11,CHA,free throw,,,,,,,2,,2,Gerald Henderson,,,foul,made,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,2:55,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,jump,16,11
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,2:54,CHA,rebound,,,,,,,,,,Gerald Henderson,,,,,,def,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,2:35,CHA,shot,,,Randolph Morris,,,,,,,Derrick Brown,,,,missed,,layup,25,6
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,2:33,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,2:21,CHA,foul,,,,,,,,Randolph Morris,,Stephen Graham,,,,,,shooting,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,2:21,ATL,free throw,,,,,,,1,,2,Randolph Morris,,,foul,missed,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,2:21,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,2:21,ATL,free throw,,,,,,,2,,2,Randolph Morris,,,foul,made,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,2:08,CHA,foul,,,,,,,,Randolph Morris,,D.J. Augustin,,,,,,offensive,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,2:08,CHA,turnover,,,,,,,,,,D.J. Augustin,,,foul,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,1:57,ATL,shot,,,,,,,,,,Jeff Teague,,,,missed,,3pt,35,29
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,1:56,CHA,rebound,,,,,,,,,,Gerald Henderson,,,,,,def,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,1:37,ATL,foul,,,,,,,,Derrick Brown,,Randolph Morris,,,,,,shooting,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,1:37,CHA,free throw,,,,,,,1,,2,Derrick Brown,,,foul,made,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,1:37,CHA,free throw,,,,,,,2,,2,Derrick Brown,,,foul,made,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,1:30,ATL,foul,,,,,,,,Stephen Graham,,Randolph Morris,,,,,,offensive,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,1:30,ATL,turnover,,,,,,,,,,Jason Collins,,,foul,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,1:17,CHA,shot,,,,,,,,,,Gerald Henderson,,,,missed,,layup,25,6
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,1:14,ATL,rebound,,,,,,,,,,Maurice Evans,,,,,,def,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,1:10,CHA,violation,,,,,,,,,,Gerald Henderson,,,,,,defensive goaltending,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,1:10,ATL,shot,,,,,,,,,,Maurice Evans,2,,,made,,driving layup,25,6
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,0:51,CHA,shot,,,,,,,,,,Nazr Mohammed,2,,,made,,turnaround jump,16,9
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,0:42,ATL,shot,,,,,,,,,,Jason Collins,,,,missed,,jump,43,6
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,0:41,CHA,rebound,,,,,,,,,,Stephen Graham,,,,,,def,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,0:27,CHA,shot,,,,,,,,,,Nazr Mohammed,,,,missed,,jump,12,9
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,0:22,ATL,rebound,,,,,,,,,,Maurice Evans,,,,,,def,,
+Jamal Crawford,Jason Collins,Jeff Teague,Maurice Evans,Randolph Morris,D.J. Augustin,Derrick Brown,Gerald Henderson,Nazr Mohammed,Stephen Graham,4,0:20,ATL,shot,,,,,,,,,,Maurice Evans,2,,,made,,layup,25,6

@@ -1,0 +1,427 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,12:00,OFF,jump ball,,Tim Duncan,,,Samuel Dalembert,,,,,,,Allen Iverson,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,11:45,PHI,shot,,,,,,,,,,Andre Iguodala,2,,,made,,pullup jump,13,15
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,11:19,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,37,15
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,11:18,PHI,rebound,,,,,,,,,,Jrue Holiday,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,11:06,PHI,shot,,,,,,,,,,Samuel Dalembert,,,,missed,,jump,28,12
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,11:04,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,10:58,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,10,28
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,10:56,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,10:51,PHI,shot,Andre Iguodala,,,,,,,,,Jrue Holiday,2,,,made,,pullup jump,14,4
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,10:32,SAS,shot,,,,,,,,,,George Hill,2,,,made,,pullup jump,41,17
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,10:14,SAS,foul,,,,,,,,Andre Iguodala,,Keith Bogans,,,,,,personal,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,10:10,SAS,foul,,,,,,,,Andre Iguodala,,Keith Bogans,,,,,,personal,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,10:10,SAS,sub,,,,Richard Jefferson,,Keith Bogans,,,,,,,,,,,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,10:03,PHI,shot,,,,,,,,,,Elton Brand,,,,missed,,jump,24,11
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,10:01,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,9:52,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,jump,14,19
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,9:50,PHI,rebound,,,,,,,,,,Allen Iverson,,,,,,def,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,9:35,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,jump,37,15
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,9:33,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,def,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,9:18,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,37,16
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,9:16,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,9:13,SAS,foul,,,,,,,,Allen Iverson,,George Hill,,,,,,personal,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,9:04,SAS,foul,,,,,,,,Allen Iverson,,Tony Parker,,,,,,shooting,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,9:04,PHI,free throw,,,,,,,1,,2,Allen Iverson,,,foul,made,,,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,9:04,PHI,free throw,,,,,,,2,,2,Allen Iverson,,,foul,made,,,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,8:46,SAS,shot,Tim Duncan,,,,,,,,,George Hill,2,,,made,,reverse layup,25,6
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,8:28,PHI,shot,Jrue Holiday,,,,,,,,,Andre Iguodala,2,,,made,,step back jump,10,4
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,8:11,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,27,15
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,8:10,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,8:05,PHI,shot,,,,,,,,,,Jrue Holiday,2,,,made,,pullup jump,29,11
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,7:44,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,37,16
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,7:42,PHI,rebound,,,,,,,,,,Allen Iverson,,,,,,def,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,7:27,PHI,shot,,,,,,,,,,Elton Brand,,,,missed,,layup,25,6
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,7:25,PHI,rebound,,,,,,,,,,,,,,,,,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,7:19,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,jump,32,6
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,7:17,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,def,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,7:11,SAS,shot,Tony Parker,,,,,,,,,George Hill,3,,,made,,3pt,,
+George Hill,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,6:58,SAS,violation,,,,,,,,,,George Hill,,,,,,kicked ball,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,6:58,SAS,sub,,,,Manu Ginobili,,Tony Parker,,,,,,,,,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,6:42,PHI,shot,Allen Iverson,,,,,,,,,Elton Brand,2,,,made,,running hook,26,14
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,6:28,PHI,foul,,,,,,,,Tim Duncan,,Samuel Dalembert,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,6:28,SAS,sub,,,,Antonio McDyess,,Matt Bonner,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,6:28,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,missed,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,6:28,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,6:28,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,6:18,PHI,shot,Allen Iverson,,,,,,,,,Andre Iguodala,3,,,made,,3pt,2,3
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,6:11,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,5:59,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,5:58,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,5:50,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,jump,26,18
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,5:48,PHI,rebound,,,,,,,,,,Allen Iverson,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,5:36,PHI,shot,Elton Brand,,,,,,,,,Samuel Dalembert,2,,,made,,dunk,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,5:12,SAS,shot,Manu Ginobili,,,,,,,,,Tim Duncan,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,4:47,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,jump,15,26
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,4:45,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,4:35,PHI,shot,,,,,,,,,,Elton Brand,,,,missed,,hook,32,10
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,4:33,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,4:27,SAS,shot,George Hill,,,,,,,,,Antonio McDyess,2,,,made,,step back jump,12,4
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,4:09,PHI,turnover,,,,,,,,,,Samuel Dalembert,,,traveling,,,,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,4:09,SAS,sub,,,,Tony Parker,,George Hill,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,3:56,SAS,shot,,,Samuel Dalembert,,,,,,,Manu Ginobili,,,,missed,,layup,25,6
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,3:55,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,3:51,PHI,shot,Andre Iguodala,,,,,,,,,Jrue Holiday,2,,,made,,driving layup,25,6
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,1,3:39,PHI,foul,,,,,,,,Tim Duncan,,Samuel Dalembert,,,,,,personal,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,3:39,PHI,sub,,,,Marreese Speights,,Samuel Dalembert,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,3:32,SAS,shot,Tony Parker,,,,,,,,,Richard Jefferson,2,,,made,,jump,29,6
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,3:09,PHI,shot,,,,,,,,,,Allen Iverson,2,,,made,,pullup jump,27,20
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,2:48,SAS,shot,Richard Jefferson,,,,,,,,,Manu Ginobili,3,,,made,,3pt,48,3
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,2:40,PHI,shot,,,,,,,,,,Jrue Holiday,2,,,made,,pullup jump,26,22
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,2:27,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,layup,25,6
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,2:25,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,2:12,PHI,shot,,,,,,,,,,Marreese Speights,,,,missed,,jump,30,4
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,2:11,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,1:57,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump bank,37,9
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,1:49,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,1,1:49,SAS,sub,,,,DeJuan Blair,,Tim Duncan,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Marreese Speights,1,1:49,PHI,sub,,,,Lou Williams,,Allen Iverson,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,1:49,PHI,sub,,,,Thaddeus Young,,Elton Brand,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,1:34,PHI,turnover,,,,,,,,,,Thaddeus Young,,,bad pass,,Manu Ginobili,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,1:22,PHI,foul,,,,,,,,Richard Jefferson,,Marreese Speights,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,1:22,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,1:22,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,1:18,PHI,shot,,,,,,,,,,Lou Williams,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,0:59,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,0:59,PHI,foul,,,,,,,,Manu Ginobili,,Thaddeus Young,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,0:59,SAS,free throw,,,,,,,1,,1,Manu Ginobili,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,0:43,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,3pt,39,26
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,0:41,PHI,rebound,,,,,,,,,,Jrue Holiday,,,,,,off,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,0:28,PHI,turnover,,,,,,,,,,Marreese Speights,,,bad pass,,DeJuan Blair,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,0:23,SAS,shot,,,,,,,,,,DeJuan Blair,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,0:01,PHI,shot,,,,,,,,,,Lou Williams,,,,missed,,3pt,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,1,0:00,PHI,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,11:41,SAS,turnover,,,,,,,,,,Antonio McDyess,,,lost ball,,Andre Iguodala,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,11:39,SAS,violation,,,,,,,,,,Richard Jefferson,,,,,,kicked ball,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,11:32,SAS,foul,,,,,,,,Andre Iguodala,,Richard Jefferson,,,,,,personal,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,11:21,PHI,shot,Rodney Carney,,,,,,,,,Marreese Speights,2,,,made,,turnaround hook,26,11
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,11:08,SAS,shot,Tony Parker,,,,,,,,,DeJuan Blair,2,,,made,,layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,10:49,PHI,shot,,,,,,,,,,Lou Williams,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,10:43,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,10:17,PHI,shot,Andre Iguodala,,,,,,,,,Marreese Speights,2,,,made,,layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,10:02,SAS,shot,,,Andre Iguodala,,,,,,,Richard Jefferson,,,,missed,,3pt,48,5
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,9:59,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,off,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,9:51,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,3pt,23,32
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,9:51,PHI,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,9:34,PHI,shot,,,,,,,,,,Marreese Speights,,,,missed,,jump,24,23
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,9:33,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,9:18,SAS,shot,DeJuan Blair,,,,,,,,,Antonio McDyess,2,,,made,,layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,9:18,PHI,foul,,,,,,,,Antonio McDyess,,Andre Iguodala,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,9:18,PHI,sub,,,,Jrue Holiday,,Andre Iguodala,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,9:18,SAS,free throw,,,,,,,1,,1,Antonio McDyess,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,9:02,PHI,turnover,,,,,,,,,,Jrue Holiday,,,lost ball,,Antonio McDyess,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,8:57,SAS,shot,Manu Ginobili,,,,,,,,,Richard Jefferson,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,8:43,PHI,shot,Lou Williams,,,,,,,,,Marreese Speights,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,8:29,SAS,shot,Tony Parker,,,,,,,,,DeJuan Blair,2,,,made,,layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,2,8:21,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Rodney Carney,Samuel Dalembert,Thaddeus Young,2,8:21,PHI,sub,,,,Samuel Dalembert,,Marreese Speights,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Rodney Carney,Samuel Dalembert,Thaddeus Young,2,8:10,PHI,shot,Jrue Holiday,,,,,,,,,Thaddeus Young,2,,,made,,jump hook,26,11
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Rodney Carney,Samuel Dalembert,Thaddeus Young,2,7:51,SAS,turnover,,,,,,,,,,Tony Parker,,,bad pass,,Thaddeus Young,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Rodney Carney,Samuel Dalembert,Thaddeus Young,2,7:42,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Rodney Carney,Samuel Dalembert,Thaddeus Young,2,7:41,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Rodney Carney,Samuel Dalembert,Thaddeus Young,2,7:31,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,2,5
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Rodney Carney,Samuel Dalembert,Thaddeus Young,2,7:29,PHI,rebound,,,,,,,,,,Lou Williams,,,,,,def,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Rodney Carney,Samuel Dalembert,Thaddeus Young,2,7:20,PHI,shot,,,,,,,,,,Rodney Carney,,,,missed,,3pt,6,22
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Rodney Carney,Samuel Dalembert,Thaddeus Young,2,7:19,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Jrue Holiday,Lou Williams,Rodney Carney,Samuel Dalembert,Thaddeus Young,2,7:11,PHI,foul,,,,,,,,DeJuan Blair,,Thaddeus Young,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,7:11,PHI,sub,,,,Elton Brand,,Rodney Carney,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Richard Jefferson,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,7:11,SAS,sub,,,,Tim Duncan,,Manu Ginobili,,,,,,,,,,,,
+DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,7:11,SAS,sub,,,,Roger Mason,,Antonio McDyess,,,,,,,,,,,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,7:11,SAS,sub,,,,George Hill,,Richard Jefferson,,,,,,,,,,,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,7:11,SAS,free throw,,,,,,,1,,2,DeJuan Blair,,,foul,made,,,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,7:11,SAS,free throw,,,,,,,2,,2,DeJuan Blair,,,foul,made,,,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,6:56,PHI,shot,,,,,,,,,,Lou Williams,,,,missed,,jump,40,13
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,6:55,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,6:43,SAS,foul,,,,,,,,Lou Williams,,DeJuan Blair,,,,,,offensive,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,6:43,SAS,turnover,,,,,,,,,,DeJuan Blair,,,foul,,,,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,6:31,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,6:30,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,6:25,SAS,shot,,,Lou Williams,,,,,,,Tony Parker,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,6:20,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,6:13,PHI,shot,Jrue Holiday,,,,,,,,,Samuel Dalembert,2,,,made,,layup,25,6
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,6:01,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,41,11
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,5:58,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,5:57,PHI,turnover,,,,,,,,,,Thaddeus Young,,,traveling,,,,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Elton Brand,Jrue Holiday,Lou Williams,Samuel Dalembert,Thaddeus Young,2,5:57,SAS,timeout,,,,,,,,,,,,,,,,official,,
+DeJuan Blair,George Hill,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,5:57,PHI,sub,,,,Allen Iverson,,Lou Williams,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,5:57,SAS,sub,,,,Manu Ginobili,,George Hill,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,5:40,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,26,27
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,5:38,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,5:32,PHI,turnover,,,,,,,,,,Thaddeus Young,,,bad pass,,Tim Duncan,,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,5:26,SAS,shot,,,Elton Brand,,,,,,,DeJuan Blair,,,,missed,,layup,25,6
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,5:26,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,5:23,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,layup,25,6
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,5:22,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,5:10,PHI,shot,,,,,,,,,,Elton Brand,2,,,made,,pullup jump,34,12
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,4:52,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,jump,39,18
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,4:50,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,4:49,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,37,24
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,4:47,PHI,rebound,,,,,,,,,,Allen Iverson,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,4:37,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,jump,42,11
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,4:35,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,4:22,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,3pt,48,5
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,4:20,PHI,rebound,,,,,,,,,,Allen Iverson,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,4:03,SAS,foul,,,,,,,,Allen Iverson,,DeJuan Blair,,,,,,shooting,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Elton Brand,Jrue Holiday,Samuel Dalembert,Thaddeus Young,2,4:03,PHI,free throw,,,,,,,1,,2,Allen Iverson,,,foul,made,,,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,4:03,PHI,sub,,,,Andre Iguodala,,Thaddeus Young,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,4:03,SAS,sub,,,,George Hill,,Tony Parker,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,4:03,SAS,sub,,,,Antonio McDyess,,DeJuan Blair,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,4:03,PHI,free throw,,,,,,,2,,2,Allen Iverson,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,4:03,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,3:46,PHI,foul,,,,,,,,Tim Duncan,,Elton Brand,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,3:46,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,3:46,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,missed,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,3:45,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,3:23,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,jump,23,23
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,3:20,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,3:13,PHI,foul,,,,,,,,Roger Mason,,Allen Iverson,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,3:13,SAS,free throw,,,,,,,1,,2,Roger Mason,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,3:13,SAS,free throw,,,,,,,2,,2,Roger Mason,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,2:54,PHI,turnover,,,,,,,,,,Jrue Holiday,,,bad pass,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,2:39,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,42,4
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,2:38,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,2:32,PHI,shot,Andre Iguodala,,,,,,,,,Jrue Holiday,2,,,made,,floating jump,20,6
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,2:14,SAS,shot,Manu Ginobili,,,,,,,,,Antonio McDyess,2,,,made,,reverse layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,1:53,PHI,turnover,,,,,,,,,,Elton Brand,,,out of bounds lost ball turnover,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,1:38,SAS,shot,Tim Duncan,,,,,,,,,Manu Ginobili,3,,,made,,3pt,12,27
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,1:18,PHI,turnover,,,,,,,,,,Jrue Holiday,,,bad pass,,Manu Ginobili,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,1:13,SAS,shot,,,,,,,,,,George Hill,,,,missed,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,1:12,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,1:02,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,jump,18,5
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,1:01,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,0:57,SAS,shot,George Hill,,,,,,,,,Manu Ginobili,2,,,made,,running dunk,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,0:33,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,jump,37,22
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,0:33,PHI,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,2,0:33,PHI,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,2,0:33,PHI,sub,,,,Thaddeus Young,,Samuel Dalembert,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,2,0:33,PHI,sub,,,,Lou Williams,,Jrue Holiday,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,2,0:28,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,1,7
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,2,0:26,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,2,0:07,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,2,0:07,PHI,foul,,,,,,,,Manu Ginobili,,Andre Iguodala,,,,,,shooting,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,2,0:07,SAS,sub,,,,Keith Bogans,,Roger Mason,,,,,,,,,,,,
+George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,2,0:07,SAS,sub,,,,Richard Jefferson,,Antonio McDyess,,,,,,,,,,,,
+George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,2,0:07,SAS,free throw,,,,,,,1,,1,Manu Ginobili,,,foul,made,,,,
+George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,2,0:01,PHI,shot,,,,,,,,,,Lou Williams,2,,,made,,driving layup,25,6
+George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,2,0:00,SAS,shot,,,Andre Iguodala,,,,,,,Manu Ginobili,,,,missed,,jump,10,14
+George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,2,0:00,SAS,rebound,,,,,,,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,11:47,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,24,31
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,11:45,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,11:41,PHI,shot,Andre Iguodala,,,,,,,,,Elton Brand,2,,,made,,layup,25,6
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,11:41,SAS,foul,,,,,,,,Elton Brand,,Tim Duncan,,,,,,shooting,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,11:41,PHI,free throw,,,,,,,1,,1,Elton Brand,,,foul,missed,,,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,11:38,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,11:23,SAS,shot,Tony Parker,,,,,,,,,Matt Bonner,2,,,made,,jump,10,6
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:59,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,jump,36,19
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:57,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:49,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,37,22
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:47,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:38,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,jump,9,5
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:36,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,off,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:29,PHI,shot,,,,,,,,,,Elton Brand,2,,,made,,turnaround jump,40,7
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:15,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,23,32
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:13,SAS,rebound,,,,,,,,,,Keith Bogans,,,,,,off,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:11,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,layup,25,6
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:10,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,10:05,PHI,shot,,,,,,,,,,Andre Iguodala,2,,,made,,pullup jump,14,16
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,9:39,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,3pt,2,6
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,9:37,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,9:27,PHI,shot,,,,,,,,,,Elton Brand,,,,missed,,jump,12,7
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,9:25,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,9:18,PHI,foul,,,,,,,,George Hill,,Jrue Holiday,,,,,,shooting,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,9:18,SAS,free throw,,,,,,,1,,2,George Hill,,,foul,made,,,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,9:18,SAS,free throw,,,,,,,2,,2,George Hill,,,foul,made,,,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,8:59,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,jump,9,8
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,8:58,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,8:41,SAS,shot,,,,,,,,,,George Hill,2,,,made,,driving finger roll layup,25,6
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,8:20,PHI,shot,Allen Iverson,,,,,,,,,Elton Brand,2,,,made,,turnaround jump,25,14
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,7:53,SAS,shot,,,Elton Brand,,,,,,,Keith Bogans,,,,missed,,layup,25,6
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,7:52,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,7:50,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump bank,35,11
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,7:30,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,layup,25,6
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,7:29,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,off,,
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,7:28,PHI,shot,,,,,,,,,,Samuel Dalembert,2,,,made,,putback layup,25,6
+George Hill,Keith Bogans,Matt Bonner,Tim Duncan,Tony Parker,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,7:12,PHI,foul,,,,,,,,Tim Duncan,,Samuel Dalembert,,,,,,personal,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,7:12,SAS,sub,,,,Roger Mason,,Tony Parker,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,7:02,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,33,11
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,7:01,PHI,rebound,,,,,,,,,,Allen Iverson,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,6:55,PHI,shot,Allen Iverson,,,,,,,,,Samuel Dalembert,2,,,made,,alley oop dunk,25,6
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,6:33,PHI,foul,,,,,,,,Tim Duncan,,Samuel Dalembert,,,,,,personal,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,6:33,SAS,sub,,,,Richard Jefferson,,Keith Bogans,,,,,,,,,,,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,6:33,PHI,foul,,,,,,,,Tim Duncan,,Samuel Dalembert,,,,,,technical,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,6:33,SAS,sub,,,,Antonio McDyess,,Matt Bonner,,,,,,,,,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Samuel Dalembert,3,6:33,SAS,free throw,,,,,,,1,,1,Roger Mason,,,technical,made,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:33,PHI,sub,,,,Thaddeus Young,,Samuel Dalembert,,,,,,,,,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:25,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,36,19
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:23,PHI,rebound,,,,,,,,,,Allen Iverson,,,,,,def,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:19,SAS,foul,,,,,,,,Allen Iverson,,Richard Jefferson,,,,,,shooting,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:19,PHI,free throw,,,,,,,1,,2,Allen Iverson,,,foul,made,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:19,PHI,free throw,,,,,,,2,,2,Allen Iverson,,,foul,missed,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:19,SAS,sub,,,,Manu Ginobili,,Roger Mason,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:17,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:03,SAS,turnover,,,,,,,,,,Manu Ginobili,,,lost ball,,Elton Brand,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:01,PHI,foul,,,,,,,,George Hill,,Elton Brand,,,,,,offensive,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:01,PHI,turnover,,,,,,,,,,Elton Brand,,,foul,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:01,PHI,foul,,,,,,,,,,Samuel Dalembert,,,,,,technical,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:01,SAS,free throw,,,,,,,1,,1,Manu Ginobili,,,technical,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,6:01,PHI,foul,,,,,,,,,,Samuel Dalembert,,,,,,technical,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,5:39,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,jump,15,19
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,5:38,PHI,rebound,,,,,,,,,,Allen Iverson,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,5:32,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,5:31,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,5:27,SAS,shot,George Hill,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,5:18,SAS,foul,,,,,,,,Andre Iguodala,,Richard Jefferson,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,5:09,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,jump,32,7
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,5:07,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,4:58,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,9,28
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,4:57,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,4:55,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,4:54,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Allen Iverson,Andre Iguodala,Elton Brand,Jrue Holiday,Thaddeus Young,3,4:51,SAS,foul,,,,,,,,Andre Iguodala,,Richard Jefferson,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,4:51,PHI,sub,,,,Lou Williams,,Allen Iverson,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,4:51,PHI,free throw,,,,,,,1,,2,Andre Iguodala,,,foul,made,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,4:51,SAS,sub,,,,Keith Bogans,,Richard Jefferson,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,4:51,PHI,free throw,,,,,,,2,,2,Andre Iguodala,,,foul,made,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,4:37,SAS,shot,Manu Ginobili,,,,,,,,,George Hill,3,,,made,,3pt,1,9
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,4:16,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,jump,34,22
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,4:15,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:53,SAS,shot,,,,,,,,,,George Hill,,,,missed,,3pt,48,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:51,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:48,PHI,shot,Andre Iguodala,,,,,,,,,Thaddeus Young,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:47,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:30,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,2,8
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:28,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:28,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,layup,25,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:27,PHI,rebound,,,,,,,,,,Jrue Holiday,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:19,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,jump,25,27
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:17,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:06,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,31,11
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:04,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,3:04,SAS,shot,,,,,,,,,,Antonio McDyess,2,,,made,,putback layup,25,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,2:41,PHI,shot,,,,,,,,,,Lou Williams,,,,missed,,3pt,45,21
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,2:39,PHI,rebound,,,,,,,,,,Jrue Holiday,,,,,,off,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,2:37,PHI,shot,,,,,,,,,,Jrue Holiday,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,2:14,SAS,shot,Antonio McDyess,,,,,,,,,Tim Duncan,2,,,made,,turnaround hook,17,9
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,2:00,PHI,shot,Lou Williams,,,,,,,,,Elton Brand,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,1:31,SAS,shot,Keith Bogans,,,,,,,,,Manu Ginobili,3,,,made,,3pt,11,28
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,1:26,SAS,foul,,,,,,,,Thaddeus Young,,Antonio McDyess,,,,,,shooting,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,1:26,PHI,free throw,,,,,,,1,,2,Thaddeus Young,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,1:26,SAS,sub,,,,DeJuan Blair,,Tim Duncan,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,1:26,PHI,free throw,,,,,,,2,,2,Thaddeus Young,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,1:15,PHI,foul,,,,,,,,George Hill,,Elton Brand,,,,,,personal,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,1:06,SAS,shot,George Hill,,,,,,,,,Manu Ginobili,2,,,made,,step back jump,7,6
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,0:45,PHI,shot,,,,,,,,,,Elton Brand,2,,,made,,driving hook,29,7
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,0:33,SAS,turnover,,,,,,,,,,George Hill,,,lost ball,,Andre Iguodala,,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,0:29,PHI,shot,Elton Brand,,,,,,,,,Andre Iguodala,2,,,made,,dunk,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,0:29,SAS,foul,,,,,,,,Andre Iguodala,,George Hill,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,0:29,PHI,free throw,,,,,,,1,,1,Andre Iguodala,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,0:06,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,jump,28,18
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,0:05,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,0:05,SAS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,0:01,PHI,shot,,,,,,,,,,Elton Brand,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,3,0:00,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,11:44,PHI,shot,,,,,,,,,,Marreese Speights,,,,missed,,jump,31,24
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,11:43,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,11:27,SAS,turnover,,,,,,,,,,Manu Ginobili,,,lost ball,,Thaddeus Young,,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,11:23,PHI,shot,Jrue Holiday,,,,,,,,,Andre Iguodala,2,,,made,,alley oop dunk,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:56,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,42,24
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:55,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:46,SAS,foul,,,,,,,,Thaddeus Young,,DeJuan Blair,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:46,PHI,free throw,,,,,,,1,,2,Thaddeus Young,,,foul,made,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:46,SAS,sub,,,,Tony Parker,,Antonio McDyess,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:46,SAS,sub,,,,Richard Jefferson,,George Hill,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:46,PHI,free throw,,,,,,,2,,2,Thaddeus Young,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:28,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:26,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,off,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:26,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:08,PHI,shot,,,,,,,,,,Marreese Speights,,,,missed,,jump,32,12
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,10:06,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,9:49,SAS,shot,,,,,,,,,,DeJuan Blair,2,,,made,,running hook,25,14
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,9:40,PHI,shot,,,,,,,,,,Lou Williams,2,,,made,,layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,9:20,SAS,shot,,,,,,,,,,Keith Bogans,2,,,made,,running jump,25,11
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,9:13,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,jump,31,14
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,9:11,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,off,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,9:11,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,tip,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,9:08,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:57,SAS,turnover,,,,,,,,,,DeJuan Blair,,,lost ball,,Andre Iguodala,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:55,SAS,foul,,,,,,,,Jrue Holiday,,Keith Bogans,,,,,,shooting,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:55,PHI,timeout,,,,,,,,,,,,,,,,official,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:55,PHI,free throw,,,,,,,1,,2,Jrue Holiday,,,foul,missed,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:55,PHI,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:55,SAS,sub,,,,George Hill,,Keith Bogans,,,,,,,,,,,,
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:55,SAS,sub,,,,Roger Mason,,Manu Ginobili,,,,,,,,,,,,
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:55,PHI,free throw,,,,,,,2,,2,Jrue Holiday,,,foul,made,,,,
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:35,SAS,turnover,,,,,,,,,,Richard Jefferson,,,bad pass,,Lou Williams,,,
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:32,PHI,shot,,,,,,,,,,Lou Williams,2,,,made,,dunk,25,6
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:07,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,35,21
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,8:05,PHI,rebound,,,,,,,,,,Lou Williams,,,,,,def,,
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,7:58,PHI,shot,Lou Williams,,,,,,,,,Marreese Speights,2,,,made,,alley oop layup,25,6
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,7:33,SAS,shot,,,,,,,,,,George Hill,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,7:31,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,7:31,SAS,shot,,,,,,,,,,DeJuan Blair,2,,,made,,putback dunk,25,6
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,7:22,PHI,turnover,,,,,,,,,,Lou Williams,,,bad pass,,DeJuan Blair,,,
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,7:16,SAS,turnover,,,,,,,,,,DeJuan Blair,,,out of bounds lost ball turnover,,,,,
+George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,7:16,SAS,sub,,,,Tim Duncan,,DeJuan Blair,,,,,,,,,,,,
+George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,6:58,PHI,shot,Andre Iguodala,,,,,,,,,Lou Williams,3,,,made,,3pt,8,25
+George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,6:38,SAS,shot,,,,,,,,,,George Hill,2,,,made,,pullup jump,32,26
+George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,6:19,SAS,foul,,,,,,,,Lou Williams,,George Hill,,,,,,shooting,,
+George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,6:19,PHI,free throw,,,,,,,1,,2,Lou Williams,,,foul,made,,,,
+George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,6:19,PHI,free throw,,,,,,,2,,2,Lou Williams,,,foul,made,,,,
+George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,6:11,PHI,foul,,,,,,,,Tim Duncan,,Marreese Speights,,,,,,personal,,
+George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,6:06,SAS,turnover,,,,,,,,,,Tim Duncan,,,bad pass,,Andre Iguodala,,,
+George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,6:01,SAS,foul,,,,,,,,Andre Iguodala,,Richard Jefferson,,,,,,loose ball,,
+George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,5:43,PHI,shot,,,,,,,,,,Andre Iguodala,2,,,made,,step back jump,26,23
+George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,5:43,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,5:43,SAS,sub,,,,Manu Ginobili,,Tony Parker,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,5:43,SAS,sub,,,,Antonio McDyess,,Richard Jefferson,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,5:29,SAS,shot,,,Lou Williams,,,,,,,Roger Mason,,,,missed,,3pt,35,30
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,5:28,PHI,rebound,,,,,,,,,,Lou Williams,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,5:23,SAS,foul,,,,,,,,Lou Williams,,Roger Mason,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,5:23,PHI,free throw,,,,,,,1,,2,Lou Williams,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,5:23,PHI,sub,,,,Elton Brand,,Marreese Speights,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,5:23,PHI,free throw,,,,,,,2,,2,Lou Williams,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,5:09,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,8,6
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,5:07,PHI,rebound,,,,,,,,,,Lou Williams,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,5:04,PHI,shot,Thaddeus Young,,,,,,,,,Lou Williams,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,5:04,SAS,foul,,,,,,,,Lou Williams,,George Hill,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,5:04,PHI,free throw,,,,,,,1,,1,Lou Williams,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,4:50,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump bank,33,18
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,4:48,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,4:33,PHI,shot,,,,,,,,,,Thaddeus Young,2,,,made,,jump,25,24
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,4:13,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,39,28
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,4:11,PHI,rebound,,,,,,,,,,Lou Williams,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,4:02,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,3pt,41,26
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,4:00,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,4:00,SAS,foul,,,,,,,,Andre Iguodala,,Antonio McDyess,,,,,,loose ball,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,4:00,PHI,free throw,,,,,,,1,,2,Andre Iguodala,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,4:00,PHI,free throw,,,,,,,2,,2,Andre Iguodala,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,3:47,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,36,22
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,3:45,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,3:28,PHI,shot,Andre Iguodala,,,,,,,,,Elton Brand,2,,,made,,jump,26,23
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,3:08,SAS,shot,George Hill,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,2:52,PHI,shot,,,,,,,,,,Lou Williams,,,,missed,,jump,34,7
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,2:50,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,2:38,SAS,shot,,,,,,,,,,George Hill,2,,,made,,jump,29,8
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,2:36,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,2:36,SAS,sub,,,,Matt Bonner,,Antonio McDyess,,,,,,,,,,,,
+George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,2:20,PHI,shot,Elton Brand,,,,,,,,,Thaddeus Young,2,,,made,,turnaround hook,30,9
+George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,2:07,SAS,sub,,,,Ian Mahinmi,,Tim Duncan,,,,,,,,,,,,
+George Hill,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,2:07,SAS,sub,,,,Keith Bogans,,Manu Ginobili,,,,,,,,,,,,
+George Hill,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,1:54,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,3,18
+George Hill,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,1:52,PHI,rebound,,,,,,,,,,Jrue Holiday,,,,,,def,,
+George Hill,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,1:33,PHI,shot,Lou Williams,,,,,,,,,Elton Brand,2,,,made,,slam dunk,25,6
+George Hill,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Andre Iguodala,Elton Brand,Jrue Holiday,Lou Williams,Thaddeus Young,4,1:15,PHI,foul,,,,,,,,Ian Mahinmi,,Elton Brand,,,,,,shooting,,
+George Hill,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Andre Iguodala,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,1:15,PHI,sub,,,,Marreese Speights,,Elton Brand,,,,,,,,,,,,
+George Hill,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,1:15,PHI,sub,,,,Jodie Meeks,,Andre Iguodala,,,,,,,,,,,,
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,1:15,SAS,sub,,,,Richard Jefferson,,George Hill,,,,,,,,,,,,
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,1:15,SAS,free throw,,,,,,,1,,2,Ian Mahinmi,,,foul,made,,,,
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,1:15,SAS,free throw,,,,,,,2,,2,Ian Mahinmi,,,foul,made,,,,
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,1:04,PHI,shot,,,,,,,,,,Jodie Meeks,,,,missed,,jump,34,22
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,1:02,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,def,,
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,0:58,SAS,turnover,,,,,,,,,,Ian Mahinmi,,,traveling,,,,,
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,0:40,PHI,shot,,,,,,,,,,Jodie Meeks,,,,missed,,3pt,34,31
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,0:39,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,def,,
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,0:24,SAS,shot,Richard Jefferson,,,,,,,,,Roger Mason,2,,,made,,jump,44,7
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,0:00,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,jump,37,22
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,0:00,PHI,rebound,,,,,,,,,,,,,,,,,,
+Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Jodie Meeks,Jrue Holiday,Lou Williams,Marreese Speights,Thaddeus Young,4,0:00,PHI,turnover,,,,,,,,,,,,,shot clock turnover,,,,,

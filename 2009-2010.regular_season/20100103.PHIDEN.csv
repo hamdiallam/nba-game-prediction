@@ -1,0 +1,463 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,12:00,OFF,jump ball,,Samuel Dalembert,,,Nene Hilario,,,,,,,Joey Graham,,,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,11:42,DEN,shot,,,,,,,,,,Nene Hilario,2,,,made,,layup,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,11:42,PHI,foul,,,,,,,,Nene Hilario,,Samuel Dalembert,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,11:42,DEN,free throw,,,,,,,1,,1,Nene Hilario,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,11:19,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,turnaround jump,39,8
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,11:19,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,11:07,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,jump,38,22
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,11:07,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,11:03,DEN,foul,,,,,,,,Lou Williams,,Ty Lawson,,,,,,personal,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,11:03,PHI,free throw,,,,,,,1,,2,Lou Williams,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,11:03,PHI,free throw,,,,,,,2,,2,Lou Williams,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,10:55,DEN,turnover,,,,,,,,,,Kenyon Martin,,,traveling,,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,10:41,PHI,shot,,,,,,,,,,Andre Iguodala,2,,,made,,driving reverse layup,25,6
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,10:32,DEN,shot,,,,,,,,,,Arron Afflalo,,,,missed,,jump,5,9
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,10:32,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,10:26,PHI,shot,,,,,,,,,,Lou Williams,,,,missed,,jump,14,21
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,10:24,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,10:10,DEN,turnover,,,,,,,,,,Kenyon Martin,,,traveling,,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:54,PHI,shot,Allen Iverson,,,,,,,,,Samuel Dalembert,2,,,made,,jump bank,13,11
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:46,DEN,turnover,,,,,,,,,,Nene Hilario,,,lost ball,,Thaddeus Young,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:39,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,driving finger roll layup,25,6
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:38,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:25,PHI,foul,,,,,,,,Nene Hilario,,Samuel Dalembert,,,,,,personal,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:13,DEN,shot,Ty Lawson,,,,,,,,,Kenyon Martin,2,,,made,,driving dunk,25,6
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:13,PHI,foul,,,,,,,,Kenyon Martin,,Samuel Dalembert,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:13,PHI,violation,,,,,,,,,,,,,,,,delay of game,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:13,PHI,foul,,,,,,,,,,Allen Iverson,,,,,,technical,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:13,DEN,free throw,,,,,,,1,,1,Arron Afflalo,,,technical,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:13,PHI,sub,,,,Elton Brand,,Samuel Dalembert,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:13,DEN,free throw,,,,,,,1,,1,Kenyon Martin,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:12,PHI,rebound,,,,,,,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,9:00,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,jump hook,19,11
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,8:51,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,8:51,PHI,foul,,,,,,,,Nene Hilario,,Elton Brand,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,8:51,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,8:51,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,8:39,PHI,shot,,,,,,,,,,Lou Williams,2,,,made,,driving layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,8:39,DEN,foul,,,,,,,,Lou Williams,,Ty Lawson,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,8:39,PHI,free throw,,,,,,,1,,1,Lou Williams,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,8:24,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,driving layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,1,8:19,DEN,foul,,,,,,,,Allen Iverson,,Arron Afflalo,,,,,,personal,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,8:19,DEN,sub,,,,Anthony Carter,,Ty Lawson,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,8:10,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,jump,14,23
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,8:10,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,off,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,8:09,PHI,shot,,,Kenyon Martin,,,,,,,Thaddeus Young,,,,missed,,reverse layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,8:08,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,off,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,8:07,DEN,violation,,,,,,,,,,Kenyon Martin,,,,,,defensive goaltending,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,8:07,PHI,shot,,,,,,,,,,Thaddeus Young,2,,,made,,reverse layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,7:55,PHI,foul,,,,,,,,Kenyon Martin,,Thaddeus Young,,,,,,personal,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,7:55,DEN,free throw,,,,,,,1,,2,Kenyon Martin,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,7:55,DEN,rebound,,,,,,,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,7:55,PHI,violation,,,,,,,,,,Lou Williams,,,,,,lane,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,7:55,DEN,free throw,,,,,,,2,,2,Kenyon Martin,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,7:53,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,7:47,PHI,shot,Lou Williams,,,,,,,,,Thaddeus Young,2,,,made,,driving finger roll layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,7:28,DEN,shot,Anthony Carter,,,,,,,,,Arron Afflalo,2,,,made,,jump,25,15
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,7:10,PHI,shot,,,,,,,,,,Lou Williams,,,,missed,,3pt,16,31
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,7:08,DEN,rebound,,,,,,,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,6:57,DEN,shot,Nene Hilario,,,,,,,,,Joey Graham,2,,,made,,layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,6:37,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,jump,45,9
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,6:36,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,6:24,DEN,shot,Kenyon Martin,,,,,,,,,Nene Hilario,2,,,made,,layup,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,6:17,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,6:17,PHI,sub,,,,Marreese Speights,,Thaddeus Young,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,6:03,PHI,shot,Allen Iverson,,,,,,,,,Lou Williams,3,,,made,,3pt,1,8
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,5:42,DEN,shot,,,,,,,,,,Kenyon Martin,,,,missed,,jump,16,26
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,5:42,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,off,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,5:36,DEN,shot,Nene Hilario,,,,,,,,,Arron Afflalo,3,,,made,,3pt,45,22
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,5:23,PHI,shot,,,,,,,,,,Elton Brand,2,,,made,,jump,10,12
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,5:04,DEN,shot,Anthony Carter,,,,,,,,,Kenyon Martin,2,,,made,,driving dunk,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,4:55,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,driving reverse layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,4:54,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,4:48,DEN,shot,Arron Afflalo,,,,,,,,,Joey Graham,2,,,made,,alley oop layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,4:25,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,jump,44,12
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,4:24,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,4:22,PHI,foul,,,,,,,,Joey Graham,,Allen Iverson,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,4:22,DEN,free throw,,,,,,,1,,2,Joey Graham,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,1,4:22,DEN,rebound,,,,,,,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,Joey Graham,Kenyon Martin,1,4:22,DEN,sub,,,,Chris Andersen,,Nene Hilario,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,Joey Graham,Kenyon Martin,1,4:22,DEN,free throw,,,,,,,2,,2,Joey Graham,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,Joey Graham,Kenyon Martin,1,4:20,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,Joey Graham,Kenyon Martin,1,4:09,PHI,shot,Marreese Speights,,,,,,,,,Elton Brand,2,,,made,,layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,Joey Graham,Kenyon Martin,1,4:01,DEN,foul,,,,,,,,Lou Williams,,Anthony Carter,,,,,,offensive,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,Joey Graham,Kenyon Martin,1,4:01,DEN,turnover,,,,,,,,,,Anthony Carter,,,foul,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,Joey Graham,Kenyon Martin,1,3:44,PHI,shot,,,Kenyon Martin,,,,,,,Elton Brand,,,,missed,,jump,23,13
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,Joey Graham,Kenyon Martin,1,3:43,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,Joey Graham,Kenyon Martin,1,3:38,DEN,shot,Arron Afflalo,,,,,,,,,Anthony Carter,2,,,made,,jump,19,13
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,Joey Graham,Kenyon Martin,1,3:24,PHI,shot,,,,,,,,,,Lou Williams,2,,,made,,driving layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,3:16,DEN,sub,,,,J.R. Smith,,Joey Graham,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,3:12,DEN,shot,Anthony Carter,,,,,,,,,Arron Afflalo,3,,,made,,3pt,48,9
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,2:54,PHI,shot,Lou Williams,,,,,,,,,Allen Iverson,2,,,made,,driving finger roll layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,2:54,DEN,foul,,,,,,,,Allen Iverson,,Chris Andersen,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,2:54,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,2:54,PHI,free throw,,,,,,,1,,1,Allen Iverson,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,2:30,DEN,shot,,,,,,,,,,Kenyon Martin,2,,,made,,jump,39,19
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,2:14,PHI,shot,,,,,,,,,,Marreese Speights,,,,missed,,jump hook,32,15
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,2:13,DEN,rebound,,,,,,,,,,Anthony Carter,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,2:04,DEN,shot,J.R. Smith,,,,,,,,,Chris Andersen,2,,,made,,dunk,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,1:33,PHI,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,1:20,DEN,shot,,,,,,,,,,J.R. Smith,2,,,made,,driving finger roll layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,1:01,PHI,shot,Allen Iverson,,,,,,,,,Marreese Speights,2,,,made,,jump,42,8
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,0:50,DEN,shot,J.R. Smith,,,,,,,,,Kenyon Martin,2,,,made,,dunk,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,0:30,PHI,turnover,,,,,,,,,,Andre Iguodala,,,bad pass,,Kenyon Martin,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,0:27,DEN,foul,,,,,,,,Allen Iverson,,Arron Afflalo,,,,,,offensive,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Kenyon Martin,1,0:27,DEN,turnover,,,,,,,,,,Arron Afflalo,,,foul,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Marreese Speights,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,1,0:27,DEN,sub,,,,Joey Graham,,Arron Afflalo,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,1,0:27,PHI,sub,,,,Rodney Carney,,Elton Brand,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,1,0:02,PHI,shot,,,,,,,,,,Lou Williams,,,,missed,,3pt,49,11
+Allen Iverson,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,1,0:01,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,1,0:00,DEN,shot,,,,,,,,,,Kenyon Martin,,,,missed,,3pt,18,75
+Allen Iverson,Andre Iguodala,Lou Williams,Marreese Speights,Rodney Carney,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,1,0:00,DEN,rebound,,,,,,,,,,,,,,,,,,
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,11:43,PHI,shot,,,,,,,,,,Willie Green,,,,missed,,jump,39,15
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,11:43,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,off,,
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,11:41,PHI,turnover,,,,,,,,,,Samuel Dalembert,,,lost ball,,Anthony Carter,,,
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,11:23,DEN,shot,,,,,,,,,,Kenyon Martin,,,,missed,,driving layup,25,6
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,11:21,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,11:16,PHI,shot,Willie Green,,,,,,,,,Allen Iverson,2,,,made,,driving layup,25,6
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,11:05,DEN,shot,,,,,,,,,,Anthony Carter,2,,,made,,driving layup,25,6
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,10:56,PHI,shot,Allen Iverson,,,,,,,,,Elton Brand,2,,,made,,dunk,25,6
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,10:30,DEN,shot,J.R. Smith,,,,,,,,,Kenyon Martin,2,,,made,,jump,13,8
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,10:14,PHI,shot,,,,,,,,,,Elton Brand,,,,missed,,jump,25,23
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,10:14,DEN,rebound,,,,,,,,,,Joey Graham,,,,,,def,,
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,10:04,DEN,turnover,,,,,,,,,,Anthony Carter,,,bad pass,,Samuel Dalembert,,,
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,9:58,PHI,shot,,,,,,,,,,Willie Green,2,,,made,,jump,24,26
+Allen Iverson,Elton Brand,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,9:42,DEN,turnover,,,,,,,,,,J.R. Smith,,,palming turnover,,,,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Kenyon Martin,2,9:42,PHI,sub,,,,Jrue Holiday,,Allen Iverson,,,,,,,,,,,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,9:42,DEN,sub,,,,Nene Hilario,,Kenyon Martin,,,,,,,,,,,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,9:20,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,jump,40,18
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,9:19,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,9:15,DEN,shot,Anthony Carter,,,,,,,,,Chris Andersen,2,,,made,,slam dunk,25,6
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,9:08,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,8:53,PHI,shot,Willie Green,,,,,,,,,Rodney Carney,3,,,made,,3pt,6,24
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,8:35,PHI,foul,,,,,,,,Anthony Carter,,Jrue Holiday,,,,,,personal,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,8:31,PHI,foul,,,,,,,,Nene Hilario,,Willie Green,,,,,,shooting,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,8:31,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,missed,,,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,8:31,DEN,rebound,,,,,,,,,,,,,,,,,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,8:31,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,made,,,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,8:17,PHI,shot,Jrue Holiday,,,,,,,,,Willie Green,2,,,made,,jump,26,28
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,8:09,DEN,turnover,,,,,,,,,,Anthony Carter,,,lost ball,,Rodney Carney,,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,8:04,PHI,turnover,,,,,,,,,,Rodney Carney,,,bad pass,,Anthony Carter,,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,7:59,PHI,foul,,,,,,,,Nene Hilario,,Rodney Carney,,,,,,shooting,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,7:59,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,made,,,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,7:59,PHI,sub,,,,Thaddeus Young,,Elton Brand,,,,,,,,,,,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,7:59,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,missed,,,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,7:58,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,7:36,PHI,shot,Willie Green,,,,,,,,,Jrue Holiday,2,,,made,,jump,35,19
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,Anthony Carter,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,2,7:33,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,2,7:33,DEN,sub,,,,Ty Lawson,,Anthony Carter,,,,,,,,,,,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,7:33,DEN,sub,,,,Kenyon Martin,,Chris Andersen,,,,,,,,,,,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,7:28,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,turnaround jump,32,13
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,7:27,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,off,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,7:26,DEN,shot,,,Rodney Carney,,,,,,,Nene Hilario,,,,missed,,layup,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,7:25,DEN,rebound,,,,,,,,,,,,,,,,,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,7:13,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,turnaround fade away,40,9
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,7:12,PHI,rebound,,,,,,,,,,Rodney Carney,,,,,,def,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,6:58,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,jump,9,20
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,6:57,PHI,rebound,,,,,,,,,,Jrue Holiday,,,,,,off,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,6:55,PHI,turnover,,,,,,,,,,Jrue Holiday,,,bad pass,,Kenyon Martin,,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,6:49,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,3pt,47,22
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,6:48,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,off,,
+Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,6:48,PHI,foul,,,,,,,,Nene Hilario,,Samuel Dalembert,,,,,,loose ball,,
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,6:48,PHI,sub,,,,Marreese Speights,,Samuel Dalembert,,,,,,,,,,,,
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,6:36,DEN,turnover,,,,,,,,,,J.R. Smith,,,lost ball,,Marreese Speights,,,
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,6:33,PHI,shot,Willie Green,,,,,,,,,Rodney Carney,2,,,made,,layup,25,6
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,6:13,DEN,shot,Kenyon Martin,,,,,,,,,Nene Hilario,2,,,made,,dunk,,
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,6:05,PHI,turnover,,,,,,,,,,Thaddeus Young,,,lost ball,,Nene Hilario,,,
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,5:57,DEN,turnover,,,,,,,,,,Kenyon Martin,,,out of bounds lost ball turnover,,,,,
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,5:42,PHI,shot,,,,,,,,,,Willie Green,,,,missed,,3pt,39,27
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,5:41,PHI,rebound,,,,,,,,,,Marreese Speights,,,,,,off,,
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,5:41,PHI,shot,,,,,,,,,,Marreese Speights,2,,,made,,tip,25,6
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,5:26,DEN,shot,,,Jrue Holiday,,,,,,,Ty Lawson,,,,missed,,driving layup,25,6
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,5:25,PHI,rebound,,,,,,,,,,,,,,,,,,
+Jrue Holiday,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,2,5:25,DEN,sub,,,,Arron Afflalo,,Joey Graham,,,,,,,,,,,,
+Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,2,5:25,PHI,sub,,,,Lou Williams,,Jrue Holiday,,,,,,,,,,,,
+Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,2,5:08,PHI,shot,Willie Green,,,,,,,,,Marreese Speights,2,,,made,,jump,25,26
+Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:55,DEN,shot,Ty Lawson,,,,,,,,,J.R. Smith,2,,,made,,driving finger roll layup,25,6
+Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:44,PHI,shot,,,,,,,,,,Willie Green,,,,missed,,jump,40,8
+Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:43,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:36,DEN,turnover,,,,,,,,,,J.R. Smith,,,bad pass,,Thaddeus Young,,,
+Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:33,DEN,foul,,,,,,,,Marreese Speights,,Arron Afflalo,,,,,,shooting,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:33,PHI,sub,,,,Allen Iverson,,Willie Green,,,,,,,,,,,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:33,DEN,sub,,,,Joey Graham,,Arron Afflalo,,,,,,,,,,,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:33,PHI,free throw,,,,,,,1,,2,Marreese Speights,,,foul,made,,,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:33,PHI,free throw,,,,,,,2,,2,Marreese Speights,,,foul,made,,,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:20,DEN,shot,Ty Lawson,,,,,,,,,Nene Hilario,2,,,made,,dunk,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:01,DEN,foul,,,,,,,,Thaddeus Young,,Kenyon Martin,,,,,,shooting,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:01,PHI,free throw,,,,,,,1,,2,Thaddeus Young,,,foul,made,,,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,4:01,PHI,free throw,,,,,,,2,,2,Thaddeus Young,,,foul,made,,,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:54,PHI,foul,,,,,,,,Kenyon Martin,,Rodney Carney,,,,,,shooting,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:54,DEN,free throw,,,,,,,1,,2,Kenyon Martin,,,foul,missed,,,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:54,DEN,rebound,,,,,,,,,,,,,,,,,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:54,DEN,free throw,,,,,,,2,,2,Kenyon Martin,,,foul,made,,,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:39,PHI,shot,,,,,,,,,,Rodney Carney,,,,missed,,3pt,8,25
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:39,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:30,PHI,foul,,,,,,,,Kenyon Martin,,Marreese Speights,,,,,,shooting,,
+Allen Iverson,Lou Williams,Marreese Speights,Rodney Carney,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:30,DEN,free throw,,,,,,,1,,2,Kenyon Martin,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Marreese Speights,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:30,PHI,sub,,,,Andre Iguodala,,Rodney Carney,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Marreese Speights,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:30,DEN,free throw,,,,,,,2,,2,Kenyon Martin,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Marreese Speights,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:08,PHI,turnover,,,,,,,,,,Allen Iverson,,,bad pass,,Kenyon Martin,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Marreese Speights,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,3:03,DEN,turnover,,,,,,,,,,Joey Graham,,,out of bounds lost ball turnover,,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Marreese Speights,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,2:53,DEN,violation,,,,,,,,,,J.R. Smith,,,,,,kicked ball,,
+Allen Iverson,Andre Iguodala,Lou Williams,Marreese Speights,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,2:53,PHI,timeout,,,,,,,,,,,,,,,,official,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,2:53,PHI,sub,,,,Elton Brand,,Marreese Speights,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,2:43,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,3pt,2,9
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,2:42,DEN,rebound,,,,,,,,,,J.R. Smith,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,2:23,DEN,shot,,,,,,,,,,Nene Hilario,,,,missed,,jump hook,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,2:23,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,2:16,PHI,shot,,,,,,,,,,Allen Iverson,2,,,made,,driving finger roll layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,2:00,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,1:46,DEN,foul,,,,,,,,Allen Iverson,,Nene Hilario,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,1:46,PHI,free throw,,,,,,,1,,2,Allen Iverson,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,1:46,PHI,free throw,,,,,,,2,,2,Allen Iverson,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,1:24,DEN,shot,,,,,,,,,,Kenyon Martin,,,,missed,,jump hook,17,9
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,1:24,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,1:14,PHI,shot,Andre Iguodala,,,,,,,,,Allen Iverson,2,,,made,,jump,24,25
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,1:05,DEN,shot,,,,,,,,,,Nene Hilario,,,,missed,,layup,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,1:03,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,1:00,DEN,foul,,,,,,,,Allen Iverson,,Kenyon Martin,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,2,1:00,PHI,free throw,,,,,,,1,,2,Allen Iverson,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,1:00,DEN,sub,,,,Malik Allen,,Kenyon Martin,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,1:00,PHI,free throw,,,,,,,2,,2,Allen Iverson,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,0:53,DEN,turnover,,,,,,,,,,Malik Allen,,,bad pass,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,0:42,DEN,foul,,,,,,,,Andre Iguodala,,Joey Graham,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,0:42,PHI,free throw,,,,,,,1,,2,Andre Iguodala,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,0:42,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,0:42,PHI,sub,,,,Willie Green,,Allen Iverson,,,,,,,,,,,,
+Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,0:42,PHI,free throw,,,,,,,2,,2,Andre Iguodala,,,foul,made,,,,
+Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,0:30,DEN,shot,Joey Graham,,,,,,,,,Ty Lawson,3,,,made,,3pt,3,20
+Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,0:09,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,jump hook,24,12
+Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,0:08,DEN,rebound,,,,,,,,,,Joey Graham,,,,,,def,,
+Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Malik Allen,Nene Hilario,Ty Lawson,2,0:00,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,jump,4,14
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,11:38,PHI,shot,Allen Iverson,,,,,,,,,Andre Iguodala,2,,,made,,jump,41,20
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,11:17,DEN,shot,Arron Afflalo,,,,,,,,,Nene Hilario,2,,,made,,jump,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,10:56,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,3pt,48,7
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,10:55,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,10:47,DEN,shot,,,,,,,,,,Arron Afflalo,,,,missed,,driving layup,25,6
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,10:45,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,10:36,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,fade away jumper,4,8
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,10:35,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,10:20,DEN,shot,,,,,,,,,,Nene Hilario,2,,,made,,driving layup,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,9:58,PHI,shot,,,,,,,,,,Lou Williams,2,,,made,,running jump,16,9
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,9:54,DEN,turnover,,,,,,,,,,Arron Afflalo,,,palming turnover,,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,9:37,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,jump,45,16
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,9:37,DEN,rebound,,,,,,,,,,Joey Graham,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,9:31,DEN,shot,Ty Lawson,,,,,,,,,Nene Hilario,2,,,made,,layup,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,9:09,PHI,shot,,,,,,,,,,Lou Williams,,,,missed,,3pt,48,11
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,9:08,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:54,DEN,shot,,,Samuel Dalembert,,,,,,,Kenyon Martin,,,,missed,,layup,25,6
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:52,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:51,PHI,shot,Lou Williams,,,,,,,,,Thaddeus Young,2,,,made,,reverse layup,25,6
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:51,DEN,foul,,,,,,,,Thaddeus Young,,Joey Graham,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:51,PHI,free throw,,,,,,,1,,1,Thaddeus Young,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:36,DEN,shot,Ty Lawson,,,,,,,,,Kenyon Martin,2,,,made,,driving layup,25,6
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:18,DEN,foul,,,,,,,,Samuel Dalembert,,Nene Hilario,,,,,,personal,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:13,PHI,shot,,,,,,,,,,Lou Williams,,,,missed,,layup,25,6
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:11,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:05,DEN,shot,,,,,,,,,,Arron Afflalo,,,,missed,,driving reverse layup,25,6
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:04,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,8:00,DEN,violation,,,,,,,,,,Ty Lawson,,,,,,kicked ball,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,Arron Afflalo,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,7:54,DEN,foul,,,,,,,,Allen Iverson,,Arron Afflalo,,,,,,personal,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,7:54,DEN,sub,,,,J.R. Smith,,Arron Afflalo,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,7:47,DEN,foul,,,,,,,,Thaddeus Young,,Kenyon Martin,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,7:47,PHI,free throw,,,,,,,1,,2,Thaddeus Young,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,7:47,PHI,free throw,,,,,,,2,,2,Thaddeus Young,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,7:45,DEN,rebound,,,,,,,,,,Joey Graham,,,,,,def,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,7:29,DEN,shot,Nene Hilario,,,,,,,,,J.R. Smith,2,,,made,,jump,21,24
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,7:07,PHI,foul,,,,,,,,Nene Hilario,,Samuel Dalembert,,,,,,offensive,,
+Allen Iverson,Andre Iguodala,Lou Williams,Samuel Dalembert,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,7:07,PHI,turnover,,,,,,,,,,Samuel Dalembert,,,foul,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,7:07,PHI,sub,,,,Elton Brand,,Samuel Dalembert,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,6:58,DEN,shot,,,,,,,,,,Nene Hilario,,,,missed,,layup,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,6:57,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,6:48,PHI,shot,,,,,,,,,,Lou Williams,,,,missed,,3pt,11,27
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,6:47,DEN,rebound,,,,,,,,,,Ty Lawson,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,6:40,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,driving layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,6:16,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,3pt,45,20
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,6:15,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,6:09,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,jump,40,20
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,6:07,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,6:01,PHI,shot,Andre Iguodala,,,,,,,,,Thaddeus Young,2,,,made,,driving layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,5:48,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,jump,6,8
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,5:42,DEN,rebound,,,,,,,,,,Joey Graham,,,,,,off,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,5:40,DEN,shot,,,Elton Brand,,,,,,,Joey Graham,,,,missed,,layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,5:38,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,5:29,PHI,shot,,,,,,,,,,Allen Iverson,2,,,made,,driving layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,5:00,DEN,shot,,,,,,,,,,Kenyon Martin,2,,,made,,jump hook,27,12
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Thaddeus Young,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,4:56,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,4:56,PHI,sub,,,,Willie Green,,Lou Williams,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,4:53,PHI,turnover,,,,,,,,,,Allen Iverson,,,bad pass,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,4:36,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,3pt,18,31
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,4:35,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,4:22,PHI,shot,Willie Green,,,,,,,,,Elton Brand,2,,,made,,jump,25,20
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,4:10,PHI,foul,,,,,,,,Kenyon Martin,,Thaddeus Young,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,4:10,DEN,free throw,,,,,,,1,,2,Kenyon Martin,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Nene Hilario,Ty Lawson,3,4:10,DEN,rebound,,,,,,,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,Ty Lawson,3,4:10,DEN,sub,,,,Malik Allen,,Nene Hilario,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,Ty Lawson,3,4:10,DEN,free throw,,,,,,,2,,2,Kenyon Martin,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,Ty Lawson,3,4:09,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,Ty Lawson,3,3:49,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,3pt,15,30
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,Ty Lawson,3,3:48,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,Ty Lawson,3,3:39,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,jump,21,14
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,Ty Lawson,3,3:38,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,Ty Lawson,3,3:32,DEN,foul,,,,,,,,Allen Iverson,,J.R. Smith,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,3:32,DEN,sub,,,,Anthony Carter,,Ty Lawson,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Thaddeus Young,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,3:32,PHI,free throw,,,,,,,1,,2,Allen Iverson,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Jason Smith,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,3:32,PHI,sub,,,,Jason Smith,,Thaddeus Young,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Jason Smith,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,3:32,PHI,free throw,,,,,,,2,,2,Allen Iverson,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Jason Smith,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,3:14,DEN,shot,Kenyon Martin,,,,,,,,,Anthony Carter,2,,,made,,running jump,32,8
+Allen Iverson,Andre Iguodala,Elton Brand,Jason Smith,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:56,PHI,turnover,,,,,,,,,,Andre Iguodala,,,bad pass,,Malik Allen,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Jason Smith,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:50,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Allen Iverson,Andre Iguodala,Elton Brand,Jason Smith,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:48,DEN,turnover,,,,,,,,,,Malik Allen,,,lost ball,,Andre Iguodala,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Jason Smith,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:43,PHI,shot,,,,,,,,,,Willie Green,,,,missed,,layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Jason Smith,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:42,PHI,rebound,,,,,,,,,,Jason Smith,,,,,,off,,
+Allen Iverson,Andre Iguodala,Elton Brand,Jason Smith,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:41,PHI,shot,,,,,,,,,,Jason Smith,2,,,made,,layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Jason Smith,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:27,PHI,foul,,,,,,,,J.R. Smith,,Willie Green,,,,,,personal,,
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:27,PHI,sub,,,,Jrue Holiday,,Allen Iverson,,,,,,,,,,,,
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:20,PHI,foul,,,,,,,,Anthony Carter,,Elton Brand,,,,,,personal,,
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:07,DEN,shot,,,,,,,,,,Anthony Carter,,,,missed,,3pt,16,30
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:06,DEN,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,2:06,DEN,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,1:50,PHI,shot,,,,,,,,,,Willie Green,2,,,made,,jump,26,22
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,1:39,DEN,foul,,,,,,,,Andre Iguodala,,Malik Allen,,,,,,offensive,,
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,J.R. Smith,Joey Graham,Kenyon Martin,Malik Allen,3,1:39,DEN,turnover,,,,,,,,,,Malik Allen,,,foul,,,,,
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Kenyon Martin,Malik Allen,3,1:39,DEN,sub,,,,Arron Afflalo,,Joey Graham,,,,,,,,,,,,
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Kenyon Martin,Malik Allen,3,1:13,PHI,shot,Andre Iguodala,,,,,,,,,Jason Smith,3,,,made,,3pt,6,24
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Kenyon Martin,Malik Allen,3,0:54,DEN,shot,,,,,,,,,,Malik Allen,,,,missed,,jump,19,17
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Kenyon Martin,Malik Allen,3,0:53,PHI,rebound,,,,,,,,,,Elton Brand,,,,,,def,,
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Kenyon Martin,Malik Allen,3,0:30,PHI,shot,,,,,,,,,,Willie Green,2,,,made,,fade away jumper,41,16
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Kenyon Martin,Malik Allen,3,0:13,DEN,turnover,,,,,,,,,,J.R. Smith,,,palming turnover,,,,,
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Kenyon Martin,Malik Allen,3,0:02,PHI,turnover,,,,,,,,,,Willie Green,,,lost ball,,J.R. Smith,,,
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Kenyon Martin,Malik Allen,3,0:01,DEN,shot,,,,,,,,,,Anthony Carter,,,,missed,,3pt,46,44
+Andre Iguodala,Elton Brand,Jason Smith,Jrue Holiday,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Kenyon Martin,Malik Allen,3,0:00,DEN,rebound,,,,,,,,,,,,,,,,,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Malik Allen,Nene Hilario,4,11:48,PHI,foul,,,,,,,,J.R. Smith,,Willie Green,,,,,,personal,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Malik Allen,Nene Hilario,4,11:32,DEN,shot,,,,,,,,,,Malik Allen,,,,missed,,turnaround jump,25,15
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Malik Allen,Nene Hilario,4,11:31,PHI,rebound,,,,,,,,,,Jason Smith,,,,,,def,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Malik Allen,Nene Hilario,4,11:16,PHI,shot,,,,,,,,,,Jason Smith,,,,missed,,3pt,21,30
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Malik Allen,Nene Hilario,4,11:15,PHI,rebound,,,,,,,,,,Jrue Holiday,,,,,,off,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,Arron Afflalo,J.R. Smith,Malik Allen,Nene Hilario,4,11:11,DEN,foul,,,,,,,,Elton Brand,,Malik Allen,,,,,,shooting,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,11:11,DEN,sub,,,,Ty Lawson,,Arron Afflalo,,,,,,,,,,,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,11:11,PHI,free throw,,,,,,,1,,2,Elton Brand,,,foul,made,,,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,11:11,PHI,free throw,,,,,,,2,,2,Elton Brand,,,foul,made,,,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,10:53,DEN,shot,,,,,,,,,,Anthony Carter,,,,missed,,3pt,2,10
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,10:52,PHI,rebound,,,,,,,,,,Willie Green,,,,,,def,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,10:40,PHI,shot,,,,,,,,,,Jason Smith,2,,,made,,fade away jumper,24,14
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,10:29,DEN,foul,,,,,,,,Jason Smith,,J.R. Smith,,,,,,offensive,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,10:29,DEN,turnover,,,,,,,,,,J.R. Smith,,,foul,,,,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,10:16,PHI,shot,Elton Brand,,,,,,,,,Rodney Carney,3,,,made,,3pt,1,12
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,10:16,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,9:54,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,3pt,13,29
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,9:53,DEN,rebound,,,,,,,,,,Anthony Carter,,,,,,off,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,9:52,DEN,shot,,,,,,,,,,Anthony Carter,,,,missed,,layup,25,6
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,9:51,DEN,rebound,,,,,,,,,,Malik Allen,,,,,,off,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,9:51,DEN,shot,,,,,,,,,,Malik Allen,2,,,made,,tip,25,6
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,9:27,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,3pt,41,28
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,9:25,DEN,rebound,,,,,,,,,,Anthony Carter,,,,,,def,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,9:15,DEN,shot,,,,,,,,,,J.R. Smith,2,,,made,,jump,41,8
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,9:05,PHI,shot,Jrue Holiday,,,,,,,,,Rodney Carney,3,,,made,,3pt,3,7
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,8:48,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,fade away jumper,12,22
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,8:47,PHI,rebound,,,,,,,,,,Jrue Holiday,,,,,,def,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,8:29,PHI,shot,,,,,,,,,,Elton Brand,2,,,made,,turnaround jump,21,15
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Malik Allen,Nene Hilario,Ty Lawson,4,8:16,PHI,foul,,,,,,,,Ty Lawson,,Willie Green,,,,,,shooting,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Anthony Carter,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,8:16,DEN,sub,,,,Kenyon Martin,,Malik Allen,,,,,,,,,,,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,8:16,DEN,sub,,,,Arron Afflalo,,Anthony Carter,,,,,,,,,,,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,8:16,DEN,free throw,,,,,,,1,,2,Ty Lawson,,,foul,made,,,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,8:16,DEN,free throw,,,,,,,2,,2,Ty Lawson,,,foul,made,,,,
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,7:51,PHI,shot,Jrue Holiday,,,,,,,,,Elton Brand,2,,,made,,turnaround fade away,41,10
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,7:44,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,running jump,31,10
+Elton Brand,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,7:44,PHI,foul,,,,,,,,Ty Lawson,,Jason Smith,,,,,,shooting,,
+Elton Brand,Jrue Holiday,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,7:44,PHI,sub,,,,Samuel Dalembert,,Jason Smith,,,,,,,,,,,,
+Elton Brand,Lou Williams,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,7:44,PHI,sub,,,,Lou Williams,,Jrue Holiday,,,,,,,,,,,,
+Elton Brand,Lou Williams,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,7:44,DEN,free throw,,,,,,,1,,1,Ty Lawson,,,foul,made,,,,
+Elton Brand,Lou Williams,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,7:27,PHI,shot,,,,,,,,,,Willie Green,,,,missed,,running jump,21,12
+Elton Brand,Lou Williams,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,7:27,PHI,rebound,,,,,,,,,,,,,,,,,,
+Elton Brand,Lou Williams,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,7:27,DEN,foul,,,,,,,,Samuel Dalembert,,Arron Afflalo,,,,,,loose ball,,
+Elton Brand,Lou Williams,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,7:15,PHI,shot,,,,,,,,,,Willie Green,,,,missed,,jump,21,24
+Elton Brand,Lou Williams,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,7:15,PHI,rebound,,,,,,,,,,Lou Williams,,,,,,off,,
+Elton Brand,Lou Williams,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,6:53,PHI,shot,,,,,,,,,,Willie Green,,,,missed,,3pt,15,29
+Elton Brand,Lou Williams,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,6:52,DEN,rebound,,,,,,,,,,J.R. Smith,,,,,,def,,
+Elton Brand,Lou Williams,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,6:34,DEN,shot,Ty Lawson,,,,,,,,,Nene Hilario,2,,,made,,finger roll layup,,
+Elton Brand,Lou Williams,Rodney Carney,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,6:34,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Allen Iverson,Elton Brand,Lou Williams,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,6:34,PHI,sub,,,,Allen Iverson,,Rodney Carney,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,6:34,PHI,sub,,,,Andre Iguodala,,Willie Green,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,6:19,PHI,shot,Allen Iverson,,,,,,,,,Elton Brand,2,,,made,,jump,9,14
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,6:04,DEN,shot,Ty Lawson,,,,,,,,,Nene Hilario,2,,,made,,layup,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,5:38,PHI,shot,,,,,,,,,,Elton Brand,,,,missed,,jump,20,25
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,5:37,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,5:32,PHI,violation,,,,,,,,,,Samuel Dalembert,,,,,,kicked ball,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,5:23,DEN,shot,,,Samuel Dalembert,,,,,,,Nene Hilario,,,,missed,,layup,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,5:21,PHI,rebound,,,,,,,,,,Lou Williams,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,5:06,PHI,foul,,,,,,,,Nene Hilario,,Lou Williams,,,,,,offensive,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,5:06,PHI,turnover,,,,,,,,,,Lou Williams,,,foul,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:59,DEN,turnover,,,,,,,,,,J.R. Smith,,,bad pass,,Samuel Dalembert,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:57,DEN,foul,,,,,,,,Andre Iguodala,,J.R. Smith,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:57,PHI,free throw,,,,,,,1,,2,Andre Iguodala,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:57,PHI,rebound,,,,,,,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:57,PHI,free throw,,,,,,,2,,2,Andre Iguodala,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:46,DEN,shot,,,,,,,,,,Nene Hilario,,,,missed,,layup,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:44,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,off,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:42,DEN,shot,,,Elton Brand,,,,,,,Arron Afflalo,,,,missed,,layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:41,PHI,rebound,,,,,,,,,,Lou Williams,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:35,DEN,violation,,,,,,,,,,Arron Afflalo,,,,,,kicked ball,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:16,PHI,shot,Elton Brand,,,,,,,,,Samuel Dalembert,2,,,made,,jump bank,35,20
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,4:05,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,fade away jumper,10,9
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:44,PHI,turnover,,,,,,,,,,Andre Iguodala,,,bad pass,,J.R. Smith,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:35,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,3pt,2,11
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:34,DEN,rebound,,,,,,,,,,Ty Lawson,,,,,,off,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:32,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,3pt,2,7
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:31,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,off,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:30,DEN,shot,,,Elton Brand,,,,,,,Arron Afflalo,,,,missed,,layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:29,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,off,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:28,DEN,shot,,,,,,,,,,Arron Afflalo,2,,,made,,layup,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:28,PHI,foul,,,,,,,,Arron Afflalo,,Elton Brand,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:28,DEN,free throw,,,,,,,1,,1,Arron Afflalo,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:12,PHI,shot,Allen Iverson,,,,,,,,,Samuel Dalembert,2,,,made,,alley oop dunk,25,6
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:03,PHI,foul,,,,,,,,Ty Lawson,,Lou Williams,,,,,,personal,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:03,DEN,free throw,,,,,,,1,,2,Ty Lawson,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:03,DEN,free throw,,,,,,,2,,2,Ty Lawson,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,3:01,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,2:38,PHI,shot,,,,,,,,,,Allen Iverson,,,,missed,,3pt,3,18
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,2:37,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,2:31,DEN,shot,Ty Lawson,,,,,,,,,Arron Afflalo,2,,,made,,jump,5,17
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,2:04,PHI,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Lou Williams,Samuel Dalembert,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,2:04,DEN,timeout,,,,,,,,,,,,,,,,official,,
+Allen Iverson,Andre Iguodala,Elton Brand,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,2:04,PHI,sub,,,,Willie Green,,Lou Williams,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,1:47,DEN,shot,Ty Lawson,,,,,,,,,Arron Afflalo,3,,,made,,3pt,7,22
+Allen Iverson,Andre Iguodala,Elton Brand,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,1:24,PHI,shot,,,,,,,,,,Elton Brand,,,,missed,,turnaround jump,38,11
+Allen Iverson,Andre Iguodala,Elton Brand,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,1:23,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Samuel Dalembert,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,1:08,PHI,foul,,,,,,,,Ty Lawson,,Samuel Dalembert,,,,,,personal,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,1:08,PHI,sub,,,,Marreese Speights,,Samuel Dalembert,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,1:08,DEN,free throw,,,,,,,1,,2,Ty Lawson,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,1:08,DEN,free throw,,,,,,,2,,2,Ty Lawson,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:41,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,jump,8,18
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:40,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:31,PHI,foul,,,,,,,,Nene Hilario,,Marreese Speights,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:31,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:31,DEN,rebound,,,,,,,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:31,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:31,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:15,DEN,foul,,,,,,,,Andre Iguodala,,J.R. Smith,,,,,,shooting,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:15,PHI,free throw,,,,,,,1,,2,Andre Iguodala,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:15,PHI,free throw,,,,,,,2,,2,Andre Iguodala,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:14,DEN,rebound,,,,,,,,,,Ty Lawson,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:14,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Andre Iguodala,Elton Brand,Jason Smith,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:14,PHI,sub,,,,Jason Smith,,Allen Iverson,,,,,,,,,,,,
+Andre Iguodala,Elton Brand,Jason Smith,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:14,PHI,sub,,,,Rodney Carney,,Marreese Speights,,,,,,,,,,,,
+Andre Iguodala,Elton Brand,Jason Smith,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:11,DEN,shot,Nene Hilario,,,,,,,,,Ty Lawson,2,,,made,,driving layup,25,6
+Andre Iguodala,Elton Brand,Jason Smith,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:11,PHI,timeout,,,,,,,,,,,,,,,,short,,
+Allen Iverson,Andre Iguodala,Elton Brand,Jason Smith,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:11,PHI,sub,,,,Allen Iverson,,Rodney Carney,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:11,PHI,sub,,,,Marreese Speights,,Jason Smith,,,,,,,,,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:08,DEN,foul,,,,,,,,Willie Green,,Ty Lawson,,,,,,personal,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:08,PHI,free throw,,,,,,,1,,2,Willie Green,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:08,PHI,free throw,,,,,,,2,,2,Willie Green,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:08,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,off,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:05,DEN,foul,,,,,,,,Andre Iguodala,,J.R. Smith,,,,,,personal,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:05,PHI,free throw,,,,,,,1,,2,Andre Iguodala,,,foul,made,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:05,PHI,free throw,,,,,,,2,,2,Andre Iguodala,,,foul,missed,,,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:05,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Allen Iverson,Andre Iguodala,Elton Brand,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:05,DEN,timeout,,,,,,,,,,,,,,,,short,,
+Andre Iguodala,Elton Brand,Jrue Holiday,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:05,PHI,sub,,,,Jrue Holiday,,Allen Iverson,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Marreese Speights,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:05,PHI,sub,,,,Jason Smith,,Elton Brand,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:05,PHI,sub,,,,Rodney Carney,,Marreese Speights,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:02,DEN,shot,,,,,,,,,,Arron Afflalo,,,,missed,,3pt,48,8
+Andre Iguodala,Jason Smith,Jrue Holiday,Rodney Carney,Willie Green,Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,4,0:01,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,off,,

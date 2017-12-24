@@ -1,0 +1,508 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,12:00,OFF,jump ball,,Nene Hilario,,,Spencer Hawes,,,,,,,Kenyon Martin,,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,11:46,DEN,shot,,,,,,,,,,Kenyon Martin,,,,missed,,jump,23,13
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,11:45,SAC,rebound,,,,,,,,,,Spencer Hawes,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,11:28,SAC,shot,,,,,,,,,,Donte Greene,2,,,made,,jump,46,8
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,11:09,DEN,shot,Nene Hilario,,,,,,,,,Kenyon Martin,2,,,made,,dunk,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:53,DEN,foul,,,,,,,,Donte Greene,,Nene Hilario,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:53,SAC,free throw,,,,,,,1,,2,Donte Greene,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:53,SAC,free throw,,,,,,,2,,2,Donte Greene,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:40,DEN,shot,,,Donte Greene,,,,,,,Carmelo Anthony,,,,missed,,jump,20,9
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:38,SAC,rebound,,,,,,,,,,Omri Casspi,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:37,SAC,turnover,,,,,,,,,,Omri Casspi,,,bad pass,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:27,DEN,shot,,,,,,,,,,Nene Hilario,,,,missed,,jump,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:26,SAC,rebound,,,,,,,,,,Beno Udrih,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:18,SAC,shot,,,,,,,,,,Jason Thompson,,,,missed,,jump,40,12
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:17,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:07,DEN,foul,,,,,,,,Donte Greene,,Carmelo Anthony,,,,,,offensive,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,10:07,DEN,turnover,,,,,,,,,,Carmelo Anthony,,,foul,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,9:51,SAC,shot,Beno Udrih,,,,,,,,,Donte Greene,3,,,made,,3pt,5,20
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,9:40,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,11,18
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,9:38,SAC,rebound,,,,,,,,,,Omri Casspi,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,9:28,SAC,shot,,,,,,,,,,Beno Udrih,2,,,made,,turnaround jump,14,7
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,9:16,SAC,foul,,,,,,,,Nene Hilario,,Jason Thompson,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,9:16,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,9:16,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,missed,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,9:16,SAC,rebound,,,,,,,,,,Jason Thompson,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,9:03,SAC,shot,,,,,,,,,,Donte Greene,,,,missed,,3pt,33,29
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,9:02,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,8:55,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,jump,14,22
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,8:35,SAC,shot,,,,,,,,,,Beno Udrih,,,,missed,,jump,27,23
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,8:34,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,8:21,DEN,shot,,,,,,,,,,Kenyon Martin,,,,missed,,jump,32,7
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,8:19,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,8:19,DEN,shot,,,,,,,,,,Nene Hilario,2,,,made,,tip,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,8:08,SAC,shot,,,,,,,,,,Jason Thompson,,,,missed,,layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,8:07,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,8:03,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,driving layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:52,SAC,turnover,,,,,,,,,,Donte Greene,,,bad pass,,Nene Hilario,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:46,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:43,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:42,DEN,shot,,,,,,,,,,Carmelo Anthony,2,,,made,,layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:24,SAC,shot,,,,,,,,,,Beno Udrih,,,,missed,,jump,25,24
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:24,SAC,rebound,,,,,,,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:24,DEN,foul,,,,,,,,Jason Thompson,,Kenyon Martin,,,,,,loose ball,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:24,SAC,timeout,,,,,,,,,,,,,,,,regular,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:17,SAC,shot,,,,,,,,,,Spencer Hawes,,,,missed,,jump,27,27
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:17,SAC,rebound,,,,,,,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:17,DEN,foul,,,,,,,,Omri Casspi,,Arron Afflalo,,,,,,loose ball,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,7:05,SAC,shot,,,,,,,,,,Donte Greene,2,,,made,,running jump,25,14
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,6:52,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,34,24
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,6:51,SAC,rebound,,,,,,,,,,Beno Udrih,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,6:45,DEN,violation,,,,,,,,,,Kenyon Martin,,,,,,defensive goaltending,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,6:45,SAC,shot,Beno Udrih,,,,,,,,,Jason Thompson,2,,,made,,jump,29,7
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,6:29,DEN,shot,,,,,,,,,,Kenyon Martin,2,,,made,,jump hook,27,12
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,6:15,SAC,shot,Beno Udrih,,,,,,,,,Spencer Hawes,2,,,made,,finger roll layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,6:10,DEN,turnover,,,,,,,,,,Ty Lawson,,,lost ball,,Beno Udrih,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,5:54,SAC,shot,,,,,,,,,,Omri Casspi,,,,missed,,jump,26,12
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,5:52,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,5:43,DEN,shot,,,,,,,,,,Carmelo Anthony,2,,,made,,jump,8,12
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,5:28,SAC,shot,,,Nene Hilario,,,,,,,Spencer Hawes,,,,missed,,layup,25,9
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,5:26,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,5:24,DEN,shot,Arron Afflalo,,,,,,,,,Carmelo Anthony,2,,,made,,driving layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,1,5:24,SAC,foul,,,,,,,,Carmelo Anthony,,Donte Greene,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,5:24,SAC,sub,,,,Kenny Thomas,,Jason Thompson,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,5:24,DEN,free throw,,,,,,,1,,1,Carmelo Anthony,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,5:02,SAC,shot,,,,,,,,,,Omri Casspi,,,,missed,,3pt,1,7
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,5:01,SAC,rebound,,,,,,,,,,Kenny Thomas,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,5:00,SAC,shot,,,,,,,,,,Kenny Thomas,,,,missed,,layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,5:00,SAC,rebound,,,,,,,,,,Kenny Thomas,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,5:00,SAC,turnover,,,,,,,,,,Kenny Thomas,,,out of bounds lost ball turnover,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,4:47,DEN,shot,,,,,,,,,,Nene Hilario,2,,,made,,layup,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,4:47,SAC,foul,,,,,,,,Nene Hilario,,Kenny Thomas,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,4:47,DEN,free throw,,,,,,,1,,1,Nene Hilario,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,4:29,SAC,shot,,,,,,,,,,Beno Udrih,,,,missed,,pullup jump,24,20
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,4:28,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,4:19,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,4:18,SAC,rebound,,,,,,,,,,Spencer Hawes,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,4:11,SAC,shot,,,,,,,,,,Beno Udrih,2,,,made,,step back jump,21,15
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,4:01,DEN,shot,,,,,,,,,,Arron Afflalo,2,,,made,,driving layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,3:43,SAC,shot,,,,,,,,,,Omri Casspi,,,,missed,,jump,36,22
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,3:42,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,3:38,DEN,shot,Carmelo Anthony,,,,,,,,,Nene Hilario,2,,,made,,slam dunk,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,3:19,SAC,shot,,,,,,,,,,Beno Udrih,2,,,made,,driving layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,3:06,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,jump,21,9
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,3:03,DEN,rebound,,,,,,,,,,Ty Lawson,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,2:59,DEN,shot,Ty Lawson,,,,,,,,,Carmelo Anthony,2,,,made,,jump,11,23
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,2:42,SAC,turnover,,,,,,,,,,Beno Udrih,,,lost ball,,Ty Lawson,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,2:38,SAC,foul,,,,,,,,Kenyon Martin,,Kenny Thomas,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Kenny Thomas,Omri Casspi,Spencer Hawes,1,2:38,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Kenny Thomas,Spencer Hawes,1,2:38,SAC,sub,,,,Andres Nocioni,,Omri Casspi,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Kenny Thomas,Sergio Rodriguez,1,2:38,SAC,sub,,,,Sergio Rodriguez,,Spencer Hawes,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:38,SAC,sub,,,,Jason Thompson,,Kenny Thomas,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:38,DEN,sub,,,,J.R. Smith,,Arron Afflalo,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:38,DEN,sub,,,,Chris Andersen,,Nene Hilario,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:38,DEN,free throw,,,,,,,1,,2,Kenyon Martin,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:38,DEN,free throw,,,,,,,2,,2,Kenyon Martin,,,foul,missed,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:38,SAC,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:38,DEN,foul,,,,,,,,Jason Thompson,,J.R. Smith,,,,,,loose ball,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:28,SAC,turnover,,,,,,,,,,Sergio Rodriguez,,,bad pass,,Carmelo Anthony,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:21,DEN,shot,Carmelo Anthony,,,,,,,,,Chris Andersen,2,,,made,,layup,25,6
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:05,SAC,shot,,,,,,,,,,Donte Greene,,,,missed,,3pt,3,19
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:04,SAC,rebound,,,,,,,,,,Jason Thompson,,,,,,off,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,2:03,SAC,shot,,,,,,,,,,Jason Thompson,2,,,made,,layup,25,6
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,1:51,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,jump,18,7
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,1:50,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,off,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,1:50,DEN,shot,,,,,,,,,,Kenyon Martin,,,,missed,,layup,25,6
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,1:49,SAC,rebound,,,,,,,,,,Andres Nocioni,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,1:46,SAC,shot,Andres Nocioni,,,,,,,,,Sergio Rodriguez,2,,,made,,layup,25,6
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,1:28,DEN,shot,Kenyon Martin,,,,,,,,,Carmelo Anthony,2,,,made,,jump,6,18
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,1:11,SAC,shot,Sergio Rodriguez,,,,,,,,,Andres Nocioni,3,,,made,,3pt,19,30
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,0:55,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,10,15
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,0:54,SAC,rebound,,,,,,,,,,Beno Udrih,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,0:47,SAC,turnover,,,,,,,,,,Beno Udrih,,,lost ball,,J.R. Smith,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,1,0:44,DEN,sub,,,,Anthony Carter,,Ty Lawson,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Sergio Rodriguez,1,0:44,SAC,sub,,,,Ime Udoka,,Donte Greene,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Sergio Rodriguez,1,0:22,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,3pt,21,30
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Sergio Rodriguez,1,0:21,SAC,rebound,,,,,,,,,,Jason Thompson,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Sergio Rodriguez,1,0:00,SAC,shot,,,Chris Andersen,,,,,,,Sergio Rodriguez,,,,missed,,layup,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Sergio Rodriguez,1,0:00,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,11:42,SAC,shot,,,,,,,,,,Sergio Rodriguez,,,,missed,,layup,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,11:41,SAC,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,11:33,SAC,foul,,,,,,,,Anthony Carter,,Andres Nocioni,,,,,,offensive,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,11:33,SAC,turnover,,,,,,,,,,Andres Nocioni,,,foul,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,11:19,DEN,shot,,,Andres Nocioni,,,,,,,Carmelo Anthony,,,,missed,,jump,31,7
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,11:19,DEN,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,11:15,SAC,foul,,,,,,,,J.R. Smith,,Omri Casspi,,,,,,shooting,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,11:15,DEN,free throw,,,,,,,1,,2,J.R. Smith,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,11:15,DEN,free throw,,,,,,,2,,2,J.R. Smith,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,11:02,SAC,turnover,,,,,,,,,,Jason Thompson,,,3 second violation,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,10:55,DEN,foul,,,,,,,,Omri Casspi,,J.R. Smith,,,,,,offensive,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,10:55,DEN,turnover,,,,,,,,,,J.R. Smith,,,foul,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,10:36,SAC,shot,,,,,,,,,,Andres Nocioni,,,,missed,,3pt,4,19
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,10:35,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,10:22,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,running jump,16,7
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,10:21,SAC,rebound,,,,,,,,,,Andres Nocioni,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,10:12,SAC,shot,,,,,,,,,,Omri Casspi,2,,,made,,driving layup,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:58,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,jump,20,10
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:58,SAC,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:58,DEN,sub,,,,Nene Hilario,,Kenyon Martin,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:43,SAC,shot,Jason Thompson,,,,,,,,,Andres Nocioni,2,,,made,,layup,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:30,SAC,foul,,,,,,,,J.R. Smith,,Omri Casspi,,,,,,shooting,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:30,DEN,free throw,,,,,,,1,,2,J.R. Smith,,,foul,missed,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:30,DEN,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:30,DEN,free throw,,,,,,,2,,2,J.R. Smith,,,foul,missed,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:28,SAC,rebound,,,,,,,,,,Jason Thompson,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:12,SAC,shot,,,,,,,,,,Omri Casspi,,,,missed,,jump hook,22,12
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:11,DEN,rebound,,,,,,,,,,J.R. Smith,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:03,DEN,shot,,,,,,,,,,Anthony Carter,,,,missed,,jump,8,7
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:02,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,9:02,DEN,shot,,,,,,,,,,Nene Hilario,2,,,made,,tip,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,8:38,SAC,shot,,,,,,,,,,Ime Udoka,,,,missed,,jump,28,8
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,8:37,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,8:32,DEN,shot,Anthony Carter,,,,,,,,,Carmelo Anthony,2,,,made,,layup,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,8:15,SAC,shot,Sergio Rodriguez,,,,,,,,,Jason Thompson,2,,,made,,layup,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,8:01,DEN,shot,Nene Hilario,,,,,,,,,Carmelo Anthony,2,,,made,,jump,12,16
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,7:41,SAC,shot,Sergio Rodriguez,,,,,,,,,Ime Udoka,3,,,made,,3pt,2,7
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,7:25,SAC,foul,,,,,,,,Carmelo Anthony,,Ime Udoka,,,,,,personal,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,7:25,DEN,timeout,,,,,,,,,,,,,,,,official,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Ime Udoka,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,7:25,DEN,sub,,,,Arron Afflalo,,Carmelo Anthony,,,,,,,,,,,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,7:25,SAC,sub,,,,Beno Udrih,,Ime Udoka,,,,,,,,,,,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,7:15,DEN,shot,,,,,,,,,,Chris Andersen,,,,missed,,jump,25,12
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,7:14,SAC,rebound,,,,,,,,,,Jason Thompson,,,,,,def,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,7:03,SAC,shot,Sergio Rodriguez,,,,,,,,,Andres Nocioni,3,,,made,,3pt,23,31
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:43,DEN,shot,,,,,,,,,,Arron Afflalo,,,,missed,,3pt,2,10
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:41,SAC,rebound,,,,,,,,,,Sergio Rodriguez,,,,,,def,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:29,SAC,shot,,,,,,,,,,Omri Casspi,,,,missed,,3pt,2,8
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:27,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,def,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:22,DEN,shot,,,,,,,,,,Arron Afflalo,,,,missed,,layup,25,6
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:20,DEN,rebound,,,,,,,,,,Anthony Carter,,,,,,off,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:12,DEN,shot,,,,,,,,,,Arron Afflalo,,,,missed,,jump,18,20
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:11,DEN,rebound,,,,,,,,,,Anthony Carter,,,,,,off,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:11,DEN,shot,,,,,,,,,,Anthony Carter,,,,missed,,tip,25,6
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:10,SAC,rebound,,,,,,,,,,Andres Nocioni,,,,,,def,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:04,SAC,shot,,,,,,,,,,Sergio Rodriguez,,,,missed,,driving layup,25,6
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,6:03,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,5:45,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,3pt,20,30
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,5:41,SAC,rebound,,,,,,,,,,Jason Thompson,,,,,,def,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,5:38,SAC,turnover,,,,,,,,,,Sergio Rodriguez,,,bad pass,,J.R. Smith,,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,5:34,DEN,turnover,,,,,,,,,,J.R. Smith,,,bad pass,,,,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,5:34,SAC,timeout,,,,,,,,,,,,,,,,regular,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,5:21,SAC,shot,,,,,,,,,,Andres Nocioni,2,,,made,,driving layup,25,6
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,4:52,DEN,shot,,,,,,,,,,Anthony Carter,,,,missed,,3pt,15,29
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,4:51,SAC,rebound,,,,,,,,,,Sergio Rodriguez,,,,,,def,,
+Anthony Carter,Arron Afflalo,Chris Andersen,J.R. Smith,Nene Hilario,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,4:45,SAC,turnover,,,,,,,,,,Beno Udrih,,,bad pass,,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,4:45,DEN,sub,,,,Ty Lawson,,Arron Afflalo,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,2,4:45,DEN,sub,,,,Carmelo Anthony,,Anthony Carter,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Sergio Rodriguez,2,4:45,SAC,sub,,,,Ime Udoka,,Omri Casspi,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Sergio Rodriguez,2,4:28,SAC,foul,,,,,,,,Nene Hilario,,Jason Thompson,,,,,,shooting,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Sergio Rodriguez,2,4:28,DEN,sub,,,,Kenyon Martin,,Chris Andersen,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Sergio Rodriguez,2,4:28,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,missed,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Sergio Rodriguez,2,4:28,DEN,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,4:28,SAC,sub,,,,Jon Brockman,,Sergio Rodriguez,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,4:28,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,made,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,4:15,DEN,foul,,,,,,,,Jon Brockman,,Nene Hilario,,,,,,personal,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,4:12,SAC,shot,,,,,,,,,,Jason Thompson,,,,missed,,jump,31,23
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,4:12,DEN,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,4:12,SAC,foul,,,,,,,,Kenyon Martin,,Jon Brockman,,,,,,loose ball,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,4:12,DEN,free throw,,,,,,,1,,2,Kenyon Martin,,,foul,missed,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,4:12,DEN,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,4:12,DEN,free throw,,,,,,,2,,2,Kenyon Martin,,,foul,made,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,3:57,SAC,shot,Andres Nocioni,,,,,,,,,Beno Udrih,2,,,made,,layup,25,6
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,3:40,DEN,shot,,,Jon Brockman,,,,,,,Ty Lawson,,,,missed,,running jump,19,7
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,3:39,SAC,rebound,,,,,,,,,,Jon Brockman,,,,,,def,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,3:35,SAC,shot,Beno Udrih,,,,,,,,,Ime Udoka,2,,,made,,layup,25,6
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,3:08,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,14,22
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,3:07,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,off,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:58,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,driving layup,23,8
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:57,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,off,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:57,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,layup,25,6
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:53,SAC,rebound,,,,,,,,,,Ime Udoka,,,,,,def,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:50,DEN,foul,,,,,,,,Andres Nocioni,,Kenyon Martin,,,,,,shooting,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:50,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:50,SAC,free throw,,,,,,,1,,2,Andres Nocioni,,,foul,missed,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:50,SAC,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:50,SAC,free throw,,,,,,,2,,2,Andres Nocioni,,,foul,made,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:28,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,layup,25,6
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:28,SAC,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,2,2:10,SAC,turnover,,,,,,,,,,Beno Udrih,,,out of bounds lost ball turnover,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,2,2:06,SAC,sub,,,,Omri Casspi,,Andres Nocioni,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,2,1:53,DEN,shot,,,,,,,,,,Carmelo Anthony,2,,,made,,turnaround jump,19,8
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,2,1:26,SAC,shot,,,,,,,,,,Beno Udrih,,,,missed,,pullup jump,10,8
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,2,1:23,SAC,rebound,,,,,,,,,,Jon Brockman,,,,,,off,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,2,1:22,SAC,turnover,,,,,,,,,,Jon Brockman,,,bad pass,,Ty Lawson,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,2,1:19,DEN,shot,Ty Lawson,,,,,,,,,Nene Hilario,2,,,made,,layup,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,2,0:58,SAC,shot,,,,,,,,,,Jason Thompson,,,,missed,,jump hook,26,12
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,2,0:57,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,2,0:38,DEN,shot,,,,,,,,,,Carmelo Anthony,2,,,made,,driving finger roll layup,25,6
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,2,0:32,SAC,timeout,,,,,,,,,,,,,,,,short,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,2,0:32,DEN,sub,,,,Chris Andersen,,Nene Hilario,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,2,0:32,SAC,sub,,,,Andres Nocioni,,Jon Brockman,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,2,0:20,SAC,shot,,,,,,,,,,Ime Udoka,2,,,made,,pullup jump,14,18
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,2,0:01,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,running jump,24,12
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,2,0:01,SAC,rebound,,,,,,,,,,Omri Casspi,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,11:50,SAC,shot,Spencer Hawes,,,,,,,,,Omri Casspi,2,,,made,,fade away jumper,13,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,11:26,DEN,shot,,,,,,,,,,Kenyon Martin,,,,missed,,jump,41,8
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,11:25,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,11:21,DEN,shot,,,,,,,,,,Carmelo Anthony,3,,,made,,3pt,37,31
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,11:00,SAC,turnover,,,,,,,,,,Beno Udrih,,,bad pass,,Nene Hilario,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,10:57,DEN,turnover,,,,,,,,,,Carmelo Anthony,,,bad pass,,Beno Udrih,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,10:46,SAC,shot,,,,,,,,,,Donte Greene,2,,,made,,pullup jump,24,18
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,10:34,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,8,14
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,10:33,SAC,rebound,,,,,,,,,,Omri Casspi,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,10:21,SAC,shot,Jason Thompson,,,,,,,,,Donte Greene,2,,,made,,jump,14,13
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,9:59,SAC,foul,,,,,,,,Nene Hilario,,Beno Udrih,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,9:59,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,missed,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,9:59,DEN,rebound,,,,,,,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,9:59,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,9:42,SAC,shot,,,,,,,,,,Jason Thompson,,,,missed,,jump,23,18
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,9:41,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,9:36,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,driving layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,9:35,SAC,rebound,,,,,,,,,,Beno Udrih,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,9:29,SAC,shot,Beno Udrih,,,,,,,,,Omri Casspi,2,,,made,,dunk,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,9:03,DEN,shot,,,,,,,,,,Carmelo Anthony,2,,,made,,finger roll layup,25,9
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,8:47,DEN,foul,,,,,,,,Omri Casspi,,Arron Afflalo,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,8:47,SAC,free throw,,,,,,,1,,2,Omri Casspi,,,foul,missed,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,8:47,SAC,rebound,,,,,,,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,8:47,SAC,free throw,,,,,,,2,,2,Omri Casspi,,,foul,missed,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,8:46,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,8:33,DEN,turnover,,,,,,,,,,Carmelo Anthony,,,bad pass,,Omri Casspi,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,8:29,SAC,shot,Omri Casspi,,,,,,,,,Spencer Hawes,2,,,made,,slam dunk,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,8:12,DEN,shot,Nene Hilario,,,,,,,,,Kenyon Martin,2,,,made,,dunk,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,7:55,SAC,foul,,,,,,,,Arron Afflalo,,Omri Casspi,,,,,,offensive,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,7:55,SAC,turnover,,,,,,,,,,Omri Casspi,,,foul,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,7:38,DEN,shot,,,,,,,,,,Nene Hilario,,,,missed,,dunk,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,7:37,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,7:32,DEN,shot,,,,,,,,,,Arron Afflalo,3,,,made,,3pt,45,20
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,3,7:26,DEN,foul,,,,,,,,Beno Udrih,,Ty Lawson,,,,,,personal,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,7:26,SAC,sub,,,,Sergio Rodriguez,,Omri Casspi,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,7:15,SAC,shot,,,,,,,,,,Sergio Rodriguez,,,,missed,,driving layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,7:14,SAC,rebound,,,,,,,,,,Jason Thompson,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,7:13,DEN,foul,,,,,,,,Jason Thompson,,Nene Hilario,,,,,,personal,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,7:04,SAC,shot,,,,,,,,,,Spencer Hawes,,,,missed,,jump,29,24
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,7:03,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:58,DEN,foul,,,,,,,,Donte Greene,,Carmelo Anthony,,,,,,offensive,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:58,DEN,turnover,,,,,,,,,,Carmelo Anthony,,,foul,,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:45,SAC,shot,,,,,,,,,,Beno Udrih,,,,missed,,3pt,42,24
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:44,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:26,SAC,foul,,,,,,,,Nene Hilario,,Spencer Hawes,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:26,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:26,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,missed,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:25,SAC,rebound,,,,,,,,,,Jason Thompson,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:07,SAC,shot,,,,,,,,,,Beno Udrih,,,,missed,,jump,32,7
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:06,SAC,rebound,,,,,,,,,,Spencer Hawes,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:06,SAC,shot,,,,,,,,,,Spencer Hawes,2,,,made,,tip,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,6:00,SAC,foul,,,,,,,,Ty Lawson,,Sergio Rodriguez,,,,,,personal,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,5:52,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,layup,25,6
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,5:40,SAC,shot,,,,,,,,,,Jason Thompson,2,,,made,,jump hook,30,11
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,5:40,DEN,foul,,,,,,,,Jason Thompson,,Kenyon Martin,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,5:40,SAC,timeout,,,,,,,,,,,,,,,,regular,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,5:40,SAC,free throw,,,,,,,1,,1,Jason Thompson,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,5:23,DEN,shot,Ty Lawson,,,,,,,,,Kenyon Martin,2,,,made,,jump,37,22
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,5:00,SAC,shot,,,Nene Hilario,,,,,,,Donte Greene,,,,missed,,jump,33,22
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,4:58,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,4:39,DEN,shot,,,,,,,,,,Kenyon Martin,,,,missed,,jump,40,19
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,4:38,SAC,rebound,,,,,,,,,,Beno Udrih,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,4:23,SAC,turnover,,,,,,,,,,Spencer Hawes,,,bad pass,,Nene Hilario,,,
+Arron Afflalo,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,4:23,SAC,foul,,,,,,,,Carmelo Anthony,,Jason Thompson,,,,,,personal,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,3,4:23,DEN,sub,,,,J.R. Smith,,Arron Afflalo,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jon Brockman,Sergio Rodriguez,Spencer Hawes,3,4:23,SAC,sub,,,,Jon Brockman,,Jason Thompson,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jon Brockman,Sergio Rodriguez,Spencer Hawes,3,4:06,DEN,shot,,,,,,,,,,Carmelo Anthony,2,,,made,,driving dunk,25,6
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jon Brockman,Sergio Rodriguez,Spencer Hawes,3,3:59,SAC,shot,Sergio Rodriguez,,,,,,,,,Beno Udrih,2,,,made,,jump,12,11
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jon Brockman,Sergio Rodriguez,Spencer Hawes,3,3:41,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,jump,31,25
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jon Brockman,Sergio Rodriguez,Spencer Hawes,3,3:40,DEN,rebound,,,,,,,,,,Ty Lawson,,,,,,off,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jon Brockman,Sergio Rodriguez,Spencer Hawes,3,3:39,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,layup,25,6
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jon Brockman,Sergio Rodriguez,Spencer Hawes,3,3:39,SAC,rebound,,,,,,,,,,Donte Greene,,,,,,def,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jon Brockman,Sergio Rodriguez,Spencer Hawes,3,3:39,DEN,foul,,,,,,,,Donte Greene,,Ty Lawson,,,,,,personal,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Donte Greene,Ime Udoka,Jon Brockman,Sergio Rodriguez,Spencer Hawes,3,3:39,SAC,sub,,,,Ime Udoka,,Beno Udrih,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Donte Greene,Ime Udoka,Jon Brockman,Sergio Rodriguez,Spencer Hawes,3,3:39,SAC,free throw,,,,,,,1,,2,Donte Greene,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Donte Greene,Ime Udoka,Jon Brockman,Sergio Rodriguez,Spencer Hawes,3,3:39,DEN,sub,,,,Chris Andersen,,Nene Hilario,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Donte Greene,Ime Udoka,Jon Brockman,Sergio Rodriguez,3,3:39,SAC,sub,,,,Andres Nocioni,,Spencer Hawes,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Donte Greene,Ime Udoka,Jon Brockman,Sergio Rodriguez,3,3:39,SAC,free throw,,,,,,,2,,2,Donte Greene,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Donte Greene,Ime Udoka,Jon Brockman,Sergio Rodriguez,3,3:24,SAC,foul,,,,,,,,Chris Andersen,,Jon Brockman,,,,,,personal,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,3:24,SAC,sub,,,,Omri Casspi,,Donte Greene,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,3:24,DEN,free throw,,,,,,,1,,2,Chris Andersen,,,foul,missed,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,3:24,DEN,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,3:24,DEN,free throw,,,,,,,2,,2,Chris Andersen,,,foul,missed,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,3:23,SAC,rebound,,,,,,,,,,Andres Nocioni,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,3:13,DEN,foul,,,,,,,,Jon Brockman,,Carmelo Anthony,,,,,,shooting,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,3:13,SAC,free throw,,,,,,,1,,2,Jon Brockman,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,3:13,SAC,free throw,,,,,,,2,,2,Jon Brockman,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:51,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,3pt,28,30
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:50,SAC,rebound,,,,,,,,,,Jon Brockman,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:33,SAC,shot,,,,,,,,,,Sergio Rodriguez,,,,missed,,3pt,21,30
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:31,DEN,rebound,,,,,,,,,,Ty Lawson,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:19,SAC,foul,,,,,,,,Carmelo Anthony,,Ime Udoka,,,,,,personal,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:19,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:19,DEN,sub,,,,Anthony Carter,,Ty Lawson,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:19,DEN,free throw,,,,,,,1,,2,Carmelo Anthony,,,foul,missed,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:19,DEN,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:19,DEN,free throw,,,,,,,2,,2,Carmelo Anthony,,,foul,missed,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:17,DEN,rebound,,,,,,,,,,J.R. Smith,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:15,DEN,shot,,,,,,,,,,J.R. Smith,2,,,made,,hook,20,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:04,SAC,shot,,,,,,,,,,Sergio Rodriguez,,,,missed,,layup,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:03,SAC,rebound,,,,,,,,,,Jon Brockman,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:03,SAC,shot,,,,,,,,,,Jon Brockman,,,,missed,,tip,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:03,SAC,rebound,,,,,,,,,,Jon Brockman,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:03,SAC,shot,,,,,,,,,,Jon Brockman,,,,missed,,tip,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:03,SAC,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,2:03,SAC,jump ball,,Chris Andersen,,,Jon Brockman,,,,,,,Omri Casspi,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,1:49,SAC,shot,Sergio Rodriguez,,,,,,,,,Andres Nocioni,3,,,made,,3pt,24,31
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,1:20,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,5,12
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,1:19,SAC,rebound,,,,,,,,,,Jon Brockman,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,1:02,SAC,shot,,,,,,,,,,Sergio Rodriguez,,,,missed,,jump,18,7
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,1:02,SAC,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,1:02,DEN,foul,,,,,,,,Jon Brockman,,Carmelo Anthony,,,,,,loose ball,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,1:02,SAC,free throw,,,,,,,1,,2,Jon Brockman,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,1:02,SAC,free throw,,,,,,,2,,2,Jon Brockman,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:48,DEN,shot,,,,,,,,,,Anthony Carter,,,,missed,,jump,34,10
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:46,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:46,DEN,shot,,,,,,,,,,Kenyon Martin,,,,missed,,tip,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:44,SAC,rebound,,,,,,,,,,Jon Brockman,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:42,DEN,foul,,,,,,,,Ime Udoka,,J.R. Smith,,,,,,personal,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:42,SAC,free throw,,,,,,,1,,2,Ime Udoka,,,foul,missed,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:42,SAC,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:42,SAC,free throw,,,,,,,2,,2,Ime Udoka,,,foul,missed,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:41,DEN,rebound,,,,,,,,,,Anthony Carter,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:26,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,pullup jump,16,11
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:26,DEN,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:26,SAC,foul,,,,,,,,Chris Andersen,,Jon Brockman,,,,,,loose ball,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Ime Udoka,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:26,DEN,free throw,,,,,,,1,,2,Chris Andersen,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,J.R. Smith,Kenyon Martin,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:26,SAC,sub,,,,Beno Udrih,,Ime Udoka,,,,,,,,,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:26,DEN,sub,,,,Ty Lawson,,Carmelo Anthony,,,,,,,,,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:26,DEN,free throw,,,,,,,2,,2,Chris Andersen,,,foul,made,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:05,SAC,shot,,,,,,,,,,Sergio Rodriguez,2,,,made,,driving layup,25,6
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:00,DEN,foul,,,,,,,,Andres Nocioni,,J.R. Smith,,,,,,offensive,,
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,3,0:00,DEN,turnover,,,,,,,,,,J.R. Smith,,,foul,,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,11:44,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,layup,25,6
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,11:43,SAC,rebound,,,,,,,,,,Jon Brockman,,,,,,def,,
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,11:24,SAC,turnover,,,,,,,,,,Sergio Rodriguez,,,lost ball,,Kenyon Martin,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,11:07,DEN,shot,,,,,,,,,,Kenyon Martin,,,,missed,,running hook,24,14
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,11:07,DEN,rebound,,,,,,,,,,Chris Andersen,,,,,,off,,
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,11:07,SAC,foul,,,,,,,,Chris Andersen,,Andres Nocioni,,,,,,personal,,
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,10:57,DEN,shot,J.R. Smith,,,,,,,,,Anthony Carter,3,,,made,,3pt,4,19
+Anthony Carter,Chris Andersen,J.R. Smith,Kenyon Martin,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,10:43,DEN,foul,,,,,,,,Andres Nocioni,,Kenyon Martin,,,,,,shooting,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,10:43,DEN,sub,,,,Nene Hilario,,Kenyon Martin,,,,,,,,,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,10:43,SAC,free throw,,,,,,,1,,2,Andres Nocioni,,,foul,made,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,10:43,SAC,free throw,,,,,,,2,,2,Andres Nocioni,,,foul,made,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,10:29,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,jump,20,9
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,10:29,DEN,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,10:29,SAC,foul,,,,,,,,Chris Andersen,,Jon Brockman,,,,,,loose ball,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,10:17,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,3pt,14,28
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,10:15,DEN,rebound,,,,,,,,,,Anthony Carter,,,,,,off,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,10:10,DEN,shot,Anthony Carter,,,,,,,,,Nene Hilario,2,,,made,,slam dunk,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,9:51,SAC,shot,,,Chris Andersen,,,,,,,Beno Udrih,,,,missed,,layup,25,6
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,9:49,SAC,rebound,,,,,,,,,,Jon Brockman,,,,,,off,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,9:48,SAC,shot,,,,,,,,,,Jon Brockman,2,,,made,,jump hook,20,8
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,9:32,SAC,foul,,,,,,,,Nene Hilario,,Beno Udrih,,,,,,shooting,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jon Brockman,Omri Casspi,Sergio Rodriguez,4,9:32,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,4,9:32,SAC,sub,,,,Jason Thompson,,Jon Brockman,,,,,,,,,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,4,9:32,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,made,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,4,9:32,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,missed,,,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,4,9:31,SAC,rebound,,,,,,,,,,Andres Nocioni,,,,,,def,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,4,9:21,DEN,foul,,,,,,,,Omri Casspi,,J.R. Smith,,,,,,shooting,,
+Anthony Carter,Chris Andersen,J.R. Smith,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,4,9:21,SAC,free throw,,,,,,,1,,2,Omri Casspi,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Omri Casspi,Sergio Rodriguez,4,9:21,DEN,sub,,,,Carmelo Anthony,,J.R. Smith,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,9:21,SAC,sub,,,,Jon Brockman,,Sergio Rodriguez,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,9:21,DEN,foul,,,,,,,,Omri Casspi,,J.R. Smith,,,,,,technical,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,9:21,SAC,free throw,,,,,,,1,,1,Beno Udrih,,,technical,missed,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,9:21,SAC,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,9:21,SAC,free throw,,,,,,,2,,2,Omri Casspi,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,9:09,DEN,shot,,,Jon Brockman,,,,,,,Nene Hilario,,,,missed,,dunk,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,9:08,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,9:02,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,5,8
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,9:00,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,8:54,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,jump,22,24
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,8:53,DEN,rebound,,,,,,,,,,Chris Andersen,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,8:53,DEN,shot,,,,,,,,,,Chris Andersen,2,,,made,,tip,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,8:28,SAC,shot,,,,,,,,,,Beno Udrih,,,,missed,,jump,32,17
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,8:28,SAC,rebound,,,,,,,,,,Jason Thompson,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,8:28,DEN,foul,,,,,,,,Jason Thompson,,Ty Lawson,,,,,,shooting,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,8:28,SAC,free throw,,,,,,,1,,2,Jason Thompson,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,8:28,SAC,free throw,,,,,,,2,,2,Jason Thompson,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,8:07,DEN,shot,Ty Lawson,,,,,,,,,Carmelo Anthony,2,,,made,,jump,16,7
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,7:58,DEN,foul,,,,,,,,Andres Nocioni,,Carmelo Anthony,,,,,,shooting,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,7:58,SAC,free throw,,,,,,,1,,2,Andres Nocioni,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,7:58,SAC,free throw,,,,,,,2,,2,Andres Nocioni,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,7:42,DEN,shot,,,,,,,,,,Carmelo Anthony,2,,,made,,floating jump,32,8
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,7:25,SAC,shot,Jon Brockman,,,,,,,,,Beno Udrih,2,,,made,,jump,41,9
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,7:12,DEN,shot,Anthony Carter,,,,,,,,,Ty Lawson,2,,,made,,layup,25,6
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,6:54,SAC,shot,Beno Udrih,,,,,,,,,Andres Nocioni,3,,,made,,3pt,1,8
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,6:38,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,3pt,25,31
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,6:37,SAC,rebound,,,,,,,,,,Andres Nocioni,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,6:16,SAC,shot,,,,,,,,,,Jason Thompson,,,,missed,,jump,33,21
+Anthony Carter,Carmelo Anthony,Chris Andersen,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,6:14,DEN,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,6:14,DEN,sub,,,,Kenyon Martin,,Chris Andersen,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,5:58,DEN,shot,,,,,,,,,,Carmelo Anthony,2,,,made,,jump,42,11
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,5:35,SAC,shot,Beno Udrih,,,,,,,,,Jason Thompson,2,,,made,,running hook,20,10
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,5:19,DEN,shot,Ty Lawson,,,,,,,,,Nene Hilario,2,,,made,,layup,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,5:19,SAC,foul,,,,,,,,Nene Hilario,,Jason Thompson,,,,,,shooting,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Omri Casspi,4,5:19,DEN,timeout,,,,,,,,,,,,,,,,official,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,5:19,SAC,sub,,,,Sergio Rodriguez,,Omri Casspi,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,5:19,DEN,free throw,,,,,,,1,,1,Nene Hilario,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,5:06,SAC,turnover,,,,,,,,,,Andres Nocioni,,,traveling,,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,4:53,SAC,foul,,,,,,,,Nene Hilario,,Jon Brockman,,,,,,personal,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,4:53,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,4:53,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,4:38,SAC,shot,,,,,,,,,,Sergio Rodriguez,,,,missed,,running jump,23,13
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,4:37,SAC,rebound,,,,,,,,,,Sergio Rodriguez,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,4:37,SAC,shot,,,,,,,,,,Sergio Rodriguez,,,,missed,,tip,23,13
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,4:36,DEN,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,4:17,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,41,11
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,4:16,SAC,rebound,,,,,,,,,,Jason Thompson,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,3:58,SAC,shot,,,Anthony Carter,,,,,,,Beno Udrih,,,,missed,,jump,31,15
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,3:56,DEN,rebound,,,,,,,,,,Kenyon Martin,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,3:42,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,3pt,21,31
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,3:41,SAC,rebound,,,,,,,,,,Jon Brockman,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,3:26,SAC,shot,,,Nene Hilario,,,,,,,Jason Thompson,,,,missed,,driving layup,25,6
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,3:25,DEN,rebound,,,,,,,,,,Ty Lawson,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Andres Nocioni,Beno Udrih,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,3:22,SAC,foul,,,,,,,,Ty Lawson,,Andres Nocioni,,,,,,shooting,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Sergio Rodriguez,4,3:22,SAC,sub,,,,Ime Udoka,,Andres Nocioni,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Jon Brockman,Omri Casspi,4,3:22,SAC,sub,,,,Omri Casspi,,Sergio Rodriguez,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,Spencer Hawes,4,3:22,SAC,sub,,,,Spencer Hawes,,Jon Brockman,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,Spencer Hawes,4,3:22,DEN,free throw,,,,,,,1,,2,Ty Lawson,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,Spencer Hawes,4,3:22,DEN,free throw,,,,,,,2,,2,Ty Lawson,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,Spencer Hawes,4,3:02,SAC,shot,,,,,,,,,,Spencer Hawes,,,,missed,,jump hook,18,9
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,Spencer Hawes,4,3:01,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,Spencer Hawes,4,3:01,SAC,foul,,,,,,,,Carmelo Anthony,,Spencer Hawes,,,,,,personal,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,Spencer Hawes,4,3:01,DEN,free throw,,,,,,,1,,2,Carmelo Anthony,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Ime Udoka,Jason Thompson,Omri Casspi,Spencer Hawes,4,3:01,SAC,timeout,,,,,,,,,,,,,,,,regular,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,3:01,SAC,sub,,,,Donte Greene,,Ime Udoka,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,3:01,DEN,free throw,,,,,,,2,,2,Carmelo Anthony,,,foul,missed,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,3:00,SAC,rebound,,,,,,,,,,Omri Casspi,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,2:48,SAC,shot,,,,,,,,,,Donte Greene,2,,,made,,running jump,19,8
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,2:22,DEN,shot,Ty Lawson,,,,,,,,,Nene Hilario,2,,,made,,layup,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,2:01,SAC,shot,Donte Greene,,,,,,,,,Omri Casspi,3,,,made,,3pt,2,7
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:45,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,32,6
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:44,SAC,rebound,,,,,,,,,,Omri Casspi,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:41,SAC,shot,Omri Casspi,,,,,,,,,Beno Udrih,2,,,made,,driving layup,25,6
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:41,DEN,foul,,,,,,,,Beno Udrih,,Ty Lawson,,,,,,shooting,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:41,SAC,free throw,,,,,,,1,,1,Beno Udrih,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:31,SAC,foul,,,,,,,,Carmelo Anthony,,Spencer Hawes,,,,,,personal,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:31,DEN,free throw,,,,,,,1,,2,Carmelo Anthony,,,foul,missed,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:31,DEN,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:31,DEN,free throw,,,,,,,2,,2,Carmelo Anthony,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:21,DEN,foul,,,,,,,,Jason Thompson,,Kenyon Martin,,,,,,personal,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:21,SAC,free throw,,,,,,,1,,2,Jason Thompson,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:21,SAC,free throw,,,,,,,2,,2,Jason Thompson,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:21,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:21,DEN,sub,,,,J.R. Smith,,Anthony Carter,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:01,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,fade away jumper,13,8
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,1:00,SAC,rebound,,,,,,,,,,Jason Thompson,,,,,,def,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,0:35,SAC,shot,,,,,,,,,,Beno Udrih,,,,missed,,jump,35,21
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,0:34,DEN,rebound,,,,,,,,,,J.R. Smith,,,,,,def,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,0:25,DEN,turnover,,,,,,,,,,J.R. Smith,,,bad pass,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Omri Casspi,Spencer Hawes,4,0:25,SAC,timeout,,,,,,,,,,,,,,,,regular,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Jason Thompson,Sergio Rodriguez,Spencer Hawes,4,0:25,SAC,sub,,,,Sergio Rodriguez,,Omri Casspi,,,,,,,,,,,,
+Carmelo Anthony,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:25,SAC,sub,,,,Ime Udoka,,Spencer Hawes,,,,,,,,,,,,
+Arron Afflalo,J.R. Smith,Kenyon Martin,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:25,DEN,sub,,,,Arron Afflalo,,Carmelo Anthony,,,,,,,,,,,,
+Anthony Carter,Arron Afflalo,J.R. Smith,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:25,DEN,sub,,,,Anthony Carter,,Kenyon Martin,,,,,,,,,,,,
+Anthony Carter,Arron Afflalo,J.R. Smith,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:13,DEN,foul,,,,,,,,Sergio Rodriguez,,J.R. Smith,,,,,,personal,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:13,DEN,sub,,,,Carmelo Anthony,,J.R. Smith,,,,,,,,,,,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:13,SAC,free throw,,,,,,,1,,2,Sergio Rodriguez,,,foul,missed,,,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:13,SAC,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:13,SAC,free throw,,,,,,,2,,2,Sergio Rodriguez,,,foul,made,,,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:13,DEN,timeout,,,,,,,,,,,,,,,,short,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:10,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,driving layup,25,6
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:09,DEN,foul,,,,,,,,Sergio Rodriguez,,Arron Afflalo,,,,,,personal,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:09,SAC,free throw,,,,,,,1,,2,Sergio Rodriguez,,,foul,missed,,,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:09,SAC,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:09,SAC,free throw,,,,,,,2,,2,Sergio Rodriguez,,,foul,made,,,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:09,DEN,timeout,,,,,,,,,,,,,,,,short,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:06,DEN,shot,,,,,,,,,,Arron Afflalo,,,,missed,,3pt,43,22
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:05,DEN,rebound,,,,,,,,,,Anthony Carter,,,,,,off,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:04,DEN,shot,,,,,,,,,,Anthony Carter,2,,,made,,jump,7,8
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:04,SAC,timeout,,,,,,,,,,,,,,,,short,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:02,DEN,foul,,,,,,,,Beno Udrih,,Anthony Carter,,,,,,personal,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:02,SAC,free throw,,,,,,,1,,2,Beno Udrih,,,foul,made,,,,
+Anthony Carter,Arron Afflalo,Carmelo Anthony,Nene Hilario,Ty Lawson,Beno Udrih,Donte Greene,Ime Udoka,Jason Thompson,Sergio Rodriguez,4,0:02,SAC,free throw,,,,,,,2,,2,Beno Udrih,,,foul,made,,,,

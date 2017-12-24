@@ -1,0 +1,444 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,12:00,OFF,jump ball,,Jeff Green,,,Roy Hibbert,,,,,,,Troy Murphy,,,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:42,OKC,foul,,,,,,,,Roy Hibbert,,Thabo Sefolosha,,,,,,shooting,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:42,IND,free throw,,,,,,,1,,2,Roy Hibbert,,,foul,missed,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:42,IND,rebound,,,,,,,,,,,,,,,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:42,IND,free throw,,,,,,,2,,2,Roy Hibbert,,,foul,made,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:22,OKC,turnover,,,,,,,,,,Russell Westbrook,,,traveling,,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:01,OKC,foul,,,,,,,,Earl Watson,,Russell Westbrook,,,,,,shooting,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:01,IND,free throw,,,,,,,1,,3,Earl Watson,,,foul,made,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:01,IND,free throw,,,,,,,2,,3,Earl Watson,,,foul,made,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:01,IND,free throw,,,,,,,3,,3,Earl Watson,,,foul,made,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:51,OKC,shot,,,,,,,,,,Nenad Krstic,,,,missed,,jump,12,18
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:50,IND,rebound,,,,,,,,,,Earl Watson,,,,,,def,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:31,IND,shot,,,Nenad Krstic,,,,,,,Danny Granger,,,,missed,,reverse layup,24,6
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:30,IND,rebound,,,,,,,,,,Danny Granger,,,,,,off,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:29,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,layup,25,9
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:16,OKC,shot,Russell Westbrook,,,,,,,,,Kevin Durant,2,,,made,,jump,18,24
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:58,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,jump hook,14,8
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:56,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:42,OKC,turnover,,,,,,,,,,Kevin Durant,,,out of bounds lost ball turnover,,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:26,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,3pt,19,31
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:24,IND,rebound,,,,,,,,,,Earl Watson,,,,,,off,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:18,IND,shot,Earl Watson,,,,,,,,,Troy Murphy,2,,,made,,dunk,27,6
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:06,OKC,shot,Russell Westbrook,,,,,,,,,Nenad Krstic,2,,,made,,jump,24,27
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:54,IND,shot,,,,,,,,,,Roy Hibbert,2,,,made,,layup,22,5
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:35,OKC,shot,,,,,,,,,,Jeff Green,2,,,made,,jump,38,6
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:23,OKC,foul,,,,,,,,Roy Hibbert,,Thabo Sefolosha,,,,,,personal,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:23,OKC,sub,,,,Kyle Weaver,,Thabo Sefolosha,,,,,,,,,,,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:17,IND,shot,Roy Hibbert,,,,,,,,,Danny Granger,2,,,made,,layup,24,6
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:01,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,11,8
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:00,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,def,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:56,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,39,28
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:55,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,off,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:55,IND,shot,,,,,,,,,,Roy Hibbert,2,,,made,,tip,25,6
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:40,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,jump,38,15
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:39,IND,rebound,,,,,,,,,,Danny Granger,,,,,,def,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:31,IND,shot,Danny Granger,,,,,,,,,Roy Hibbert,2,,,made,,jump,20,7
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:22,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:11,OKC,turnover,,,,,,,,,,Kevin Durant,,,lost ball,,Danny Granger,,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:06,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,layup,25,7
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:44,OKC,shot,Jeff Green,,,,,,,,,Nenad Krstic,2,,,made,,layup,27,5
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:20,IND,shot,,,,,,,,,,Earl Watson,,,,missed,,3pt,20,31
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:18,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,def,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:12,OKC,shot,Kevin Durant,,,,,,,,,Jeff Green,2,,,made,,jump hook,26,12
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:12,IND,foul,,,,,,,,Jeff Green,,Roy Hibbert,,,,,,shooting,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:12,OKC,free throw,,,,,,,1,,1,Jeff Green,,,foul,made,,,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:01,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,jump,30,10
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:00,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,5:52,OKC,shot,Russell Westbrook,,,,,,,,,Nenad Krstic,2,,,made,,jump,25,10
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,5:33,IND,shot,Earl Watson,,,,,,,,,Brandon Rush,2,,,made,,jump,5,6
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,5:18,OKC,turnover,,,,,,,,,,Kevin Durant,,,lost ball,,Danny Granger,,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,5:12,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,finger roll layup,24,9
+Jeff Green,Kevin Durant,Kyle Weaver,Nenad Krstic,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:52,IND,foul,,,,,,,,Jeff Green,,Troy Murphy,,,,,,shooting,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:52,OKC,sub,,,,Nick Collison,,Nenad Krstic,,,,,,,,,,,,
+Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Russell Westbrook,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:52,OKC,free throw,,,,,,,1,,2,Jeff Green,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:52,OKC,sub,,,,Eric Maynor,,Russell Westbrook,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:52,OKC,free throw,,,,,,,2,,2,Jeff Green,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:39,IND,turnover,,,,,,,,,,Roy Hibbert,,,lost ball,,Nick Collison,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:28,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,26,19
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:27,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:20,IND,shot,,,,,,,,,,Troy Murphy,,,,missed,,3pt,2,17
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:19,OKC,rebound,,,,,,,,,,Kyle Weaver,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:15,IND,foul,,,,,,,,Kyle Weaver,,Danny Granger,,,,,,shooting,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:15,OKC,free throw,,,,,,,1,,2,Kyle Weaver,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,1,4:15,IND,sub,,,,Dahntay Jones,,Danny Granger,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,1,4:15,IND,sub,,,,Solomon Jones,,Roy Hibbert,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,1,4:15,OKC,free throw,,,,,,,2,,2,Kyle Weaver,,,foul,missed,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,1,4:14,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,1,3:53,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,layup,25,6
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,1,3:52,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,1,3:34,OKC,shot,,,,,,,,,,Eric Maynor,,,,missed,,layup,22,7
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,1,3:33,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,off,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,1,3:31,OKC,shot,,,,,,,,,,Nick Collison,2,,,made,,layup,23,7
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,1,3:13,IND,turnover,,,,,,,,,,Brandon Rush,,,bad pass,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,1,3:00,OKC,shot,Kevin Durant,,,,,,,,,Nick Collison,2,,,made,,dunk,27,8
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,1,2:52,IND,timeout,,,,,,,,,,,,,,,,regular,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,2:52,IND,sub,,,,Danny Granger,,Brandon Rush,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,2:48,IND,shot,,,Kevin Durant,,,,,,,Danny Granger,,,,missed,,3pt,15,29
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,2:47,OKC,rebound,,,,,,,,,,Kyle Weaver,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,2:42,OKC,shot,,,,,,,,,,Jeff Green,2,,,made,,layup,23,8
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,2:30,IND,shot,,,,,,,,,,Troy Murphy,,,,missed,,3pt,25,32
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,2:29,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,2:24,OKC,turnover,,,,,,,,,,Kevin Durant,,,lost ball,,Troy Murphy,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,2:10,IND,shot,Dahntay Jones,,,,,,,,,Earl Watson,3,,,made,,3pt,2,6
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,1:52,OKC,shot,,,,,,,,,,Kyle Weaver,,,,missed,,3pt,28,32
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,1:51,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,1:32,IND,shot,Danny Granger,,,,,,,,,Earl Watson,3,,,made,,3pt,17,30
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,1:14,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,8,6
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,1:13,IND,rebound,,,,,,,,,,,,,,,,,,
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Serge Ibaka,Dahntay Jones,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,1,1:13,OKC,sub,,,,Serge Ibaka,,Jeff Green,,,,,,,,,,,,
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Serge Ibaka,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,1:13,IND,sub,,,,Mike Dunleavy,,Troy Murphy,,,,,,,,,,,,
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Serge Ibaka,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:55,IND,shot,Earl Watson,,,,,,,,,Solomon Jones,2,,,made,,layup,23,7
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Serge Ibaka,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:44,OKC,shot,,,,,,,,,,Eric Maynor,,,,missed,,pullup jump,30,25
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Serge Ibaka,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:42,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,off,,
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Serge Ibaka,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:39,IND,foul,,,,,,,,Kevin Durant,,Danny Granger,,,,,,personal,,
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Serge Ibaka,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:34,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,3pt,9,26
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Serge Ibaka,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:33,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,off,,
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Serge Ibaka,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:31,OKC,shot,,,,,,,,,,Serge Ibaka,,,,missed,,jump,21,14
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Serge Ibaka,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:28,OKC,rebound,,,,,,,,,,,,,,,,,,
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Serge Ibaka,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:19,IND,foul,,,,,,,,Nick Collison,,Mike Dunleavy,,,,,,shooting,,
+Eric Maynor,Kevin Durant,Kyle Weaver,Nick Collison,Russell Westbrook,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:19,OKC,sub,,,,Russell Westbrook,,Serge Ibaka,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:19,OKC,sub,,,,Jeff Green,,Kevin Durant,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:19,OKC,free throw,,,,,,,1,,2,Nick Collison,,,foul,missed,,,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:19,OKC,rebound,,,,,,,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:19,OKC,free throw,,,,,,,2,,2,Nick Collison,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:08,OKC,foul,,,,,,,,Danny Granger,,Eric Maynor,,,,,,personal,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:05,IND,shot,Solomon Jones,,,,,,,,,Mike Dunleavy,2,,,made,,driving layup,23,6
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Solomon Jones,1,0:00,OKC,shot,,,,,,,,,,Eric Maynor,2,,,made,,running bank,24,18
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,11:48,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,jump bank,7,9
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,11:47,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,off,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,11:44,OKC,shot,,,,,,,,,,Nick Collison,,,,missed,,layup,25,6
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,11:43,IND,rebound,,,,,,,,,,Mike Dunleavy,,,,,,def,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,11:20,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,hook,15,9
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,11:19,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,off,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,11:16,OKC,foul,,,,,,,,Dahntay Jones,,Kyle Weaver,,,,,,personal,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,11:00,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,jump,45,5
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,10:59,IND,rebound,,,,,,,,,,Dahntay Jones,,,,,,off,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,10:59,OKC,foul,,,,,,,,Dahntay Jones,,Nick Collison,,,,,,personal,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,10:48,IND,shot,Dahntay Jones,,,,,,,,,Roy Hibbert,2,,,made,,dunk,23,7
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,10:30,OKC,turnover,,,,,,,,,,Eric Maynor,,,bad pass,,Danny Granger,,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,10:17,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,8,24
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,10:15,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Russell Westbrook,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,10:08,OKC,turnover,,,,,,,,,,Russell Westbrook,,,out of bounds lost ball turnover,,,,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,10:08,OKC,sub,,,,Thabo Sefolosha,,Russell Westbrook,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,9:57,OKC,foul,,,,,,,,Dahntay Jones,,Kyle Weaver,,,,,,personal,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,9:57,IND,turnover,,,,,,,,,,Mike Dunleavy,,,bad pass,,,,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,9:37,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,turnaround fade away,37,8
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,9:36,IND,rebound,,,,,,,,,,Dahntay Jones,,,,,,def,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,9:17,IND,shot,Roy Hibbert,,,,,,,,,Danny Granger,3,,,made,,3pt,27,32
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,9:05,OKC,shot,Eric Maynor,,,,,,,,,Kyle Weaver,3,,,made,,3pt,10,27
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,8:51,IND,turnover,,,,,,,,,,Roy Hibbert,,,3 second violation,,,,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,8:51,OKC,timeout,,,,,,,,,,,,,,,,official,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,8:39,OKC,shot,,,,,,,,,,Nick Collison,,,,missed,,jump,25,25
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,8:38,IND,rebound,,,,,,,,,,Danny Granger,,,,,,def,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,8:26,IND,shot,Mike Dunleavy,,,,,,,,,Roy Hibbert,2,,,made,,hook,27,6
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,8:06,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,jump bank,31,8
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,8:05,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,off,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,8:05,OKC,shot,,,,,,,,,,Nick Collison,2,,,made,,putback layup,25,8
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,7:44,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,jump,24,29
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,7:43,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,7:29,OKC,shot,,,,,,,,,,Eric Maynor,2,,,made,,driving layup,22,6
+Eric Maynor,Jeff Green,Kyle Weaver,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,7:29,IND,foul,,,,,,,,Eric Maynor,,Roy Hibbert,,,,,,shooting,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,2,7:29,OKC,sub,,,,Kevin Durant,,Kyle Weaver,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,A.J. Price,Dahntay Jones,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,7:29,IND,sub,,,,Troy Murphy,,Danny Granger,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,A.J. Price,Brandon Rush,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,7:29,IND,sub,,,,Brandon Rush,,Dahntay Jones,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,7:29,IND,sub,,,,Earl Watson,,A.J. Price,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,7:29,OKC,free throw,,,,,,,1,,1,Eric Maynor,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,7:16,IND,shot,Troy Murphy,,,,,,,,,Roy Hibbert,2,,,made,,layup,22,8
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,7:16,OKC,foul,,,,,,,,Roy Hibbert,,Nick Collison,,,,,,shooting,,
+Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,7:16,OKC,sub,,,,Serge Ibaka,,Jeff Green,,,,,,,,,,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,7:16,OKC,sub,,,,Nenad Krstic,,Nick Collison,,,,,,,,,,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,7:16,IND,free throw,,,,,,,1,,1,Roy Hibbert,,,foul,made,,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,6:58,OKC,shot,,,,,,,,,,Thabo Sefolosha,,,,missed,,jump,17,21
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,6:56,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,6:50,IND,turnover,,,,,,,,,,Brandon Rush,,,out of bounds lost ball turnover,,,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,6:35,IND,foul,,,,,,,,Kevin Durant,,Brandon Rush,,,,,,shooting,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,6:35,OKC,free throw,,,,,,,1,,2,Kevin Durant,,,foul,made,,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,6:35,OKC,free throw,,,,,,,2,,2,Kevin Durant,,,foul,made,,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,6:17,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,layup,22,8
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,6:16,OKC,rebound,,,,,,,,,,Nenad Krstic,,,,,,def,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,2,6:11,IND,foul,,,,,,,,Kevin Durant,,Roy Hibbert,,,,,,shooting,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,6:11,IND,sub,,,,Solomon Jones,,Roy Hibbert,,,,,,,,,,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,6:11,OKC,free throw,,,,,,,1,,2,Kevin Durant,,,foul,made,,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,6:11,OKC,free throw,,,,,,,2,,2,Kevin Durant,,,foul,made,,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,5:57,IND,shot,Earl Watson,,,,,,,,,Troy Murphy,3,,,made,,3pt,29,32
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,5:40,OKC,turnover,,,,,,,,,,Kevin Durant,,,lost ball,,Earl Watson,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,5:32,IND,shot,Mike Dunleavy,,,,,,,,,Brandon Rush,3,,,made,,3pt,49,7
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,5:23,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,5:14,OKC,shot,,,,,,,,,,Nenad Krstic,,,,missed,,jump,27,25
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,5:13,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,off,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,5:08,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,21,12
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,5:07,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,off,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,5:05,OKC,shot,,,,,,,,,,Serge Ibaka,,,,missed,,layup,27,7
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,5:04,IND,rebound,,,,,,,,,,Brandon Rush,,,,,,def,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,5:04,IND,jump ball,,Nenad Krstic,,,Brandon Rush,,,,,,,Solomon Jones,,,,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,4:47,IND,shot,Earl Watson,,,,,,,,,Brandon Rush,2,,,made,,pullup jump,5,5
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,4:34,OKC,shot,Eric Maynor,,,,,,,,,Serge Ibaka,2,,,made,,layup,24,9
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,4:15,OKC,foul,,,,,,,,Troy Murphy,,Serge Ibaka,,,,,,shooting,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,4:15,IND,free throw,,,,,,,1,,2,Troy Murphy,,,foul,made,,,,
+Eric Maynor,Kevin Durant,Nenad Krstic,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,4:15,IND,sub,,,,Danny Granger,,Mike Dunleavy,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,4:15,OKC,sub,,,,Jeff Green,,Nenad Krstic,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,4:15,IND,free throw,,,,,,,2,,2,Troy Murphy,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,3:59,OKC,shot,,,,,,,,,,Thabo Sefolosha,,,,missed,,jump,6,8
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,3:58,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,3:49,IND,shot,,,,,,,,,,Troy Murphy,2,,,made,,slam dunk,23,7
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,3:33,OKC,shot,Eric Maynor,,,,,,,,,Serge Ibaka,2,,,made,,alley oop layup,24,8
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,3:18,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,driving layup,23,8
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,3:04,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,28,28
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,3:03,IND,rebound,,,,,,,,,,Solomon Jones,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,2:54,IND,turnover,,,,,,,,,,Troy Murphy,,,bad pass,,Kevin Durant,,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,2:49,OKC,shot,Kevin Durant,,,,,,,,,Eric Maynor,2,,,made,,layup,29,9
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,2:32,IND,shot,,,,,,,,,,Solomon Jones,,,,missed,,jump,11,8
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,2:30,OKC,rebound,,,,,,,,,,Eric Maynor,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,2:25,OKC,shot,Eric Maynor,,,,,,,,,Thabo Sefolosha,2,,,made,,driving layup,26,7
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,2:25,IND,foul,,,,,,,,Thabo Sefolosha,,Solomon Jones,,,,,,shooting,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,2:25,IND,timeout,,,,,,,,,,,,,,,,regular,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,2:25,OKC,free throw,,,,,,,1,,1,Thabo Sefolosha,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,2:01,IND,shot,,,,,,,,,,Earl Watson,2,,,made,,jump,28,28
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,1:40,OKC,shot,,,,,,,,,,Eric Maynor,,,,missed,,jump,33,27
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,1:37,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,1:24,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,3pt,17,31
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,1:23,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,1:15,OKC,shot,,,,,,,,,,Thabo Sefolosha,,,,missed,,jump,11,21
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,1:14,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,0:59,OKC,foul,,,,,,,,Troy Murphy,,Serge Ibaka,,,,,,shooting,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,0:59,IND,free throw,,,,,,,1,,2,Troy Murphy,,,foul,missed,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,0:59,IND,rebound,,,,,,,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,0:59,IND,sub,,,,Mike Dunleavy,,Danny Granger,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,0:59,IND,free throw,,,,,,,2,,2,Troy Murphy,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,0:43,OKC,shot,,,,,,,,,,Thabo Sefolosha,,,,missed,,3pt,49,7
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,0:42,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,off,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,0:41,OKC,shot,,,,,,,,,,Serge Ibaka,2,,,made,,jump,15,10
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,0:29,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,3pt,34,29
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,0:29,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,0:10,OKC,shot,,,,,,,,,,Eric Maynor,,,,missed,,reverse layup,27,7
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,0:09,IND,rebound,,,,,,,,,,Mike Dunleavy,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,0:02,IND,shot,,,Jeff Green,,,,,,,Brandon Rush,,,,missed,,jump,26,25
+Eric Maynor,Jeff Green,Kevin Durant,Serge Ibaka,Thabo Sefolosha,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,2,0:01,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:44,OKC,shot,Jeff Green,,,,,,,,,Thabo Sefolosha,3,,,made,,3pt,2,9
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:25,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,jump hook,32,8
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:24,IND,rebound,,,,,,,,,,Danny Granger,,,,,,off,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:23,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,layup,23,8
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:06,OKC,shot,Jeff Green,,,,,,,,,Nenad Krstic,2,,,made,,jump,7,8
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:41,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,3,18
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:40,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,off,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:38,IND,shot,,,,,,,,,,Roy Hibbert,2,,,made,,layup,29,7
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:20,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,42,12
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:19,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:10,IND,shot,,,,,,,,,,Troy Murphy,2,,,made,,driving reverse layup,27,8
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:10,OKC,foul,,,,,,,,Troy Murphy,,Nenad Krstic,,,,,,shooting,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:10,IND,free throw,,,,,,,1,,1,Troy Murphy,,,foul,made,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:59,OKC,shot,,,Troy Murphy,,,,,,,Russell Westbrook,,,,missed,,jump,23,13
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:58,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,off,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:50,OKC,shot,,,Roy Hibbert,,,,,,,Russell Westbrook,,,,missed,,jump,31,11
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:49,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,def,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:43,IND,shot,Earl Watson,,,,,,,,,Troy Murphy,3,,,made,,3pt,33,31
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:42,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:19,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,pullup jump,16,24
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:18,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,def,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:57,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,jump,6,7
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:55,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,off,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:51,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,jump,17,24
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:32,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,3pt,37,29
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:31,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:22,IND,shot,Earl Watson,,,,,,,,,Troy Murphy,3,,,made,,3pt,15,29
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:59,OKC,shot,,,,,,,,,,Nenad Krstic,,,,missed,,jump,19,26
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:58,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:34,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,jump,41,13
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:34,IND,rebound,,,,,,,,,,,,,,,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:34,IND,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:25,IND,foul,,,,,,,,Russell Westbrook,,Earl Watson,,,,,,personal,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:19,OKC,shot,Russell Westbrook,,,,,,,,,Kevin Durant,2,,,made,,pullup jump,12,7
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:02,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,49,9
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:00,IND,rebound,,,,,,,,,,Brandon Rush,,,,,,off,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,6:59,IND,shot,,,,,,,,,,Brandon Rush,2,,,made,,putback layup,25,7
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,6:43,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,3pt,2,9
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,6:42,IND,rebound,,,,,,,,,,Brandon Rush,,,,,,def,,
+Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,6:19,OKC,foul,,,,,,,,Danny Granger,,Thabo Sefolosha,,,,,,shooting,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,6:19,OKC,sub,,,,Nick Collison,,Nenad Krstic,,,,,,,,,,,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,6:19,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,made,,,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,6:19,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,made,,,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,6:03,IND,foul,,,,,,,,Jeff Green,,Roy Hibbert,,,,,,shooting,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,6:03,OKC,free throw,,,,,,,1,,2,Jeff Green,,,foul,made,,,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,6:03,IND,sub,,,,Dahntay Jones,,Danny Granger,,,,,,,,,,,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,6:03,OKC,free throw,,,,,,,2,,2,Jeff Green,,,foul,made,,,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,5:44,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,jump,23,14
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,5:43,IND,rebound,,,,,,,,,,,,,,,,,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,5:24,OKC,foul,,,,,,,,Roy Hibbert,,Nick Collison,,,,,,personal,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,5:10,IND,shot,,,,,,,,,,Troy Murphy,,,,missed,,3pt,26,32
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,5:08,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,def,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,5:01,OKC,shot,,,,,,,,,,Thabo Sefolosha,,,,missed,,3pt,2,13
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,5:00,OKC,rebound,,,,,,,,,,Russell Westbrook,,,,,,off,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,4:56,OKC,shot,Russell Westbrook,,,,,,,,,Thabo Sefolosha,2,,,made,,jump bank,30,6
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,4:35,IND,shot,Roy Hibbert,,,,,,,,,Brandon Rush,2,,,made,,layup,23,7
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Roy Hibbert,Troy Murphy,3,4:35,OKC,foul,,,,,,,,Brandon Rush,,Russell Westbrook,,,,,,shooting,,
+Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,4:35,IND,sub,,,,Solomon Jones,,Roy Hibbert,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,4:35,OKC,sub,,,,Eric Maynor,,Russell Westbrook,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,4:35,IND,free throw,,,,,,,1,,1,Brandon Rush,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,4:20,OKC,shot,Eric Maynor,,,,,,,,,Jeff Green,2,,,made,,alley oop layup,24,7
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,3:56,IND,shot,Earl Watson,,,,,,,,,Brandon Rush,3,,,made,,3pt,7,25
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,3:39,OKC,shot,Eric Maynor,,,,,,,,,Kevin Durant,3,,,made,,3pt,42,26
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,3:21,IND,shot,,,,,,,,,,Solomon Jones,,,,missed,,jump,39,13
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,3:20,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,off,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,3:19,IND,shot,,,,,,,,,,Troy Murphy,,,,missed,,putback layup,24,8
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,3:17,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,3:11,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,15,8
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,3:10,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,2:57,IND,turnover,,,,,,,,,,Dahntay Jones,,,bad pass,,Kevin Durant,,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,2:49,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,3pt,15,31
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,2:47,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,off,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,2:46,OKC,shot,,,,,,,,,,Kevin Durant,2,,,made,,layup,24,7
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,2:46,IND,foul,,,,,,,,Kevin Durant,,Solomon Jones,,,,,,shooting,,
+Eric Maynor,Jeff Green,Kevin Durant,Nick Collison,Thabo Sefolosha,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,2:46,IND,timeout,,,,,,,,,,,,,,,,regular,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,2:46,OKC,sub,,,,Kyle Weaver,,Thabo Sefolosha,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,3,2:46,IND,sub,,,,A.J. Price,,Troy Murphy,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Earl Watson,Mike Dunleavy,Solomon Jones,3,2:46,IND,sub,,,,Mike Dunleavy,,Brandon Rush,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Solomon Jones,3,2:46,IND,sub,,,,Danny Granger,,Earl Watson,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Solomon Jones,3,2:46,OKC,free throw,,,,,,,1,,1,Kevin Durant,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Solomon Jones,3,2:30,IND,foul,,,,,,,,Kyle Weaver,,Dahntay Jones,,,,,,offensive,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Solomon Jones,3,2:30,IND,turnover,,,,,,,,,,Dahntay Jones,,,foul,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Solomon Jones,3,2:15,OKC,shot,,,,,,,,,,Kyle Weaver,,,,missed,,3pt,49,13
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Solomon Jones,3,2:14,OKC,rebound,,,,,,,,,,Kyle Weaver,,,,,,off,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Solomon Jones,3,2:10,OKC,shot,,,,,,,,,,Eric Maynor,2,,,made,,driving layup,23,6
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Solomon Jones,3,1:46,OKC,foul,,,,,,,,Danny Granger,,Kevin Durant,,,,,,personal,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Solomon Jones,3,1:46,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,1:46,IND,sub,,,,Roy Hibbert,,Solomon Jones,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,1:46,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,1:36,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,3pt,16,30
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,1:35,IND,rebound,,,,,,,,,,Danny Granger,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,1:28,IND,shot,A.J. Price,,,,,,,,,Mike Dunleavy,2,,,made,,pullup jump,36,24
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,1:27,OKC,foul,,,,,,,,,,Russell Westbrook,,,,,,technical,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,1:27,IND,free throw,,,,,,,1,,1,Danny Granger,,,technical,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,1:14,OKC,shot,Eric Maynor,,,,,,,,,Jeff Green,3,,,made,,3pt,25,32
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:59,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,3pt,46,21
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:57,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,off,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:53,IND,shot,Dahntay Jones,,,,,,,,,Danny Granger,2,,,made,,jump,10,18
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:40,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,3pt,22,31
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:40,IND,rebound,,,,,,,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:40,OKC,foul,,,,,,,,Roy Hibbert,,Nick Collison,,,,,,loose ball,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:40,OKC,violation,,,,,,,,,,,,,,,,delay of game,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:40,IND,free throw,,,,,,,1,,2,Roy Hibbert,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:40,IND,free throw,,,,,,,2,,2,Roy Hibbert,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:29,OKC,shot,,,,,,,,,,Nick Collison,,,,missed,,jump,27,12
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:28,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,off,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:28,OKC,shot,,,,,,,,,,Nick Collison,,,,missed,,tip,24,8
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:27,IND,rebound,,,,,,,,,,Dahntay Jones,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:05,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,3pt,18,31
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:04,OKC,rebound,,,,,,,,,,Eric Maynor,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,3,0:00,OKC,shot,Eric Maynor,,,,,,,,,Jeff Green,2,,,made,,finger roll layup,27,9
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,11:45,IND,shot,Mike Dunleavy,,,,,,,,,Dahntay Jones,2,,,made,,slam dunk,25,9
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,11:31,IND,foul,,,,,,,,Jeff Green,,Danny Granger,,,,,,shooting,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Nick Collison,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,11:31,OKC,free throw,,,,,,,1,,2,Jeff Green,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,11:31,OKC,sub,,,,Serge Ibaka,,Nick Collison,,,,,,,,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,11:31,OKC,free throw,,,,,,,2,,2,Jeff Green,,,foul,made,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,11:16,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,driving layup,27,7
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,11:15,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,11:06,OKC,shot,,,,,,,,,,Eric Maynor,2,,,made,,driving finger roll layup,24,10
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:58,IND,shot,Dahntay Jones,,,,,,,,,Mike Dunleavy,2,,,made,,reverse layup,28,7
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:48,OKC,shot,,,,,,,,,,Kyle Weaver,,,,missed,,jump,35,9
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:47,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,off,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:47,OKC,turnover,,,,,,,,,,Serge Ibaka,,,traveling,,,,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:37,IND,shot,Troy Murphy,,,,,,,,,Danny Granger,2,,,made,,dunk,25,7
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:17,IND,foul,,,,,,,,Kevin Durant,,Dahntay Jones,,,,,,shooting,,
+Eric Maynor,Jeff Green,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:17,OKC,free throw,,,,,,,1,,2,Kevin Durant,,,foul,made,,,,
+D.J. White,Eric Maynor,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:17,OKC,sub,,,,D.J. White,,Jeff Green,,,,,,,,,,,,
+D.J. White,Eric Maynor,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:17,OKC,free throw,,,,,,,2,,2,Kevin Durant,,,foul,made,,,,
+D.J. White,Eric Maynor,Kevin Durant,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:00,OKC,foul,,,,,,,,Danny Granger,,Kevin Durant,,,,,,shooting,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:00,OKC,sub,,,,Kevin Ollie,,Kevin Durant,,,,,,,,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:00,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,made,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,10:00,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,made,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:45,OKC,shot,,,,,,,,,,Eric Maynor,,,,missed,,layup,23,7
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:44,OKC,rebound,,,,,,,,,,Eric Maynor,,,,,,off,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:44,OKC,shot,,,,,,,,,,Eric Maynor,2,,,made,,putback layup,24,7
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:23,OKC,foul,,,,,,,,Danny Granger,,Kyle Weaver,,,,,,shooting,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:23,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,made,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:23,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,missed,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:23,OKC,rebound,,,,,,,,,,D.J. White,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:11,OKC,shot,,,,,,,,,,D.J. White,,,,missed,,layup,27,7
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:10,IND,rebound,,,,,,,,,,,,,,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:03,IND,shot,,,,,,,,,,A.J. Price,,,,missed,,driving layup,26,7
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:02,IND,rebound,,,,,,,,,,Dahntay Jones,,,,,,off,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,9:02,IND,shot,,,,,,,,,,Dahntay Jones,2,,,made,,putback dunk,27,6
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,8:57,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,8:50,OKC,turnover,,,,,,,,,,Eric Maynor,,,lost ball,,A.J. Price,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,8:41,IND,shot,Troy Murphy,,,,,,,,,Danny Granger,3,,,made,,3pt,46,20
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,8:32,IND,foul,,,,,,,,Serge Ibaka,,Danny Granger,,,,,,personal,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,8:24,OKC,shot,Kyle Weaver,,,,,,,,,Serge Ibaka,2,,,made,,jump,28,8
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,8:15,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,3pt,40,26
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,8:14,OKC,rebound,,,,,,,,,,Eric Maynor,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,8:07,OKC,foul,,,,,,,,A.J. Price,,Eric Maynor,,,,,,offensive,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,8:07,OKC,turnover,,,,,,,,,,Eric Maynor,,,foul,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,8:01,IND,shot,Dahntay Jones,,,,,,,,,Troy Murphy,3,,,made,,3pt,13,28
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,7:42,OKC,shot,,,,,,,,,,D.J. White,,,,missed,,jump,7,10
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,7:41,IND,rebound,,,,,,,,,,Danny Granger,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,7:35,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,24,32
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,7:34,OKC,rebound,,,,,,,,,,Kevin Ollie,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,7:21,OKC,shot,,,,,,,,,,Kyle Weaver,,,,missed,,3pt,44,22
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,7:20,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,7:13,IND,jump ball,,Kyle Weaver,,,Danny Granger,,,,,,,Dahntay Jones,,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,6:59,IND,shot,,,,,,,,,,A.J. Price,,,,missed,,jump,5,6
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,6:57,OKC,rebound,,,,,,,,,,Kevin Ollie,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,6:47,OKC,shot,,,,,,,,,,Serge Ibaka,,,,missed,,turnaround fade away,39,6
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,6:45,IND,rebound,,,,,,,,,,Danny Granger,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Danny Granger,Mike Dunleavy,Troy Murphy,4,6:40,IND,timeout,,,,,,,,,,,,,,,,regular,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Luther Head,Mike Dunleavy,Troy Murphy,4,6:40,IND,sub,,,,Luther Head,,Danny Granger,,,,,,,,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Mike Dunleavy,4,6:40,IND,sub,,,,Josh McRoberts,,Troy Murphy,,,,,,,,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,6:40,IND,sub,,,,Roy Hibbert,,Mike Dunleavy,,,,,,,,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,6:26,IND,shot,A.J. Price,,,,,,,,,Roy Hibbert,2,,,made,,finger roll layup,27,8
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,6:00,OKC,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,5:44,IND,shot,,,,,,,,,,A.J. Price,,,,missed,,3pt,8,26
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,5:43,OKC,rebound,,,,,,,,,,Kyle Weaver,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,5:34,OKC,shot,Kyle Weaver,,,,,,,,,D.J. White,2,,,made,,jump,12,11
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,5:22,IND,shot,,,,,,,,,,Luther Head,,,,missed,,3pt,24,33
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,5:21,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,5:16,OKC,turnover,,,,,,,,,,Kevin Ollie,,,lost ball,,A.J. Price,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,5:08,OKC,foul,,,,,,,,Dahntay Jones,,D.J. White,,,,,,shooting,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,5:08,IND,free throw,,,,,,,1,,2,Dahntay Jones,,,foul,made,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,5:08,IND,free throw,,,,,,,2,,2,Dahntay Jones,,,foul,missed,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,5:08,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,4:52,OKC,shot,,,,,,,,,,Eric Maynor,,,,missed,,jump,42,17
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,4:51,IND,rebound,,,,,,,,,,A.J. Price,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,4:35,IND,shot,,,,,,,,,,Dahntay Jones,2,,,made,,layup,23,6
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,4:21,OKC,turnover,,,,,,,,,,Kevin Ollie,,,bad pass,,Dahntay Jones,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Roy Hibbert,4,4:20,OKC,foul,,,,,,,,Dahntay Jones,,Eric Maynor,,,,,,personal,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,4:20,IND,sub,,,,Solomon Jones,,Roy Hibbert,,,,,,,,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,3:56,IND,shot,,,Serge Ibaka,,,,,,,Solomon Jones,,,,missed,,jump,23,8
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,3:56,IND,rebound,,,,,,,,,,,,,,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,3:56,IND,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,3:47,OKC,shot,,,,,,,,,,Kevin Ollie,,,,missed,,running jump,30,17
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,3:46,IND,rebound,,,,,,,,,,Luther Head,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,3:41,IND,shot,Luther Head,,,,,,,,,Josh McRoberts,2,,,made,,slam dunk,24,9
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,3:14,OKC,shot,,,,,,,,,,Kevin Ollie,2,,,made,,layup,25,7
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,3:00,IND,shot,,,,,,,,,,Luther Head,,,,missed,,3pt,2,9
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:58,IND,rebound,,,,,,,,,,Dahntay Jones,,,,,,off,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:58,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,putback dunk,26,8
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:57,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:49,IND,foul,,,,,,,,D.J. White,,Josh McRoberts,,,,,,shooting,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:49,OKC,timeout,,,,,,,,,,,,,,,,official,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:49,OKC,free throw,,,,,,,1,,2,D.J. White,,,foul,made,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:49,OKC,free throw,,,,,,,2,,2,D.J. White,,,foul,made,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:31,IND,shot,,,D.J. White,,,,,,,Solomon Jones,,,,missed,,jump,22,9
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:29,OKC,rebound,,,,,,,,,,Kevin Ollie,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:16,OKC,shot,Eric Maynor,,,,,,,,,Serge Ibaka,2,,,made,,alley oop layup,26,7
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:11,IND,turnover,,,,,,,,,,Solomon Jones,,,bad pass,,Serge Ibaka,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:08,OKC,shot,,,,,,,,,,Kyle Weaver,,,,missed,,3pt,50,8
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:07,OKC,rebound,,,,,,,,,,D.J. White,,,,,,off,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:06,OKC,shot,,,Solomon Jones,,,,,,,D.J. White,,,,missed,,dunk,25,7
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,2:06,IND,rebound,,,,,,,,,,,,,,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,1:49,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,jump,20,26
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,1:48,OKC,rebound,,,,,,,,,,Kevin Ollie,,,,,,def,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,1:39,OKC,shot,Eric Maynor,,,,,,,,,Kevin Ollie,2,,,made,,layup,27,8
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,1:39,IND,foul,,,,,,,,Kevin Ollie,,Dahntay Jones,,,,,,shooting,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,1:39,OKC,free throw,,,,,,,1,,1,Kevin Ollie,,,foul,made,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,1:28,IND,turnover,,,,,,,,,,A.J. Price,,,lost ball,,Eric Maynor,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,1:24,OKC,turnover,,,,,,,,,,Eric Maynor,,,bad pass,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,1:11,IND,shot,,,,,,,,,,A.J. Price,2,,,made,,driving layup,24,8
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,1:03,OKC,shot,,,,,,,,,,Eric Maynor,2,,,made,,floating jump,29,19
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,0:54,IND,foul,,,,,,,,Eric Maynor,,Solomon Jones,,,,,,offensive,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,0:54,IND,turnover,,,,,,,,,,Solomon Jones,,,foul,,,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,0:43,OKC,turnover,,,,,,,,,,Eric Maynor,,,bad pass,,A.J. Price,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,0:34,IND,turnover,,,,,,,,,,Luther Head,,,bad pass,,Eric Maynor,,,
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,0:29,OKC,shot,Eric Maynor,,,,,,,,,Kevin Ollie,2,,,made,,driving layup,24,8
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,0:26,IND,shot,Luther Head,,,,,,,,,Dahntay Jones,2,,,made,,slam dunk,25,10
+D.J. White,Eric Maynor,Kevin Ollie,Kyle Weaver,Serge Ibaka,A.J. Price,Dahntay Jones,Josh McRoberts,Luther Head,Solomon Jones,4,0:15,OKC,shot,Kevin Ollie,,,,,,,,,D.J. White,2,,,made,,slam dunk,30,6

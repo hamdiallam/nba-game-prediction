@@ -1,0 +1,425 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,12:00,OFF,jump ball,,Josh Smith,,,DeAndre Jordan,,,,,,,Steve Blake,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,11:44,LAC,shot,,,,,,,,,,Chris Kaman,2,,,made,,jump,11,19
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,11:23,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,running jump,30,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,10:58,LAC,shot,Steve Blake,,,,,,,,,Chris Kaman,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,10:40,ATL,shot,Josh Smith,,,,,,,,,Mike Bibby,2,,,made,,step back jump,34,20
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,10:24,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,jump,37,23
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,10:22,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,10:12,ATL,shot,Josh Smith,,,,,,,,,Al Horford,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,9:49,LAC,shot,,,,,,,,,,Steve Blake,,,,missed,,fade away jumper,39,10
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,9:47,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,9:44,LAC,foul,,,,,,,,Josh Smith,,DeAndre Jordan,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,9:44,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,9:44,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,9:34,LAC,turnover,,,,,,,,,,Eric Gordon,,,bad pass,,Marvin Williams,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,9:30,ATL,shot,,,,,,,,,,Marvin Williams,2,,,made,,driving dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,9:07,LAC,shot,,,,,,,,,,Rasual Butler,,,,missed,,3pt,50,9
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,9:06,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,8:57,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,Rasual Butler,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,8:51,ATL,foul,,,,,,,,Chris Kaman,,Joe Johnson,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,8:51,LAC,free throw,,,,,,,1,,2,Chris Kaman,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,8:51,LAC,free throw,,,,,,,2,,2,Chris Kaman,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,8:51,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,8:33,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,43,7
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,8:32,LAC,rebound,,,,,,,,,,DeAndre Jordan,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,8:19,LAC,shot,,,,,,,,,,Rasual Butler,,,,missed,,3pt,48,7
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,8:17,LAC,rebound,,,,,,,,,,DeAndre Jordan,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,8:14,LAC,shot,DeAndre Jordan,,,,,,,,,Eric Gordon,3,,,made,,3pt,13,30
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,7:52,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,7:50,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,7:42,LAC,shot,Eric Gordon,,,,,,,,,Rasual Butler,2,,,made,,jump,7,7
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,7:28,ATL,shot,Mike Bibby,,,,,,,,,Al Horford,2,,,made,,fade away jumper,25,15
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,7:09,LAC,shot,Steve Blake,,,,,,,,,Chris Kaman,2,,,made,,jump,29,24
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,6:49,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,11,15
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,6:48,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,6:38,LAC,shot,Steve Blake,,,,,,,,,Eric Gordon,2,,,made,,floating jump,30,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,6:24,ATL,shot,Joe Johnson,,,,,,,,,Marvin Williams,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,6:07,LAC,shot,Chris Kaman,,,,,,,,,Rasual Butler,2,,,made,,jump,45,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,5:50,ATL,shot,Josh Smith,,,,,,,,,Al Horford,2,,,made,,slam dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,5:35,LAC,shot,Steve Blake,,,,,,,,,Rasual Butler,3,,,made,,3pt,10,26
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,5:13,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,25,18
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,5:12,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,5:09,ATL,shot,,,,,,,,,,Al Horford,2,,,made,,slam dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,5:00,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,4:52,LAC,shot,,,,,,,,,,Steve Blake,,,,missed,,3pt,31,31
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,4:51,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,4:32,ATL,shot,Mike Bibby,,,,,,,,,Joe Johnson,2,,,made,,driving finger roll layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,4:19,ATL,foul,,,,,,,,Chris Kaman,,Josh Smith,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,4:09,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,4:08,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,4:05,LAC,foul,,,,,,,,Marvin Williams,,Rasual Butler,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,1,4:05,ATL,sub,,,,Jamal Crawford,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,1,4:05,LAC,sub,,,,Bobby Brown,,Steve Blake,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,4:05,LAC,sub,,,,Craig Smith,,DeAndre Jordan,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,4:05,ATL,free throw,,,,,,,1,,2,Marvin Williams,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,4:05,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,4:05,ATL,free throw,,,,,,,2,,2,Marvin Williams,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,3:48,LAC,turnover,,,,,,,,,,Eric Gordon,,,lost ball,,Al Horford,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,3:44,ATL,shot,Al Horford,,,,,,,,,Josh Smith,2,,,made,,driving dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,3:21,LAC,turnover,,,,,,,,,,Craig Smith,,,poss lost ball turnover,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,3:11,ATL,turnover,,,,,,,,,,Joe Johnson,,,bad pass,,Bobby Brown,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,3:02,LAC,turnover,,,,,,,,,,Chris Kaman,,,bad pass,,Josh Smith,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,2:56,LAC,foul,,,,,,,,Josh Smith,,Craig Smith,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,2:56,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,2:56,ATL,sub,,,,Zaza Pachulia,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,2:56,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,2:56,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,2:44,LAC,shot,,,,,,,,,,Craig Smith,2,,,made,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,2:28,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,17,5
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,2:27,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,2:15,LAC,shot,Bobby Brown,,,,,,,,,Chris Kaman,2,,,made,,jump,9,7
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:59,LAC,foul,,,,,,,,Zaza Pachulia,,Craig Smith,,,,,,shooting,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:59,ATL,sub,,,,Maurice Evans,,Marvin Williams,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:59,ATL,free throw,,,,,,,1,,2,Zaza Pachulia,,,foul,missed,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:59,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:59,ATL,sub,,,,Al Horford,,Josh Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:59,ATL,free throw,,,,,,,2,,2,Zaza Pachulia,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:58,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:47,LAC,turnover,,,,,,,,,,Bobby Brown,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:35,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:32,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:32,ATL,shot,,,,,,,,,,Al Horford,2,,,made,,tip,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:18,ATL,foul,,,,,,,,Craig Smith,,Al Horford,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:18,LAC,free throw,,,,,,,1,,2,Craig Smith,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,1,1:18,LAC,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,1:18,LAC,sub,,,,Brian Skinner,,Chris Kaman,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,1:18,ATL,sub,,,,Jeff Teague,,Joe Johnson,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,1:18,ATL,sub,,,,Joe Smith,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,1:18,LAC,free throw,,,,,,,2,,2,Craig Smith,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,1:00,ATL,shot,Jamal Crawford,,,,,,,,,Zaza Pachulia,2,,,made,,turnaround jump,23,12
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,0:44,LAC,shot,Eric Gordon,,,,,,,,,Craig Smith,2,,,made,,layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,0:38,ATL,foul,,,,,,,,Bobby Brown,,Zaza Pachulia,,,,,,offensive,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,0:38,ATL,turnover,,,,,,,,,,Zaza Pachulia,,,foul,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,0:28,LAC,shot,,,,,,,,,,Brian Skinner,,,,missed,,jump,26,23
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,0:26,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,0:03,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,33,24
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,0:03,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,0:03,ATL,timeout,,,,,,,,,,,,,,,,short,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,0:02,ATL,shot,,,Brian Skinner,,,,,,,Jamal Crawford,,,,missed,,3pt,2,7
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Eric Gordon,Rasual Butler,1,0:01,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Mardy Collins,Steve Blake,2,11:41,ATL,shot,Zaza Pachulia,,,,,,,,,Maurice Evans,2,,,made,,dunk,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Mardy Collins,Steve Blake,2,11:25,LAC,shot,,,Maurice Evans,,,,,,,Craig Smith,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Mardy Collins,Steve Blake,2,11:23,LAC,rebound,,,,,,,,,,Bobby Brown,,,,,,off,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Mardy Collins,Steve Blake,2,11:18,LAC,shot,,,Joe Smith,,,,,,,Brian Skinner,,,,missed,,jump,19,9
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Mardy Collins,Steve Blake,2,11:16,LAC,rebound,,,,,,,,,,Brian Skinner,,,,,,off,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Mardy Collins,Steve Blake,2,11:15,LAC,shot,,,,,,,,,,Brian Skinner,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Mardy Collins,Steve Blake,2,11:14,LAC,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Brian Skinner,Craig Smith,Mardy Collins,Steve Blake,2,11:13,LAC,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,DeAndre Jordan,Mardy Collins,Steve Blake,2,11:13,LAC,sub,,,,DeAndre Jordan,,Brian Skinner,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,DeAndre Jordan,Mardy Collins,Steve Blake,2,11:01,ATL,shot,Jeff Teague,,,,,,,,,Joe Smith,2,,,made,,jump,42,9
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,DeAndre Jordan,Mardy Collins,Steve Blake,2,10:36,LAC,shot,,,,,,,,,,Bobby Brown,2,,,made,,floating jump,28,9
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,DeAndre Jordan,Mardy Collins,Steve Blake,2,10:23,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,jump,17,21
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,DeAndre Jordan,Mardy Collins,Steve Blake,2,10:11,LAC,turnover,,,,,,,,,,Bobby Brown,,,lost ball,,Jeff Teague,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,DeAndre Jordan,Mardy Collins,Steve Blake,2,10:07,ATL,shot,Jamal Crawford,,,,,,,,,Jeff Teague,2,,,made,,driving dunk,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,DeAndre Jordan,Mardy Collins,Steve Blake,2,9:41,LAC,shot,,,Jeff Teague,,,,,,,Bobby Brown,,,,missed,,jump,22,13
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,DeAndre Jordan,Mardy Collins,Steve Blake,2,9:41,LAC,rebound,,,,,,,,,,Bobby Brown,,,,,,off,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,DeAndre Jordan,Mardy Collins,Steve Blake,2,9:40,ATL,foul,,,,,,,,DeAndre Jordan,,Joe Smith,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,9:40,LAC,sub,,,,Steve Novak,,Craig Smith,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,9:40,LAC,sub,,,,Chris Kaman,,Bobby Brown,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,9:40,LAC,free throw,,,,,,,1,,2,DeAndre Jordan,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,9:40,LAC,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,9:40,LAC,free throw,,,,,,,2,,2,DeAndre Jordan,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,9:40,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,9:28,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,3pt,49,7
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,9:27,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,9:13,LAC,shot,,,,,,,,,,Steve Blake,,,,missed,,jump,45,8
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,9:12,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,8:57,ATL,turnover,,,,,,,,,,Jamal Crawford,,,traveling,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,8:57,LAC,timeout,,,,,,,,,,,,,,,,official,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,8:38,LAC,shot,,,,,,,,,,Chris Kaman,2,,,made,,jump,15,9
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,8:20,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,jump,40,19
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,8:19,LAC,rebound,,,,,,,,,,Steve Blake,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,8:01,ATL,sub,,,,Josh Smith,,Joe Smith,,,,,,,,,,,,
+Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,8:01,ATL,sub,,,,Mike Bibby,,Jeff Teague,,,,,,,,,,,,
+Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:54,LAC,shot,,,Maurice Evans,,,,,,,Mardy Collins,,,,missed,,jump,25,22
+Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:54,LAC,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:54,LAC,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:42,ATL,shot,,,DeAndre Jordan,,,,,,,Zaza Pachulia,,,,missed,,layup,25,6
+Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:40,LAC,rebound,,,,,,,,,,Steve Blake,,,,,,def,,
+Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:37,LAC,shot,Steve Blake,,,,,,,,,DeAndre Jordan,2,,,made,,alley oop dunk,25,6
+Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:37,ATL,foul,,,,,,,,DeAndre Jordan,,Zaza Pachulia,,,,,,shooting,,
+Al Horford,Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:37,ATL,sub,,,,Al Horford,,Zaza Pachulia,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:37,LAC,free throw,,,,,,,1,,1,DeAndre Jordan,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:37,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:19,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,hook,26,13
+Al Horford,Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:06,LAC,turnover,,,,,,,,,,Steve Blake,,,bad pass,,Josh Smith,,,
+Al Horford,Jamal Crawford,Josh Smith,Maurice Evans,Mike Bibby,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:03,ATL,turnover,,,,,,,,,,Al Horford,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,7:03,ATL,sub,,,,Marvin Williams,,Maurice Evans,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,6:54,ATL,foul,,,,,,,,,,Al Horford,,,,,,defense 3 second,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Mardy Collins,Steve Blake,Steve Novak,2,6:54,LAC,free throw,,,,,,,1,,1,Steve Novak,,,technical,made,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Steve Blake,Steve Novak,2,6:54,LAC,sub,,,,Eric Gordon,,Mardy Collins,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Steve Blake,Steve Novak,2,6:40,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,32,10
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Steve Blake,Steve Novak,2,6:38,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Steve Blake,Steve Novak,2,6:30,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Steve Blake,Steve Novak,2,6:07,ATL,foul,,,,,,,,Steve Blake,,Mike Bibby,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Steve Blake,Steve Novak,2,6:07,ATL,sub,,,,Joe Johnson,,Jamal Crawford,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Steve Blake,Steve Novak,2,5:53,LAC,shot,,,,,,,,,,Steve Blake,,,,missed,,3pt,6,24
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Steve Blake,Steve Novak,2,5:52,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Steve Blake,Steve Novak,2,5:48,ATL,shot,Josh Smith,,,,,,,,,Al Horford,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Steve Blake,Steve Novak,2,5:41,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Steve Blake,Steve Novak,2,5:41,LAC,sub,,,,Craig Smith,,Chris Kaman,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,5:41,LAC,sub,,,,Rasual Butler,,Steve Novak,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,5:25,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,jump,9,17
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,5:24,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,5:11,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,26,23
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,5:10,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,4:54,LAC,turnover,,,,,,,,,,Craig Smith,,,lost ball,,Josh Smith,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,4:49,ATL,shot,Josh Smith,,,,,,,,,Al Horford,2,,,made,,slam dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,4:32,ATL,foul,,,,,,,,Rasual Butler,,Marvin Williams,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,4:23,LAC,shot,,,,,,,,,,Eric Gordon,2,,,made,,driving dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,4:05,ATL,shot,Mike Bibby,,,,,,,,,Al Horford,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,4:05,LAC,foul,,,,,,,,Al Horford,,DeAndre Jordan,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,4:05,ATL,free throw,,,,,,,1,,1,Al Horford,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,3:57,LAC,turnover,,,,,,,,,,Steve Blake,,,bad pass,,Al Horford,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,3:50,ATL,shot,Mike Bibby,,,,,,,,,Joe Johnson,2,,,made,,jump,36,21
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,3:34,LAC,shot,,,,,,,,,,Rasual Butler,,,,missed,,3pt,1,7
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,3:32,LAC,rebound,,,,,,,,,,DeAndre Jordan,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,3:28,LAC,shot,DeAndre Jordan,,,,,,,,,Eric Gordon,3,,,made,,3pt,32,32
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Craig Smith,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,2,3:10,LAC,foul,,,,,,,,Joe Johnson,,Steve Blake,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,3:10,LAC,sub,,,,Chris Kaman,,DeAndre Jordan,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,3:06,ATL,shot,Josh Smith,,,,,,,,,Joe Johnson,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,2:49,LAC,turnover,,,,,,,,,,Steve Blake,,,bad pass,,Josh Smith,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,2:48,ATL,shot,Al Horford,,,,,,,,,Josh Smith,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,2:32,ATL,foul,,,,,,,,Craig Smith,,Al Horford,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,2:32,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,2:32,LAC,free throw,,,,,,,1,,2,Craig Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,2:32,LAC,free throw,,,,,,,2,,2,Craig Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,2:13,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,39,24
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,2:12,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,2:01,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,3pt,20,32
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,2:00,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,1:49,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,27,14
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,1:48,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,1:38,LAC,shot,,,,,,,,,,Craig Smith,2,,,made,,jump,36,14
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,1:18,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,35,18
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,1:17,LAC,rebound,,,,,,,,,,Eric Gordon,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,2,1:13,LAC,timeout,,,,,,,,,,,,,,,,short,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,2,1:13,LAC,sub,,,,Bobby Brown,,Steve Blake,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,2,1:13,LAC,sub,,,,DeAndre Jordan,,Craig Smith,,,,,,,,,,,,
+Jason Collins,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,2,1:13,ATL,sub,,,,Jason Collins,,Al Horford,,,,,,,,,,,,
+Jason Collins,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,2,1:02,LAC,turnover,,,,,,,,,,DeAndre Jordan,,,offensive goaltending,,,,,
+Jason Collins,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,2,0:42,ATL,shot,,,Chris Kaman,,,,,,,Joe Johnson,,,,missed,,layup,25,6
+Jason Collins,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,2,0:40,LAC,rebound,,,,,,,,,,Eric Gordon,,,,,,def,,
+Jason Collins,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,2,0:37,LAC,shot,Eric Gordon,,,,,,,,,Bobby Brown,2,,,made,,running jump,10,16
+Jason Collins,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,2,0:20,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Jason Collins,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,2,0:02,LAC,turnover,,,,,,,,,,Bobby Brown,,,bad pass,,Jason Collins,,,
+Jason Collins,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,2,0:00,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,3pt,37,32
+Jason Collins,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,2,0:00,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,11:45,ATL,shot,Mike Bibby,,,,,,,,,Joe Johnson,2,,,made,,jump,38,14
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,11:21,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,26,15
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,11:20,LAC,rebound,,,,,,,,,,DeAndre Jordan,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,11:19,LAC,shot,,,,,,,,,,DeAndre Jordan,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,11:19,ATL,foul,,,,,,,,DeAndre Jordan,,Josh Smith,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,11:19,LAC,free throw,,,,,,,1,,1,DeAndre Jordan,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,11:08,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,21,25
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,11:06,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,11:02,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,19,33
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,11:01,LAC,rebound,,,,,,,,,,Rasual Butler,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,10:50,LAC,turnover,,,,,,,,,,Chris Kaman,,,traveling,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,10:40,LAC,foul,,,,,,,,Al Horford,,Chris Kaman,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,10:40,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,10:40,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,10:40,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,10:31,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,32,20
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,10:30,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,10:14,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,27,27
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,10:12,LAC,rebound,,,,,,,,,,Rasual Butler,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,9:55,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,3pt,16,31
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,9:54,LAC,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,9:45,LAC,shot,Rasual Butler,,,,,,,,,Chris Kaman,2,,,made,,turnaround jump,36,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,9:22,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,9:02,LAC,shot,Chris Kaman,,,,,,,,,Rasual Butler,3,,,made,,3pt,19,32
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,8:35,LAC,foul,,,,,,,,Al Horford,,DeAndre Jordan,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,8:35,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,8:35,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,8:21,LAC,shot,,,,,,,,,,Rasual Butler,,,,missed,,3pt,48,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,8:19,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,8:16,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,7:54,LAC,shot,Eric Gordon,,,,,,,,,Steve Blake,3,,,made,,3pt,41,27
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,7:35,LAC,foul,,,,,,,,Joe Johnson,,Eric Gordon,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,7:35,ATL,sub,,,,Jamal Crawford,,Marvin Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,3,7:35,ATL,free throw,,,,,,,1,,2,Joe Johnson,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,7:35,LAC,sub,,,,Craig Smith,,DeAndre Jordan,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,7:35,ATL,free throw,,,,,,,2,,2,Joe Johnson,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,7:17,LAC,shot,,,,,,,,,,Craig Smith,,,,missed,,reverse layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,7:15,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,6:58,ATL,shot,Al Horford,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,6:43,LAC,shot,Steve Blake,,,,,,,,,Eric Gordon,2,,,made,,driving dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,6:27,LAC,foul,,,,,,,,Al Horford,,Craig Smith,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,6:27,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,6:27,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,6:16,LAC,turnover,,,,,,,,,,Eric Gordon,,,traveling,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,5:57,ATL,shot,Jamal Crawford,,,,,,,,,Al Horford,2,,,made,,fade away jumper,19,15
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,5:36,LAC,shot,,,,,,,,,,Craig Smith,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,5:17,ATL,shot,,,Craig Smith,,,,,,,Jamal Crawford,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,5:16,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,5:13,LAC,shot,Craig Smith,,,,,,,,,Rasual Butler,2,,,made,,driving dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,3,5:12,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,5:12,LAC,sub,,,,Mardy Collins,,Rasual Butler,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:55,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,49,7
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:53,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:45,ATL,turnover,,,,,,,,,,Josh Smith,,,3 second violation,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:27,ATL,foul,,,,,,,,Craig Smith,,Josh Smith,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:27,LAC,free throw,,,,,,,1,,2,Craig Smith,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:27,ATL,sub,,,,Zaza Pachulia,,Josh Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:27,LAC,free throw,,,,,,,2,,2,Craig Smith,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:14,LAC,foul,,,,,,,,Joe Johnson,,Mardy Collins,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:14,ATL,free throw,,,,,,,1,,2,Joe Johnson,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:14,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:14,ATL,sub,,,,Marvin Williams,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:14,ATL,free throw,,,,,,,2,,2,Joe Johnson,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:11,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,4:01,LAC,shot,Steve Blake,,,,,,,,,Chris Kaman,2,,,made,,driving dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,3:39,ATL,shot,Al Horford,,,,,,,,,Zaza Pachulia,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,3:16,LAC,shot,,,,,,,,,,Craig Smith,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,Steve Blake,3,3:15,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Mardy Collins,3,3:09,LAC,sub,,,,Bobby Brown,,Steve Blake,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Mardy Collins,3,3:09,LAC,sub,,,,DeAndre Jordan,,Craig Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,3,3:09,LAC,sub,,,,Rasual Butler,,Mardy Collins,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,3,2:53,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,fade away jumper,17,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,3,2:36,LAC,shot,Bobby Brown,,,,,,,,,Chris Kaman,2,,,made,,jump,20,18
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,3,2:21,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,18,16
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,3,2:19,LAC,rebound,,,,,,,,,,Bobby Brown,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,3,2:12,LAC,shot,,,Zaza Pachulia,,,,,,,Chris Kaman,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,3,2:10,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,3,2:03,ATL,shot,Joe Johnson,,,,,,,,,Al Horford,2,,,made,,hook,18,10
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,3,2:03,LAC,foul,,,,,,,,Al Horford,,DeAndre Jordan,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,3,2:03,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,3,2:03,LAC,sub,,,,Craig Smith,,DeAndre Jordan,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,2:03,LAC,sub,,,,Steve Novak,,Chris Kaman,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,2:03,ATL,sub,,,,Maurice Evans,,Joe Johnson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,2:03,ATL,free throw,,,,,,,1,,1,Al Horford,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,2:01,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,1:50,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,reverse layup,25,6
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,1:49,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,1:42,ATL,shot,Jamal Crawford,,,,,,,,,Marvin Williams,2,,,made,,turnaround hook,27,12
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,1:22,LAC,shot,Eric Gordon,,,,,,,,,Craig Smith,2,,,made,,dunk,25,6
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,1:02,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,36,11
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,1:02,LAC,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,1:02,ATL,foul,,,,,,,,Steve Novak,,Zaza Pachulia,,,,,,loose ball,,
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,0:48,LAC,turnover,,,,,,,,,,Craig Smith,,,lost ball,,Zaza Pachulia,,,
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,0:40,ATL,shot,,,,,,,,,,Zaza Pachulia,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,0:40,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,off,,
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,0:40,ATL,shot,,,,,,,,,,Zaza Pachulia,2,,,made,,tip,25,6
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,0:32,LAC,shot,Bobby Brown,,,,,,,,,Rasual Butler,3,,,made,,3pt,8,28
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,0:10,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,jump,11,9
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,0:08,LAC,rebound,,,,,,,,,,Steve Novak,,,,,,def,,
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,0:03,LAC,shot,Bobby Brown,,,,,,,,,Rasual Butler,3,,,made,,3pt,2,7
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,0:00,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,17,61
+Al Horford,Jamal Crawford,Marvin Williams,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,3,0:00,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Bobby Brown,Craig Smith,DeAndre Jordan,Rasual Butler,Steve Novak,4,11:40,LAC,shot,,,,,,,,,,Bobby Brown,,,,missed,,jump,20,27
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Bobby Brown,Craig Smith,DeAndre Jordan,Rasual Butler,Steve Novak,4,11:39,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Bobby Brown,Craig Smith,DeAndre Jordan,Rasual Butler,Steve Novak,4,11:19,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,hook,23,13
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Bobby Brown,Craig Smith,DeAndre Jordan,Rasual Butler,Steve Novak,4,10:57,LAC,shot,,,,,,,,,,Rasual Butler,,,,missed,,3pt,41,25
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Bobby Brown,Craig Smith,DeAndre Jordan,Rasual Butler,Steve Novak,4,10:56,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Bobby Brown,Craig Smith,DeAndre Jordan,Rasual Butler,Steve Novak,4,10:34,LAC,foul,,,,,,,,Jamal Crawford,,Bobby Brown,,,,,,shooting,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Bobby Brown,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Novak,4,10:34,LAC,sub,,,,Chris Kaman,,Craig Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Bobby Brown,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Novak,4,10:34,ATL,free throw,,,,,,,1,,3,Jamal Crawford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Bobby Brown,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Novak,4,10:34,ATL,free throw,,,,,,,2,,3,Jamal Crawford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,10:34,LAC,sub,,,,Steve Blake,,Bobby Brown,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,10:34,ATL,free throw,,,,,,,3,,3,Jamal Crawford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,10:26,ATL,foul,,,,,,,,Steve Novak,,Marvin Williams,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,10:26,ATL,sub,,,,Joe Johnson,,Maurice Evans,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,10:14,ATL,foul,,,,,,,,,,Josh Smith,,,,,,defense 3 second,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,10:14,LAC,free throw,,,,,,,1,,1,Steve Novak,,,technical,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,10:09,LAC,shot,Steve Blake,,,,,,,,,Chris Kaman,2,,,made,,fade away jumper,8,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:52,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:51,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:51,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,putback dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:31,LAC,shot,,,,,,,,,,Steve Novak,,,,missed,,3pt,17,33
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:30,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:17,ATL,shot,,,,,,,,,,Al Horford,2,,,made,,turnaround jump,24,15
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:17,LAC,foul,,,,,,,,Al Horford,,Rasual Butler,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:17,ATL,free throw,,,,,,,1,,1,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:08,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,37,15
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:08,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:08,LAC,foul,,,,,,,,Marvin Williams,,DeAndre Jordan,,,,,,loose ball,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,DeAndre Jordan,Rasual Butler,Steve Blake,Steve Novak,4,9:08,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Rasual Butler,Steve Blake,Steve Novak,4,9:08,LAC,sub,,,,Craig Smith,,DeAndre Jordan,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,9:08,LAC,sub,,,,Mardy Collins,,Steve Novak,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,8:54,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,20,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,8:53,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,8:53,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,tip,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,8:51,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,8:39,LAC,turnover,,,,,,,,,,Chris Kaman,,,traveling,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,8:27,ATL,shot,Josh Smith,,,,,,,,,Al Horford,2,,,made,,dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,8:14,LAC,turnover,,,,,,,,,,Craig Smith,,,lost ball,,Al Horford,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,8:08,ATL,shot,Jamal Crawford,,,,,,,,,Josh Smith,2,,,made,,alley oop dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,7:39,LAC,foul,,,,,,,,,,Chris Kaman,,,,,,technical,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,7:39,LAC,timeout,,,,,,,,,,,,,,,,short,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,7:39,ATL,free throw,,,,,,,1,,1,Jamal Crawford,,,technical,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,7:37,LAC,shot,,,,,,,,,,Steve Blake,,,,missed,,3pt,46,20
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,7:35,LAC,rebound,,,,,,,,,,Mardy Collins,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,7:25,LAC,shot,Steve Blake,,,,,,,,,Mardy Collins,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,6:58,ATL,shot,Joe Johnson,,,,,,,,,Marvin Williams,2,,,made,,jump,5,9
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,6:48,LAC,turnover,,,,,,,,,,Mardy Collins,,,bad pass,,Marvin Williams,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,6:43,LAC,foul,,,,,,,,Jamal Crawford,,Rasual Butler,,,,,,shooting,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,Craig Smith,Mardy Collins,Rasual Butler,Steve Blake,4,6:43,ATL,sub,,,,Zaza Pachulia,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,Craig Smith,Eric Gordon,Rasual Butler,Steve Blake,4,6:43,LAC,sub,,,,Eric Gordon,,Mardy Collins,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,6:43,LAC,sub,,,,DeAndre Jordan,,Craig Smith,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,6:43,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,6:43,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,6:26,LAC,shot,,,,,,,,,,Chris Kaman,2,,,made,,hook,31,8
+Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,6:26,ATL,foul,,,,,,,,Chris Kaman,,Josh Smith,,,,,,shooting,,
+Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,6:26,ATL,sub,,,,Joe Smith,,Josh Smith,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,6:26,LAC,free throw,,,,,,,1,,1,Chris Kaman,,,foul,missed,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,6:25,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,6:02,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,fade away jumper,26,24
+Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,5:50,ATL,foul,,,,,,,,Eric Gordon,,Joe Johnson,,,,,,personal,,
+Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,5:50,LAC,timeout,,,,,,,,,,,,,,,,official,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,5:50,ATL,sub,,,,Jeff Teague,,Joe Johnson,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,5:41,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,5:40,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,DeAndre Jordan,Eric Gordon,Rasual Butler,Steve Blake,4,5:40,LAC,foul,,,,,,,,Joe Smith,,DeAndre Jordan,,,,,,loose ball,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Chris Kaman,Eric Gordon,Rasual Butler,Steve Blake,Steve Novak,4,5:40,LAC,sub,,,,Steve Novak,,DeAndre Jordan,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,5:40,LAC,sub,,,,Bobby Brown,,Steve Blake,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,5:40,ATL,free throw,,,,,,,1,,2,Joe Smith,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,5:40,ATL,free throw,,,,,,,2,,2,Joe Smith,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,5:37,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,5:25,LAC,shot,,,,,,,,,,Bobby Brown,2,,,made,,floating jump,26,10
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,4:59,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,jump,39,6
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,4:58,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,4:54,LAC,shot,Chris Kaman,,,,,,,,,Eric Gordon,3,,,made,,3pt,16,33
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,4:29,ATL,shot,,,Rasual Butler,,,,,,,Marvin Williams,,,,missed,,jump,21,10
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,4:28,LAC,rebound,,,,,,,,,,Bobby Brown,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,4:22,LAC,shot,,,,,,,,,,Steve Novak,,,,missed,,3pt,15,30
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,4:20,LAC,rebound,,,,,,,,,,Eric Gordon,,,,,,off,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,4:04,LAC,turnover,,,,,,,,,,Bobby Brown,,,bad pass,,Jeff Teague,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,3:48,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,jump,21,12
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,3:33,LAC,turnover,,,,,,,,,,Bobby Brown,,,lost ball,,Jeff Teague,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,3:30,LAC,foul,,,,,,,,Jeff Teague,,Bobby Brown,,,,,,personal,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,3:30,ATL,free throw,,,,,,,1,,2,Jeff Teague,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Marvin Williams,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,3:30,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,3:30,ATL,sub,,,,Maurice Evans,,Marvin Williams,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,3:30,ATL,free throw,,,,,,,2,,2,Jeff Teague,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,3:14,LAC,shot,,,,,,,,,,Steve Novak,,,,missed,,jump,16,28
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,3:13,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,3:09,ATL,turnover,,,,,,,,,,Maurice Evans,,,traveling,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,2:55,LAC,shot,Bobby Brown,,,,,,,,,Eric Gordon,2,,,made,,driving layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,2:39,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,2:39,LAC,sub,,,,Craig Smith,,Chris Kaman,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,2:35,ATL,shot,,,,,,,,,,Zaza Pachulia,,,,missed,,jump,36,9
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,2:34,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,2:12,ATL,foul,,,,,,,,Eric Gordon,,Maurice Evans,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,2:12,LAC,free throw,,,,,,,1,,2,Eric Gordon,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,2:12,LAC,free throw,,,,,,,2,,2,Eric Gordon,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,2:12,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,1:51,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,hook,23,11
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,1:48,LAC,rebound,,,,,,,,,,Steve Novak,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,1:40,LAC,turnover,,,,,,,,,,Craig Smith,,,lost ball,,Zaza Pachulia,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,1:32,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,3pt,50,7
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,1:31,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,off,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,1:13,ATL,shot,,,Craig Smith,,,,,,,Zaza Pachulia,,,,missed,,jump,24,15
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,1:11,LAC,rebound,,,,,,,,,,Eric Gordon,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,1:07,LAC,turnover,,,,,,,,,,Eric Gordon,,,lost ball,,Jeff Teague,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,1:07,LAC,foul,,,,,,,,Zaza Pachulia,,Craig Smith,,,,,,personal,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,1:07,ATL,free throw,,,,,,,1,,2,Zaza Pachulia,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,1:07,ATL,free throw,,,,,,,2,,2,Zaza Pachulia,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,0:53,LAC,shot,,,,,,,,,,Bobby Brown,2,,,made,,reverse layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,0:35,ATL,shot,Jeff Teague,,,,,,,,,Joe Smith,2,,,made,,jump,6,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,0:25,LAC,shot,,,,,,,,,,Craig Smith,,,,missed,,jump,26,15
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,0:24,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,0:02,ATL,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,0:01,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,3pt,44,23
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Bobby Brown,Craig Smith,Eric Gordon,Rasual Butler,Steve Novak,4,0:00,LAC,rebound,,,,,,,,,,,,,,,,,,

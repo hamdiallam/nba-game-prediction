@@ -1,0 +1,460 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,12:00,OFF,jump ball,,Tim Duncan,,,Joakim Noah,,,,,,,Derrick Rose,,,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,11:43,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,14,22
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,11:42,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,11:42,CHI,shot,,,,,,,,,,Joakim Noah,2,,,made,,tip,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,11:17,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,3pt,46,18
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,11:16,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,10:58,CHI,shot,Joakim Noah,,,,,,,,,Luol Deng,2,,,made,,layup,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,10:45,SAS,turnover,,,,,,,,,,Tony Parker,,,bad pass,,Derrick Rose,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,10:38,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,jump,39,8
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,10:37,SAS,rebound,,,,,,,,,,Michael Finley,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,10:23,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,3pt,48,4
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,10:22,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,10:12,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,jump,13,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,10:11,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,10:06,SAS,shot,,,Derrick Rose,,,,,,,Richard Jefferson,,,,missed,,layup,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,10:04,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,9:47,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,floating jump,33,11
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,9:28,SAS,shot,Michael Finley,,,,,,,,,Tim Duncan,2,,,made,,layup,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,9:05,CHI,shot,,,Tim Duncan,,,,,,,Joakim Noah,,,,missed,,layup,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,9:03,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,8:59,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,layup,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,8:58,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,8:52,CHI,shot,Derrick Rose,,,,,,,,,Joakim Noah,2,,,made,,layup,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,8:46,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,8:35,SAS,shot,Matt Bonner,,,,,,,,,Michael Finley,2,,,made,,jump,38,21
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,8:13,CHI,foul,,,,,,,,Tony Parker,,Joakim Noah,,,,,,offensive,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,8:13,CHI,turnover,,,,,,,,,,Joakim Noah,,,foul,,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,7:58,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,jump,10,21
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,7:57,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,7:47,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,44,22
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,7:45,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,7:39,SAS,shot,Tony Parker,,,,,,,,,Matt Bonner,3,,,made,,3pt,42,25
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,7:14,CHI,turnover,,,,,,,,,,Joakim Noah,,,bad pass,,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,7:14,SAS,sub,,,,Manu Ginobili,,Richard Jefferson,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,7:03,SAS,shot,Manu Ginobili,,,,,,,,,Tim Duncan,2,,,made,,hook,28,11
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,6:41,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,layup,25,6
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,6:40,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,6:34,SAS,turnover,,,,,,,,,,Tony Parker,,,bad pass,,John Salmons,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,6:24,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,40,8
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,6:23,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,6:13,SAS,turnover,,,,,,,,,,Matt Bonner,,,traveling,,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,5:54,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,41,16
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,5:53,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,5:43,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,jump,12,17
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,5:41,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,5:41,CHI,foul,,,,,,,,Matt Bonner,,Tyrus Thomas,,,,,,offensive,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,1,5:41,CHI,turnover,,,,,,,,,,Tyrus Thomas,,,foul,,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,1,5:41,CHI,sub,,,,Kirk Hinrich,,Tyrus Thomas,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,5:41,CHI,sub,,,,Taj Gibson,,Derrick Rose,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,5:31,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,jump,22,29
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,5:18,CHI,shot,Kirk Hinrich,,,,,,,,,Luol Deng,2,,,made,,floating jump,24,16
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,5:06,SAS,shot,Tony Parker,,,,,,,,,Tim Duncan,2,,,made,,layup,25,6
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:53,SAS,foul,,,,,,,,Luol Deng,,Matt Bonner,,,,,,personal,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:53,SAS,sub,,,,Antonio McDyess,,Matt Bonner,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:53,SAS,sub,,,,Roger Mason,,Michael Finley,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:53,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:44,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,18,24
+Antonio McDyess,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:43,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:34,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,37,23
+Antonio McDyess,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:33,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:25,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,23,29
+Antonio McDyess,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:23,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:13,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,40,20
+Antonio McDyess,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:12,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:01,SAS,foul,,,,,,,,Brad Miller,,Tim Duncan,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,4:01,SAS,sub,,,,George Hill,,Tony Parker,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:54,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,8,11
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:53,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:44,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving jump,34,7
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:44,CHI,foul,,,,,,,,Manu Ginobili,,John Salmons,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:44,SAS,free throw,,,,,,,1,,1,Manu Ginobili,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:40,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:40,SAS,sub,,,,DeJuan Blair,,Tim Duncan,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:28,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:26,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:26,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:11,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,19,27
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,3:09,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,2:59,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump bank,20,9
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,2:57,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,2:37,SAS,turnover,,,,,,,,,,DeJuan Blair,,,traveling,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,2:18,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,40,27
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,2:17,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,2:14,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,jump,6,12
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,1:55,SAS,shot,Antonio McDyess,,,,,,,,,DeJuan Blair,2,,,made,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,1:39,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,hook,30,17
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,1:37,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,1:22,SAS,shot,,,Kirk Hinrich,,,,,,,George Hill,,,,missed,,jump,33,22
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,1:20,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,1:13,CHI,shot,,,George Hill,,,,,,,Kirk Hinrich,,,,missed,,jump,37,24
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,1:11,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,1:11,SAS,foul,,,,,,,,Taj Gibson,,DeJuan Blair,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,1:11,CHI,free throw,,,,,,,1,,2,Taj Gibson,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,1:11,CHI,free throw,,,,,,,2,,2,Taj Gibson,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,0:56,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,0:46,CHI,shot,,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,38,27
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,1,0:46,SAS,foul,,,,,,,,Brad Miller,,George Hill,,,,,,loose ball,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,1,0:46,CHI,sub,,,,Jannero Pargo,,John Salmons,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,1,0:46,CHI,free throw,,,,,,,1,,1,Brad Miller,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,1,0:29,SAS,shot,,,,,,,,,,Manu Ginobili,3,,,made,,3pt,41,27
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,1,0:10,CHI,shot,,,,,,,,,,Kirk Hinrich,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,1,0:00,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,26,35
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,1,0:00,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:44,SAS,shot,,,Jannero Pargo,,,,,,,Roger Mason,,,,missed,,3pt,14,29
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:42,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:34,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,14,29
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:33,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:33,CHI,shot,,,,,,,,,,Taj Gibson,2,,,made,,jump,21,12
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:33,SAS,foul,,,,,,,,Taj Gibson,,DeJuan Blair,,,,,,shooting,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:33,SAS,sub,,,,Theo Ratliff,,DeJuan Blair,,,,,,,,,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:33,CHI,free throw,,,,,,,1,,1,Taj Gibson,,,foul,missed,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:31,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:24,CHI,foul,,,,,,,,George Hill,,Kirk Hinrich,,,,,,personal,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:18,CHI,foul,,,,,,,,Antonio McDyess,,Kirk Hinrich,,,,,,shooting,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Jannero Pargo,Kirk Hinrich,Taj Gibson,Tyrus Thomas,2,11:18,SAS,free throw,,,,,,,1,,2,Antonio McDyess,,,foul,made,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,11:18,CHI,sub,,,,Derrick Rose,,Kirk Hinrich,,,,,,,,,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,11:18,SAS,free throw,,,,,,,2,,2,Antonio McDyess,,,foul,missed,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,11:16,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:51,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,3pt,7,23
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:50,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:36,CHI,foul,,,,,,,,Richard Jefferson,,Brad Miller,,,,,,shooting,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:36,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,missed,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:36,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:36,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,missed,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:35,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:30,SAS,foul,,,,,,,,Brad Miller,,Antonio McDyess,,,,,,personal,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:22,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,18,25
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:04,SAS,shot,,,,,,,,,,George Hill,,,,missed,,3pt,42,25
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:03,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,10:00,CHI,turnover,,,,,,,,,,Derrick Rose,,,lost ball,,George Hill,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,9:49,SAS,turnover,,,,,,,,,,George Hill,,,bad pass,,,,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,9:42,SAS,violation,,,,,,,,,,George Hill,,,,,,kicked ball,,
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,9:31,CHI,shot,Taj Gibson,,,,,,,,,Derrick Rose,2,,,made,,floating jump,23,15
+Antonio McDyess,George Hill,Richard Jefferson,Roger Mason,Theo Ratliff,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,9:31,SAS,foul,,,,,,,,Derrick Rose,,Theo Ratliff,,,,,,shooting,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Theo Ratliff,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,9:31,SAS,sub,,,,Tony Parker,,George Hill,,,,,,,,,,,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Theo Ratliff,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,9:31,CHI,free throw,,,,,,,1,,1,Derrick Rose,,,foul,made,,,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Theo Ratliff,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,9:28,CHI,violation,,,,,,,,,,Brad Miller,,,,,,kicked ball,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Theo Ratliff,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,9:13,CHI,foul,,,,,,,,Tony Parker,,Derrick Rose,,,,,,personal,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Theo Ratliff,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,9:06,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,turnaround fade away,25,17
+Antonio McDyess,Richard Jefferson,Roger Mason,Theo Ratliff,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:50,SAS,foul,,,,,,,,Taj Gibson,,Roger Mason,,,,,,shooting,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Theo Ratliff,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:50,CHI,timeout,,,,,,,,,,,,,,,,,,
+Michael Finley,Richard Jefferson,Roger Mason,Theo Ratliff,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:50,SAS,sub,,,,Michael Finley,,Antonio McDyess,,,,,,,,,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Theo Ratliff,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:50,SAS,sub,,,,Matt Bonner,,Roger Mason,,,,,,,,,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:50,SAS,sub,,,,Tim Duncan,,Theo Ratliff,,,,,,,,,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:50,CHI,free throw,,,,,,,1,,2,Taj Gibson,,,foul,made,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:50,CHI,free throw,,,,,,,2,,2,Taj Gibson,,,foul,made,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:31,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,turnaround fade away,37,11
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:13,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,jump,44,19
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:12,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:00,CHI,foul,,,,,,,,,,Tyrus Thomas,,,,,,defense 3 second,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Jannero Pargo,Taj Gibson,Tyrus Thomas,2,8:00,SAS,free throw,,,,,,,1,,1,Michael Finley,,,technical,made,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Jannero Pargo,Joakim Noah,Taj Gibson,Tyrus Thomas,2,8:00,CHI,sub,,,,Joakim Noah,,Brad Miller,,,,,,,,,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,2,8:00,CHI,sub,,,,John Salmons,,Jannero Pargo,,,,,,,,,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,2,7:54,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,jump,27,21
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,2,7:54,CHI,foul,,,,,,,,Tony Parker,,Derrick Rose,,,,,,shooting,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,2,7:54,SAS,free throw,,,,,,,1,,1,Tony Parker,,,foul,missed,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,2,7:53,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,2,7:43,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,9,25
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,2,7:41,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,off,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,2,7:26,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,33,25
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,2,7:14,SAS,shot,Richard Jefferson,,,,,,,,,Tim Duncan,2,,,made,,layup,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,2,6:57,CHI,turnover,,,,,,,,,,John Salmons,,,bad pass,,Tim Duncan,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,2,6:53,CHI,foul,,,,,,,,Richard Jefferson,,Tyrus Thomas,,,,,,shooting,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,6:53,CHI,sub,,,,Luol Deng,,Taj Gibson,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,6:53,SAS,sub,,,,Manu Ginobili,,Michael Finley,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,6:53,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,missed,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,6:53,SAS,rebound,,,,,,,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,6:53,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,6:34,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,30,27
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,6:33,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,def,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,6:20,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,running jump,26,16
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,6:00,CHI,shot,John Salmons,,,,,,,,,Joakim Noah,2,,,made,,jump,18,22
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,5:47,SAS,shot,Tim Duncan,,,,,,,,,Tony Parker,2,,,made,,layup,25,6
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,5:29,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,14,21
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,5:29,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,5:29,SAS,foul,,,,,,,,Joakim Noah,,Manu Ginobili,,,,,,shooting,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,5:29,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,2,5:29,SAS,sub,,,,Michael Finley,,Richard Jefferson,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,5:29,CHI,sub,,,,Kirk Hinrich,,Tyrus Thomas,,,,,,,,,,,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,5:29,SAS,sub,,,,George Hill,,Matt Bonner,,,,,,,,,,,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,5:29,CHI,free throw,,,,,,,1,,2,Joakim Noah,,,foul,missed,,,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,5:29,CHI,rebound,,,,,,,,,,,,,,,,,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,5:29,CHI,free throw,,,,,,,2,,2,Joakim Noah,,,foul,missed,,,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,5:28,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,5:09,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,John Salmons,,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,5:05,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,5:04,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,5:02,CHI,shot,Joakim Noah,,,,,,,,,Derrick Rose,2,,,made,,layup,25,6
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,4:51,SAS,turnover,,,,,,,,,,George Hill,,,traveling,,,,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,4:32,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,jump,11,18
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,4:13,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,15,17
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,4:11,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,3:57,CHI,shot,Derrick Rose,,,,,,,,,John Salmons,3,,,made,,3pt,39,27
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,3:35,SAS,shot,,,Joakim Noah,,,,,,,Tim Duncan,,,,missed,,jump,21,13
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,3:33,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,3:31,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,19,31
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,3:30,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,3:09,SAS,foul,,,,,,,,John Salmons,,Tim Duncan,,,,,,shooting,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,3:09,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,made,,,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,3:09,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,made,,,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,3:09,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,2:54,CHI,foul,,,,,,,,Manu Ginobili,,Luol Deng,,,,,,personal,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,2:54,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,made,,,,
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,2:54,SAS,sub,,,,Richard Jefferson,,Michael Finley,,,,,,,,,,,,
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,2:54,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,2:44,CHI,shot,,,Tim Duncan,,,,,,,Joakim Noah,,,,missed,,layup,25,6
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,2:43,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,def,,
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,2:39,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,layup,25,6
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,2:17,CHI,shot,,,Tim Duncan,,,,,,,Luol Deng,,,,missed,,layup,25,6
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,2:15,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,2:10,SAS,shot,Manu Ginobili,,,,,,,,,Richard Jefferson,2,,,made,,layup,25,6
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,1:43,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,45,6
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,1:42,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,1:36,SAS,shot,,,Joakim Noah,,,,,,,Tim Duncan,,,,missed,,layup,25,6
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,1:34,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,off,,
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,1:31,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,49,6
+George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,1:31,CHI,rebound,,,,,,,,,,,,,,,,,,
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,1:31,SAS,sub,,,,Roger Mason,,George Hill,,,,,,,,,,,,
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Jannero Pargo,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,1:31,CHI,sub,,,,Jannero Pargo,,Derrick Rose,,,,,,,,,,,,
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Jannero Pargo,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,1:13,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,jump,17,22
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Jannero Pargo,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,1:11,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Jannero Pargo,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,1:06,SAS,shot,Manu Ginobili,,,,,,,,,Tim Duncan,2,,,made,,layup,25,6
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Jannero Pargo,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,0:50,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,22,16
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Jannero Pargo,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,0:49,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Jannero Pargo,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,0:30,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,10,26
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Jannero Pargo,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,0:29,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Jannero Pargo,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,2,0:23,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,2,0:23,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,2,0:07,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,49,5
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,2,0:06,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,2,0:00,CHI,shot,Luol Deng,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,38,27
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,2,0:00,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,11,88
+Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,2,0:00,SAS,rebound,,,,,,,,,,,,,,,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,11:43,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump bank,38,10
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,11:28,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,jump,17,23
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,11:27,SAS,rebound,,,,,,,,,,Michael Finley,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,11:21,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,jump,12,10
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,11:20,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,11:07,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,35,22
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,11:06,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,10:53,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,37,20
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,10:52,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,10:36,CHI,shot,Luol Deng,,,,,,,,,Tyrus Thomas,2,,,made,,jump,11,16
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,10:12,SAS,turnover,,,,,,,,,,Richard Jefferson,,,out of bounds lost ball turnover,,,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,9:59,CHI,shot,Derrick Rose,,,,,,,,,Tyrus Thomas,2,,,made,,jump,21,22
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,9:42,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump bank,37,11
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,9:26,SAS,foul,,,,,,,,Derrick Rose,,Tony Parker,,,,,,personal,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,9:23,CHI,turnover,,,,,,,,,,Luol Deng,,,bad pass,,Tim Duncan,,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,9:19,SAS,shot,,,Tyrus Thomas,,,,,,,Tony Parker,,,,missed,,layup,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,9:17,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,off,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,9:16,SAS,shot,,,,,,,,,,Matt Bonner,2,,,made,,layup,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:55,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,41,11
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:54,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:48,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,41,25
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:48,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:48,SAS,foul,,,,,,,,Joakim Noah,,Richard Jefferson,,,,,,personal,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:41,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,layup,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:39,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:39,CHI,shot,,,,,,,,,,Joakim Noah,2,,,made,,tip,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:20,SAS,shot,,,Tyrus Thomas,,,,,,,Tony Parker,,,,missed,,layup,25,6
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:18,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:11,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,14,25
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:10,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,def,,
+Matt Bonner,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:02,CHI,foul,,,,,,,,Tim Duncan,,John Salmons,,,,,,personal,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,8:02,SAS,sub,,,,Manu Ginobili,,Richard Jefferson,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,7:48,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,6,23
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,7:48,CHI,rebound,,,,,,,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,7:34,CHI,shot,Joakim Noah,,,,,,,,,Luol Deng,2,,,made,,layup,25,6
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,7:16,SAS,turnover,,,,,,,,,,Tim Duncan,,,bad pass,,Luol Deng,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,7:12,SAS,foul,,,,,,,,Tyrus Thomas,,Matt Bonner,,,,,,shooting,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,7:12,CHI,free throw,,,,,,,1,,2,Tyrus Thomas,,,foul,made,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,7:12,CHI,free throw,,,,,,,2,,2,Tyrus Thomas,,,foul,missed,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,7:11,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,6:56,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,41,25
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,6:55,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,6:48,SAS,foul,,,,,,,,Joakim Noah,,Manu Ginobili,,,,,,shooting,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,6:48,CHI,free throw,,,,,,,1,,2,Joakim Noah,,,foul,made,,,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,6:48,SAS,sub,,,,Antonio McDyess,,Matt Bonner,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,6:48,CHI,free throw,,,,,,,2,,2,Joakim Noah,,,foul,made,,,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,6:25,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump bank,35,12
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,6:13,CHI,shot,Derrick Rose,,,,,,,,,Tyrus Thomas,2,,,made,,jump,29,23
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,5:52,SAS,turnover,,,,,,,,,,Antonio McDyess,,,3 second violation,,,,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,3,5:52,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,5:52,CHI,sub,,,,Kirk Hinrich,,Joakim Noah,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,5:52,CHI,sub,,,,Brad Miller,,Derrick Rose,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,5:38,SAS,foul,,,,,,,,Kirk Hinrich,,Tony Parker,,,,,,personal,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,5:38,CHI,free throw,,,,,,,1,,2,Kirk Hinrich,,,foul,made,,,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,5:38,CHI,free throw,,,,,,,2,,2,Kirk Hinrich,,,foul,made,,,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,5:22,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump bank,14,10
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,5:01,CHI,turnover,,,,,,,,,,John Salmons,,,lost ball,,Manu Ginobili,,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,4:47,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,8,25
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,4:46,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,4:38,CHI,shot,Brad Miller,,,,,,,,,Luol Deng,2,,,made,,jump,41,17
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,4:21,SAS,shot,,,Tyrus Thomas,,,,,,,Tim Duncan,,,,missed,,layup,25,6
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,4:19,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,4:17,SAS,foul,,,,,,,,John Salmons,,Manu Ginobili,,,,,,shooting,,
+Antonio McDyess,Michael Finley,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,4:17,SAS,sub,,,,Roger Mason,,Manu Ginobili,,,,,,,,,,,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,4:17,SAS,sub,,,,Richard Jefferson,,Michael Finley,,,,,,,,,,,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,4:17,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,missed,,,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,4:17,CHI,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,4:17,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,made,,,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:59,CHI,violation,,,,,,,,,,Tyrus Thomas,,,,,,defensive goaltending,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:59,SAS,shot,Roger Mason,,,,,,,,,Tim Duncan,2,,,made,,layup,25,6
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:38,CHI,shot,John Salmons,,,,,,,,,Brad Miller,2,,,made,,jump,25,12
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:16,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,layup,25,6
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:15,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:15,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,tip,25,6
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:14,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:02,CHI,shot,Brad Miller,,,,,,,,,Tyrus Thomas,2,,,made,,dunk,25,6
+Antonio McDyess,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:02,SAS,foul,,,,,,,,Tyrus Thomas,,Richard Jefferson,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,Richard Jefferson,Roger Mason,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:02,SAS,sub,,,,DeJuan Blair,,Tim Duncan,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Richard Jefferson,Roger Mason,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:02,CHI,free throw,,,,,,,1,,1,Tyrus Thomas,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,Richard Jefferson,Roger Mason,Tony Parker,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:02,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,3:02,SAS,sub,,,,George Hill,,Tony Parker,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,2:44,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,25,27
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,2:43,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,2:29,SAS,violation,,,,,,,,,,George Hill,,,,,,kicked ball,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,2:19,CHI,shot,,,,,,,,,,Kirk Hinrich,2,,,made,,driving jump,24,13
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,1:54,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,10,27
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,3,1:52,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,1:51,CHI,sub,,,,Taj Gibson,,John Salmons,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,1:39,CHI,foul,,,,,,,,Richard Jefferson,,Taj Gibson,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,1:39,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,1:39,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,1:25,CHI,turnover,,,,,,,,,,Kirk Hinrich,,,lost ball,,George Hill,,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,1:11,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,40,22
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,1:09,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,1:09,SAS,shot,,,,,,,,,,DeJuan Blair,2,,,made,,tip,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,0:53,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,3pt,10,27
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,0:52,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,0:30,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,34,26
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,0:29,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,0:07,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Kirk Hinrich,Luol Deng,Taj Gibson,Tyrus Thomas,3,0:00,SAS,shot,,,,,,,,,,George Hill,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,11:43,SAS,foul,,,,,,,,Tyrus Thomas,,Antonio McDyess,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,11:43,CHI,free throw,,,,,,,1,,2,Tyrus Thomas,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,11:43,CHI,free throw,,,,,,,2,,2,Tyrus Thomas,,,foul,missed,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,11:40,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,11:40,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,tip,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,11:38,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,11:27,CHI,foul,,,,,,,,Richard Jefferson,,Taj Gibson,,,,,,personal,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,11:18,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,33,23
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,11:17,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,11:03,CHI,turnover,,,,,,,,,,Tyrus Thomas,,,bad pass,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,10:39,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,3pt,11,28
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,10:38,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,10:28,CHI,shot,Kirk Hinrich,,,,,,,,,Tyrus Thomas,2,,,made,,jump,42,7
+Antonio McDyess,DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,10:28,CHI,foul,,,,,,,,DeJuan Blair,,Brad Miller,,,,,,loose ball,,
+DeJuan Blair,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,10:28,SAS,sub,,,,Tim Duncan,,Antonio McDyess,,,,,,,,,,,,
+DeJuan Blair,George Hill,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,10:28,SAS,sub,,,,Tony Parker,,Roger Mason,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Kirk Hinrich,Taj Gibson,Tyrus Thomas,4,10:28,SAS,sub,,,,Manu Ginobili,,George Hill,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,10:28,CHI,sub,,,,John Salmons,,Tyrus Thomas,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,10:08,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,40,12
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,10:07,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,9:56,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,8,7
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,9:54,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,9:43,CHI,foul,,,,,,,,Tim Duncan,,Taj Gibson,,,,,,shooting,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,9:43,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,missed,,,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,9:43,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,9:43,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,9:30,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,10,21
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,9:11,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,1,11
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,9:10,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,9:01,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,37,29
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,4,9:01,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,9:01,CHI,sub,,,,Joakim Noah,,Taj Gibson,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,8:42,SAS,turnover,,,,,,,,,,Tim Duncan,,,lost ball,,John Salmons,,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,8:42,SAS,foul,,,,,,,,John Salmons,,Tim Duncan,,,,,,personal,,
+DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,8:42,CHI,timeout,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,8:42,SAS,sub,,,,Matt Bonner,,Richard Jefferson,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,8:42,SAS,sub,,,,Michael Finley,,DeJuan Blair,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,8:32,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,dunk,25,6
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,8:31,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,8:24,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,jump,20,17
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,8:22,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,off,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,8:04,SAS,shot,,,,,,,,,,Michael Finley,,,,missed,,jump,10,17
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,8:02,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,7:45,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,31,14
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,7:43,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,7:37,SAS,shot,Tony Parker,,,,,,,,,Matt Bonner,2,,,made,,layup,25,6
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,7:13,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,13,22
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,7:12,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,def,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,7:02,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,8,23
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,6:59,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,4,6:53,SAS,foul,,,,,,,,Derrick Rose,,Michael Finley,,,,,,shooting,,
+Manu Ginobili,Matt Bonner,Michael Finley,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,6:53,CHI,sub,,,,Luol Deng,,Brad Miller,,,,,,,,,,,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,6:53,SAS,sub,,,,Richard Jefferson,,Matt Bonner,,,,,,,,,,,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,6:53,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,made,,,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,6:53,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,made,,,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,6:41,SAS,shot,,,,,,,,,,Michael Finley,,,,missed,,3pt,6,25
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,6:40,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,6:31,SAS,shot,Tim Duncan,,,,,,,,,Michael Finley,3,,,made,,3pt,1,8
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,6:16,CHI,shot,,,Tony Parker,,,,,,,Joakim Noah,,,,missed,,layup,25,6
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,6:16,SAS,rebound,,,,,,,,,,,,,,,,,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,6:05,CHI,foul,,,,,,,,Tim Duncan,,Joakim Noah,,,,,,personal,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:56,SAS,turnover,,,,,,,,,,Michael Finley,,,bad pass,,,,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:56,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:42,CHI,shot,,,,,,,,,,Kirk Hinrich,2,,,made,,floating jump,18,8
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:23,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump,36,14
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,5:07,CHI,shot,Derrick Rose,,,,,,,,,Luol Deng,2,,,made,,jump,31,18
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:47,SAS,shot,,,,,,,,,,Michael Finley,,,,missed,,3pt,49,8
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:46,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:43,SAS,violation,,,,,,,,,,Manu Ginobili,,,,,,kicked ball,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:34,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:33,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:29,CHI,foul,,,,,,,,Manu Ginobili,,John Salmons,,,,,,shooting,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:29,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,made,,,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:29,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:19,SAS,violation,,,,,,,,,,Tony Parker,,,,,,kicked ball,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:07,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,48,8
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,4:05,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,3:59,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,layup,25,6
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,3:58,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,3:50,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,1,8
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,3:48,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,3:33,SAS,shot,,,Kirk Hinrich,,,,,,,Manu Ginobili,,,,missed,,layup,25,6
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,3:31,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,off,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,3:30,SAS,shot,Manu Ginobili,,,,,,,,,Tim Duncan,2,,,made,,layup,25,6
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,3:07,CHI,shot,Derrick Rose,,,,,,,,,Luol Deng,2,,,made,,jump,41,8
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,2:56,SAS,turnover,,,,,,,,,,Tony Parker,,,out of bounds lost ball turnover,,,,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,4,2:56,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,2:56,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,2:34,CHI,shot,Derrick Rose,,,,,,,,,Brad Miller,2,,,made,,driving reverse layup,25,6
+Manu Ginobili,Michael Finley,Richard Jefferson,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,2:16,CHI,foul,,,,,,,,Tim Duncan,,Brad Miller,,,,,,shooting,,
+George Hill,Manu Ginobili,Michael Finley,Tim Duncan,Tony Parker,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,2:16,SAS,sub,,,,George Hill,,Richard Jefferson,,,,,,,,,,,,
+George Hill,Manu Ginobili,Michael Finley,Roger Mason,Tim Duncan,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,2:16,SAS,sub,,,,Roger Mason,,Tony Parker,,,,,,,,,,,,
+DeJuan Blair,George Hill,Michael Finley,Roger Mason,Tim Duncan,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,2:16,SAS,sub,,,,DeJuan Blair,,Manu Ginobili,,,,,,,,,,,,
+DeJuan Blair,George Hill,Michael Finley,Roger Mason,Tim Duncan,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,2:16,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,made,,,,
+DeJuan Blair,George Hill,Michael Finley,Roger Mason,Tim Duncan,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,2:16,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,missed,,,,
+DeJuan Blair,George Hill,Michael Finley,Roger Mason,Tim Duncan,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,2:15,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+DeJuan Blair,George Hill,Michael Finley,Roger Mason,Tim Duncan,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,2:13,SAS,foul,,,,,,,,Derrick Rose,,George Hill,,,,,,personal,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,2:13,SAS,sub,,,,Matt Bonner,,Tim Duncan,,,,,,,,,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:56,SAS,foul,,,,,,,,Derrick Rose,,DeJuan Blair,,,,,,shooting,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:56,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,missed,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:56,CHI,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:56,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,missed,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:54,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,def,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:49,CHI,foul,,,,,,,,George Hill,,Luol Deng,,,,,,personal,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:49,SAS,free throw,,,,,,,1,,2,George Hill,,,foul,made,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:49,SAS,free throw,,,,,,,2,,2,George Hill,,,foul,missed,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:47,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:29,CHI,shot,Brad Miller,,,,,,,,,John Salmons,2,,,made,,fade away jumper,32,11
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,4,1:13,SAS,shot,Roger Mason,,,,,,,,,George Hill,3,,,made,,3pt,1,6
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,1:06,CHI,sub,,,,Jannero Pargo,,Derrick Rose,,,,,,,,,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:51,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,running jump,25,11
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:50,CHI,jump ball,,DeJuan Blair,,,Luol Deng,,,,,,,George Hill,,,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:50,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:44,CHI,foul,,,,,,,,George Hill,,Jannero Pargo,,,,,,personal,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:44,SAS,free throw,,,,,,,1,,2,George Hill,,,foul,made,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:44,SAS,free throw,,,,,,,2,,2,George Hill,,,foul,made,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:18,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,2,11
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:17,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:17,SAS,foul,,,,,,,,Luol Deng,,DeJuan Blair,,,,,,personal,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:17,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:17,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,missed,,,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:15,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:00,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:00,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,George Hill,Matt Bonner,Michael Finley,Roger Mason,Brad Miller,Jannero Pargo,John Salmons,Kirk Hinrich,Luol Deng,4,0:00,SAS,shot,,,,,,,,,,DeJuan Blair,2,,,made,,putback dunk,25,6

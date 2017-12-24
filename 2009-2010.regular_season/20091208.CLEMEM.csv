@@ -1,0 +1,521 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,12:00,OFF,jump ball,,Shaquille O'Neal,,,Marc Gasol,,,,,,,Zach Randolph,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:39,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,13,16
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:38,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:32,CLE,shot,,,,,,,,,,J.J. Hickson,,,,missed,,reverse layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:31,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:26,MEM,shot,,,Shaquille O'Neal,,,,,,,O.J. Mayo,,,,missed,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:26,MEM,rebound,,,,,,,,,,,,,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:20,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,20,24
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:18,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:13,CLE,turnover,,,,,,,,,,LeBron James,,,bad pass,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:59,MEM,turnover,,,,,,,,,,Mike Conley,,,bad pass,,J.J. Hickson,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:54,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,dunk,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:48,MEM,shot,,,Shaquille O'Neal,,,,,,,Rudy Gay,,,,missed,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:45,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:45,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:32,CLE,shot,,,,,,,,,,Shaquille O'Neal,,,,missed,,reverse layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:29,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:25,CLE,turnover,,,,,,,,,,J.J. Hickson,,,bad pass,,Zach Randolph,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:21,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:55,CLE,shot,,,,,,,,,,Anthony Parker,,,,missed,,3pt,17,29
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:54,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:50,CLE,foul,,,,,,,,Mike Conley,,Mo Williams,,,,,,shooting,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:50,MEM,free throw,,,,,,,1,,2,Mike Conley,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:50,MEM,free throw,,,,,,,2,,2,Mike Conley,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:28,CLE,shot,,,,,,,,,,Anthony Parker,,,,missed,,3pt,1,9
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:27,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:14,MEM,turnover,,,,,,,,,,Marc Gasol,,,bad pass,,J.J. Hickson,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:10,CLE,shot,Mo Williams,,,,,,,,,LeBron James,2,,,made,,dunk,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:51,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,10,19
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:49,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:49,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,tip,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:33,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:31,CLE,rebound,,,,,,,,,,Mo Williams,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:31,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:29,MEM,rebound,,,,,,,,,,Mike Conley,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:27,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:24,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:18,MEM,shot,Rudy Gay,,,,,,,,,Marc Gasol,2,,,made,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:58,CLE,shot,,,,,,,,,,Mo Williams,2,,,made,,pullup jump,18,11
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:43,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,jump,40,7
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:42,CLE,rebound,,,,,,,,,,Mo Williams,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:26,CLE,shot,,,,,,,,,,Shaquille O'Neal,2,,,made,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:26,MEM,foul,,,,,,,,Shaquille O'Neal,,Zach Randolph,,,,,,shooting,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:26,CLE,free throw,,,,,,,1,,1,Shaquille O'Neal,,,foul,missed,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:24,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:10,MEM,shot,,,Shaquille O'Neal,,,,,,,Rudy Gay,,,,missed,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:08,CLE,rebound,,,,,,,,,,Mo Williams,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:05,CLE,shot,Anthony Parker,,,,,,,,,LeBron James,2,,,made,,dunk,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:41,MEM,shot,Marc Gasol,,,,,,,,,O.J. Mayo,2,,,made,,pullup jump,30,23
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:22,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,jump,43,13
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:20,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:17,CLE,shot,,,Rudy Gay,,,,,,,Shaquille O'Neal,,,,missed,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:15,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:12,MEM,shot,,,LeBron James,,,,,,,O.J. Mayo,,,,missed,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:10,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:04,MEM,shot,,,J.J. Hickson,,,,,,,Marc Gasol,,,,missed,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:04,MEM,rebound,,,,,,,,,,,,,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:55,CLE,foul,,,,,,,,Zach Randolph,,J.J. Hickson,,,,,,shooting,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:55,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:55,CLE,sub,,,,Anderson Varejao,,Shaquille O'Neal,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:55,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:55,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:37,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,3pt,3,16
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:34,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,off,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:23,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,41,29
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:22,CLE,rebound,,,,,,,,,,LeBron James,,,,,,off,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:18,CLE,shot,Mo Williams,,,,,,,,,Anderson Varejao,2,,,made,,layup,25,6
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:59,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,14,24
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:57,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:52,MEM,foul,,,,,,,,LeBron James,,Rudy Gay,,,,,,personal,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:52,CLE,sub,,,,Zydrunas Ilgauskas,,J.J. Hickson,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:36,CLE,shot,,,,,,,,,,Anderson Varejao,,,,missed,,turnaround jump,17,10
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:35,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,off,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:33,CLE,shot,Zydrunas Ilgauskas,,,,,,,,,Mo Williams,3,,,made,,3pt,28,32
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:13,MEM,shot,Marc Gasol,,,,,,,,,O.J. Mayo,2,,,made,,jump,36,24
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:49,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,3pt,1,10
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:49,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:49,MEM,foul,,,,,,,,Zydrunas Ilgauskas,,Marc Gasol,,,,,,personal,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:49,CLE,sub,,,,Daniel Gibson,,Anthony Parker,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:44,CLE,shot,Mo Williams,,,,,,,,,LeBron James,2,,,made,,reverse layup,25,6
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:44,MEM,foul,,,,,,,,LeBron James,,Rudy Gay,,,,,,shooting,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:44,CLE,free throw,,,,,,,1,,1,LeBron James,,,foul,made,,,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:31,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,alley oop layup,25,6
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:25,CLE,rebound,,,,,,,,,,Mo Williams,,,,,,def,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:18,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,,,,missed,,jump,39,20
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:17,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:14,MEM,shot,O.J. Mayo,,,,,,,,,Marc Gasol,2,,,made,,layup,25,6
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:14,CLE,foul,,,,,,,,Marc Gasol,,Zydrunas Ilgauskas,,,,,,shooting,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,3:14,MEM,sub,,,,Sam Young,,Rudy Gay,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,3:14,MEM,free throw,,,,,,,1,,1,Marc Gasol,,,foul,missed,,,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,3:13,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,2:53,CLE,shot,,,,,,,,,,Daniel Gibson,2,,,made,,pullup jump,11,21
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,2:39,MEM,shot,Marc Gasol,,,,,,,,,O.J. Mayo,3,,,made,,3pt,48,9
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,2:19,MEM,foul,,,,,,,,LeBron James,,Sam Young,,,,,,shooting,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,2:19,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,2:19,MEM,foul,,,,,,,,LeBron James,,Sam Young,,,,,,technical,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,2:19,MEM,sub,,,,Hasheem Thabeet,,Marc Gasol,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,2:19,CLE,free throw,,,,,,,1,,1,Mo Williams,,,technical,made,,,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,2:19,CLE,free throw,,,,,,,1,,2,LeBron James,,,foul,made,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,2:19,CLE,sub,,,,Delonte West,,Mo Williams,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,2:19,CLE,free throw,,,,,,,2,,2,LeBron James,,,foul,made,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,2:04,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,driving finger roll layup,25,6
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,1:46,CLE,shot,LeBron James,,,,,,,,,Daniel Gibson,3,,,made,,3pt,35,29
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,1:21,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,step back jump,36,24
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,1,1:20,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,1,1:20,MEM,sub,,,,Jamaal Tinsley,,Mike Conley,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,1,1:03,MEM,violation,,,,,,,,,,Hasheem Thabeet,,,,,,defensive goaltending,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,1,1:03,CLE,shot,,,,,,,,,,Daniel Gibson,2,,,made,,running layup,25,6
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,1,0:50,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,pullup jump,12,22
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,1,0:48,CLE,rebound,,,,,,,,,,Daniel Gibson,,,,,,def,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,1,0:36,CLE,foul,,,,,,,,Jamaal Tinsley,,Anderson Varejao,,,,,,offensive,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,1,0:36,CLE,turnover,,,,,,,,,,Anderson Varejao,,,foul,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,1,0:21,MEM,shot,Zach Randolph,,,,,,,,,Hasheem Thabeet,2,,,made,,layup,25,6
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,1,0:02,CLE,shot,LeBron James,,,,,,,,,Daniel Gibson,3,,,made,,3pt,48,8
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,1,0:00,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,4,41
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,1,0:00,MEM,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,2,11:46,CLE,shot,,,,,,,,,,Delonte West,,,,missed,,jump,23,28
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,2,11:45,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,2,11:36,MEM,shot,Jamaal Tinsley,,,,,,,,,Marc Gasol,2,,,made,,layup,25,6
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,2,11:15,CLE,shot,,,,,,,,,,Anderson Varejao,,,,missed,,turnaround bank,19,12
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,2,11:12,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,def,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,2,11:03,MEM,shot,,,,,,,,,,Sam Young,,,,missed,,driving layup,25,6
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,2,11:02,MEM,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,2,11:02,CLE,foul,,,,,,,,Marc Gasol,,Zydrunas Ilgauskas,,,,,,loose ball,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,11:02,MEM,sub,,,,Rudy Gay,,O.J. Mayo,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,10:58,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,3pt,38,28
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,10:56,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,def,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,10:41,CLE,shot,,,,,,,,,,Delonte West,,,,missed,,step back jump,39,23
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,10:38,CLE,rebound,,,,,,,,,,Anthony Parker,,,,,,off,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,10:21,CLE,shot,,,,,,,,,,Daniel Gibson,,,,missed,,layup,25,6
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,10:18,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,off,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,10:18,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,2,,,made,,layup,25,6
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,10:15,MEM,shot,Jamaal Tinsley,,,,,,,,,Sam Young,2,,,made,,running layup,25,6
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,10:15,CLE,foul,,,,,,,,Sam Young,,Delonte West,,,,,,shooting,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,10:15,MEM,free throw,,,,,,,1,,1,Sam Young,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:55,CLE,shot,,,,,,,,,,Daniel Gibson,,,,missed,,jump,41,20
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:55,MEM,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:55,CLE,foul,,,,,,,,Marc Gasol,,Anderson Varejao,,,,,,loose ball,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:32,MEM,shot,,,,,,,,,,Sam Young,,,,missed,,jump,18,9
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:29,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,off,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:29,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,tip,25,6
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:27,CLE,rebound,,,,,,,,,,Anthony Parker,,,,,,def,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:20,CLE,turnover,,,,,,,,,,Zydrunas Ilgauskas,,,bad pass,,Rudy Gay,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:19,CLE,foul,,,,,,,,Rudy Gay,,Anthony Parker,,,,,,clear path,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:19,MEM,free throw,,,,,,,1,,2,Rudy Gay,,,foul,missed,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:19,MEM,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:19,MEM,free throw,,,,,,,2,,2,Rudy Gay,,,foul,missed,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:19,MEM,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:07,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,slam dunk,25,6
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,9:06,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,8:52,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,2,,,made,,finger roll layup,25,6
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,8:33,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,pullup bank,17,10
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,8:23,CLE,foul,,,,,,,,Hasheem Thabeet,,Delonte West,,,,,,offensive,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,8:23,CLE,turnover,,,,,,,,,,Delonte West,,,foul,,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,8:23,MEM,timeout,,,,,,,,,,,,,,,,official,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,8:02,MEM,shot,,,,,,,,,,Sam Young,,,,missed,,turnaround jump,33,11
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,7:58,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,7:37,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,,,,missed,,jump,44,8
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,7:36,MEM,rebound,,,,,,,,,,Sam Young,,,,,,def,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,7:29,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,3pt,44,22
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,7:27,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,7:27,MEM,foul,,,,,,,,Zydrunas Ilgauskas,,Hasheem Thabeet,,,,,,loose ball,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,7:27,CLE,sub,,,,LeBron James,,Anthony Parker,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,7:27,CLE,sub,,,,Mo Williams,,Daniel Gibson,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,7:14,MEM,foul,,,,,,,,Mo Williams,,Marc Gasol,,,,,,shooting,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,7:14,CLE,free throw,,,,,,,1,,2,Mo Williams,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,7:14,CLE,free throw,,,,,,,2,,2,Mo Williams,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,6:52,MEM,shot,,,,,,,,,,Jamaal Tinsley,,,,missed,,3pt,22,31
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,6:51,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,off,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,6:49,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,6:47,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,6:40,MEM,foul,,,,,,,,Anderson Varejao,,Hasheem Thabeet,,,,,,shooting,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,2,6:40,CLE,sub,,,,Shaquille O'Neal,,Zydrunas Ilgauskas,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,2,6:40,MEM,sub,,,,Zach Randolph,,Hasheem Thabeet,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Zach Randolph,2,6:40,MEM,sub,,,,O.J. Mayo,,Rudy Gay,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Zach Randolph,2,6:40,CLE,free throw,,,,,,,1,,2,Anderson Varejao,,,foul,missed,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Zach Randolph,2,6:40,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Zach Randolph,2,6:40,CLE,free throw,,,,,,,2,,2,Anderson Varejao,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Zach Randolph,2,6:21,MEM,shot,,,,,,,,,,Jamaal Tinsley,,,,missed,,pullup jump,32,18
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Zach Randolph,2,6:19,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Zach Randolph,2,6:04,CLE,shot,,,,,,,,,,Mo Williams,2,,,made,,pullup jump,38,20
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Zach Randolph,2,5:57,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:57,MEM,sub,,,,Rudy Gay,,Sam Young,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:57,MEM,sub,,,,Mike Conley,,Jamaal Tinsley,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:40,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,27,13
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:38,CLE,rebound,,,,,,,,,,Mo Williams,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:29,CLE,shot,Mo Williams,,,,,,,,,Shaquille O'Neal,2,,,made,,reverse layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:11,MEM,shot,O.J. Mayo,,,,,,,,,Zach Randolph,2,,,made,,jump,18,12
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:53,CLE,shot,Mo Williams,,,,,,,,,LeBron James,2,,,made,,layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:53,MEM,foul,,,,,,,,LeBron James,,Marc Gasol,,,,,,shooting,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:53,MEM,sub,,,,Hasheem Thabeet,,Marc Gasol,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:53,CLE,free throw,,,,,,,1,,1,LeBron James,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:40,MEM,shot,O.J. Mayo,,,,,,,,,Mike Conley,3,,,made,,3pt,11,28
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:21,CLE,shot,Mo Williams,,,,,,,,,LeBron James,3,,,made,,3pt,11,27
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:13,CLE,foul,,,,,,,,Zach Randolph,,Anderson Varejao,,,,,,personal,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:13,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:13,CLE,sub,,,,J.J. Hickson,,Anderson Varejao,,,,,,,,,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:13,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:58,MEM,foul,,,,,,,,Shaquille O'Neal,,O.J. Mayo,,,,,,shooting,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:58,CLE,free throw,,,,,,,1,,2,Shaquille O'Neal,,,foul,made,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:58,CLE,turnover,,,,,,,,,,LeBron James,,,lane violation,,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:47,MEM,turnover,,,,,,,,,,Mike Conley,,,bad pass,,Shaquille O'Neal,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:41,CLE,shot,,,,,,,,,,Shaquille O'Neal,,,,missed,,layup,25,6
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:38,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,off,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:38,CLE,shot,,,,,,,,,,Shaquille O'Neal,2,,,made,,dunk,25,6
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:35,MEM,timeout,,,,,,,,,,,,,,,,short,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:26,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,step back jump,17,18
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:23,CLE,rebound,,,,,,,,,,Mo Williams,,,,,,def,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:13,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,3pt,41,27
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:12,MEM,rebound,,,,,,,,,,,,,,,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:53,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,3,,,made,,3pt,7,23
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:30,CLE,shot,Mo Williams,,,,,,,,,Shaquille O'Neal,2,,,made,,layup,25,6
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:23,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,2:23,MEM,sub,,,,Sam Young,,Rudy Gay,,,,,,,,,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,2:05,MEM,turnover,,,,,,,,,,O.J. Mayo,,,lost ball,,Mo Williams,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,2:01,CLE,shot,Delonte West,,,,,,,,,LeBron James,2,,,made,,dunk,25,6
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:37,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,3pt,20,31
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:35,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:35,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,tip,25,6
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:31,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:31,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,tip,25,6
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:26,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:24,CLE,shot,,,,,,,,,,LeBron James,3,,,made,,3pt,11,28
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:13,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,jump,23,11
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:13,CLE,foul,,,,,,,,O.J. Mayo,,Delonte West,,,,,,shooting,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:13,MEM,free throw,,,,,,,1,,1,O.J. Mayo,,,foul,made,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:55,CLE,shot,,,,,,,,,,Shaquille O'Neal,,,,missed,,jump,32,10
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:54,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,def,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:50,MEM,turnover,,,,,,,,,,O.J. Mayo,,,lost ball,,Mo Williams,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:42,CLE,turnover,,,,,,,,,,J.J. Hickson,,,bad pass,,Hasheem Thabeet,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:39,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,2,,,made,,dunk,25,6
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:27,MEM,foul,,,,,,,,Shaquille O'Neal,,Hasheem Thabeet,,,,,,shooting,,
+Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:27,CLE,sub,,,,Anthony Parker,,Mo Williams,,,,,,,,,,,,
+Anthony Parker,Daniel Gibson,J.J. Hickson,LeBron James,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:27,CLE,sub,,,,Daniel Gibson,,Delonte West,,,,,,,,,,,,
+Anthony Parker,Daniel Gibson,J.J. Hickson,LeBron James,Shaquille O'Neal,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:27,MEM,sub,,,,Hamed Haddadi,,Hasheem Thabeet,,,,,,,,,,,,
+Anthony Parker,Daniel Gibson,J.J. Hickson,LeBron James,Shaquille O'Neal,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:27,CLE,free throw,,,,,,,1,,2,Shaquille O'Neal,,,foul,missed,,,,
+Anthony Parker,Daniel Gibson,J.J. Hickson,LeBron James,Shaquille O'Neal,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:27,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anthony Parker,Daniel Gibson,J.J. Hickson,LeBron James,Shaquille O'Neal,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:27,CLE,free throw,,,,,,,2,,2,Shaquille O'Neal,,,foul,made,,,,
+Anthony Parker,Daniel Gibson,J.J. Hickson,LeBron James,Shaquille O'Neal,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:11,CLE,foul,,,,,,,,Mike Conley,,J.J. Hickson,,,,,,personal,,
+Anthony Parker,Daniel Gibson,J.J. Hickson,LeBron James,Shaquille O'Neal,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:11,MEM,free throw,,,,,,,1,,2,Mike Conley,,,foul,made,,,,
+Anthony Parker,Daniel Gibson,J.J. Hickson,LeBron James,Shaquille O'Neal,DeMarre Carroll,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,2,0:11,MEM,sub,,,,DeMarre Carroll,,Zach Randolph,,,,,,,,,,,,
+Anthony Parker,Daniel Gibson,LeBron James,Mo Williams,Shaquille O'Neal,DeMarre Carroll,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,2,0:11,CLE,sub,,,,Mo Williams,,J.J. Hickson,,,,,,,,,,,,
+Anthony Parker,Daniel Gibson,LeBron James,Mo Williams,Shaquille O'Neal,DeMarre Carroll,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,2,0:11,MEM,free throw,,,,,,,2,,2,Mike Conley,,,foul,missed,,,,
+Anthony Parker,Daniel Gibson,LeBron James,Mo Williams,Shaquille O'Neal,DeMarre Carroll,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,2,0:10,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Anthony Parker,Daniel Gibson,LeBron James,Mo Williams,Shaquille O'Neal,DeMarre Carroll,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,2,0:00,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,36,33
+Anthony Parker,Daniel Gibson,LeBron James,Mo Williams,Shaquille O'Neal,DeMarre Carroll,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,2,0:00,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:35,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,jump,41,21
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:34,MEM,rebound,,,,,,,,,,Mike Conley,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:23,CLE,foul,,,,,,,,Marc Gasol,,LeBron James,,,,,,personal,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:11,MEM,shot,,,,,,,,,,Zach Randolph,3,,,made,,3pt,33,31
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:42,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,jump,35,25
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:41,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:39,CLE,shot,,,,,,,,,,J.J. Hickson,,,,missed,,jump bank,31,9
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:39,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:39,MEM,foul,,,,,,,,Shaquille O'Neal,,Zach Randolph,,,,,,loose ball,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:30,MEM,foul,,,,,,,,Shaquille O'Neal,,Marc Gasol,,,,,,personal,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:17,CLE,shot,,,Zach Randolph,,,,,,,Shaquille O'Neal,,,,missed,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:14,MEM,rebound,,,,,,,,,,Mike Conley,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:09,MEM,shot,O.J. Mayo,,,,,,,,,Rudy Gay,3,,,made,,3pt,43,22
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:43,CLE,shot,,,,,,,,,,LeBron James,3,,,made,,3pt,44,21
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:28,MEM,shot,Mike Conley,,,,,,,,,Zach Randolph,2,,,made,,running jump,21,11
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:28,CLE,foul,,,,,,,,Zach Randolph,,Shaquille O'Neal,,,,,,shooting,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:28,MEM,free throw,,,,,,,1,,1,Zach Randolph,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:16,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,10,27
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:15,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:03,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,13,11
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:01,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:59,MEM,jump ball,,LeBron James,,,Rudy Gay,,,,,,,Mike Conley,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:53,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:52,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:52,CLE,foul,,,,,,,,Marc Gasol,,Shaquille O'Neal,,,,,,shooting,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:52,MEM,free throw,,,,,,,1,,2,Marc Gasol,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:52,MEM,free throw,,,,,,,2,,2,Marc Gasol,,,foul,missed,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:50,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:35,CLE,shot,LeBron James,,,,,,,,,Shaquille O'Neal,2,,,made,,reverse layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:21,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,pullup jump,13,22
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:13,CLE,turnover,,,,,,,,,,Mo Williams,,,palming turnover,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:59,MEM,turnover,,,,,,,,,,O.J. Mayo,,,bad pass,,Mo Williams,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:49,CLE,turnover,,,,,,,,,,J.J. Hickson,,,lost ball,,Mike Conley,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:44,MEM,shot,Mike Conley,,,,,,,,,Rudy Gay,2,,,made,,slam dunk,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:22,CLE,shot,,,,,,,,,,Shaquille O'Neal,2,,,made,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:58,MEM,turnover,,,,,,,,,,O.J. Mayo,,,out of bounds lost ball turnover,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:45,CLE,turnover,,,,,,,,,,LeBron James,,,bad pass,,Zach Randolph,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:30,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,turnaround bank,35,8
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:13,CLE,shot,Mo Williams,,,,,,,,,J.J. Hickson,2,,,made,,dunk,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:59,CLE,foul,,,,,,,,Zach Randolph,,J.J. Hickson,,,,,,personal,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:59,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:45,MEM,turnover,,,,,,,,,,O.J. Mayo,,,bad pass,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:26,CLE,turnover,,,,,,,,,,Shaquille O'Neal,,,bad pass,,O.J. Mayo,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:15,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,jump,19,27
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:14,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:13,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:54,CLE,shot,LeBron James,,,,,,,,,Mo Williams,3,,,made,,3pt,36,28
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:40,MEM,foul,,,,,,,,Shaquille O'Neal,,Marc Gasol,,,,,,offensive,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:40,MEM,turnover,,,,,,,,,,Marc Gasol,,,foul,,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:40,CLE,sub,,,,Anderson Varejao,,J.J. Hickson,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:40,MEM,sub,,,,Hasheem Thabeet,,Marc Gasol,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:28,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,3pt,39,29
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:27,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,def,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:20,MEM,foul,,,,,,,,Anderson Varejao,,Zach Randolph,,,,,,offensive,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:20,MEM,turnover,,,,,,,,,,Zach Randolph,,,foul,,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:54,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,fade away jumper,13,24
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:51,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,def,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:49,CLE,foul,,,,,,,,Rudy Gay,,LeBron James,,,,,,shooting,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Shaquille O'Neal,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:49,MEM,free throw,,,,,,,1,,2,Rudy Gay,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:49,CLE,sub,,,,Zydrunas Ilgauskas,,Shaquille O'Neal,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:49,MEM,free throw,,,,,,,2,,2,Rudy Gay,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:33,CLE,shot,,,,,,,,,,Anthony Parker,2,,,made,,running jump,28,14
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:20,MEM,shot,Mike Conley,,,,,,,,,Rudy Gay,2,,,made,,pullup jump,41,9
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:01,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,,,,missed,,jump,44,9
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:00,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:46,MEM,shot,O.J. Mayo,,,,,,,,,Zach Randolph,2,,,made,,jump,44,14
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:21,MEM,foul,,,,,,,,LeBron James,,Hasheem Thabeet,,,,,,shooting,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:21,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Daniel Gibson,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:21,CLE,sub,,,,Daniel Gibson,,Anthony Parker,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:21,CLE,sub,,,,Delonte West,,Mo Williams,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:21,MEM,sub,,,,Hamed Haddadi,,Hasheem Thabeet,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:21,CLE,free throw,,,,,,,1,,2,LeBron James,,,foul,made,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:21,CLE,free throw,,,,,,,2,,2,LeBron James,,,foul,made,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:05,MEM,turnover,,,,,,,,,,O.J. Mayo,,,bad pass,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,1:55,MEM,foul,,,,,,,,Anderson Varejao,,O.J. Mayo,,,,,,personal,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,1:48,CLE,foul,,,,,,,,Rudy Gay,,Zydrunas Ilgauskas,,,,,,offensive,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,1:48,CLE,turnover,,,,,,,,,,Zydrunas Ilgauskas,,,foul,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,1:26,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,reverse layup,25,6
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,1:24,MEM,rebound,,,,,,,,,,Hamed Haddadi,,,,,,off,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,1:24,MEM,shot,,,,,,,,,,Hamed Haddadi,,,,missed,,tip,25,6
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,1:21,MEM,rebound,,,,,,,,,,Hamed Haddadi,,,,,,off,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,1:21,MEM,shot,,,,,,,,,,Hamed Haddadi,,,,missed,,tip,27,8
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,1:19,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,1:00,CLE,shot,Delonte West,,,,,,,,,Daniel Gibson,3,,,made,,3pt,41,24
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,0:59,MEM,timeout,,,,,,,,,,,,,,,,short,,
+Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,0:51,CLE,foul,,,,,,,,Zach Randolph,,Anderson Varejao,,,,,,personal,,
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,0:51,CLE,sub,,,,J.J. Hickson,,Anderson Varejao,,,,,,,,,,,,
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,3,0:51,MEM,sub,,,,Sam Young,,Rudy Gay,,,,,,,,,,,,
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,3,0:51,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:51,MEM,sub,,,,Marcus Williams,,Mike Conley,,,,,,,,,,,,
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:51,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:37,CLE,turnover,,,,,,,,,,LeBron James,,,bad pass,,Zach Randolph,,,
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:34,CLE,foul,,,,,,,,O.J. Mayo,,Daniel Gibson,,,,,,shooting,,
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:34,MEM,free throw,,,,,,,1,,2,O.J. Mayo,,,foul,made,,,,
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:34,MEM,free throw,,,,,,,2,,2,O.J. Mayo,,,foul,made,,,,
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:15,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,running layup,25,6
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:14,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,off,,
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:14,CLE,shot,,,,,,,,,,J.J. Hickson,,,,missed,,putback dunk,25,6
+Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:14,CLE,rebound,,,,,,,,,,,,,,,,,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:14,CLE,sub,,,,Mo Williams,,J.J. Hickson,,,,,,,,,,,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,DeMarre Carroll,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:14,MEM,sub,,,,DeMarre Carroll,,Hamed Haddadi,,,,,,,,,,,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,DeMarre Carroll,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:01,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,pullup jump,20,14
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,DeMarre Carroll,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,3,0:00,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Zydrunas Ilgauskas,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,11:51,MEM,shot,Marcus Williams,,,,,,,,,Zach Randolph,2,,,made,,jump,33,21
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Zydrunas Ilgauskas,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,11:36,CLE,turnover,,,,,,,,,,Mo Williams,,,bad pass,,Sam Young,,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Zydrunas Ilgauskas,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,11:32,CLE,foul,,,,,,,,O.J. Mayo,,Zydrunas Ilgauskas,,,,,,shooting,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Zydrunas Ilgauskas,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,11:32,MEM,free throw,,,,,,,1,,2,O.J. Mayo,,,foul,made,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,11:32,CLE,sub,,,,Shaquille O'Neal,,Zydrunas Ilgauskas,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,11:32,MEM,free throw,,,,,,,2,,2,O.J. Mayo,,,foul,made,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,11:18,CLE,turnover,,,,,,,,,,Mo Williams,,,bad pass,,Zach Randolph,,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,11:11,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,pullup jump,32,14
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,11:08,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,10:53,CLE,shot,,,Rudy Gay,,,,,,,Anderson Varejao,,,,missed,,layup,25,6
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,10:50,MEM,rebound,,,,,,,,,,Sam Young,,,,,,def,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,10:39,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,fade away jumper,44,9
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,10:36,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,off,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,10:36,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,layup,25,6
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Marcus Williams,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,4,10:36,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,10:36,MEM,sub,,,,Hamed Haddadi,,O.J. Mayo,,,,,,,,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,10:24,MEM,foul,,,,,,,,,,Zach Randolph,,,,,,defense 3 second,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,10:24,CLE,free throw,,,,,,,1,,1,Mo Williams,,,technical,made,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,10:08,CLE,shot,,,,,,,,,,Delonte West,2,,,made,,jump,43,9
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,9:50,MEM,shot,,,,,,,,,,Hamed Haddadi,,,,missed,,turnaround jump,30,11
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,9:49,MEM,rebound,,,,,,,,,,Hamed Haddadi,,,,,,off,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,9:48,MEM,shot,,,,,,,,,,Hamed Haddadi,2,,,made,,dunk,25,6
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,9:24,CLE,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,9:07,MEM,turnover,,,,,,,,,,Marcus Williams,,,bad pass,,Delonte West,,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,9:02,CLE,shot,,,,,,,,,,Delonte West,,,,missed,,layup,25,6
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,8:59,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,8:54,MEM,shot,Rudy Gay,,,,,,,,,Zach Randolph,2,,,made,,layup,25,6
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,8:37,CLE,shot,,,,,,,,,,Shaquille O'Neal,2,,,made,,dunk,25,6
+Anderson Varejao,Daniel Gibson,Delonte West,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,8:20,CLE,foul,,,,,,,,Rudy Gay,,Shaquille O'Neal,,,,,,personal,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,8:20,CLE,sub,,,,LeBron James,,Anderson Varejao,,,,,,,,,,,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,8:05,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,step back jump,10,20
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,7:48,CLE,turnover,,,,,,,,,,Shaquille O'Neal,,,3 second violation,,,,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,7:38,CLE,foul,,,,,,,,Rudy Gay,,Shaquille O'Neal,,,,,,shooting,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,7:38,CLE,sub,,,,Zydrunas Ilgauskas,,Shaquille O'Neal,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,7:38,CLE,sub,,,,Anderson Varejao,,Daniel Gibson,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,7:38,MEM,free throw,,,,,,,1,,2,Rudy Gay,,,foul,missed,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,7:38,MEM,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,7:38,MEM,free throw,,,,,,,2,,2,Rudy Gay,,,foul,missed,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,7:35,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,7:21,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,driving layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,7:05,MEM,shot,,,,,,,,,,Marcus Williams,,,,missed,,jump,29,25
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,7:04,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,6:45,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,1,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,6:43,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,off,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,6:39,MEM,foul,,,,,,,,LeBron James,,Hamed Haddadi,,,,,,shooting,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,6:39,CLE,free throw,,,,,,,1,,2,LeBron James,,,foul,missed,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,4,6:39,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,4,6:39,MEM,sub,,,,Mike Conley,,Marcus Williams,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:39,MEM,sub,,,,O.J. Mayo,,Sam Young,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:39,CLE,free throw,,,,,,,2,,2,LeBron James,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:25,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,30,23
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:24,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:14,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,reverse layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:12,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,off,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:12,CLE,shot,,,,,,,,,,Anderson Varejao,,,,missed,,tip,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:10,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:07,MEM,foul,,,,,,,,LeBron James,,Hamed Haddadi,,,,,,offensive,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:07,MEM,turnover,,,,,,,,,,Hamed Haddadi,,,foul,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:58,CLE,shot,,,,,,,,,,Mo Williams,2,,,made,,driving layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:58,MEM,foul,,,,,,,,Mo Williams,,Mike Conley,,,,,,shooting,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:58,CLE,timeout,,,,,,,,,,,,,,,,official,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:58,CLE,free throw,,,,,,,1,,1,Mo Williams,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:40,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,3pt,43,24
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:39,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Hamed Haddadi,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:37,MEM,foul,,,,,,,,LeBron James,,O.J. Mayo,,,,,,personal,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:37,MEM,sub,,,,Marc Gasol,,Hamed Haddadi,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:20,CLE,shot,LeBron James,,,,,,,,,Zydrunas Ilgauskas,2,,,made,,jump,40,15
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:02,CLE,foul,,,,,,,,Mike Conley,,Mo Williams,,,,,,shooting,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:02,MEM,free throw,,,,,,,1,,2,Mike Conley,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:02,MEM,free throw,,,,,,,2,,2,Mike Conley,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:44,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,,,,missed,,jump,32,22
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:43,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:36,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:35,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:35,CLE,foul,,,,,,,,Zach Randolph,,Zydrunas Ilgauskas,,,,,,shooting,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:35,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:35,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:24,CLE,shot,,,,,,,,,,Mo Williams,3,,,made,,3pt,38,27
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:04,MEM,shot,,,,,,,,,,Marc Gasol,2,,,made,,turnaround hook,29,10
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:46,CLE,turnover,,,,,,,,,,LeBron James,,,lost ball,,Rudy Gay,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:34,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:31,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:18,CLE,turnover,,,,,,,,,,Mo Williams,,,bad pass,,Rudy Gay,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:14,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:55,CLE,shot,LeBron James,,,,,,,,,Anderson Varejao,2,,,made,,layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:55,MEM,foul,,,,,,,,Anderson Varejao,,Zach Randolph,,,,,,shooting,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:55,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:55,CLE,free throw,,,,,,,1,,1,Anderson Varejao,,,foul,missed,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:53,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:42,MEM,turnover,,,,,,,,,,Marc Gasol,,,out of bounds lost ball turnover,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:31,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:30,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:13,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,driving layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:55,CLE,shot,,,Rudy Gay,,,,,,,Zydrunas Ilgauskas,,,,missed,,layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:53,CLE,rebound,,,,,,,,,,LeBron James,,,,,,off,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:46,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,24,34
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:45,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:22,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,step back jump,32,23
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:20,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:08,MEM,foul,,,,,,,,LeBron James,,Rudy Gay,,,,,,personal,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:08,CLE,free throw,,,,,,,1,,2,LeBron James,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:08,CLE,free throw,,,,,,,2,,2,LeBron James,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:56,MEM,turnover,,,,,,,,,,O.J. Mayo,,,lost ball,,Mo Williams,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:56,CLE,jump ball,,Mo Williams,,,Marc Gasol,,,,,,,Mike Conley,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:56,CLE,turnover,,,,,,,,,,Mo Williams,,,lost ball,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:47,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:45,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:40,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:40,CLE,sub,,,,Shaquille O'Neal,,Anderson Varejao,,,,,,,,,,,,
+Anthony Parker,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:40,CLE,sub,,,,Anthony Parker,,Zydrunas Ilgauskas,,,,,,,,,,,,
+Anthony Parker,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:24,CLE,shot,,,,,,,,,,Shaquille O'Neal,,,,missed,,reverse layup,25,6
+Anthony Parker,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:22,CLE,rebound,,,,,,,,,,LeBron James,,,,,,off,,
+Anthony Parker,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:22,CLE,shot,,,Marc Gasol,,,,,,,LeBron James,,,,missed,,tip,23,8
+Anthony Parker,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:21,CLE,rebound,,,,,,,,,,LeBron James,,,,,,off,,
+Anthony Parker,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:21,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,reverse layup,25,6
+Anthony Parker,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:21,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Mo Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:21,CLE,sub,,,,Anderson Varejao,,Shaquille O'Neal,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:21,CLE,sub,,,,Zydrunas Ilgauskas,,Anthony Parker,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:18,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,driving layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:01,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,43,23
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:00,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,5:00,OFF,jump ball,,Shaquille O'Neal,,,Marc Gasol,,,,,,,Mike Conley,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,4:49,CLE,violation,,,,,,,,,,Mo Williams,,,,,,kicked ball,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,4:40,MEM,shot,Zach Randolph,,,,,,,,,Marc Gasol,2,,,made,,turnaround jump,26,13
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,4:24,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,running jump,20,13
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,4:21,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,4:05,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,3pt,13,28
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,4:05,MEM,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,4:05,CLE,foul,,,,,,,,Zach Randolph,,Anderson Varejao,,,,,,loose ball,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,3:50,MEM,shot,,,Shaquille O'Neal,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,3:48,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,3:25,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,jump,10,24
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,3:09,CLE,foul,,,,,,,,Zach Randolph,,Anderson Varejao,,,,,,shooting,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,3:09,CLE,sub,,,,J.J. Hickson,,Anderson Varejao,,,,,,,,,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,3:09,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,3:09,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,2:53,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,pullup jump,17,24
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,2:52,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,2:35,MEM,turnover,,,,,,,,,,Mike Conley,,,bad pass,,Mo Williams,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,2:30,CLE,turnover,,,,,,,,,,Delonte West,,,bad pass,,Rudy Gay,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,2:09,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,pullup jump,40,20
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,2:07,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,1:56,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,fade away jumper,9,12
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,1:36,CLE,shot,,,,,,,,,,LeBron James,3,,,made,,3pt,41,27
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,1:17,CLE,foul,,,,,,,,Marc Gasol,,Shaquille O'Neal,,,,,,personal,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,1:08,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,3pt,41,24
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,1:06,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:49,CLE,shot,,,,,,,,,,Delonte West,,,,missed,,3pt,2,8
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:48,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:29,MEM,shot,,,J.J. Hickson,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:27,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:23,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,layup,25,6
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:23,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:19,MEM,shot,Marc Gasol,,,,,,,,,O.J. Mayo,3,,,made,,3pt,36,29
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:19,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:19,CLE,sub,,,,Daniel Gibson,,J.J. Hickson,,,,,,,,,,,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,5,0:19,MEM,sub,,,,Sam Young,,Zach Randolph,,,,,,,,,,,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,5,0:14,MEM,foul,,,,,,,,LeBron James,,Sam Young,,,,,,shooting,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,5,0:14,CLE,free throw,,,,,,,1,,2,LeBron James,,,foul,made,,,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:14,MEM,sub,,,,Zach Randolph,,Sam Young,,,,,,,,,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:14,CLE,sub,,,,J.J. Hickson,,Daniel Gibson,,,,,,,,,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:14,CLE,free throw,,,,,,,2,,2,LeBron James,,,foul,made,,,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:14,MEM,timeout,,,,,,,,,,,,,,,,short,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:14,MEM,timeout,,,,,,,,,,,,,,,,short,,
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:03,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,driving layup,25,6
+Delonte West,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:03,CLE,timeout,,,,,,,,,,,,,,,,short,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:03,CLE,sub,,,,Daniel Gibson,,J.J. Hickson,,,,,,,,,,,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,5,0:03,CLE,sub,,,,Zydrunas Ilgauskas,,Shaquille O'Neal,,,,,,,,,,,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,5,0:03,MEM,sub,,,,Sam Young,,Zach Randolph,,,,,,,,,,,,
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,5,0:00,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,10,32
+Daniel Gibson,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,5,0:00,CLE,rebound,,,,,,,,,,,,,,,,,,

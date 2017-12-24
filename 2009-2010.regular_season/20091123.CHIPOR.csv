@@ -1,0 +1,424 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,12:00,OFF,jump ball,,Joakim Noah,,,Greg Oden,,,,,,,Derrick Rose,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,11:38,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,42,15
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,11:37,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,11:17,POR,shot,,,,,,,,,,Greg Oden,2,,,made,,driving hook,29,7
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,10:49,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,6,8
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,10:48,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,10:43,POR,shot,,,,,,,,,,Martell Webster,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,10:42,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,10:35,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,pullup jump,33,22
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,10:31,POR,turnover,,,,,,,,,,Steve Blake,,,bad pass,,Derrick Rose,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,10:23,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,10,26
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,10:22,POR,rebound,,,,,,,,,,Steve Blake,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,10:09,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,hook,18,8
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,10:09,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,10:00,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,9:59,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,9:59,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,tip,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,9:59,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,9:49,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,jump,18,12
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,9:48,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,9:34,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,jump,19,10
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,9:34,POR,foul,,,,,,,,Luol Deng,,LaMarcus Aldridge,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,9:34,CHI,free throw,,,,,,,1,,1,Luol Deng,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,9:23,POR,shot,,,,,,,,,,Brandon Roy,2,,,made,,jump,38,19
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,9:12,CHI,shot,Derrick Rose,,,,,,,,,John Salmons,3,,,made,,3pt,2,5
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,8:53,POR,turnover,,,,,,,,,,LaMarcus Aldridge,,,backcourt turnover,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,8:44,CHI,shot,Taj Gibson,,,,,,,,,Joakim Noah,2,,,made,,jump,26,22
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,8:20,POR,shot,,,,,,,,,,Martell Webster,,,,missed,,3pt,46,18
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,8:19,POR,rebound,,,,,,,,,,Greg Oden,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,8:19,POR,shot,,,,,,,,,,Greg Oden,2,,,made,,tip,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,7:56,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,41,19
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,7:56,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,7:37,POR,shot,,,,,,,,,,Martell Webster,,,,missed,,step back jump,9,8
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,7:36,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,7:28,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,pullup jump,15,22
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,7:09,CHI,foul,,,,,,,,Greg Oden,,Joakim Noah,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,7:09,POR,free throw,,,,,,,1,,2,Greg Oden,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,7:09,POR,free throw,,,,,,,2,,2,Greg Oden,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,6:57,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,driving reverse layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,6:56,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,6:45,POR,shot,,,,,,,,,,LaMarcus Aldridge,2,,,made,,turnaround hook,16,7
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,6:19,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,11,19
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,6:19,POR,rebound,,,,,,,,,,Martell Webster,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,6:03,POR,shot,Steve Blake,,,,,,,,,LaMarcus Aldridge,3,,,made,,3pt,2,7
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,5:48,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,13,21
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,5:48,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,5:48,POR,foul,,,,,,,,Joakim Noah,,Greg Oden,,,,,,loose ball,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,1,5:48,POR,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,5:48,POR,sub,,,,Joel Przybilla,,Greg Oden,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,5:39,CHI,shot,Derrick Rose,,,,,,,,,Taj Gibson,2,,,made,,jump,24,22
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,5:23,POR,shot,,,,,,,,,,Martell Webster,,,,missed,,running jump,28,14
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,5:22,POR,rebound,,,,,,,,,,Martell Webster,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,5:21,POR,shot,,,Joakim Noah,,,,,,,Martell Webster,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,5:19,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,5:13,CHI,shot,John Salmons,,,,,,,,,Taj Gibson,2,,,made,,dunk,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,4:55,POR,shot,,,,,,,,,,Brandon Roy,2,,,made,,floating jump,25,10
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,4:29,CHI,shot,,,LaMarcus Aldridge,,,,,,,Taj Gibson,,,,missed,,hook,26,11
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,4:27,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,4:10,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,pullup jump,10,9
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,4:08,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,4:04,POR,shot,Steve Blake,,,,,,,,,Martell Webster,2,,,made,,alley oop dunk,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,3:41,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,pullup jump,16,24
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,3:32,CHI,foul,,,,,,,,LaMarcus Aldridge,,Taj Gibson,,,,,,personal,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,3:32,CHI,sub,,,,Brad Miller,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,1,3:32,CHI,sub,,,,Kirk Hinrich,,Derrick Rose,,,,,,,,,,,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Rudy Fernandez,1,3:32,POR,sub,,,,Rudy Fernandez,,Steve Blake,,,,,,,,,,,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,3:32,POR,sub,,,,Andre Miller,,Martell Webster,,,,,,,,,,,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,3:18,POR,shot,Brandon Roy,,,,,,,,,Joel Przybilla,2,,,made,,layup,25,6
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,2:56,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,15,23
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,2:55,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,2:55,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,putback dunk,25,6
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,2:31,POR,shot,LaMarcus Aldridge,,,,,,,,,Rudy Fernandez,3,,,made,,3pt,44,23
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,2:21,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,2:16,POR,foul,,,,,,,,John Salmons,,Rudy Fernandez,,,,,,shooting,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,2:16,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,made,,,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,2:16,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,made,,,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,1:54,POR,shot,Brandon Roy,,,,,,,,,LaMarcus Aldridge,2,,,made,,jump,25,26
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,1:35,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,14,29
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,1:33,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,off,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,1:30,CHI,shot,Brad Miller,,,,,,,,,John Salmons,2,,,made,,jump,14,14
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,1:13,CHI,foul,,,,,,,,Brandon Roy,,John Salmons,,,,,,personal,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,1:09,CHI,foul,,,,,,,,Andre Miller,,Brad Miller,,,,,,personal,,
+Brad Miller,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,1:09,POR,free throw,,,,,,,1,,2,Andre Miller,,,foul,made,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,1:09,CHI,sub,,,,Taj Gibson,,Joakim Noah,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,1:09,POR,free throw,,,,,,,2,,2,Andre Miller,,,foul,made,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,0:54,POR,foul,,,,,,,,John Salmons,,Rudy Fernandez,,,,,,shooting,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,1,0:54,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,made,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,1,0:54,POR,sub,,,,Jerryd Bayless,,Rudy Fernandez,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,1,0:54,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,missed,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,1,0:53,POR,rebound,,,,,,,,,,Joel Przybilla,,,,,,def,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,1,0:37,POR,shot,,,,,,,,,,Brandon Roy,2,,,made,,jump,10,18
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,1,0:29,CHI,shot,,,,,,,,,,Luol Deng,3,,,made,,3pt,30,30
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,1,0:11,POR,shot,,,,,,,,,,Brandon Roy,3,,,made,,3pt,24,30
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,1,0:01,CHI,turnover,,,,,,,,,,Kirk Hinrich,,,traveling,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,1,0:00,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,3pt,43,49
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,1,0:00,POR,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,Martell Webster,2,11:35,POR,shot,,,,,,,,,,Andre Miller,2,,,made,,driving layup,25,6
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,Martell Webster,2,11:17,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,13,23
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,Martell Webster,2,11:15,POR,rebound,,,,,,,,,,Martell Webster,,,,,,def,,
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,Martell Webster,2,11:09,POR,shot,,,Taj Gibson,,,,,,,Martell Webster,,,,missed,,driving layup,25,6
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,Martell Webster,2,11:07,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,Martell Webster,2,11:01,CHI,shot,Jannero Pargo,,,,,,,,,Luol Deng,2,,,made,,jump,6,16
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,Martell Webster,2,10:45,POR,shot,,,,,,,,,,LaMarcus Aldridge,2,,,made,,driving layup,25,6
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,Martell Webster,2,10:21,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,42,9
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,Martell Webster,2,10:20,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Jerryd Bayless,Joel Przybilla,LaMarcus Aldridge,Martell Webster,2,10:16,CHI,foul,,,,,,,,Jerryd Bayless,,Jannero Pargo,,,,,,personal,,
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Martell Webster,2,10:16,POR,sub,,,,Greg Oden,,Joel Przybilla,,,,,,,,,,,,
+Brad Miller,Jannero Pargo,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,10:16,POR,sub,,,,Dante Cunningham,,LaMarcus Aldridge,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,10:16,CHI,sub,,,,Derrick Rose,,Luol Deng,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,10:02,CHI,foul,,,,,,,,Greg Oden,,Brad Miller,,,,,,shooting,,
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,10:02,POR,free throw,,,,,,,1,,2,Greg Oden,,,foul,made,,,,
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,10:02,POR,free throw,,,,,,,2,,2,Greg Oden,,,foul,made,,,,
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,9:48,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,jump,14,21
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,9:47,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,9:42,CHI,foul,,,,,,,,Andre Miller,,Derrick Rose,,,,,,shooting,,
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,9:42,POR,free throw,,,,,,,1,,2,Andre Miller,,,foul,made,,,,
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,9:42,POR,free throw,,,,,,,2,,2,Andre Miller,,,foul,made,,,,
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,9:32,CHI,shot,Brad Miller,,,,,,,,,Jannero Pargo,3,,,made,,3pt,47,5
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,9:14,POR,shot,,,,,,,,,,Jerryd Bayless,2,,,made,,driving layup,25,6
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,8:52,CHI,turnover,,,,,,,,,,Brad Miller,,,bad pass,,Dante Cunningham,,,
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,8:43,POR,turnover,,,,,,,,,,Dante Cunningham,,,traveling,,,,,
+Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,8:43,CHI,timeout,,,,,,,,,,,,,,,,official,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,8:43,CHI,sub,,,,Joakim Noah,,Brad Miller,,,,,,,,,,,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Dante Cunningham,Greg Oden,Jerryd Bayless,Martell Webster,2,8:29,POR,violation,,,,,,,,,,Dante Cunningham,,,,,,kicked ball,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,8:29,POR,sub,,,,Brandon Roy,,Martell Webster,,,,,,,,,,,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,8:26,POR,foul,,,,,,,,Kirk Hinrich,,Brandon Roy,,,,,,personal,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,8:19,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,25,21
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,8:16,POR,rebound,,,,,,,,,,Jerryd Bayless,,,,,,def,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,7:58,POR,shot,,,,,,,,,,Jerryd Bayless,,,,missed,,jump,15,27
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,7:58,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,7:47,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,39,19
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,7:46,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,7:44,POR,turnover,,,,,,,,,,Andre Miller,,,lost ball,,Jannero Pargo,,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,7:40,CHI,shot,Jannero Pargo,,,,,,,,,Joakim Noah,2,,,made,,slam dunk,25,6
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,7:12,POR,shot,,,,,,,,,,Greg Oden,2,,,made,,turnaround hook,33,12
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,6:52,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,48,7
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,6:51,POR,rebound,,,,,,,,,,Brandon Roy,,,,,,def,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,6:47,POR,shot,,,,,,,,,,Jerryd Bayless,,,,missed,,layup,25,6
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,6:46,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,6:37,CHI,shot,,,,,,,,,,Jannero Pargo,2,,,made,,pullup jump,7,9
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Jerryd Bayless,2,6:18,CHI,foul,,,,,,,,Brandon Roy,,Kirk Hinrich,,,,,,personal,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Steve Blake,2,6:18,POR,sub,,,,Steve Blake,,Jerryd Bayless,,,,,,,,,,,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,6:18,POR,sub,,,,LaMarcus Aldridge,,Dante Cunningham,,,,,,,,,,,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,6:12,POR,shot,,,,,,,,,,Andre Miller,,,,missed,,driving layup,25,6
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,6:11,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,6:06,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,3pt,37,27
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,6:05,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,off,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,6:01,CHI,shot,,,Greg Oden,,,,,,,Taj Gibson,,,,missed,,layup,25,6
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,5:59,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,5:56,POR,turnover,,,,,,,,,,Steve Blake,,,bad pass,,Kirk Hinrich,,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,5:52,POR,foul,,,,,,,,Jannero Pargo,,Greg Oden,,,,,,shooting,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,5:52,POR,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,5:52,CHI,free throw,,,,,,,1,,2,Jannero Pargo,,,foul,made,,,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,5:52,CHI,free throw,,,,,,,2,,2,Jannero Pargo,,,foul,made,,,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,5:37,CHI,foul,,,,,,,,Brandon Roy,,Kirk Hinrich,,,,,,shooting,,
+Derrick Rose,Jannero Pargo,Joakim Noah,Kirk Hinrich,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,5:37,POR,free throw,,,,,,,1,,2,Brandon Roy,,,foul,made,,,,
+Derrick Rose,Jannero Pargo,Joakim Noah,John Salmons,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,5:37,CHI,sub,,,,John Salmons,,Kirk Hinrich,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Greg Oden,LaMarcus Aldridge,Steve Blake,2,5:37,CHI,sub,,,,Luol Deng,,Jannero Pargo,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,5:37,POR,sub,,,,Dante Cunningham,,Greg Oden,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,5:37,POR,free throw,,,,,,,2,,2,Brandon Roy,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,5:35,POR,rebound,,,,,,,,,,Dante Cunningham,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,5:31,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,3pt,36,27
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,5:30,POR,rebound,,,,,,,,,,Steve Blake,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,5:28,POR,shot,Steve Blake,,,,,,,,,LaMarcus Aldridge,2,,,made,,slam dunk,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,5:04,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,4,8
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,5:04,POR,rebound,,,,,,,,,,Dante Cunningham,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,4:51,POR,shot,,,,,,,,,,Dante Cunningham,,,,missed,,jump,28,22
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,4:50,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,4:50,POR,shot,,,,,,,,,,LaMarcus Aldridge,2,,,made,,tip,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,4:33,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,jump,7,13
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,4:22,CHI,foul,,,,,,,,Brandon Roy,,Taj Gibson,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,4:22,POR,free throw,,,,,,,1,,2,Brandon Roy,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,4:22,POR,free throw,,,,,,,2,,2,Brandon Roy,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,4:01,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,9,12
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,4:00,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,3:54,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,38,14
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,3:53,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,LaMarcus Aldridge,Steve Blake,2,3:53,CHI,foul,,,,,,,,Andre Miller,,Derrick Rose,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,3:53,POR,sub,,,,Joel Przybilla,,Dante Cunningham,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,3:53,CHI,sub,,,,Kirk Hinrich,,Taj Gibson,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,3:53,POR,free throw,,,,,,,1,,2,Andre Miller,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,3:53,POR,free throw,,,,,,,2,,2,Andre Miller,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,3:35,CHI,turnover,,,,,,,,,,Derrick Rose,,,lost ball,,Steve Blake,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,3:24,POR,shot,Andre Miller,,,,,,,,,Joel Przybilla,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,3:18,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,3:06,POR,foul,,,,,,,,Luol Deng,,Joel Przybilla,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,2:58,CHI,shot,Joakim Noah,,,,,,,,,Kirk Hinrich,2,,,made,,jump,7,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,2:45,CHI,foul,,,,,,,,,,Joakim Noah,,,,,,defense 3 second,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,2:45,POR,free throw,,,,,,,1,,1,Andre Miller,,,technical,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,2:36,POR,turnover,,,,,,,,,,Andre Miller,,,lost ball,,Kirk Hinrich,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,2:32,CHI,shot,Luol Deng,,,,,,,,,John Salmons,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,2:19,POR,shot,LaMarcus Aldridge,,,,,,,,,Steve Blake,3,,,made,,3pt,46,18
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,2:03,CHI,shot,John Salmons,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,8,24
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,1:46,POR,shot,Brandon Roy,,,,,,,,,Andre Miller,2,,,made,,jump,15,24
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,1:37,CHI,foul,,,,,,,,Joel Przybilla,,Joakim Noah,,,,,,offensive,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,1:37,CHI,turnover,,,,,,,,,,Joakim Noah,,,foul,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,1:27,POR,shot,Andre Miller,,,,,,,,,LaMarcus Aldridge,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,1:13,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,driving layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,1:13,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,0:58,POR,shot,Andre Miller,,,,,,,,,Joel Przybilla,2,,,made,,reverse layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,0:53,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,0:42,CHI,shot,Derrick Rose,,,,,,,,,Luol Deng,3,,,made,,3pt,35,28
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,0:26,POR,shot,Brandon Roy,,,,,,,,,LaMarcus Aldridge,2,,,made,,jump,23,27
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,0:02,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,hook,21,14
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,0:01,POR,rebound,,,,,,,,,,Joel Przybilla,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,0:00,POR,shot,,,,,,,,,,Andre Miller,,,,missed,,3pt,11,51
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Steve Blake,2,0:00,POR,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,11:41,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,jump,40,12
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,11:39,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,11:18,CHI,shot,Luol Deng,,,,,,,,,Derrick Rose,2,,,made,,driving dunk,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,11:06,POR,foul,,,,,,,,Taj Gibson,,Greg Oden,,,,,,offensive,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,11:06,POR,turnover,,,,,,,,,,Greg Oden,,,foul,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,10:50,CHI,foul,,,,,,,,Steve Blake,,Taj Gibson,,,,,,offensive,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,10:50,CHI,turnover,,,,,,,,,,Taj Gibson,,,foul,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,10:32,CHI,foul,,,,,,,,Greg Oden,,Taj Gibson,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,10:32,POR,free throw,,,,,,,1,,2,Greg Oden,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,10:32,POR,free throw,,,,,,,2,,2,Greg Oden,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,10:31,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,10:15,CHI,shot,Joakim Noah,,,,,,,,,Derrick Rose,2,,,made,,jump,24,12
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,9:53,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,jump,35,25
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,9:53,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,9:36,POR,foul,,,,,,,,Luol Deng,,LaMarcus Aldridge,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,9:36,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,9:36,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,9:11,POR,shot,,,,,,,,,,Steve Blake,,,,missed,,3pt,33,29
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,9:10,POR,rebound,,,,,,,,,,Greg Oden,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,9:10,CHI,foul,,,,,,,,Greg Oden,,Joakim Noah,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,9:10,POR,free throw,,,,,,,1,,2,Greg Oden,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,9:10,POR,free throw,,,,,,,2,,2,Greg Oden,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,8:56,CHI,shot,Derrick Rose,,,,,,,,,John Salmons,2,,,made,,jump,13,7
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,8:44,POR,shot,,,,,,,,,,Martell Webster,2,,,made,,driving layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,8:44,CHI,foul,,,,,,,,Martell Webster,,John Salmons,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,8:44,POR,free throw,,,,,,,1,,1,Martell Webster,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,8:44,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,8:30,CHI,shot,Taj Gibson,,,,,,,,,Luol Deng,2,,,made,,driving reverse layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,8:08,CHI,foul,,,,,,,,Brandon Roy,,John Salmons,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,7:55,POR,shot,,,,,,,,,,Steve Blake,,,,missed,,3pt,2,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,7:54,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,7:43,POR,foul,,,,,,,,Taj Gibson,,Brandon Roy,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,7:37,CHI,turnover,,,,,,,,,,Derrick Rose,,,backcourt turnover,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,7:23,POR,shot,,,Taj Gibson,,,,,,,LaMarcus Aldridge,,,,missed,,turnaround fade away,43,7
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,7:23,POR,rebound,,,,,,,,,,Greg Oden,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,7:20,POR,shot,,,,,,,,,,Greg Oden,2,,,made,,dunk,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,7:03,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,jump,23,27
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,6:43,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,fade away jumper,33,20
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,6:41,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,6:37,POR,foul,,,,,,,,Taj Gibson,,LaMarcus Aldridge,,,,,,offensive,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,6:37,POR,turnover,,,,,,,,,,LaMarcus Aldridge,,,foul,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,6:22,CHI,shot,Joakim Noah,,,,,,,,,Luol Deng,2,,,made,,dunk,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,6:03,POR,shot,,,,,,,,,,Brandon Roy,2,,,made,,driving finger roll layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,5:43,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,driving reverse layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,5:21,POR,turnover,,,,,,,,,,Greg Oden,,,3 second violation,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Greg Oden,LaMarcus Aldridge,Martell Webster,Steve Blake,3,5:21,POR,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,3,5:21,POR,sub,,,,Joel Przybilla,,Greg Oden,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,3,5:04,POR,foul,,,,,,,,John Salmons,,Joel Przybilla,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,3,5:04,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,3,5:04,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,3,4:44,POR,shot,,,,,,,,,,LaMarcus Aldridge,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,3,4:44,POR,rebound,,,,,,,,,,Joel Przybilla,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,3,4:44,CHI,foul,,,,,,,,Joel Przybilla,,Joakim Noah,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Martell Webster,Steve Blake,3,4:44,POR,free throw,,,,,,,1,,2,Joel Przybilla,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,4:44,POR,sub,,,,Rudy Fernandez,,Martell Webster,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,4:44,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,4:44,POR,free throw,,,,,,,2,,2,Joel Przybilla,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,4:23,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,running jump,33,15
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,4:07,POR,shot,,,Taj Gibson,,,,,,,Brandon Roy,,,,missed,,driving layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,4:06,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,3:53,CHI,shot,Brad Miller,,,,,,,,,Luol Deng,2,,,made,,jump,13,25
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,3:35,POR,shot,Brandon Roy,,,,,,,,,LaMarcus Aldridge,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,3,3:35,CHI,foul,,,,,,,,LaMarcus Aldridge,,Derrick Rose,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,3:35,POR,sub,,,,Andre Miller,,Steve Blake,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,3:35,POR,free throw,,,,,,,1,,1,LaMarcus Aldridge,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,3:17,POR,foul,,,,,,,,Luol Deng,,Andre Miller,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,3:17,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,3:17,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,3:05,POR,shot,Rudy Fernandez,,,,,,,,,Brandon Roy,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,3:05,CHI,foul,,,,,,,,Brandon Roy,,Brad Miller,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,3:05,POR,free throw,,,,,,,1,,1,Brandon Roy,,,foul,missed,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,3:03,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,2:38,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,39,22
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,2:38,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,2:16,POR,shot,Andre Miller,,,,,,,,,Rudy Fernandez,2,,,made,,reverse layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,2:10,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,1:55,POR,foul,,,,,,,,Taj Gibson,,LaMarcus Aldridge,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,1:55,CHI,free throw,,,,,,,1,,2,Taj Gibson,,,foul,missed,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Joel Przybilla,LaMarcus Aldridge,Rudy Fernandez,3,1:55,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,1:55,POR,sub,,,,Dante Cunningham,,LaMarcus Aldridge,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,1:55,CHI,sub,,,,Kirk Hinrich,,Derrick Rose,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,1:55,CHI,free throw,,,,,,,2,,2,Taj Gibson,,,foul,missed,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,1:54,POR,rebound,,,,,,,,,,Dante Cunningham,,,,,,def,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,1:31,POR,shot,,,,,,,,,,Andre Miller,2,,,made,,pullup jump,27,24
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,1:19,POR,foul,,,,,,,,Brad Miller,,Dante Cunningham,,,,,,personal,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,1:19,CHI,sub,,,,James Johnson,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,1:19,CHI,free throw,,,,,,,1,,2,Brad Miller,,,foul,made,,,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,1:19,CHI,sub,,,,Jannero Pargo,,John Salmons,,,,,,,,,,,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,1:19,CHI,free throw,,,,,,,2,,2,Brad Miller,,,foul,made,,,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:59,CHI,foul,,,,,,,,Brandon Roy,,Jannero Pargo,,,,,,shooting,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:59,POR,free throw,,,,,,,1,,2,Brandon Roy,,,foul,made,,,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:59,POR,free throw,,,,,,,2,,2,Brandon Roy,,,foul,made,,,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:52,POR,foul,,,,,,,,Jannero Pargo,,Brandon Roy,,,,,,shooting,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:52,CHI,free throw,,,,,,,1,,3,Jannero Pargo,,,foul,made,,,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:52,CHI,free throw,,,,,,,2,,3,Jannero Pargo,,,foul,made,,,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:52,CHI,free throw,,,,,,,3,,3,Jannero Pargo,,,foul,made,,,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:34,POR,shot,Brandon Roy,,,,,,,,,Dante Cunningham,2,,,made,,jump,38,18
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:25,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,jump,20,22
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:22,POR,rebound,,,,,,,,,,Rudy Fernandez,,,,,,def,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:00,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,running jump,26,14
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Joel Przybilla,Rudy Fernandez,3,0:00,POR,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,11:44,CHI,shot,Brad Miller,,,,,,,,,Kirk Hinrich,2,,,made,,layup,25,6
+Brad Miller,James Johnson,Jannero Pargo,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,11:23,CHI,foul,,,,,,,,Brandon Roy,,Luol Deng,,,,,,personal,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,11:23,CHI,sub,,,,John Salmons,,Luol Deng,,,,,,,,,,,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,11:14,CHI,foul,,,,,,,,Andre Miller,,James Johnson,,,,,,shooting,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,11:14,POR,free throw,,,,,,,1,,2,Andre Miller,,,foul,missed,,,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,11:14,POR,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,11:14,POR,free throw,,,,,,,2,,2,Andre Miller,,,foul,made,,,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,11:05,CHI,shot,,,Dante Cunningham,,,,,,,Kirk Hinrich,,,,missed,,driving layup,25,6
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,11:05,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,11:00,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,8,7
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,11:00,POR,rebound,,,,,,,,,,Brandon Roy,,,,,,def,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,10:46,POR,shot,Brandon Roy,,,,,,,,,Rudy Fernandez,3,,,made,,3pt,6,21
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,10:25,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,37,21
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,10:25,POR,rebound,,,,,,,,,,Rudy Fernandez,,,,,,def,,
+Brad Miller,James Johnson,Jannero Pargo,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,10:14,CHI,foul,,,,,,,,,,James Johnson,,,,,,defense 3 second,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,10:14,CHI,sub,,,,Derrick Rose,,Jannero Pargo,,,,,,,,,,,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,10:14,POR,free throw,,,,,,,1,,1,Rudy Fernandez,,,technical,missed,,,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,10:14,POR,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,10:14,CHI,sub,,,,Joakim Noah,,James Johnson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,10:10,POR,shot,,,,,,,,,,Greg Oden,,,,missed,,hook,27,9
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,10:09,POR,rebound,,,,,,,,,,Greg Oden,,,,,,off,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,10:09,POR,jump ball,,Joakim Noah,,,Greg Oden,,,,,,,Rudy Fernandez,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,9:51,POR,shot,,,,,,,,,,Brandon Roy,,,,missed,,jump,26,25
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,9:51,POR,rebound,,,,,,,,,,Greg Oden,,,,,,off,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,9:49,CHI,foul,,,,,,,,Greg Oden,,Brad Miller,,,,,,shooting,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,9:49,POR,free throw,,,,,,,1,,2,Greg Oden,,,foul,made,,,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,9:49,POR,free throw,,,,,,,2,,2,Greg Oden,,,foul,made,,,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,9:39,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,pullup jump,33,23
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,9:36,POR,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,9:12,POR,shot,,,,,,,,,,Andre Miller,,,,missed,,driving layup,25,6
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,9:11,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,8:58,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,47,6
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,8:57,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,8:57,CHI,shot,,,,,,,,,,Joakim Noah,2,,,made,,tip,25,6
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,8:28,POR,shot,,,,,,,,,,Rudy Fernandez,3,,,made,,3pt,34,30
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,8:06,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,19,27
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,8:06,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,8:06,POR,foul,,,,,,,,Joakim Noah,,Dante Cunningham,,,,,,loose ball,,
+Brad Miller,Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,8:06,CHI,timeout,,,,,,,,,,,,,,,,official,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Brandon Roy,Dante Cunningham,Greg Oden,Rudy Fernandez,4,8:06,CHI,sub,,,,Luol Deng,,Brad Miller,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Dante Cunningham,Greg Oden,Rudy Fernandez,Steve Blake,4,8:06,POR,sub,,,,Steve Blake,,Brandon Roy,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,8:06,POR,sub,,,,LaMarcus Aldridge,,Dante Cunningham,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,7:54,CHI,shot,Joakim Noah,,,,,,,,,Derrick Rose,2,,,made,,reverse layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,7:32,POR,shot,Greg Oden,,,,,,,,,Rudy Fernandez,2,,,made,,driving layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,7:14,CHI,shot,,,Greg Oden,,,,,,,Joakim Noah,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,7:13,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,7:13,POR,foul,,,,,,,,Joakim Noah,,Greg Oden,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,7:13,CHI,free throw,,,,,,,1,,2,Joakim Noah,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,7:13,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,7:13,CHI,free throw,,,,,,,2,,2,Joakim Noah,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,6:53,POR,shot,Andre Miller,,,,,,,,,Greg Oden,2,,,made,,alley oop dunk,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,6:35,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,13,22
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,6:34,POR,rebound,,,,,,,,,,Steve Blake,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,6:15,POR,jump ball,,John Salmons,,,Greg Oden,,,,,,,Andre Miller,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,6:10,CHI,foul,,,,,,,,Andre Miller,,Derrick Rose,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,6:10,POR,free throw,,,,,,,1,,2,Andre Miller,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,6:10,POR,free throw,,,,,,,2,,2,Andre Miller,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:56,CHI,shot,John Salmons,,,,,,,,,Derrick Rose,2,,,made,,jump,32,17
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:35,POR,shot,,,,,,,,,,Rudy Fernandez,,,,missed,,3pt,33,29
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:34,POR,rebound,,,,,,,,,,Greg Oden,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:34,CHI,foul,,,,,,,,Greg Oden,,Joakim Noah,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:34,CHI,foul,,,,,,,,Greg Oden,,Joakim Noah,,,,,,technical,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:34,POR,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:34,CHI,sub,,,,Taj Gibson,,Kirk Hinrich,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:34,POR,free throw,,,,,,,1,,1,Steve Blake,,,technical,missed,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:34,POR,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:34,POR,free throw,,,,,,,1,,2,Greg Oden,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:34,POR,free throw,,,,,,,2,,2,Greg Oden,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:33,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:18,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,jump,35,24
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,5:17,POR,rebound,,,,,,,,,,Steve Blake,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:53,POR,shot,,,,,,,,,,Rudy Fernandez,,,,missed,,3pt,14,28
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:52,POR,rebound,,,,,,,,,,Steve Blake,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:47,POR,shot,LaMarcus Aldridge,,,,,,,,,Greg Oden,2,,,made,,slam dunk,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:28,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,19,25
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:28,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:15,CHI,foul,,,,,,,,LaMarcus Aldridge,,Taj Gibson,,,,,,personal,,
+Derrick Rose,James Johnson,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:15,CHI,sub,,,,James Johnson,,Joakim Noah,,,,,,,,,,,,
+Derrick Rose,James Johnson,John Salmons,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:15,POR,free throw,,,,,,,1,,2,LaMarcus Aldridge,,,foul,made,,,,
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Andre Miller,Greg Oden,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:15,CHI,sub,,,,Jannero Pargo,,John Salmons,,,,,,,,,,,,
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:15,POR,sub,,,,Jerryd Bayless,,Andre Miller,,,,,,,,,,,,
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:15,POR,free throw,,,,,,,2,,2,LaMarcus Aldridge,,,foul,made,,,,
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,4:05,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,pullup jump,15,23
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,3:43,POR,shot,Rudy Fernandez,,,,,,,,,Greg Oden,2,,,made,,alley oop dunk,25,6
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,3:30,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,22,27
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,3:28,POR,rebound,,,,,,,,,,LaMarcus Aldridge,,,,,,def,,
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,3:05,POR,shot,Steve Blake,,,,,,,,,LaMarcus Aldridge,2,,,made,,jump,33,26
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,2:48,CHI,shot,,,,,,,,,,James Johnson,,,,missed,,jump,21,25
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,2:47,POR,rebound,,,,,,,,,,Greg Oden,,,,,,def,,
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,2:41,POR,turnover,,,,,,,,,,Rudy Fernandez,,,bad pass,,,,,
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Greg Oden,Jerryd Bayless,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,2:41,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Jerryd Bayless,Juwan Howard,LaMarcus Aldridge,Rudy Fernandez,Steve Blake,4,2:41,POR,sub,,,,Juwan Howard,,Greg Oden,,,,,,,,,,,,
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,Steve Blake,4,2:41,POR,sub,,,,Martell Webster,,LaMarcus Aldridge,,,,,,,,,,,,
+Derrick Rose,James Johnson,Jannero Pargo,Luol Deng,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,2:41,POR,sub,,,,Dante Cunningham,,Steve Blake,,,,,,,,,,,,
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,2:41,CHI,sub,,,,Lindsey Hunter,,Luol Deng,,,,,,,,,,,,
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,2:28,CHI,shot,Lindsey Hunter,,,,,,,,,Jannero Pargo,3,,,made,,3pt,26,30
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,2:10,POR,shot,Martell Webster,,,,,,,,,Dante Cunningham,2,,,made,,jump,5,6
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,2:09,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,2:00,CHI,shot,,,,,,,,,,Jannero Pargo,2,,,made,,step back jump,37,21
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,1:41,POR,shot,,,,,,,,,,Jerryd Bayless,2,,,made,,jump,11,22
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,1:29,CHI,shot,Derrick Rose,,,,,,,,,Taj Gibson,2,,,made,,driving jump,26,13
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,1:17,POR,shot,,,,,,,,,,Martell Webster,,,,missed,,3pt,48,6
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,1:16,CHI,rebound,,,,,,,,,,Jannero Pargo,,,,,,def,,
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,1:07,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,jump,22,16
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,1:06,CHI,rebound,,,,,,,,,,Jannero Pargo,,,,,,off,,
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,1:05,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,layup,25,6
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,1:05,POR,rebound,,,,,,,,,,Juwan Howard,,,,,,def,,
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,1:00,POR,shot,Rudy Fernandez,,,,,,,,,Martell Webster,2,,,made,,alley oop dunk,25,6
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,0:47,CHI,shot,,,,,,,,,,James Johnson,,,,missed,,3pt,38,26
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,0:46,POR,rebound,,,,,,,,,,Martell Webster,,,,,,def,,
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,0:31,CHI,foul,,,,,,,,Juwan Howard,,Lindsey Hunter,,,,,,shooting,,
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,0:31,POR,free throw,,,,,,,1,,2,Juwan Howard,,,foul,made,,,,
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,0:31,POR,free throw,,,,,,,2,,2,Juwan Howard,,,foul,made,,,,
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,0:18,CHI,shot,,,,,,,,,,Lindsey Hunter,,,,missed,,3pt,48,7
+Derrick Rose,James Johnson,Jannero Pargo,Lindsey Hunter,Taj Gibson,Dante Cunningham,Jerryd Bayless,Juwan Howard,Martell Webster,Rudy Fernandez,4,0:18,POR,rebound,,,,,,,,,,Rudy Fernandez,,,,,,def,,

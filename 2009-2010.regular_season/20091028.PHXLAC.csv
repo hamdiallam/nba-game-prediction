@@ -1,0 +1,441 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,12:00,OFF,jump ball,,Amare Stoudemire,,,Marcus Camby,,,,,,,Al Thornton,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,11:41,LAC,shot,Baron Davis,,,,,,,,,Chris Kaman,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,11:25,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,reverse layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,11:10,LAC,shot,Marcus Camby,,,,,,,,,Al Thornton,2,,,made,,jump,14,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,10:56,PHX,shot,,,Marcus Camby,,,,,,,Amare Stoudemire,,,,missed,,jump,24,13
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,10:54,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,10:43,LAC,shot,Baron Davis,,,,,,,,,Marcus Camby,2,,,made,,jump,25,20
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,10:30,PHX,shot,,,,,,,,,,Leandro Barbosa,2,,,made,,driving layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,10:06,LAC,shot,Marcus Camby,,,,,,,,,Eric Gordon,2,,,made,,jump,12,14
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,10:00,PHX,shot,Steve Nash,,,,,,,,,Grant Hill,2,,,made,,jump,10,7
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,9:47,LAC,shot,Eric Gordon,,,,,,,,,Marcus Camby,2,,,made,,jump,12,9
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,9:33,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,jump,35,18
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,9:20,PHX,foul,,,,,,,,,,Amare Stoudemire,,,,,,defense 3 second,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,9:20,LAC,free throw,,,,,,,1,,1,Baron Davis,,,technical,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,9:20,LAC,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,9:15,PHX,foul,,,,,,,,Chris Kaman,,Grant Hill,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,9:05,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,11,17
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,9:04,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,8:58,LAC,foul,,,,,,,,Steve Nash,,Baron Davis,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,8:48,PHX,shot,,,Marcus Camby,,,,,,,Grant Hill,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,8:46,LAC,rebound,,,,,,,,,,Baron Davis,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,8:39,LAC,shot,,,,,,,,,,Marcus Camby,,,,missed,,jump,27,27
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,8:38,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,8:22,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,jump,40,21
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,8:14,PHX,foul,,,,,,,,Marcus Camby,,Channing Frye,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,8:14,LAC,free throw,,,,,,,1,,2,Marcus Camby,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,8:14,LAC,free throw,,,,,,,2,,2,Marcus Camby,,,foul,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,8:12,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,7:59,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,18,19
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,7:58,LAC,rebound,,,,,,,,,,Al Thornton,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,7:50,LAC,shot,Eric Gordon,,,,,,,,,Marcus Camby,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,7:35,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,step back jump,20,14
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,7:33,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,7:33,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,running tip,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,7:31,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,7:22,LAC,turnover,,,,,,,,,,Marcus Camby,,,bad pass,,Channing Frye,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,7:11,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,19,17
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,7:06,LAC,rebound,,,,,,,,,,Eric Gordon,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,7:00,LAC,shot,Baron Davis,,,,,,,,,Chris Kaman,2,,,made,,jump bank,18,11
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,1,6:55,LAC,foul,,,,,,,,Grant Hill,,Al Thornton,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:55,LAC,sub,,,,Rasual Butler,,Al Thornton,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:55,PHX,free throw,,,,,,,1,,2,Grant Hill,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:55,PHX,free throw,,,,,,,2,,2,Grant Hill,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:41,LAC,turnover,,,,,,,,,,Baron Davis,,,bad pass,,Grant Hill,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:28,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,jump,38,12
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:27,LAC,rebound,,,,,,,,,,Baron Davis,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:15,LAC,shot,,,,,,,,,,Baron Davis,2,,,made,,jump,12,18
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,6:04,LAC,foul,,,,,,,,Steve Nash,,Chris Kaman,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:52,PHX,shot,Steve Nash,,,,,,,,,Channing Frye,2,,,made,,jump,38,21
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:38,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,3pt,26,31
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:36,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:36,LAC,shot,,,,,,,,,,Marcus Camby,2,,,made,,tip,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:20,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,jump,20,26
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:18,LAC,rebound,,,,,,,,,,Rasual Butler,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:13,PHX,foul,,,,,,,,Baron Davis,,Channing Frye,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:13,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,5:00,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,9,12
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:59,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:50,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,3pt,41,27
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:49,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:38,PHX,foul,,,,,,,,Marcus Camby,,Amare Stoudemire,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:38,PHX,sub,,,,Jared Dudley,,Leandro Barbosa,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:38,LAC,free throw,,,,,,,1,,2,Marcus Camby,,,foul,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:38,LAC,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:38,LAC,free throw,,,,,,,2,,2,Marcus Camby,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:25,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,16,33
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:24,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:12,PHX,shot,,,,,,,,,,Jared Dudley,,,,missed,,3pt,0,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:11,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,4:06,PHX,shot,Channing Frye,,,,,,,,,Grant Hill,2,,,made,,jump,25,23
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:39,LAC,shot,,,,,,,,,,Rasual Butler,2,,,made,,jump,32,20
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:33,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,bad pass,,Baron Davis,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:30,PHX,foul,,,,,,,,Baron Davis,,Channing Frye,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:30,LAC,free throw,,,,,,,1,,2,Baron Davis,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,1,3:30,PHX,sub,,,,Louis Amundson,,Channing Frye,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,3:30,LAC,sub,,,,Craig Smith,,Chris Kaman,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,3:30,LAC,free throw,,,,,,,2,,2,Baron Davis,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,3:15,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,jump,33,8
+Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,3:03,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,3pt,4,25
+Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,3:01,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:44,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,lost ball,,Marcus Camby,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:39,LAC,shot,Marcus Camby,,,,,,,,,Rasual Butler,2,,,made,,layup,25,6
+Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:24,LAC,foul,,,,,,,,Jared Dudley,,Craig Smith,,,,,,shooting,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:24,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:24,PHX,sub,,,,Earl Clark,,Amare Stoudemire,,,,,,,,,,,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:24,PHX,free throw,,,,,,,1,,2,Jared Dudley,,,foul,missed,,,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:24,PHX,rebound,,,,,,,,,,,,,,,,,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:24,PHX,free throw,,,,,,,2,,2,Jared Dudley,,,foul,made,,,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:09,LAC,shot,,,,,,,,,,Craig Smith,,,,missed,,layup,25,6
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:07,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:03,LAC,foul,,,,,,,,Louis Amundson,,Marcus Camby,,,,,,shooting,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:03,PHX,free throw,,,,,,,1,,2,Louis Amundson,,,foul,made,,,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:03,PHX,free throw,,,,,,,2,,2,Louis Amundson,,,foul,missed,,,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,2:01,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,off,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,1:41,PHX,shot,Steve Nash,,,,,,,,,Grant Hill,2,,,made,,jump,40,11
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,1:23,LAC,shot,,,,,,,,,,Marcus Camby,,,,missed,,jump,37,9
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,1:22,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,1:12,PHX,shot,,,Baron Davis,,,,,,,Grant Hill,,,,missed,,layup,25,6
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,1:09,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,1:08,LAC,shot,Rasual Butler,,,,,,,,,Eric Gordon,2,,,made,,layup,25,6
+Earl Clark,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,0:54,PHX,turnover,,,,,,,,,,Earl Clark,,,out of bounds lost ball turnover,,,,,
+Earl Clark,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Baron Davis,Craig Smith,Eric Gordon,Marcus Camby,Rasual Butler,1,0:54,PHX,sub,,,,Goran Dragic,,Steve Nash,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Rasual Butler,1,0:54,LAC,sub,,,,Al Thornton,,Marcus Camby,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Rasual Butler,1,0:40,LAC,shot,Al Thornton,,,,,,,,,Eric Gordon,3,,,made,,3pt,7,25
+Earl Clark,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Rasual Butler,1,0:22,PHX,shot,,,,,,,,,,Goran Dragic,2,,,made,,step back jump,17,26
+Earl Clark,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Rasual Butler,1,0:02,LAC,turnover,,,,,,,,,,Eric Gordon,,,out of bounds lost ball turnover,,,,,
+Earl Clark,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Rasual Butler,1,0:01,PHX,turnover,,,,,,,,,,Louis Amundson,,,bad pass,,Baron Davis,,,
+Earl Clark,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Rasual Butler,1,0:00,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,3pt,1,9
+Earl Clark,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Thornton,Baron Davis,Craig Smith,Eric Gordon,Rasual Butler,1,0:00,LAC,rebound,,,,,,,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,11:48,LAC,foul,,,,,,,,Leandro Barbosa,,Sebastian Telfair,,,,,,shooting,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,11:48,PHX,free throw,,,,,,,1,,2,Leandro Barbosa,,,foul,made,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,11:48,PHX,free throw,,,,,,,2,,2,Leandro Barbosa,,,foul,made,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,11:27,PHX,foul,,,,,,,,Craig Smith,,Louis Amundson,,,,,,shooting,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,11:27,LAC,free throw,,,,,,,1,,2,Craig Smith,,,foul,made,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,11:27,LAC,free throw,,,,,,,2,,2,Craig Smith,,,foul,missed,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,11:26,PHX,rebound,,,,,,,,,,Earl Clark,,,,,,def,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,11:13,LAC,foul,,,,,,,,Earl Clark,,Al Thornton,,,,,,personal,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,11:03,PHX,shot,Goran Dragic,,,,,,,,,Louis Amundson,2,,,made,,jump,23,22
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,10:51,PHX,foul,,,,,,,,Al Thornton,,Louis Amundson,,,,,,personal,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,10:43,LAC,turnover,,,,,,,,,,Craig Smith,,,out of bounds lost ball turnover,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Craig Smith,Kareem Rush,Rasual Butler,Sebastian Telfair,2,10:43,PHX,sub,,,,Amare Stoudemire,,Louis Amundson,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,10:31,LAC,sub,,,,Chris Kaman,,Craig Smith,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,10:28,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,jump,38,8
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,10:26,LAC,rebound,,,,,,,,,,Kareem Rush,,,,,,def,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,10:18,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,jump,12,15
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,10:17,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,10:17,LAC,foul,,,,,,,,Earl Clark,,Kareem Rush,,,,,,loose ball,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,10:06,PHX,shot,,,,,,,,,,Goran Dragic,2,,,made,,driving layup,25,6
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,9:51,LAC,shot,,,,,,,,,,Sebastian Telfair,2,,,made,,driving layup,25,6
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,9:35,PHX,shot,Jared Dudley,,,,,,,,,Leandro Barbosa,3,,,made,,3pt,1,7
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,9:09,LAC,shot,,,Earl Clark,,,,,,,Al Thornton,,,,missed,,jump,8,15
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,9:07,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,8:58,PHX,shot,Goran Dragic,,,,,,,,,Earl Clark,2,,,made,,layup,25,6
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,8:46,LAC,foul,,,,,,,,Amare Stoudemire,,Rasual Butler,,,,,,offensive,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,8:46,LAC,turnover,,,,,,,,,,Rasual Butler,,,foul,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Kareem Rush,Rasual Butler,Sebastian Telfair,2,8:46,PHX,timeout,,,,,,,,,,,,,,,,official,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Rasual Butler,Sebastian Telfair,2,8:46,LAC,sub,,,,Eric Gordon,,Kareem Rush,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,8:46,LAC,sub,,,,Marcus Camby,,Rasual Butler,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,8:30,PHX,shot,,,,,,,,,,Earl Clark,,,,missed,,jump,39,15
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,8:28,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,off,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,8:16,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,layup,25,6
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,8:15,PHX,rebound,,,,,,,,,,Earl Clark,,,,,,off,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,8:13,PHX,shot,,,,,,,,,,Earl Clark,2,,,made,,slam dunk,25,6
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,7:51,LAC,turnover,,,,,,,,,,Chris Kaman,,,3 second violation,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,7:42,PHX,shot,,,Marcus Camby,,,,,,,Leandro Barbosa,,,,missed,,jump,27,9
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,7:42,LAC,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,7:29,LAC,shot,Eric Gordon,,,,,,,,,Marcus Camby,2,,,made,,layup,25,6
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,7:17,PHX,shot,,,,,,,,,,Goran Dragic,2,,,made,,jump,29,24
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,6:51,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,jump,16,11
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,6:50,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,6:41,PHX,shot,Leandro Barbosa,,,,,,,,,Amare Stoudemire,2,,,made,,jump,9,16
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,6:33,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Earl Clark,Grant Hill,Jared Dudley,Leandro Barbosa,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,6:33,PHX,sub,,,,Grant Hill,,Goran Dragic,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Chris Kaman,Eric Gordon,Marcus Camby,Sebastian Telfair,2,6:33,PHX,sub,,,,Steve Nash,,Jared Dudley,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,6:33,LAC,sub,,,,Baron Davis,,Sebastian Telfair,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,6:19,LAC,shot,,,Amare Stoudemire,,,,,,,Al Thornton,,,,missed,,layup,25,6
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,6:17,LAC,rebound,,,,,,,,,,Al Thornton,,,,,,off,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,6:15,LAC,shot,,,,,,,,,,Al Thornton,2,,,made,,layup,25,6
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,6:03,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,driving finger roll layup,25,6
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,5:37,LAC,shot,Eric Gordon,,,,,,,,,Marcus Camby,2,,,made,,jump,4,5
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,5:28,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,Baron Davis,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,5:25,LAC,shot,Eric Gordon,,,,,,,,,Al Thornton,2,,,made,,driving layup,25,6
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,5:25,PHX,foul,,,,,,,,Al Thornton,,Grant Hill,,,,,,shooting,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,5:25,LAC,free throw,,,,,,,1,,1,Al Thornton,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,5:06,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,jump,33,21
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,5:06,PHX,rebound,,,,,,,,,,Earl Clark,,,,,,off,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,5:06,PHX,shot,,,,,,,,,,Earl Clark,,,,missed,,tip,25,6
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,5:06,LAC,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Leandro Barbosa,Louis Amundson,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,5:06,PHX,sub,,,,Louis Amundson,,Earl Clark,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Leandro Barbosa,Louis Amundson,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,4:50,LAC,shot,Baron Davis,,,,,,,,,Marcus Camby,2,,,made,,jump,27,24
+Amare Stoudemire,Grant Hill,Leandro Barbosa,Louis Amundson,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,4:36,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,driving layup,25,6
+Amare Stoudemire,Grant Hill,Leandro Barbosa,Louis Amundson,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,4:34,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Amare Stoudemire,Grant Hill,Leandro Barbosa,Louis Amundson,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,4:34,LAC,timeout,,,,,,,,,,,,,,,,short,,
+Amare Stoudemire,Grant Hill,Leandro Barbosa,Louis Amundson,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,4:22,PHX,foul,,,,,,,,Eric Gordon,,Louis Amundson,,,,,,shooting,,
+Amare Stoudemire,Grant Hill,Leandro Barbosa,Louis Amundson,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,4:22,LAC,free throw,,,,,,,1,,2,Eric Gordon,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,4:22,PHX,sub,,,,Earl Clark,,Louis Amundson,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,4:22,LAC,free throw,,,,,,,2,,2,Eric Gordon,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,4:10,LAC,foul,,,,,,,,Grant Hill,,Al Thornton,,,,,,personal,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,4:02,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,step back jump,22,20
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,3:50,LAC,shot,Baron Davis,,,,,,,,,Marcus Camby,2,,,made,,alley oop dunk,25,6
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,3:38,PHX,shot,Grant Hill,,,,,,,,,Steve Nash,2,,,made,,jump,6,9
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,2,3:27,LAC,turnover,,,,,,,,,,Eric Gordon,,,traveling,,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,3:27,LAC,sub,,,,Rasual Butler,,Al Thornton,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,3:13,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,turnaround jump,29,13
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:52,PHX,foul,,,,,,,,Rasual Butler,,Grant Hill,,,,,,shooting,,
+Amare Stoudemire,Earl Clark,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:52,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:52,PHX,sub,,,,Jared Dudley,,Grant Hill,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:52,LAC,free throw,,,,,,,1,,2,Rasual Butler,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:52,LAC,free throw,,,,,,,2,,2,Rasual Butler,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:42,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,bad pass,,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:28,LAC,turnover,,,,,,,,,,Chris Kaman,,,bad pass,,Earl Clark,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:13,LAC,foul,,,,,,,,Amare Stoudemire,,Chris Kaman,,,,,,shooting,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:13,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,2:13,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:54,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,turnaround jump,13,8
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:52,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:40,PHX,turnover,,,,,,,,,,Steve Nash,,,lost ball,,Marcus Camby,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:38,PHX,foul,,,,,,,,Eric Gordon,,Leandro Barbosa,,,,,,shooting,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:38,LAC,free throw,,,,,,,1,,2,Eric Gordon,,,foul,missed,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:38,LAC,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:38,LAC,free throw,,,,,,,2,,2,Eric Gordon,,,foul,missed,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:38,PHX,rebound,,,,,,,,,,Earl Clark,,,,,,def,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:26,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,3pt,5,21
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:25,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:12,PHX,foul,,,,,,,,Chris Kaman,,Jared Dudley,,,,,,shooting,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:12,LAC,free throw,,,,,,,1,,2,Chris Kaman,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:12,LAC,free throw,,,,,,,2,,2,Chris Kaman,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:03,PHX,shot,,,Chris Kaman,,,,,,,Earl Clark,,,,missed,,layup,25,6
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,1:02,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:59,PHX,shot,,,,,,,,,,Earl Clark,,,,missed,,jump,45,8
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:57,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:38,LAC,shot,,,,,,,,,,Rasual Butler,,,,missed,,fade away jumper,30,15
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:36,PHX,rebound,,,,,,,,,,Earl Clark,,,,,,def,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:28,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,3pt,45,23
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:27,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,off,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:27,PHX,shot,,,,,,,,,,Jared Dudley,2,,,made,,layup,25,6
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:03,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,step back jump,35,17
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:01,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:00,PHX,shot,,,Baron Davis,,,,,,,Leandro Barbosa,,,,missed,,3pt,30,61
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,2,0:00,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,11:41,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,42,5
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,11:40,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,11:23,PHX,foul,,,,,,,,Marcus Camby,,Channing Frye,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,11:23,LAC,free throw,,,,,,,1,,2,Marcus Camby,,,foul,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,11:23,LAC,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,11:23,LAC,free throw,,,,,,,2,,2,Marcus Camby,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,11:03,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,hook,27,12
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,11:00,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,10:55,LAC,turnover,,,,,,,,,,Baron Davis,,,bad pass,,Leandro Barbosa,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,10:41,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,Eric Gordon,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,10:39,PHX,foul,,,,,,,,Eric Gordon,,Leandro Barbosa,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,10:39,LAC,free throw,,,,,,,1,,2,Eric Gordon,,,foul,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,10:39,LAC,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,10:39,LAC,free throw,,,,,,,2,,2,Eric Gordon,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,10:20,PHX,shot,Leandro Barbosa,,,,,,,,,Grant Hill,3,,,made,,3pt,1,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,10:14,PHX,foul,,,,,,,,Al Thornton,,Grant Hill,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,10:03,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,driving layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,10:02,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,9:59,LAC,foul,,,,,,,,Channing Frye,,Baron Davis,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,9:47,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,jump,24,18
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,9:46,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,9:32,LAC,turnover,,,,,,,,,,Marcus Camby,,,bad pass,,Grant Hill,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,3,9:31,LAC,foul,,,,,,,,Steve Nash,,Al Thornton,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,9:31,LAC,sub,,,,Rasual Butler,,Al Thornton,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,9:16,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,6,9
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,9:14,LAC,rebound,,,,,,,,,,Eric Gordon,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:57,LAC,shot,Baron Davis,,,,,,,,,Rasual Butler,3,,,made,,3pt,11,29
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:47,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,13,24
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:44,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:36,PHX,foul,,,,,,,,,,Channing Frye,,,,,,defense 3 second,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:36,LAC,free throw,,,,,,,1,,1,Eric Gordon,,,technical,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:36,LAC,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:28,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,step back jump,39,20
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:25,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,8:16,PHX,shot,Steve Nash,,,,,,,,,Channing Frye,2,,,made,,jump,11,24
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:57,LAC,shot,Baron Davis,,,,,,,,,Chris Kaman,2,,,made,,slam dunk,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:51,LAC,foul,,,,,,,,Steve Nash,,Baron Davis,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:47,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,traveling,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:23,LAC,shot,,,,,,,,,,Rasual Butler,,,,missed,,jump,37,21
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:21,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:14,PHX,turnover,,,,,,,,,,Grant Hill,,,bad pass,,Baron Davis,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,7:09,LAC,shot,,,,,,,,,,Baron Davis,3,,,made,,3pt,12,29
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,6:57,PHX,shot,Steve Nash,,,,,,,,,Channing Frye,2,,,made,,jump,13,21
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,6:38,LAC,shot,Baron Davis,,,,,,,,,Rasual Butler,3,,,made,,3pt,43,24
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,6:27,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,jump,14,12
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,6:03,LAC,shot,,,,,,,,,,Rasual Butler,2,,,made,,jump,44,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:51,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,fade away jumper,21,13
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:50,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:32,PHX,foul,,,,,,,,Baron Davis,,Amare Stoudemire,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:32,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:18,LAC,shot,Eric Gordon,,,,,,,,,Chris Kaman,2,,,made,,jump,19,24
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:01,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,3pt,41,28
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,5:00,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:49,LAC,shot,,,,,,,,,,Chris Kaman,2,,,made,,reverse layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:34,PHX,shot,Grant Hill,,,,,,,,,Leandro Barbosa,3,,,made,,3pt,1,10
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:13,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,3pt,25,33
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:11,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,4:00,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,41,10
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:59,LAC,rebound,,,,,,,,,,Eric Gordon,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:47,LAC,shot,Baron Davis,,,,,,,,,Chris Kaman,2,,,made,,jump,13,7
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:36,PHX,shot,,,Chris Kaman,,,,,,,Steve Nash,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:36,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:36,LAC,foul,,,,,,,,Amare Stoudemire,,Chris Kaman,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:36,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:36,PHX,sub,,,,Jared Dudley,,Grant Hill,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:36,PHX,sub,,,,Earl Clark,,Channing Frye,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:36,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:18,LAC,turnover,,,,,,,,,,Chris Kaman,,,out of bounds lost ball turnover,,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:09,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,jump,33,17
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,3:08,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:56,PHX,foul,,,,,,,,,,Earl Clark,,,,,,defense 3 second,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:56,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:56,LAC,free throw,,,,,,,1,,1,Rasual Butler,,,technical,missed,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:56,LAC,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:49,LAC,turnover,,,,,,,,,,Baron Davis,,,traveling,,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:36,LAC,foul,,,,,,,,Amare Stoudemire,,Chris Kaman,,,,,,shooting,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:36,LAC,foul,,,,,,,,Amare Stoudemire,,Chris Kaman,,,,,,technical,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:36,PHX,free throw,,,,,,,1,,1,Steve Nash,,,technical,made,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:36,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:36,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,missed,,,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:34,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:17,LAC,shot,,,,,,,,,,Baron Davis,,,,missed,,jump,42,7
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:16,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,2:00,PHX,shot,,,,,,,,,,Earl Clark,,,,missed,,jump,37,24
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,1:59,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,def,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,1:55,PHX,violation,,,,,,,,,,Earl Clark,,,,,,defensive goaltending,,
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,1:55,LAC,shot,Baron Davis,,,,,,,,,Eric Gordon,2,,,made,,layup,25,6
+Amare Stoudemire,Earl Clark,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,1:35,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,step back jump,13,22
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,3,1:23,PHX,sub,,,,Goran Dragic,,Steve Nash,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,1:23,LAC,sub,,,,Sebastian Telfair,,Baron Davis,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,1:13,PHX,foul,,,,,,,,Sebastian Telfair,,Amare Stoudemire,,,,,,shooting,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,1:13,LAC,free throw,,,,,,,1,,2,Sebastian Telfair,,,foul,missed,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,1:13,LAC,rebound,,,,,,,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,1:13,PHX,sub,,,,Louis Amundson,,Amare Stoudemire,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,1:13,LAC,free throw,,,,,,,2,,2,Sebastian Telfair,,,foul,made,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,0:57,PHX,shot,,,,,,,,,,Leandro Barbosa,2,,,made,,driving layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,0:43,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,jump,5,9
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,0:42,LAC,rebound,,,,,,,,,,Marcus Camby,,,,,,off,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,0:42,LAC,shot,,,,,,,,,,Marcus Camby,2,,,made,,tip,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,0:34,PHX,shot,,,,,,,,,,Earl Clark,2,,,made,,turnaround jump,19,8
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,0:20,LAC,shot,,,Louis Amundson,,,,,,,Marcus Camby,,,,missed,,layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,0:17,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,off,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,0:13,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,0:12,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,Sebastian Telfair,3,0:00,PHX,shot,,,,,,,,,,Leandro Barbosa,2,,,made,,fade away jumper,44,8
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,11:37,LAC,shot,,,,,,,,,,Sebastian Telfair,2,,,made,,step back jump,40,6
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,11:27,LAC,foul,,,,,,,,Goran Dragic,,Sebastian Telfair,,,,,,personal,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,11:16,PHX,shot,,,,,,,,,,Earl Clark,,,,missed,,jump,18,23
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,11:15,PHX,rebound,,,,,,,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,11:11,LAC,foul,,,,,,,,Goran Dragic,,Sebastian Telfair,,,,,,shooting,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,11:11,PHX,free throw,,,,,,,1,,2,Goran Dragic,,,foul,missed,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,11:11,PHX,rebound,,,,,,,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,11:11,PHX,free throw,,,,,,,2,,2,Goran Dragic,,,foul,missed,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,11:08,LAC,rebound,,,,,,,,,,Craig Smith,,,,,,def,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,10:46,LAC,shot,,,,,,,,,,Craig Smith,,,,missed,,jump,18,18
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,10:46,LAC,rebound,,,,,,,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,10:46,LAC,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,10:34,PHX,turnover,,,,,,,,,,Goran Dragic,,,traveling,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,10:24,LAC,turnover,,,,,,,,,,Sebastian Telfair,,,bad pass,,Jared Dudley,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,10:16,PHX,shot,Goran Dragic,,,,,,,,,Jared Dudley,3,,,made,,3pt,10,28
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,9:54,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,9:52,LAC,rebound,,,,,,,,,,Al Thornton,,,,,,off,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,9:52,LAC,shot,,,Jared Dudley,,,,,,,Al Thornton,,,,missed,,layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,9:52,LAC,rebound,,,,,,,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,9:50,LAC,shot,Sebastian Telfair,,,,,,,,,Rasual Butler,2,,,made,,layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,9:39,PHX,turnover,,,,,,,,,,Louis Amundson,,,offensive goaltending,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,9:23,LAC,shot,,,,,,,,,,Chris Kaman,2,,,made,,jump hook,27,12
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,9:07,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,9:06,LAC,rebound,,,,,,,,,,Al Thornton,,,,,,def,,
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,9:01,LAC,shot,Rasual Butler,,,,,,,,,Al Thornton,2,,,made,,running finger roll layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,8:55,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,8:55,PHX,sub,,,,Amare Stoudemire,,Leandro Barbosa,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Jared Dudley,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,8:55,PHX,sub,,,,Grant Hill,,Louis Amundson,,,,,,,,,,,,
+Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,8:55,PHX,sub,,,,Steve Nash,,Earl Clark,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,8:55,PHX,sub,,,,Channing Frye,,Goran Dragic,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,8:36,PHX,shot,Jared Dudley,,,,,,,,,Channing Frye,2,,,made,,jump,42,10
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,8:16,LAC,shot,,,,,,,,,,Rasual Butler,,,,missed,,3pt,42,29
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,8:14,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,8:09,LAC,foul,,,,,,,,Amare Stoudemire,,Rasual Butler,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Chris Kaman,Craig Smith,Rasual Butler,Sebastian Telfair,4,8:09,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Chris Kaman,Craig Smith,Eric Gordon,Sebastian Telfair,4,8:09,LAC,sub,,,,Eric Gordon,,Rasual Butler,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Craig Smith,Eric Gordon,4,8:09,LAC,sub,,,,Baron Davis,,Sebastian Telfair,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Craig Smith,Eric Gordon,4,8:09,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Craig Smith,Eric Gordon,4,7:55,LAC,turnover,,,,,,,,,,Chris Kaman,,,traveling,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Craig Smith,Eric Gordon,4,7:46,LAC,foul,,,,,,,,Amare Stoudemire,,Craig Smith,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Craig Smith,Eric Gordon,4,7:46,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,7:46,LAC,sub,,,,Marcus Camby,,Craig Smith,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,7:46,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,7:45,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,7:25,LAC,shot,,,,,,,,,,Baron Davis,3,,,made,,3pt,23,34
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,7:14,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,jump,20,26
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,6:55,LAC,shot,,,,,,,,,,Eric Gordon,2,,,made,,turnaround jump,32,7
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,6:43,PHX,shot,Steve Nash,,,,,,,,,Channing Frye,3,,,made,,3pt,23,31
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,6:19,LAC,shot,,,,,,,,,,Eric Gordon,2,,,made,,step back jump,45,7
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,6:04,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,lost ball,,Baron Davis,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,6:01,LAC,shot,,,,,,,,,,Baron Davis,2,,,made,,driving layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,6:01,PHX,foul,,,,,,,,Baron Davis,,Steve Nash,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,6:01,LAC,free throw,,,,,,,1,,1,Baron Davis,,,foul,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,5:59,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,5:47,LAC,foul,,,,,,,,Channing Frye,,Baron Davis,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,5:47,PHX,timeout,,,,,,,,,,,,,,,,official,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,5:47,PHX,sub,,,,Leandro Barbosa,,Jared Dudley,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,5:47,PHX,free throw,,,,,,,1,,2,Channing Frye,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,5:47,PHX,free throw,,,,,,,2,,2,Channing Frye,,,foul,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,5:47,LAC,rebound,,,,,,,,,,Chris Kaman,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,5:33,LAC,foul,,,,,,,,Steve Nash,,Chris Kaman,,,,,,offensive,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,5:33,LAC,turnover,,,,,,,,,,Chris Kaman,,,foul,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,5:23,LAC,foul,,,,,,,,Steve Nash,,Marcus Camby,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,4,5:23,PHX,free throw,,,,,,,1,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,5:23,LAC,sub,,,,Rasual Butler,,Chris Kaman,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,5:23,PHX,free throw,,,,,,,2,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,5:00,LAC,shot,Rasual Butler,,,,,,,,,Marcus Camby,2,,,made,,jump,28,27
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,4:45,LAC,foul,,,,,,,,Steve Nash,,Eric Gordon,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,4:45,PHX,free throw,,,,,,,1,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,4:45,PHX,free throw,,,,,,,2,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,4:27,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,4:26,LAC,rebound,,,,,,,,,,Eric Gordon,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,4:23,LAC,shot,,,Channing Frye,,,,,,,Eric Gordon,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,4:21,PHX,rebound,,,,,,,,,,Leandro Barbosa,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,4:18,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,4:16,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,4:16,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,tip,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,4:16,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,4:16,LAC,sub,,,,Chris Kaman,,Al Thornton,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,4:01,LAC,shot,Baron Davis,,,,,,,,,Chris Kaman,2,,,made,,reverse layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,3:45,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,jump,7,9
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,3:20,LAC,shot,,,,,,,,,,Chris Kaman,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,3:19,LAC,rebound,,,,,,,,,,Eric Gordon,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,3:02,LAC,shot,Baron Davis,,,,,,,,,Chris Kaman,2,,,made,,jump,15,17
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,2:47,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,running jump,37,17
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,2:22,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,2:18,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,2:07,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,41,25
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,2:06,LAC,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,2:06,PHX,foul,,,,,,,,Rasual Butler,,Amare Stoudemire,,,,,,loose ball,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,1:52,LAC,shot,Rasual Butler,,,,,,,,,Chris Kaman,2,,,made,,reverse layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,1:41,PHX,shot,,,,,,,,,,Steve Nash,3,,,made,,3pt,13,31
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,1:30,LAC,shot,,,,,,,,,,Marcus Camby,,,,missed,,jump,4,9
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,1:28,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,1:08,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,lost ball,,Marcus Camby,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:43,LAC,shot,,,,,,,,,,Marcus Camby,,,,missed,,3pt,28,32
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:42,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:40,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:23,PHX,shot,Channing Frye,,,,,,,,,Leandro Barbosa,3,,,made,,3pt,2,8
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:23,LAC,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,0:23,LAC,sub,,,,Steve Novak,,Marcus Camby,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,0:23,PHX,sub,,,,Jared Dudley,,Channing Frye,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,0:11,LAC,shot,,,,,,,,,,Rasual Butler,3,,,made,,3pt,12,32
+Amare Stoudemire,Grant Hill,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,0:11,PHX,timeout,,,,,,,,,,,,,,,,short,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Rasual Butler,Steve Novak,4,0:11,PHX,sub,,,,Channing Frye,,Jared Dudley,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:11,LAC,sub,,,,Marcus Camby,,Steve Novak,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,0:11,LAC,sub,,,,Al Thornton,,Chris Kaman,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,0:05,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,driving layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Al Thornton,Baron Davis,Eric Gordon,Marcus Camby,Rasual Butler,4,0:05,LAC,timeout,,,,,,,,,,,,,,,,short,,
+Amare Stoudemire,Channing Frye,Grant Hill,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:05,LAC,sub,,,,Chris Kaman,,Al Thornton,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:05,PHX,sub,,,,Jared Dudley,,Channing Frye,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:05,LAC,timeout,,,,,,,,,,,,,,,,short,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:03,PHX,foul,,,,,,,,Eric Gordon,,Steve Nash,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:00,LAC,shot,,,,,,,,,,Eric Gordon,,,,missed,,3pt,33,33
+Amare Stoudemire,Grant Hill,Jared Dudley,Leandro Barbosa,Steve Nash,Baron Davis,Chris Kaman,Eric Gordon,Marcus Camby,Rasual Butler,4,0:00,LAC,rebound,,,,,,,,,,,,,,,,,,

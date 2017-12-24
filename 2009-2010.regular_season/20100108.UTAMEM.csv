@@ -1,0 +1,459 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,12:00,OFF,jump ball,,Mehmet Okur,,,Marc Gasol,,,,,,,Mike Conley,,,,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:46,MEM,shot,,,Ronnie Brewer,,,,,,,Mike Conley,,,,missed,,layup,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:44,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:28,UTA,shot,,,O.J. Mayo,,,,,,,C.J. Miles,,,,missed,,jump,12,11
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:28,UTA,rebound,,,,,,,,,,,,,,,,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:25,UTA,shot,Ronnie Price,,,,,,,,,Carlos Boozer,2,,,made,,layup,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:15,MEM,turnover,,,,,,,,,,Mike Conley,,,bad pass,,,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:01,UTA,turnover,,,,,,,,,,Ronnie Brewer,,,bad pass,,Rudy Gay,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:57,MEM,shot,O.J. Mayo,,,,,,,,,Rudy Gay,2,,,made,,slam dunk,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:36,UTA,shot,,,O.J. Mayo,,,,,,,Ronnie Brewer,,,,missed,,layup,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:34,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:31,UTA,foul,,,,,,,,Rudy Gay,,Carlos Boozer,,,,,,shooting,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:31,MEM,free throw,,,,,,,1,,2,Rudy Gay,,,foul,made,,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:31,MEM,free throw,,,,,,,2,,2,Rudy Gay,,,foul,made,,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:18,UTA,foul,,,,,,,,Zach Randolph,,Carlos Boozer,,,,,,offensive,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:18,UTA,turnover,,,,,,,,,,Carlos Boozer,,,foul,,,,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:18,UTA,sub,,,,Paul Millsap,,Carlos Boozer,,,,,,,,,,,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:03,MEM,shot,,,Paul Millsap,,,,,,,Zach Randolph,,,,missed,,jump,35,10
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:00,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:00,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,jump,30,9
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:35,UTA,shot,,,,,,,,,,C.J. Miles,,,,missed,,3pt,8,25
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:34,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:28,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,pullup jump,12,16
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:23,UTA,rebound,,,,,,,,,,Paul Millsap,,,,,,def,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:14,UTA,shot,Ronnie Brewer,,,,,,,,,Paul Millsap,2,,,made,,jump,15,23
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:00,MEM,shot,O.J. Mayo,,,,,,,,,Marc Gasol,2,,,made,,dunk,25,6
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:33,UTA,turnover,,,,,,,,,,Mehmet Okur,,,out of bounds lost ball turnover,,,,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:14,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,turnaround jump,28,12
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:49,UTA,shot,,,,,,,,,,Paul Millsap,,,,missed,,fade away jumper,18,19
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:49,MEM,rebound,,,,,,,,,,,,,,,,,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:38,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,pullup jump,21,25
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:38,UTA,timeout,,,,,,,,,,,,,,,,regular,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:22,UTA,shot,,,,,,,,,,Paul Millsap,2,,,made,,driving layup,25,6
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:59,MEM,shot,Mike Conley,,,,,,,,,Rudy Gay,3,,,made,,3pt,43,24
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:40,UTA,shot,,,Marc Gasol,,,,,,,Mehmet Okur,,,,missed,,layup,25,6
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:38,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,off,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:33,UTA,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:24,MEM,foul,,,,,,,,Paul Millsap,,Zach Randolph,,,,,,offensive,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:24,MEM,turnover,,,,,,,,,,Zach Randolph,,,foul,,,,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:10,MEM,foul,,,,,,,,Mehmet Okur,,O.J. Mayo,,,,,,shooting,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:10,UTA,free throw,,,,,,,1,,2,Mehmet Okur,,,foul,made,,,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:10,UTA,free throw,,,,,,,2,,2,Mehmet Okur,,,foul,made,,,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:45,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,5,16
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:44,UTA,rebound,,,,,,,,,,Ronnie Brewer,,,,,,def,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:24,UTA,shot,Ronnie Brewer,,,,,,,,,Paul Millsap,2,,,made,,jump,15,18
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:04,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,3pt,3,18
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:04,MEM,rebound,,,,,,,,,,Mike Conley,,,,,,off,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:00,MEM,shot,,,Paul Millsap,,,,,,,Rudy Gay,,,,missed,,layup,25,6
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:57,UTA,rebound,,,,,,,,,,C.J. Miles,,,,,,def,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:54,UTA,shot,Ronnie Brewer,,,,,,,,,Ronnie Price,2,,,made,,layup,25,6
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:52,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:35,MEM,shot,Mike Conley,,,,,,,,,Rudy Gay,3,,,made,,3pt,2,10
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:07,UTA,shot,,,,,,,,,,Paul Millsap,,,,missed,,step back jump,44,13
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:07,UTA,rebound,,,,,,,,,,,,,,,,,,
+C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:07,UTA,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:07,UTA,sub,,,,Andrei Kirilenko,,Ronnie Brewer,,,,,,,,,,,,
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:50,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,layup,25,6
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:38,UTA,turnover,,,,,,,,,,Andrei Kirilenko,,,bad pass,,Mike Conley,,,
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:35,UTA,violation,,,,,,,,,,Ronnie Price,,,,,,defensive goaltending,,
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:35,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,layup,25,6
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:19,MEM,foul,,,,,,,,Ronnie Price,,Mike Conley,,,,,,personal,,
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:11,UTA,shot,,,,,,,,,,Andrei Kirilenko,,,,missed,,layup,25,6
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:10,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,3:00,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,running jump,25,16
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,2:59,MEM,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,2:53,MEM,shot,Marc Gasol,,,,,,,,,Zach Randolph,2,,,made,,layup,25,6
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,2:35,UTA,turnover,,,,,,,,,,Andrei Kirilenko,,,bad pass,,Rudy Gay,,,
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,2:31,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,driving layup,25,6
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,2:03,UTA,shot,,,,,,,,,,C.J. Miles,,,,missed,,3pt,6,23
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,2:03,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:53,UTA,foul,,,,,,,,Zach Randolph,,C.J. Miles,,,,,,shooting,,
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:53,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Andrei Kirilenko,C.J. Miles,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:53,MEM,sub,,,,Marcus Williams,,Mike Conley,,,,,,,,,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:53,UTA,sub,,,,Wesley Matthews,,C.J. Miles,,,,,,,,,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:53,MEM,sub,,,,Hasheem Thabeet,,Marc Gasol,,,,,,,,,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:53,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:45,UTA,shot,,,Hasheem Thabeet,,,,,,,Wesley Matthews,,,,missed,,layup,25,6
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:41,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:38,MEM,shot,,,Paul Millsap,,,,,,,Rudy Gay,,,,missed,,layup,25,6
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:35,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,def,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:26,UTA,shot,Andrei Kirilenko,,,,,,,,,Mehmet Okur,2,,,made,,layup,25,6
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:13,UTA,foul,,,,,,,,Zach Randolph,,Paul Millsap,,,,,,personal,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,1,1:13,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,1:13,MEM,sub,,,,Sam Young,,O.J. Mayo,,,,,,,,,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,1:13,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:59,UTA,shot,,,,,,,,,,Andrei Kirilenko,,,,missed,,layup,25,6
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:57,UTA,rebound,,,,,,,,,,Andrei Kirilenko,,,,,,off,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:57,UTA,shot,,,,,,,,,,Andrei Kirilenko,,,,missed,,tip,25,6
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:54,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:54,UTA,foul,,,,,,,,Zach Randolph,,Wesley Matthews,,,,,,shooting,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:54,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,missed,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:54,MEM,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:54,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:35,UTA,shot,,,,,,,,,,Paul Millsap,,,,missed,,turnaround jump,31,14
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:33,UTA,rebound,,,,,,,,,,Wesley Matthews,,,,,,off,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:33,UTA,shot,,,,,,,,,,Wesley Matthews,,,,missed,,putback dunk,25,6
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:29,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,def,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:17,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,pullup bank,33,12
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:06,MEM,foul,,,,,,,,Ronnie Price,,Marcus Williams,,,,,,personal,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:03,UTA,shot,,,Hasheem Thabeet,,,,,,,Ronnie Price,,,,missed,,layup,25,6
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:02,UTA,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:00,UTA,shot,,,,,,,,,,Wesley Matthews,,,,missed,,jump,41,23
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:00,UTA,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,11:45,UTA,shot,,,,,,,,,,Sundiata Gaines,,,,missed,,3pt,33,29
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,11:44,MEM,rebound,,,,,,,,,,Sam Young,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,11:19,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,3pt,2,8
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,11:18,UTA,rebound,,,,,,,,,,Sundiata Gaines,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,10:58,UTA,shot,Paul Millsap,,,,,,,,,Wesley Matthews,2,,,made,,running jump,21,14
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,10:49,MEM,shot,,,,,,,,,,Sam Young,,,,missed,,jump,9,10
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,10:48,UTA,rebound,,,,,,,,,,Wesley Matthews,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,10:33,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,jump,37,21
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,10:33,UTA,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,10:33,MEM,foul,,,,,,,,Andrei Kirilenko,,Rudy Gay,,,,,,loose ball,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,10:18,UTA,shot,,,,,,,,,,Wesley Matthews,2,,,made,,jump,4,9
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,9:57,MEM,shot,Rudy Gay,,,,,,,,,Marc Gasol,2,,,made,,hook,17,8
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,2,9:40,MEM,foul,,,,,,,,Andrei Kirilenko,,Hasheem Thabeet,,,,,,shooting,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,2,9:40,MEM,sub,,,,O.J. Mayo,,Rudy Gay,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,2,9:40,UTA,free throw,,,,,,,1,,2,Andrei Kirilenko,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,2,9:40,UTA,free throw,,,,,,,2,,2,Andrei Kirilenko,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,2,9:25,UTA,foul,,,,,,,,Marc Gasol,,Paul Millsap,,,,,,shooting,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,2,9:25,MEM,free throw,,,,,,,1,,2,Marc Gasol,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,2,9:25,MEM,free throw,,,,,,,2,,2,Marc Gasol,,,foul,missed,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,2,9:23,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,2,9:23,MEM,foul,,,,,,,,Carlos Boozer,,Hasheem Thabeet,,,,,,personal,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,2,9:12,MEM,foul,,,,,,,,Carlos Boozer,,Hasheem Thabeet,,,,,,shooting,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,2,9:12,UTA,free throw,,,,,,,1,,2,Carlos Boozer,,,foul,missed,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Hasheem Thabeet,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,2,9:12,UTA,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:12,MEM,sub,,,,Zach Randolph,,Hasheem Thabeet,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:12,UTA,free throw,,,,,,,2,,2,Carlos Boozer,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:57,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,48,8
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:56,UTA,rebound,,,,,,,,,,Andrei Kirilenko,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:45,UTA,shot,,,Marc Gasol,,,,,,,Carlos Boozer,,,,missed,,layup,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:45,UTA,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:45,UTA,timeout,,,,,,,,,,,,,,,,official,,
+Andrei Kirilenko,Carlos Boozer,Kyrylo Fesenko,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:45,UTA,sub,,,,Kyrylo Fesenko,,Paul Millsap,,,,,,,,,,,,
+Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:45,UTA,sub,,,,Kyle Korver,,Andrei Kirilenko,,,,,,,,,,,,
+Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:43,UTA,shot,,,Sam Young,,,,,,,Wesley Matthews,,,,missed,,reverse layup,25,6
+Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:39,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:26,UTA,foul,,,,,,,,O.J. Mayo,,Kyrylo Fesenko,,,,,,shooting,,
+Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Wesley Matthews,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:26,MEM,free throw,,,,,,,1,,2,O.J. Mayo,,,foul,made,,,,
+Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,8:26,MEM,sub,,,,Mike Conley,,Marcus Williams,,,,,,,,,,,,
+Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,8:26,MEM,free throw,,,,,,,2,,2,O.J. Mayo,,,foul,made,,,,
+Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,8:11,UTA,turnover,,,,,,,,,,Wesley Matthews,,,bad pass,,Sam Young,,,
+Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,8:11,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,8:11,UTA,sub,,,,C.J. Miles,,Wesley Matthews,,,,,,,,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,7:56,MEM,shot,,,Kyrylo Fesenko,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,7:54,UTA,rebound,,,,,,,,,,Sundiata Gaines,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,7:52,MEM,foul,,,,,,,,Sundiata Gaines,,Sam Young,,,,,,shooting,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,7:52,UTA,free throw,,,,,,,1,,2,Sundiata Gaines,,,foul,missed,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,7:52,UTA,rebound,,,,,,,,,,,,,,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,7:52,MEM,sub,,,,Rudy Gay,,Sam Young,,,,,,,,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,7:52,UTA,free throw,,,,,,,2,,2,Sundiata Gaines,,,foul,missed,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,7:51,UTA,rebound,,,,,,,,,,Sundiata Gaines,,,,,,off,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,7:46,UTA,shot,,,,,,,,,,Kyle Korver,,,,missed,,3pt,38,28
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,7:46,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,7:24,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,45,5
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,7:24,UTA,rebound,,,,,,,,,,Kyle Korver,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Sundiata Gaines,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,7:18,MEM,violation,,,,,,,,,,Rudy Gay,,,,,,kicked ball,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,7:18,UTA,sub,,,,Ronnie Price,,Sundiata Gaines,,,,,,,,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,7:12,UTA,shot,Kyle Korver,,,,,,,,,Carlos Boozer,2,,,made,,reverse layup,25,6
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,6:52,MEM,shot,,,Kyrylo Fesenko,,,,,,,Rudy Gay,,,,missed,,layup,25,6
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,6:50,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,6:46,UTA,shot,Kyle Korver,,,,,,,,,Carlos Boozer,2,,,made,,layup,25,6
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,6:25,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,3pt,2,9
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,6:24,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,6:15,UTA,shot,Ronnie Price,,,,,,,,,Kyle Korver,3,,,made,,3pt,2,6
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,6:13,MEM,timeout,,,,,,,,,,,,,,,,short,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:58,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,7,23
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:57,UTA,rebound,,,,,,,,,,C.J. Miles,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:47,UTA,shot,,,,,,,,,,C.J. Miles,,,,missed,,jump,43,8
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:47,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:41,MEM,foul,,,,,,,,Kyle Korver,,Mike Conley,,,,,,offensive,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:41,MEM,turnover,,,,,,,,,,Mike Conley,,,foul,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:31,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,layup,25,6
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:29,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:22,MEM,turnover,,,,,,,,,,Mike Conley,,,out of bounds lost ball turnover,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:11,UTA,shot,,,Marc Gasol,,,,,,,Carlos Boozer,,,,missed,,layup,25,6
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:10,MEM,rebound,,,,,,,,,,,,,,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:54,MEM,turnover,,,,,,,,,,Marc Gasol,,,out of bounds lost ball turnover,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:34,UTA,shot,Carlos Boozer,,,,,,,,,Kyle Korver,2,,,made,,jump,44,8
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:12,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,46,14
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:11,UTA,rebound,,,,,,,,,,Ronnie Price,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:07,UTA,turnover,,,,,,,,,,Ronnie Price,,,lost ball,,Mike Conley,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:02,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,2,,,made,,layup,25,6
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:46,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,jump,17,22
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:45,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:41,UTA,foul,,,,,,,,Rudy Gay,,Ronnie Price,,,,,,shooting,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:41,MEM,free throw,,,,,,,1,,2,Rudy Gay,,,foul,made,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:41,MEM,free throw,,,,,,,2,,2,Rudy Gay,,,foul,made,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:24,UTA,shot,Carlos Boozer,,,,,,,,,Ronnie Price,3,,,made,,3pt,33,30
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:57,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,3pt,2,9
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:57,MEM,rebound,,,,,,,,,,,,,,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:57,MEM,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:57,UTA,timeout,,,,,,,,,,,,,,,,regular,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:43,UTA,shot,Carlos Boozer,,,,,,,,,Kyle Korver,2,,,made,,jump,15,19
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:27,MEM,turnover,,,,,,,,,,Marc Gasol,,,traveling,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:11,UTA,turnover,,,,,,,,,,Kyle Korver,,,bad pass,,O.J. Mayo,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:11,UTA,foul,,,,,,,,O.J. Mayo,,Kyle Korver,,,,,,loose ball,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:57,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,24,12
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:57,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:43,UTA,turnover,,,,,,,,,,Kyle Korver,,,bad pass,,Marc Gasol,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:41,MEM,shot,Marc Gasol,,,,,,,,,Zach Randolph,2,,,made,,layup,25,6
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:41,UTA,foul,,,,,,,,Zach Randolph,,Kyle Korver,,,,,,shooting,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:41,MEM,sub,,,,Marcus Williams,,Mike Conley,,,,,,,,,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:41,MEM,free throw,,,,,,,1,,1,Zach Randolph,,,foul,made,,,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:29,UTA,shot,,,Rudy Gay,,,,,,,C.J. Miles,,,,missed,,jump,36,20
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:27,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:16,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,jump,20,16
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:16,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,0:57,UTA,shot,,,,,,,,,,Ronnie Price,3,,,made,,3pt,42,24
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,0:48,UTA,foul,,,,,,,,Marcus Williams,,Kyrylo Fesenko,,,,,,personal,,
+C.J. Miles,Carlos Boozer,Kyle Korver,Kyrylo Fesenko,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,0:48,MEM,free throw,,,,,,,1,,2,Marcus Williams,,,foul,made,,,,
+C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,0:48,UTA,sub,,,,Mehmet Okur,,Carlos Boozer,,,,,,,,,,,,
+C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,0:48,MEM,free throw,,,,,,,2,,2,Marcus Williams,,,foul,made,,,,
+C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,0:44,UTA,shot,Ronnie Price,,,,,,,,,Kyrylo Fesenko,2,,,made,,dunk,25,6
+C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,0:27,MEM,turnover,,,,,,,,,,Rudy Gay,,,traveling,,,,,
+C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,0:09,UTA,turnover,,,,,,,,,,C.J. Miles,,,lost ball,,Marcus Williams,,,
+C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,0:04,MEM,shot,Rudy Gay,,,,,,,,,Marcus Williams,2,,,made,,layup,25,6
+C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,0:00,UTA,shot,,,Rudy Gay,,,,,,,Kyrylo Fesenko,,,,missed,,3pt,33,29
+C.J. Miles,Kyle Korver,Kyrylo Fesenko,Mehmet Okur,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,2,0:00,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:34,UTA,shot,,,,,,,,,,Ronnie Price,,,,missed,,jump,41,15
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:34,UTA,rebound,,,,,,,,,,C.J. Miles,,,,,,off,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:28,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,jump,29,23
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:27,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:15,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,running jump,25,16
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:51,UTA,shot,,,,,,,,,,Mehmet Okur,,,,missed,,jump,8,10
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:49,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:30,UTA,foul,,,,,,,,Rudy Gay,,Mehmet Okur,,,,,,personal,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:24,MEM,turnover,,,,,,,,,,Mike Conley,,,step out of bounds turnover,,,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:06,UTA,shot,Carlos Boozer,,,,,,,,,Ronnie Brewer,2,,,made,,reverse layup,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:44,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,3pt,3,18
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:43,UTA,rebound,,,,,,,,,,Ronnie Brewer,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:23,UTA,shot,Ronnie Price,,,,,,,,,Carlos Boozer,2,,,made,,slam dunk,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:09,MEM,turnover,,,,,,,,,,Zach Randolph,,,bad pass,,Mehmet Okur,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:04,UTA,shot,,,Rudy Gay,,,,,,,Ronnie Price,,,,missed,,layup,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:01,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,off,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:01,UTA,shot,,,,,,,,,,Carlos Boozer,2,,,made,,tip,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:43,UTA,foul,,,,,,,,Rudy Gay,,Mehmet Okur,,,,,,shooting,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:43,MEM,free throw,,,,,,,1,,2,Rudy Gay,,,foul,made,,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:43,MEM,free throw,,,,,,,2,,2,Rudy Gay,,,foul,made,,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:30,UTA,shot,,,,,,,,,,C.J. Miles,,,,missed,,layup,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:29,MEM,rebound,,,,,,,,,,Mike Conley,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:24,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,layup,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:23,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,off,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:23,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,layup,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:02,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,jump,11,13
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:01,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:43,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:41,UTA,rebound,,,,,,,,,,Ronnie Brewer,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:22,MEM,foul,,,,,,,,Mehmet Okur,,Marc Gasol,,,,,,shooting,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:22,UTA,free throw,,,,,,,1,,2,Mehmet Okur,,,foul,made,,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:22,UTA,free throw,,,,,,,2,,2,Mehmet Okur,,,foul,made,,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:08,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,36,21
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:07,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:54,UTA,foul,,,,,,,,Marc Gasol,,Carlos Boozer,,,,,,offensive,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:54,UTA,turnover,,,,,,,,,,Carlos Boozer,,,foul,,,,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:41,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,3pt,35,29
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:40,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:27,UTA,shot,,,,,,,,,,Mehmet Okur,,,,missed,,jump,8,21
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:27,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:21,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:20,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:20,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,tip,25,6
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:57,UTA,shot,Ronnie Brewer,,,,,,,,,Mehmet Okur,3,,,made,,3pt,33,30
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:37,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,3,,,made,,3pt,5,22
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:14,MEM,foul,,,,,,,,Mehmet Okur,,Mike Conley,,,,,,shooting,,
+C.J. Miles,Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:14,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:14,UTA,sub,,,,Wesley Matthews,,C.J. Miles,,,,,,,,,,,,
+Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:14,UTA,free throw,,,,,,,1,,2,Mehmet Okur,,,foul,made,,,,
+Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:14,UTA,free throw,,,,,,,2,,2,Mehmet Okur,,,foul,made,,,,
+Carlos Boozer,Mehmet Okur,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:59,UTA,foul,,,,,,,,Zach Randolph,,Carlos Boozer,,,,,,shooting,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:59,UTA,sub,,,,Paul Millsap,,Carlos Boozer,,,,,,,,,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:59,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,missed,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:59,MEM,rebound,,,,,,,,,,,,,,,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:59,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:43,UTA,shot,,,,,,,,,,Ronnie Brewer,,,,missed,,jump,33,18
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:43,UTA,rebound,,,,,,,,,,Ronnie Brewer,,,,,,off,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:32,UTA,shot,Paul Millsap,,,,,,,,,Ronnie Brewer,2,,,made,,layup,25,6
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:11,MEM,turnover,,,,,,,,,,Marc Gasol,,,bad pass,,Paul Millsap,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,4:06,UTA,shot,,,,,,,,,,Ronnie Brewer,2,,,made,,layup,25,6
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:39,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,step back jump,41,22
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:23,UTA,shot,,,,,,,,,,Ronnie Price,2,,,made,,layup,25,6
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:04,UTA,foul,,,,,,,,Zach Randolph,,Paul Millsap,,,,,,shooting,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:04,MEM,sub,,,,Hasheem Thabeet,,Marc Gasol,,,,,,,,,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:04,MEM,sub,,,,Marcus Williams,,Mike Conley,,,,,,,,,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:04,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,3,3:04,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:53,UTA,shot,,,,,,,,,,Mehmet Okur,,,,missed,,layup,25,6
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:53,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,off,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:53,MEM,foul,,,,,,,,Mehmet Okur,,Hasheem Thabeet,,,,,,shooting,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Hasheem Thabeet,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,3,2:53,UTA,timeout,,,,,,,,,,,,,,,,regular,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,3,2:53,MEM,sub,,,,Steven Hunter,,Hasheem Thabeet,,,,,,,,,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,3,2:53,UTA,free throw,,,,,,,1,,2,Mehmet Okur,,,foul,made,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,3,2:53,UTA,free throw,,,,,,,2,,2,Mehmet Okur,,,foul,made,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,3,2:35,MEM,shot,,,,,,,,,,Marcus Williams,,,,missed,,jump,4,8
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,3,2:35,UTA,rebound,,,,,,,,,,Mehmet Okur,,,,,,def,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,3,2:22,UTA,shot,,,,,,,,,,Ronnie Brewer,,,,missed,,driving layup,25,6
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,3,2:18,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,3,2:12,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,running jump,23,13
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,3,2:00,UTA,shot,Ronnie Brewer,,,,,,,,,Paul Millsap,2,,,made,,layup,25,6
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,3,2:00,MEM,foul,,,,,,,,Paul Millsap,,Zach Randolph,,,,,,shooting,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,3,2:00,MEM,sub,,,,Sam Young,,O.J. Mayo,,,,,,,,,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,3,2:00,UTA,free throw,,,,,,,1,,1,Paul Millsap,,,foul,made,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,3,1:36,MEM,shot,,,,,,,,,,Marcus Williams,,,,missed,,3pt,4,20
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,3,1:36,MEM,rebound,,,,,,,,,,,,,,,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,3,1:36,MEM,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,3,1:22,UTA,shot,,,,,,,,,,Ronnie Price,,,,missed,,jump,12,23
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,3,1:21,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,3,1:15,UTA,foul,,,,,,,,Marcus Williams,,Ronnie Price,,,,,,personal,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,Marcus Williams,Rudy Gay,Sam Young,Steven Hunter,Zach Randolph,3,1:15,MEM,free throw,,,,,,,1,,2,Marcus Williams,,,foul,made,,,,
+Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,1:15,MEM,sub,,,,DeMarre Carroll,,Rudy Gay,,,,,,,,,,,,
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,1:15,UTA,sub,,,,Kyle Korver,,Ronnie Brewer,,,,,,,,,,,,
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,1:15,MEM,free throw,,,,,,,2,,2,Marcus Williams,,,foul,made,,,,
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,1:03,UTA,shot,,,Zach Randolph,,,,,,,Wesley Matthews,,,,missed,,reverse layup,25,6
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,0:59,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,0:44,UTA,foul,,,,,,,,Zach Randolph,,Paul Millsap,,,,,,shooting,,
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,0:44,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,0:44,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,0:28,UTA,shot,,,,,,,,,,Mehmet Okur,,,,missed,,running layup,25,6
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,0:27,UTA,rebound,,,,,,,,,,Ronnie Price,,,,,,off,,
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,0:24,UTA,shot,Ronnie Price,,,,,,,,,Mehmet Okur,3,,,made,,3pt,2,17
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,0:00,MEM,shot,,,,,,,,,,DeMarre Carroll,,,,missed,,jump,45,11
+Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,3,0:00,UTA,rebound,,,,,,,,,,Paul Millsap,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,4,11:41,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,running jump,25,12
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,4,11:22,UTA,shot,,,,,,,,,,Wesley Matthews,,,,missed,,jump,44,6
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,4,11:22,MEM,rebound,,,,,,,,,,DeMarre Carroll,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,4,11:01,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,13,16
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,4,11:00,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,4,10:58,UTA,foul,,,,,,,,Zach Randolph,,Kyle Korver,,,,,,shooting,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,4,10:58,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,missed,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,Sam Young,Steven Hunter,Zach Randolph,4,10:58,MEM,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:58,MEM,sub,,,,O.J. Mayo,,Sam Young,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:58,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,missed,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:56,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:39,MEM,foul,,,,,,,,Andrei Kirilenko,,Steven Hunter,,,,,,shooting,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:39,UTA,free throw,,,,,,,1,,2,Andrei Kirilenko,,,foul,missed,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:39,UTA,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:39,UTA,free throw,,,,,,,2,,2,Andrei Kirilenko,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:26,MEM,shot,O.J. Mayo,,,,,,,,,Zach Randolph,2,,,made,,reverse layup,25,6
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:18,MEM,foul,,,,,,,,Wesley Matthews,,Marcus Williams,,,,,,personal,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:00,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,layup,25,6
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:00,UTA,rebound,,,,,,,,,,Andrei Kirilenko,,,,,,off,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:00,UTA,shot,,,,,,,,,,Andrei Kirilenko,2,,,made,,tip,25,6
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:00,MEM,foul,,,,,,,,Andrei Kirilenko,,Zach Randolph,,,,,,shooting,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,10:00,UTA,free throw,,,,,,,1,,1,Andrei Kirilenko,,,foul,missed,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,9:58,MEM,rebound,,,,,,,,,,Steven Hunter,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,9:49,MEM,turnover,,,,,,,,,,O.J. Mayo,,,bad pass,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marcus Williams,O.J. Mayo,Steven Hunter,Zach Randolph,4,9:29,UTA,turnover,,,,,,,,,,Paul Millsap,,,traveling,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Zach Randolph,4,9:29,MEM,sub,,,,Marc Gasol,,Steven Hunter,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Zach Randolph,4,9:14,MEM,shot,Marcus Williams,,,,,,,,,DeMarre Carroll,2,,,made,,jump,45,8
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Zach Randolph,4,8:59,UTA,shot,,,Marc Gasol,,,,,,,Carlos Boozer,,,,missed,,layup,25,6
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Zach Randolph,4,8:57,UTA,rebound,,,,,,,,,,Paul Millsap,,,,,,off,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Zach Randolph,4,8:50,UTA,shot,,,,,,,,,,Wesley Matthews,,,,missed,,step back jump,19,27
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Zach Randolph,4,8:48,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Zach Randolph,4,8:41,UTA,foul,,,,,,,,Zach Randolph,,Andrei Kirilenko,,,,,,personal,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Wesley Matthews,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Zach Randolph,4,8:41,MEM,timeout,,,,,,,,,,,,,,,,official,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Zach Randolph,4,8:41,UTA,sub,,,,Ronnie Price,,Wesley Matthews,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Steven Hunter,4,8:41,MEM,sub,,,,Steven Hunter,,Zach Randolph,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Steven Hunter,4,8:29,MEM,turnover,,,,,,,,,,Marc Gasol,,,lost ball,,Andrei Kirilenko,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,DeMarre Carroll,Marc Gasol,Marcus Williams,O.J. Mayo,Steven Hunter,4,8:10,UTA,shot,Ronnie Price,,,,,,,,,Kyle Korver,2,,,made,,jump,19,26
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,4,7:55,MEM,sub,,,,Rudy Gay,,DeMarre Carroll,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,4,7:47,MEM,shot,,,,,,,,,,Marcus Williams,,,,missed,,3pt,37,27
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,4,7:46,UTA,rebound,,,,,,,,,,Andrei Kirilenko,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Steven Hunter,4,7:36,MEM,foul,,,,,,,,Ronnie Price,,O.J. Mayo,,,,,,loose ball,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,4,7:36,MEM,sub,,,,Mike Conley,,Marcus Williams,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,4,7:30,MEM,foul,,,,,,,,Carlos Boozer,,Marc Gasol,,,,,,shooting,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,4,7:30,UTA,free throw,,,,,,,1,,2,Carlos Boozer,,,foul,missed,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,4,7:30,UTA,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:30,MEM,sub,,,,Zach Randolph,,Steven Hunter,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:30,UTA,free throw,,,,,,,2,,2,Carlos Boozer,,,foul,missed,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:29,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:17,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,2,,,made,,jump,22,23
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:16,MEM,foul,,,,,,,,,,O.J. Mayo,,,,,,technical,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:16,UTA,free throw,,,,,,,1,,1,Kyle Korver,,,technical,made,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:16,UTA,sub,,,,Ronnie Brewer,,Kyle Korver,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:03,MEM,foul,,,,,,,,Paul Millsap,,Rudy Gay,,,,,,shooting,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:03,UTA,free throw,,,,,,,1,,2,Paul Millsap,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:03,UTA,free throw,,,,,,,2,,2,Paul Millsap,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:49,MEM,shot,,,Andrei Kirilenko,,,,,,,Mike Conley,,,,missed,,reverse layup,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:46,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:46,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,tip,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:46,UTA,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:25,UTA,shot,Ronnie Price,,,,,,,,,Paul Millsap,2,,,made,,layup,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:04,MEM,shot,,,,,,,,,,Marc Gasol,2,,,made,,running jump,25,12
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:48,UTA,foul,,,,,,,,O.J. Mayo,,Ronnie Brewer,,,,,,offensive,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:48,UTA,turnover,,,,,,,,,,Ronnie Brewer,,,foul,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:48,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:30,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,running jump,18,11
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:28,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:22,UTA,shot,,,,,,,,,,Andrei Kirilenko,,,,missed,,3pt,2,15
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:21,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:19,MEM,turnover,,,,,,,,,,Rudy Gay,,,bad pass,,Ronnie Brewer,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:02,UTA,shot,Ronnie Price,,,,,,,,,Ronnie Brewer,2,,,made,,jump,7,19
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:46,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,running jump,27,14
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:46,UTA,foul,,,,,,,,Mike Conley,,Paul Millsap,,,,,,shooting,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:46,MEM,free throw,,,,,,,1,,1,Mike Conley,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:30,MEM,foul,,,,,,,,Paul Millsap,,Rudy Gay,,,,,,personal,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:30,UTA,free throw,,,,,,,1,,2,Paul Millsap,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:30,UTA,free throw,,,,,,,2,,2,Paul Millsap,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:21,MEM,timeout,,,,,,,,,,,,,,,,short,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,4,4:21,MEM,sub,,,,Steven Hunter,,Marc Gasol,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,4,4:11,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,running jump,30,16
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,4,3:50,UTA,shot,Ronnie Price,,,,,,,,,Andrei Kirilenko,2,,,made,,running jump,22,18
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,4,3:34,MEM,turnover,,,,,,,,,,Mike Conley,,,lost ball,,Ronnie Price,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,4,3:29,UTA,shot,Ronnie Brewer,,,,,,,,,Andrei Kirilenko,2,,,made,,slam dunk,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,4,3:09,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,4,3:07,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,off,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,4,3:07,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,putback dunk,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,4,3:03,MEM,rebound,,,,,,,,,,Mike Conley,,,,,,off,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,4,2:54,MEM,turnover,,,,,,,,,,O.J. Mayo,,,out of bounds lost ball turnover,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Mike Conley,O.J. Mayo,Rudy Gay,Steven Hunter,Zach Randolph,4,2:54,UTA,timeout,,,,,,,,,,,,,,,,regular,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:54,MEM,sub,,,,Marc Gasol,,Steven Hunter,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:44,UTA,shot,,,,,,,,,,Carlos Boozer,2,,,made,,layup,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:23,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,21,31
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:23,UTA,rebound,,,,,,,,,,Andrei Kirilenko,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:10,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,step back jump,28,13
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:08,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:58,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:57,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:57,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,tip,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:54,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:39,UTA,shot,,,,,,,,,,Ronnie Brewer,,,,missed,,layup,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:37,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,off,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:37,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,tip,25,6
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:34,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:21,UTA,foul,,,,,,,,Mike Conley,,Carlos Boozer,,,,,,shooting,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:21,MEM,free throw,,,,,,,1,,2,Mike Conley,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:21,MEM,free throw,,,,,,,2,,2,Mike Conley,,,foul,missed,,,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:19,UTA,rebound,,,,,,,,,,Carlos Boozer,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:00,UTA,shot,,,,,,,,,,Carlos Boozer,,,,missed,,fade away jumper,34,10
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:58,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:58,UTA,foul,,,,,,,,O.J. Mayo,,Ronnie Price,,,,,,personal,,
+Andrei Kirilenko,Carlos Boozer,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:58,MEM,free throw,,,,,,,1,,2,O.J. Mayo,,,foul,made,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:58,UTA,sub,,,,Kyle Korver,,Ronnie Brewer,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:58,MEM,free throw,,,,,,,2,,2,O.J. Mayo,,,foul,missed,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:56,MEM,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:37,MEM,shot,,,Ronnie Price,,,,,,,Mike Conley,,,,missed,,layup,25,9
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:37,MEM,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:37,MEM,timeout,,,,,,,,,,,,,,,,short,,
+Andrei Kirilenko,Carlos Boozer,Kyle Korver,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:37,UTA,foul,,,,,,,,Marc Gasol,,Carlos Boozer,,,,,,personal,,
+Andrei Kirilenko,Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:37,UTA,sub,,,,Mehmet Okur,,Carlos Boozer,,,,,,,,,,,,
+Andrei Kirilenko,Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:37,MEM,free throw,,,,,,,1,,2,Marc Gasol,,,foul,missed,,,,
+Andrei Kirilenko,Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:37,MEM,rebound,,,,,,,,,,,,,,,,,,
+Andrei Kirilenko,Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:37,MEM,free throw,,,,,,,2,,2,Marc Gasol,,,foul,made,,,,
+Andrei Kirilenko,Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:34,UTA,timeout,,,,,,,,,,,,,,,,short,,
+Andrei Kirilenko,Kyle Korver,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:34,UTA,sub,,,,Ronnie Brewer,,Paul Millsap,,,,,,,,,,,,
+Andrei Kirilenko,Kyle Korver,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:23,UTA,shot,,,,,,,,,,Ronnie Price,,,,missed,,running layup,25,6
+Andrei Kirilenko,Kyle Korver,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:23,UTA,rebound,,,,,,,,,,Ronnie Brewer,,,,,,off,,
+Andrei Kirilenko,Kyle Korver,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:23,UTA,shot,,,,,,,,,,Ronnie Brewer,2,,,made,,putback dunk,25,6
+Andrei Kirilenko,Kyle Korver,Mehmet Okur,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:23,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:23,UTA,sub,,,,Paul Millsap,,Kyle Korver,,,,,,,,,,,,
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:05,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,pullup jump,39,22
+Andrei Kirilenko,Mehmet Okur,Paul Millsap,Ronnie Brewer,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:05,UTA,timeout,,,,,,,,,,,,,,,,regular,,
+Andrei Kirilenko,Kyle Korver,Mehmet Okur,Paul Millsap,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:05,UTA,sub,,,,Kyle Korver,,Ronnie Brewer,,,,,,,,,,,,
+Andrei Kirilenko,C.J. Miles,Kyle Korver,Mehmet Okur,Ronnie Price,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:05,UTA,sub,,,,C.J. Miles,,Paul Millsap,,,,,,,,,,,,
+Andrei Kirilenko,C.J. Miles,Kyle Korver,Mehmet Okur,Ronnie Price,DeMarre Carroll,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:05,MEM,sub,,,,DeMarre Carroll,,Mike Conley,,,,,,,,,,,,
+Andrei Kirilenko,C.J. Miles,Kyle Korver,Mehmet Okur,Ronnie Price,DeMarre Carroll,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:00,UTA,shot,,,Marc Gasol,,,,,,,C.J. Miles,,,,missed,,layup,25,6
+Andrei Kirilenko,C.J. Miles,Kyle Korver,Mehmet Okur,Ronnie Price,DeMarre Carroll,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,4,0:00,UTA,rebound,,,,,,,,,,,,,,,,,,

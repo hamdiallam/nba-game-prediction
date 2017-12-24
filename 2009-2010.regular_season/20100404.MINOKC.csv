@@ -1,0 +1,438 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,12:00,OFF,jump ball,,Ryan Hollins,,,Jeff Green,,,,,,,Jonny Flynn,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,11:43,MIN,shot,Ryan Hollins,,,,,,,,,Corey Brewer,2,,,made,,jump,25,21
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,11:29,OKC,shot,Russell Westbrook,,,,,,,,,Kevin Durant,2,,,made,,jump,12,17
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,11:11,MIN,shot,,,,,,,,,,Al Jefferson,2,,,made,,turnaround jump,33,8
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,10:55,OKC,shot,Russell Westbrook,,,,,,,,,Jeff Green,2,,,made,,jump,33,21
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,10:39,MIN,shot,,,,,,,,,,Corey Brewer,2,,,made,,jump,37,9
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,10:25,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,turnaround fade away,18,9
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,10:24,MIN,rebound,,,,,,,,,,Ryan Hollins,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,10:15,MIN,shot,,,,,,,,,,Corey Brewer,,,,missed,,3pt,6,21
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,10:13,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:59,OKC,shot,,,,,,,,,,Nenad Krstic,,,,missed,,hook,19,8
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:58,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:57,MIN,turnover,,,,,,,,,,Ryan Hollins,,,bad pass,,Russell Westbrook,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:55,OKC,shot,,,,,,,,,,Russell Westbrook,2,,,made,,layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:39,MIN,shot,Al Jefferson,,,,,,,,,Jonny Flynn,2,,,made,,layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:20,MIN,foul,,,,,,,,Jeff Green,,Ryan Hollins,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:20,OKC,free throw,,,,,,,1,,2,Jeff Green,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:20,OKC,free throw,,,,,,,2,,2,Jeff Green,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:16,MIN,shot,Al Jefferson,,,,,,,,,Corey Brewer,2,,,made,,dunk,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:59,OKC,shot,,,,,,,,,,Nenad Krstic,,,,missed,,layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:59,OKC,rebound,,,,,,,,,,Nenad Krstic,,,,,,off,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:59,OKC,turnover,,,,,,,,,,Nenad Krstic,,,traveling,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:45,MIN,turnover,,,,,,,,,,Corey Brewer,,,lost ball,,Russell Westbrook,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:41,OKC,shot,Russell Westbrook,,,,,,,,,Kevin Durant,2,,,made,,dunk,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:33,MIN,shot,,,,,,,,,,Ryan Gomes,,,,missed,,3pt,5,21
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:32,OKC,rebound,,,,,,,,,,Russell Westbrook,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:29,MIN,foul,,,,,,,,Thabo Sefolosha,,Ryan Hollins,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:29,OKC,free throw,,,,,,,1,,2,Thabo Sefolosha,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:29,MIN,sub,,,,Kevin Love,,Ryan Hollins,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:29,OKC,free throw,,,,,,,2,,2,Thabo Sefolosha,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,8:10,MIN,shot,Kevin Love,,,,,,,,,Corey Brewer,2,,,made,,layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,7:59,OKC,shot,Russell Westbrook,,,,,,,,,Kevin Durant,2,,,made,,jump,12,17
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,7:41,MIN,shot,,,Jeff Green,,,,,,,Kevin Love,,,,missed,,jump,40,15
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,7:39,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,7:28,OKC,turnover,,,,,,,,,,Thabo Sefolosha,,,step out of bounds turnover,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,7:16,MIN,shot,,,Kevin Durant,,,,,,,Kevin Love,,,,missed,,turnaround jump,25,10
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,7:15,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,off,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,7:12,MIN,shot,,,,,,,,,,Kevin Love,2,,,made,,jump,25,10
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,6:57,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,22,20
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,6:56,OKC,rebound,,,,,,,,,,Nenad Krstic,,,,,,off,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,6:55,OKC,shot,,,,,,,,,,Nenad Krstic,2,,,made,,putback layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,6:46,MIN,shot,Corey Brewer,,,,,,,,,Jonny Flynn,2,,,made,,jump,7,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,6:23,OKC,shot,Russell Westbrook,,,,,,,,,Thabo Sefolosha,3,,,made,,3pt,47,16
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,6:06,MIN,shot,,,,,,,,,,Ryan Gomes,,,,missed,,3pt,3,8
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,6:05,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,off,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,5:59,MIN,turnover,,,,,,,,,,Jonny Flynn,,,bad pass,,Thabo Sefolosha,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,5:53,OKC,shot,Russell Westbrook,,,,,,,,,Jeff Green,3,,,made,,3pt,2,9
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,5:41,MIN,timeout,,,,,,,,,,,,,,,,regular,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,5:41,MIN,sub,,,,Damien Wilkins,,Corey Brewer,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,5:29,MIN,shot,,,,,,,,,,Jonny Flynn,,,,missed,,layup,25,6
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,5:27,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,5:25,MIN,foul,,,,,,,,Kevin Durant,,Jonny Flynn,,,,,,shooting,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,5:25,OKC,free throw,,,,,,,1,,2,Kevin Durant,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,5:25,OKC,free throw,,,,,,,2,,2,Kevin Durant,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,5:03,OKC,foul,,,,,,,,Kevin Love,,Jeff Green,,,,,,personal,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,4:58,MIN,shot,,,,,,,,,,Al Jefferson,2,,,made,,jump,13,10
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,4:42,OKC,shot,Russell Westbrook,,,,,,,,,Jeff Green,3,,,made,,3pt,23,31
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Sasha Pavlovic,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,4:29,MIN,sub,,,,Sasha Pavlovic,,Ryan Gomes,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Sasha Pavlovic,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,4:26,OKC,foul,,,,,,,,Damien Wilkins,,Thabo Sefolosha,,,,,,shooting,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Sasha Pavlovic,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,4:26,MIN,free throw,,,,,,,1,,2,Damien Wilkins,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Sasha Pavlovic,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,4:26,MIN,free throw,,,,,,,2,,2,Damien Wilkins,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Sasha Pavlovic,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,4:10,OKC,shot,,,,,,,,,,Kevin Durant,2,,,made,,jump,40,11
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Sasha Pavlovic,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,3:54,MIN,shot,,,,,,,,,,Damien Wilkins,2,,,made,,floating jump,25,11
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Sasha Pavlovic,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,3:40,OKC,shot,Russell Westbrook,,,,,,,,,Thabo Sefolosha,2,,,made,,reverse layup,25,6
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Sasha Pavlovic,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,3:26,OKC,foul,,,,,,,,Al Jefferson,,Russell Westbrook,,,,,,shooting,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Kevin Love,Sasha Pavlovic,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,1,3:26,OKC,sub,,,,Nick Collison,,Nenad Krstic,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Sasha Pavlovic,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,1,3:26,MIN,sub,,,,Ramon Sessions,,Jonny Flynn,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Sasha Pavlovic,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,1,3:26,MIN,free throw,,,,,,,1,,2,Al Jefferson,,,foul,missed,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Sasha Pavlovic,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,1,3:26,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Sasha Pavlovic,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,1,3:26,MIN,free throw,,,,,,,2,,2,Al Jefferson,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Sasha Pavlovic,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,1,3:18,MIN,foul,,,,,,,,Kevin Durant,,Damien Wilkins,,,,,,shooting,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,1,3:18,MIN,sub,,,,Oleksiy Pecherov,,Al Jefferson,,,,,,,,,,,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,1,3:18,OKC,free throw,,,,,,,1,,2,Kevin Durant,,,foul,made,,,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,3:18,OKC,sub,,,,Serge Ibaka,,Jeff Green,,,,,,,,,,,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,3:18,OKC,free throw,,,,,,,2,,2,Kevin Durant,,,foul,made,,,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,3:05,MIN,shot,,,,,,,,,,Ramon Sessions,,,,missed,,floating jump,35,8
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,3:04,MIN,rebound,,,,,,,,,,Oleksiy Pecherov,,,,,,off,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,3:01,MIN,shot,,,Kevin Durant,,,,,,,Oleksiy Pecherov,,,,missed,,jump,25,11
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,3:00,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,2:46,OKC,shot,Kevin Durant,,,,,,,,,Serge Ibaka,2,,,made,,driving dunk,25,6
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,2:21,MIN,shot,,,,,,,,,,Sasha Pavlovic,,,,missed,,fade away jumper,21,15
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,2:19,OKC,rebound,,,,,,,,,,Thabo Sefolosha,,,,,,def,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,2:06,OKC,shot,,,,,,,,,,Nick Collison,,,,missed,,layup,25,6
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,2:06,MIN,rebound,,,,,,,,,,Oleksiy Pecherov,,,,,,def,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,1:49,OKC,foul,,,,,,,,Damien Wilkins,,Kevin Durant,,,,,,personal,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,1,1:49,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,1:49,OKC,sub,,,,Eric Maynor,,Russell Westbrook,,,,,,,,,,,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,1:42,MIN,shot,,,,,,,,,,Ramon Sessions,,,,missed,,floating jump,19,9
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,1:41,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,def,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,1:25,OKC,shot,Thabo Sefolosha,,,,,,,,,Kevin Durant,2,,,made,,step back jump,22,21
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,1:13,MIN,turnover,,,,,,,,,,Damien Wilkins,,,traveling,,,,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,0:58,OKC,shot,,,,,,,,,,Serge Ibaka,,,,missed,,jump,13,8
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,0:55,MIN,rebound,,,,,,,,,,Damien Wilkins,,,,,,def,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,0:46,MIN,shot,Sasha Pavlovic,,,,,,,,,Kevin Love,2,,,made,,hook,25,10
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,0:38,OKC,shot,Eric Maynor,,,,,,,,,Kevin Durant,3,,,made,,3pt,34,28
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,0:27,MIN,shot,,,,,,,,,,Sasha Pavlovic,,,,missed,,3pt,28,30
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,0:26,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,def,,
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,0:05,OKC,shot,,,,,,,,,,Kevin Durant,3,,,made,,3pt,24,30
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,0:00,MIN,shot,,,,,,,,,,Ramon Sessions,,,,missed,,3pt,40,31
+Damien Wilkins,Kevin Love,Oleksiy Pecherov,Ramon Sessions,Sasha Pavlovic,Eric Maynor,Kevin Durant,Nick Collison,Serge Ibaka,Thabo Sefolosha,1,0:00,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,11:45,OKC,turnover,,,,,,,,,,Jeff Green,,,traveling,,,,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,11:29,MIN,shot,,,,,,,,,,Ryan Gomes,,,,missed,,3pt,44,21
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,11:28,OKC,rebound,,,,,,,,,,James Harden,,,,,,def,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,11:20,OKC,shot,,,,,,,,,,James Harden,2,,,made,,jump,40,18
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,11:01,MIN,shot,,,,,,,,,,Kevin Love,,,,missed,,jump,15,12
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,11:00,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,10:52,OKC,shot,Jeff Green,,,,,,,,,Serge Ibaka,2,,,made,,hook,25,11
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,10:24,MIN,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,10:15,OKC,turnover,,,,,,,,,,Eric Maynor,,,lost ball,,Ramon Sessions,,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,10:14,OKC,foul,,,,,,,,Ramon Sessions,,Eric Maynor,,,,,,personal,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,10:07,OKC,foul,,,,,,,,Ramon Sessions,,Nick Collison,,,,,,shooting,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,10:07,MIN,free throw,,,,,,,1,,2,Ramon Sessions,,,foul,made,,,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,10:07,MIN,free throw,,,,,,,2,,2,Ramon Sessions,,,foul,made,,,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,9:45,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,step back jump,42,6
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,9:44,MIN,rebound,,,,,,,,,,Ramon Sessions,,,,,,def,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,9:39,MIN,shot,,,,,,,,,,Ramon Sessions,2,,,made,,floating jump,23,11
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,9:23,OKC,shot,,,,,,,,,,James Harden,,,,missed,,jump,12,8
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,9:23,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,9:12,MIN,shot,Wayne Ellington,,,,,,,,,Kevin Love,2,,,made,,layup,25,6
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,9:03,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,8:56,OKC,turnover,,,,,,,,,,Nick Collison,,,bad pass,,,,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,8:48,MIN,turnover,,,,,,,,,,Ramon Sessions,,,bad pass,,Nick Collison,,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,8:39,OKC,shot,Eric Maynor,,,,,,,,,Serge Ibaka,2,,,made,,layup,25,6
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,8:18,MIN,shot,,,Serge Ibaka,,,,,,,Kevin Love,,,,missed,,fade away jumper,24,12
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,8:17,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,def,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,8:01,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,reverse layup,25,6
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,8:00,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,off,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,8:00,OKC,shot,,,,,,,,,,Nick Collison,2,,,made,,putback dunk,25,6
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,7:40,MIN,shot,,,,,,,,,,Ryan Gomes,,,,missed,,running jump,21,10
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,7:39,OKC,rebound,,,,,,,,,,James Harden,,,,,,def,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Nick Collison,Serge Ibaka,2,7:34,MIN,foul,,,,,,,,James Harden,,Al Jefferson,,,,,,shooting,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:34,OKC,sub,,,,Russell Westbrook,,Eric Maynor,,,,,,,,,,,,
+Al Jefferson,Kevin Love,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:34,OKC,sub,,,,Kevin Durant,,Jeff Green,,,,,,,,,,,,
+Kevin Love,Ramon Sessions,Ryan Gomes,Ryan Hollins,Wayne Ellington,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:34,MIN,sub,,,,Ryan Hollins,,Al Jefferson,,,,,,,,,,,,
+Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,Wayne Ellington,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:34,MIN,sub,,,,Jonny Flynn,,Ramon Sessions,,,,,,,,,,,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:34,MIN,sub,,,,Corey Brewer,,Wayne Ellington,,,,,,,,,,,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:34,OKC,free throw,,,,,,,1,,2,James Harden,,,foul,missed,,,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:34,OKC,rebound,,,,,,,,,,,,,,,,,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:34,MIN,violation,,,,,,,,,,Ryan Hollins,,,,,,lane,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:34,OKC,free throw,,,,,,,2,,2,James Harden,,,foul,made,,,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:23,MIN,foul,,,,,,,,James Harden,,Kevin Love,,,,,,offensive,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:23,MIN,turnover,,,,,,,,,,Kevin Love,,,foul,,,,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:05,OKC,shot,,,,,,,,,,Serge Ibaka,2,,,made,,hook,17,7
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,6:42,MIN,shot,Kevin Love,,,,,,,,,Ryan Hollins,2,,,made,,jump bank,29,9
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,6:23,OKC,shot,,,,,,,,,,Serge Ibaka,,,,missed,,jump,40,11
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,6:22,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,6:08,MIN,shot,,,,,,,,,,Jonny Flynn,2,,,made,,jump,9,13
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:53,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,jump,39,14
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:52,OKC,rebound,,,,,,,,,,Russell Westbrook,,,,,,off,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:49,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,layup,25,6
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:48,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,off,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:48,OKC,shot,,,,,,,,,,Nick Collison,2,,,made,,putback layup,25,6
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:24,MIN,shot,Ryan Hollins,,,,,,,,,Ryan Gomes,2,,,made,,jump,41,13
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:11,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,10,11
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:10,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,off,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:10,OKC,shot,,,,,,,,,,Serge Ibaka,2,,,made,,tip,25,6
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:01,MIN,foul,,,,,,,,Nick Collison,,Jonny Flynn,,,,,,offensive,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:01,MIN,turnover,,,,,,,,,,Jonny Flynn,,,foul,,,,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:01,OKC,timeout,,,,,,,,,,,,,,,,official,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:01,OKC,sub,,,,Jeff Green,,James Harden,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:01,MIN,sub,,,,Damien Wilkins,,Ryan Gomes,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,5:01,MIN,sub,,,,Al Jefferson,,Kevin Love,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,4:45,OKC,shot,Nick Collison,,,,,,,,,Serge Ibaka,2,,,made,,dunk,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,4:27,MIN,shot,,,,,,,,,,Corey Brewer,2,,,made,,jump,39,13
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,4:11,OKC,shot,,,,,,,,,,Serge Ibaka,,,,missed,,jump,40,15
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,4:10,MIN,rebound,,,,,,,,,,Ryan Hollins,,,,,,def,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,2,4:04,MIN,turnover,,,,,,,,,,Corey Brewer,,,bad pass,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,4:04,OKC,sub,,,,Nenad Krstic,,Nick Collison,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,3:49,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,jump,17,17
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,3:48,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,off,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,3:45,OKC,shot,,,,,,,,,,Serge Ibaka,,,,missed,,layup,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,3:44,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,off,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,3:41,OKC,shot,,,,,,,,,,Kevin Durant,2,,,made,,fade away jumper,31,16
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,3:22,MIN,shot,Corey Brewer,,,,,,,,,Al Jefferson,2,,,made,,step back jump,38,10
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,3:04,OKC,shot,,,,,,,,,,Jeff Green,2,,,made,,hook,27,10
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,2:53,MIN,shot,,,,,,,,,,Jonny Flynn,,,,missed,,3pt,25,30
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,2:52,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,2:42,OKC,shot,,,,,,,,,,Serge Ibaka,,,,missed,,fade away jumper,32,12
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,2:41,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,off,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,2:40,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,layup,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,2:39,MIN,rebound,,,,,,,,,,Corey Brewer,,,,,,def,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,2:34,MIN,shot,,,,,,,,,,Corey Brewer,,,,missed,,layup,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,2:33,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,2:29,OKC,shot,Kevin Durant,,,,,,,,,Nenad Krstic,2,,,made,,alley oop dunk,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,2,2:19,MIN,timeout,,,,,,,,,,,,,,,,regular,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:19,OKC,sub,,,,Thabo Sefolosha,,Serge Ibaka,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:10,OKC,foul,,,,,,,,Jonny Flynn,,Russell Westbrook,,,,,,personal,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:01,MIN,shot,,,,,,,,,,Damien Wilkins,2,,,made,,fade away jumper,12,8
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:44,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,19,21
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:43,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:37,MIN,shot,,,,,,,,,,Corey Brewer,,,,missed,,layup,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:36,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:23,MIN,shot,Jonny Flynn,,,,,,,,,Damien Wilkins,2,,,made,,jump,37,7
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:06,OKC,shot,Russell Westbrook,,,,,,,,,Nenad Krstic,2,,,made,,jump,40,10
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:51,MIN,shot,Al Jefferson,,,,,,,,,Ryan Hollins,2,,,made,,dunk,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:36,MIN,foul,,,,,,,,Kevin Durant,,Ryan Hollins,,,,,,personal,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:32,MIN,foul,,,,,,,,Kevin Durant,,Corey Brewer,,,,,,personal,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:32,OKC,free throw,,,,,,,1,,2,Kevin Durant,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:32,MIN,sub,,,,Ryan Gomes,,Ryan Hollins,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:32,OKC,free throw,,,,,,,2,,2,Kevin Durant,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:11,MIN,shot,Jonny Flynn,,,,,,,,,Corey Brewer,3,,,made,,3pt,2,8
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:04,OKC,shot,,,,,,,,,,Russell Westbrook,2,,,made,,driving layup,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:03,MIN,turnover,,,,,,,,,,Al Jefferson,,,bad pass,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:03,OKC,timeout,,,,,,,,,,,,,,,,short,,
+Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:03,MIN,sub,,,,Kevin Love,,Al Jefferson,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,0:02,OKC,turnover,,,,,,,,,,Thabo Sefolosha,,,bad pass,,Corey Brewer,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,11:42,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,3pt,47,8
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,11:41,MIN,rebound,,,,,,,,,,Ryan Hollins,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,11:17,MIN,shot,,,,,,,,,,Corey Brewer,,,,missed,,3pt,19,29
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,11:16,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,11:02,OKC,shot,Jeff Green,,,,,,,,,Kevin Durant,2,,,made,,jump,36,19
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:45,MIN,shot,,,,,,,,,,Ryan Hollins,,,,missed,,jump,31,23
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:45,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,off,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:40,MIN,shot,,,,,,,,,,Al Jefferson,2,,,made,,layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:24,OKC,shot,,,,,,,,,,Nenad Krstic,,,,missed,,jump,10,7
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:23,MIN,rebound,,,,,,,,,,Jonny Flynn,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:13,OKC,foul,,,,,,,,Ryan Hollins,,Nenad Krstic,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:13,MIN,free throw,,,,,,,1,,2,Ryan Hollins,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:13,MIN,free throw,,,,,,,2,,2,Ryan Hollins,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Ryan Hollins,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:00,MIN,foul,,,,,,,,Kevin Durant,,Ryan Hollins,,,,,,personal,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:00,MIN,sub,,,,Kevin Love,,Ryan Hollins,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:54,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,3pt,2,9
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:53,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:39,OKC,foul,,,,,,,,Jonny Flynn,,Jeff Green,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:39,MIN,free throw,,,,,,,1,,3,Jonny Flynn,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:39,MIN,free throw,,,,,,,2,,3,Jonny Flynn,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:39,MIN,free throw,,,,,,,3,,3,Jonny Flynn,,,foul,missed,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:38,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:23,OKC,shot,,,,,,,,,,Russell Westbrook,2,,,made,,fade away jumper,24,12
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:20,OKC,foul,,,,,,,,Jonny Flynn,,Russell Westbrook,,,,,,personal,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:08,MIN,shot,,,Nenad Krstic,,,,,,,Al Jefferson,,,,missed,,layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:06,OKC,rebound,,,,,,,,,,Nenad Krstic,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:02,OKC,foul,,,,,,,,Jonny Flynn,,Russell Westbrook,,,,,,offensive,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:02,OKC,turnover,,,,,,,,,,Russell Westbrook,,,foul,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,8:51,MIN,shot,,,,,,,,,,Corey Brewer,2,,,made,,jump,40,14
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,8:39,MIN,foul,,,,,,,,Kevin Durant,,Corey Brewer,,,,,,personal,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,8:39,OKC,sub,,,,Eric Maynor,,Russell Westbrook,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,8:36,OKC,shot,,,,,,,,,,Nenad Krstic,,,,missed,,jump,17,25
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,8:34,OKC,rebound,,,,,,,,,,Eric Maynor,,,,,,off,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,8:31,OKC,shot,Eric Maynor,,,,,,,,,Jeff Green,2,,,made,,slam dunk,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,8:23,MIN,shot,Jonny Flynn,,,,,,,,,Ryan Gomes,2,,,made,,jump,9,15
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,8:08,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,19,22
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,8:07,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,off,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,8:05,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,8:04,OKC,rebound,,,,,,,,,,Nenad Krstic,,,,,,off,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,8:03,OKC,shot,,,Al Jefferson,,,,,,,Nenad Krstic,,,,missed,,layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,8:01,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,7:54,MIN,shot,,,,,,,,,,Ryan Gomes,,,,missed,,jump,10,18
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,7:53,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,off,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,7:42,OKC,foul,,,,,,,,Al Jefferson,,Kevin Durant,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,7:42,MIN,free throw,,,,,,,1,,2,Al Jefferson,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,7:42,MIN,free throw,,,,,,,2,,2,Al Jefferson,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,7:25,OKC,shot,,,,,,,,,,Nenad Krstic,2,,,made,,layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,7:15,MIN,shot,,,,,,,,,,Jonny Flynn,,,,missed,,driving layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,7:14,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,7:12,OKC,turnover,,,,,,,,,,Jeff Green,,,traveling,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,6:54,MIN,shot,Jonny Flynn,,,,,,,,,Ryan Gomes,3,,,made,,3pt,8,24
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,6:53,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,6:29,OKC,shot,,,,,,,,,,Nenad Krstic,,,,missed,,jump,36,7
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,6:28,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,6:10,OKC,foul,,,,,,,,Ryan Gomes,,Kevin Durant,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,6:10,MIN,free throw,,,,,,,1,,2,Ryan Gomes,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,6:10,MIN,free throw,,,,,,,2,,2,Ryan Gomes,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,6:01,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,3pt,19,30
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,6:00,MIN,rebound,,,,,,,,,,Jonny Flynn,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,5:54,MIN,shot,,,,,,,,,,Jonny Flynn,2,,,made,,layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,5:35,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,3pt,19,30
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,5:34,MIN,rebound,,,,,,,,,,Corey Brewer,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,5:17,MIN,shot,,,,,,,,,,Kevin Love,,,,missed,,3pt,16,28
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,5:16,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,5:04,OKC,shot,,,,,,,,,,Eric Maynor,,,,missed,,jump,24,22
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,5:03,MIN,rebound,,,,,,,,,,Ryan Gomes,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,4:47,MIN,shot,,,,,,,,,,Kevin Love,,,,missed,,layup,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Nenad Krstic,Thabo Sefolosha,3,4:46,OKC,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,3,4:46,OKC,sub,,,,James Harden,,Thabo Sefolosha,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,3,4:33,MIN,foul,,,,,,,,Nenad Krstic,,Kevin Love,,,,,,personal,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,3,4:20,OKC,shot,,,,,,,,,,James Harden,,,,missed,,step back jump,19,27
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,3,4:19,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,3,4:09,MIN,shot,,,,,,,,,,Ryan Gomes,2,,,made,,floating jump,23,10
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,3,4:09,OKC,foul,,,,,,,,Ryan Gomes,,James Harden,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,4:09,OKC,sub,,,,Serge Ibaka,,Nenad Krstic,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,4:09,MIN,free throw,,,,,,,1,,1,Ryan Gomes,,,foul,missed,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,4:08,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:54,MIN,foul,,,,,,,,Kevin Durant,,Corey Brewer,,,,,,personal,,
+Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Ryan Hollins,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:54,MIN,sub,,,,Ryan Hollins,,Al Jefferson,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:54,MIN,sub,,,,Damien Wilkins,,Ryan Gomes,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:46,MIN,foul,,,,,,,,Kevin Durant,,Corey Brewer,,,,,,shooting,,
+Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:46,MIN,foul,,,,,,,,Kevin Durant,,Corey Brewer,,,,,,technical,,
+Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:46,OKC,free throw,,,,,,,1,,1,Kevin Durant,,,technical,made,,,,
+Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:46,OKC,free throw,,,,,,,1,,3,Kevin Durant,,,foul,made,,,,
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:46,MIN,sub,,,,Wayne Ellington,,Corey Brewer,,,,,,,,,,,,
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:46,OKC,free throw,,,,,,,2,,3,Kevin Durant,,,foul,made,,,,
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:46,OKC,free throw,,,,,,,3,,3,Kevin Durant,,,foul,made,,,,
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:35,MIN,shot,,,,,,,,,,Jonny Flynn,2,,,made,,floating jump,27,13
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:12,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,jump,27,15
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:11,MIN,rebound,,,,,,,,,,Jonny Flynn,,,,,,def,,
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:01,MIN,foul,,,,,,,,Eric Maynor,,Ryan Hollins,,,,,,offensive,,
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Hollins,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:01,MIN,turnover,,,,,,,,,,Ryan Hollins,,,foul,,,,,
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,3:01,MIN,sub,,,,Ryan Gomes,,Ryan Hollins,,,,,,,,,,,,
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:47,OKC,shot,,,,,,,,,,Eric Maynor,,,,missed,,jump,41,17
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:46,MIN,rebound,,,,,,,,,,Ryan Gomes,,,,,,def,,
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:38,OKC,foul,,,,,,,,Jonny Flynn,,Eric Maynor,,,,,,shooting,,
+Damien Wilkins,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:38,MIN,timeout,,,,,,,,,,,,,,,,regular,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:38,MIN,sub,,,,Al Jefferson,,Kevin Love,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:38,MIN,free throw,,,,,,,1,,2,Jonny Flynn,,,foul,missed,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:38,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:38,MIN,free throw,,,,,,,2,,2,Jonny Flynn,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:16,OKC,shot,,,,,,,,,,Eric Maynor,,,,missed,,3pt,19,30
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:16,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:04,MIN,turnover,,,,,,,,,,Jonny Flynn,,,lost ball,,James Harden,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,2:01,OKC,shot,,,,,,,,,,James Harden,2,,,made,,dunk,25,6
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,1:44,OKC,foul,,,,,,,,Al Jefferson,,Serge Ibaka,,,,,,shooting,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Kevin Durant,Serge Ibaka,3,1:44,MIN,free throw,,,,,,,1,,2,Al Jefferson,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,1:44,OKC,sub,,,,Thabo Sefolosha,,Jeff Green,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,1:44,MIN,free throw,,,,,,,2,,2,Al Jefferson,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,1:30,OKC,shot,,,,,,,,,,Thabo Sefolosha,,,,missed,,jump,40,15
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,1:29,MIN,rebound,,,,,,,,,,Jonny Flynn,,,,,,def,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,1:15,MIN,shot,,,,,,,,,,Al Jefferson,,,,missed,,hook,24,9
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,1:14,OKC,rebound,,,,,,,,,,James Harden,,,,,,def,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,0:58,OKC,shot,,,,,,,,,,James Harden,2,,,made,,driving layup,25,6
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,0:37,MIN,shot,,,,,,,,,,Al Jefferson,,,,missed,,jump,36,11
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,0:36,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,def,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,0:26,OKC,turnover,,,,,,,,,,Kevin Durant,,,bad pass,,Jonny Flynn,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,0:24,OKC,foul,,,,,,,,Jonny Flynn,,James Harden,,,,,,personal,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,0:24,MIN,free throw,,,,,,,1,,2,Jonny Flynn,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,0:24,MIN,free throw,,,,,,,2,,2,Jonny Flynn,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,0:04,OKC,shot,,,,,,,,,,Eric Maynor,2,,,made,,jump,40,16
+Al Jefferson,Damien Wilkins,Jonny Flynn,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Kevin Durant,Serge Ibaka,Thabo Sefolosha,3,0:00,MIN,shot,,,,,,,,,,Jonny Flynn,3,,,made,,3pt,14,31
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Serge Ibaka,Thabo Sefolosha,4,11:42,MIN,shot,,,,,,,,,,Wayne Ellington,,,,missed,,jump,41,15
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Serge Ibaka,Thabo Sefolosha,4,11:41,OKC,rebound,,,,,,,,,,Eric Maynor,,,,,,def,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Serge Ibaka,Thabo Sefolosha,4,11:27,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,3pt,19,29
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Serge Ibaka,Thabo Sefolosha,4,11:26,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Serge Ibaka,Thabo Sefolosha,4,11:07,MIN,shot,,,,,,,,,,Wayne Ellington,,,,missed,,3pt,12,26
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Serge Ibaka,Thabo Sefolosha,4,11:06,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Serge Ibaka,Thabo Sefolosha,4,10:56,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,jump,42,10
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Serge Ibaka,Thabo Sefolosha,4,10:56,MIN,rebound,,,,,,,,,,Damien Wilkins,,,,,,def,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Serge Ibaka,Thabo Sefolosha,4,10:50,OKC,foul,,,,,,,,Ryan Gomes,,Serge Ibaka,,,,,,shooting,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Eric Maynor,James Harden,Jeff Green,Serge Ibaka,Thabo Sefolosha,4,10:50,MIN,free throw,,,,,,,1,,2,Ryan Gomes,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,10:50,OKC,sub,,,,Russell Westbrook,,Eric Maynor,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,10:50,MIN,free throw,,,,,,,2,,2,Ryan Gomes,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,10:29,OKC,turnover,,,,,,,,,,Serge Ibaka,,,3 second violation,,,,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,10:12,MIN,shot,,,Serge Ibaka,,,,,,,Al Jefferson,,,,missed,,jump,24,13
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,10:11,OKC,rebound,,,,,,,,,,James Harden,,,,,,def,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,10:05,OKC,shot,,,,,,,,,,James Harden,,,,missed,,layup,25,6
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,10:04,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,9:58,MIN,shot,,,,,,,,,,Wayne Ellington,,,,missed,,jump,9,23
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,9:57,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,9:39,MIN,foul,,,,,,,,Russell Westbrook,,Al Jefferson,,,,,,shooting,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,9:39,OKC,free throw,,,,,,,1,,2,Russell Westbrook,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,9:39,OKC,free throw,,,,,,,2,,2,Russell Westbrook,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,9:24,MIN,shot,Ramon Sessions,,,,,,,,,Ryan Gomes,3,,,made,,3pt,36,28
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,9:11,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,jump,20,21
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,9:10,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,off,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,9:10,OKC,shot,,,,,,,,,,Serge Ibaka,2,,,made,,tip,25,6
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:54,OKC,foul,,,,,,,,Damien Wilkins,,Thabo Sefolosha,,,,,,shooting,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,James Harden,Jeff Green,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:54,MIN,timeout,,,,,,,,,,,,,,,,official,,
+Al Jefferson,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:54,OKC,sub,,,,Kevin Durant,,James Harden,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Ramon Sessions,Ryan Gomes,Wayne Ellington,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:54,MIN,sub,,,,Corey Brewer,,Al Jefferson,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:54,MIN,sub,,,,Kevin Love,,Wayne Ellington,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:54,MIN,free throw,,,,,,,1,,2,Damien Wilkins,,,foul,made,,,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:54,MIN,free throw,,,,,,,2,,2,Damien Wilkins,,,foul,made,,,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:34,OKC,shot,,,,,,,,,,Russell Westbrook,2,,,made,,jump,16,14
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:22,OKC,foul,,,,,,,,Ramon Sessions,,Serge Ibaka,,,,,,shooting,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:22,MIN,free throw,,,,,,,1,,2,Ramon Sessions,,,foul,made,,,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:22,MIN,free throw,,,,,,,2,,2,Ramon Sessions,,,foul,made,,,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:06,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,3pt,16,29
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:05,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,off,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,8:02,OKC,shot,,,,,,,,,,Kevin Durant,2,,,made,,dunk,25,6
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,7:38,MIN,shot,,,,,,,,,,Ramon Sessions,,,,missed,,floating jump,19,11
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,7:37,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,off,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,7:37,MIN,shot,,,,,,,,,,Kevin Love,,,,missed,,tip,25,6
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,7:36,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,7:30,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,jump,34,19
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,7:29,MIN,rebound,,,,,,,,,,Ramon Sessions,,,,,,def,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,7:23,MIN,turnover,,,,,,,,,,Corey Brewer,,,lost ball,,Kevin Durant,,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,7:19,OKC,turnover,,,,,,,,,,Kevin Durant,,,lost ball,,Damien Wilkins,,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,7:15,MIN,shot,,,,,,,,,,Ryan Gomes,,,,missed,,jump,23,10
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,7:14,MIN,rebound,,,,,,,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,6:55,MIN,shot,,,,,,,,,,Damien Wilkins,,,,missed,,jump,38,17
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,6:54,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,6:41,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,driving layup,25,6
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,6:39,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,off,,
+Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Ryan Gomes,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,6:38,MIN,foul,,,,,,,,Serge Ibaka,,Damien Wilkins,,,,,,personal,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,6:38,MIN,sub,,,,Al Jefferson,,Ryan Gomes,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,6:28,OKC,shot,Russell Westbrook,,,,,,,,,Thabo Sefolosha,2,,,made,,jump,40,18
+Al Jefferson,Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,6:01,MIN,shot,,,,,,,,,,Al Jefferson,2,,,made,,layup,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Kevin Love,Ramon Sessions,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,6:01,OKC,foul,,,,,,,,Al Jefferson,,Serge Ibaka,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,Thabo Sefolosha,4,6:01,MIN,sub,,,,Jonny Flynn,,Ramon Sessions,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,6:01,OKC,sub,,,,Nenad Krstic,,Serge Ibaka,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,6:01,MIN,free throw,,,,,,,1,,1,Al Jefferson,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,5:52,OKC,shot,Russell Westbrook,,,,,,,,,Kevin Durant,2,,,made,,jump,20,24
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,5:32,MIN,shot,,,,,,,,,,Al Jefferson,,,,missed,,jump,38,18
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,5:31,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,def,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,5:27,OKC,foul,,,,,,,,Corey Brewer,,Jeff Green,,,,,,offensive,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Kevin Love,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,5:27,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,5:27,MIN,sub,,,,Ryan Gomes,,Damien Wilkins,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,5:14,MIN,shot,,,,,,,,,,Kevin Love,,,,missed,,3pt,14,28
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,5:11,OKC,rebound,,,,,,,,,,Nenad Krstic,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,5:00,OKC,shot,Russell Westbrook,,,,,,,,,Kevin Durant,2,,,made,,alley oop dunk,25,6
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,4:27,MIN,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,4:16,OKC,shot,Russell Westbrook,,,,,,,,,Nenad Krstic,2,,,made,,jump,9,16
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,4:15,MIN,timeout,,,,,,,,,,,,,,,,regular,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,3:54,MIN,shot,Corey Brewer,,,,,,,,,Ryan Gomes,3,,,made,,3pt,2,8
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,3:38,OKC,shot,Russell Westbrook,,,,,,,,,Nenad Krstic,2,,,made,,jump,20,24
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,3:21,MIN,shot,,,,,,,,,,Al Jefferson,,,,missed,,jump,30,21
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,3:20,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,off,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,3:18,MIN,shot,,,,,,,,,,Kevin Love,,,,missed,,fade away jumper,18,11
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,3:17,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,def,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,3:08,MIN,sub,,,,Damien Wilkins,,Kevin Love,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,2:55,OKC,shot,Russell Westbrook,,,,,,,,,Nenad Krstic,2,,,made,,jump,41,10
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,2:45,OKC,foul,,,,,,,,Damien Wilkins,,Kevin Durant,,,,,,personal,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,2:45,MIN,free throw,,,,,,,1,,2,Damien Wilkins,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,2:45,MIN,free throw,,,,,,,2,,2,Damien Wilkins,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,2:35,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,alley oop dunk,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,2:34,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,2:28,MIN,shot,,,,,,,,,,Jonny Flynn,2,,,made,,driving layup,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,2:09,OKC,shot,,,,,,,,,,Kevin Durant,2,,,made,,fade away jumper,21,25
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,2:06,MIN,timeout,,,,,,,,,,,,,,,,regular,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,1:59,MIN,shot,,,,,,,,,,Corey Brewer,,,,missed,,jump,39,18
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,1:58,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,1:39,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,3pt,48,8
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,1:36,MIN,rebound,,,,,,,,,,Ryan Gomes,,,,,,def,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,1:17,MIN,turnover,,,,,,,,,,Jonny Flynn,,,bad pass,,Jeff Green,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,1:06,OKC,shot,Russell Westbrook,,,,,,,,,Jeff Green,2,,,made,,jump,4,7
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,1:06,MIN,timeout,,,,,,,,,,,,,,,,short,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,0:56,MIN,shot,,,,,,,,,,Corey Brewer,2,,,made,,driving layup,25,6
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,0:56,OKC,foul,,,,,,,,Corey Brewer,,Nenad Krstic,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,0:56,MIN,free throw,,,,,,,1,,1,Corey Brewer,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,0:32,OKC,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,0:21,MIN,shot,Jonny Flynn,,,,,,,,,Ryan Gomes,3,,,made,,3pt,12,27
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,0:20,MIN,foul,,,,,,,,Russell Westbrook,,Jonny Flynn,,,,,,personal,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,0:18,MIN,foul,,,,,,,,Kevin Durant,,Damien Wilkins,,,,,,personal,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,0:18,OKC,free throw,,,,,,,1,,2,Kevin Durant,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,0:18,OKC,free throw,,,,,,,2,,2,Kevin Durant,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,4,0:18,MIN,timeout,,,,,,,,,,,,,,,,regular,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Russell Westbrook,Thabo Sefolosha,4,0:18,OKC,sub,,,,Eric Maynor,,Nenad Krstic,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Damien Wilkins,Jonny Flynn,Ryan Gomes,Eric Maynor,Jeff Green,Kevin Durant,Russell Westbrook,Thabo Sefolosha,4,0:07,MIN,shot,,,,,,,,,,Jonny Flynn,2,,,made,,finger roll layup,25,6

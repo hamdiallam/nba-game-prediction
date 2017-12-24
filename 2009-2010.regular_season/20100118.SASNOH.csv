@@ -1,0 +1,433 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,12:00,OFF,jump ball,,Tim Duncan,,,Emeka Okafor,,,,,,,Chris Paul,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,11:44,NOH,shot,,,,,,,,,,David West,,,,missed,,jump,30,12
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,11:43,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,11:23,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,floating jump,21,11
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,11:07,NOH,shot,Chris Paul,,,,,,,,,Peja Stojakovic,2,,,made,,jump,27,25
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:39,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:38,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:38,SAS,shot,,,,,,,,,,DeJuan Blair,2,,,made,,tip,25,6
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:28,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,18,23
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:27,SAS,rebound,,,,,,,,,,Keith Bogans,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:23,NOH,foul,,,,,,,,George Hill,,Chris Paul,,,,,,shooting,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:23,SAS,free throw,,,,,,,1,,2,George Hill,,,foul,made,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:23,SAS,free throw,,,,,,,2,,2,George Hill,,,foul,made,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:06,NOH,shot,,,,,,,,,,David West,,,,missed,,jump,30,14
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:05,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:56,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,turnaround jump,30,19
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:41,NOH,shot,Peja Stojakovic,,,,,,,,,Emeka Okafor,2,,,made,,jump,17,20
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:29,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,24,21
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:28,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:22,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:20,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:13,SAS,shot,,,David West,,,,,,,Tony Parker,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:13,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:11,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,7,8
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:10,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:03,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,18,21
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:02,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:51,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,driving layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:24,NOH,shot,,,,,,,,,,David West,,,,missed,,fade away jumper,39,9
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:23,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:06,NOH,foul,,,,,,,,,,Chris Paul,,,,,,defense 3 second,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:06,SAS,free throw,,,,,,,1,,1,George Hill,,,technical,missed,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:06,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:03,SAS,foul,,,,,,,,Chris Paul,,DeJuan Blair,,,,,,offensive,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:03,SAS,turnover,,,,,,,,,,DeJuan Blair,,,foul,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:46,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,3pt,41,26
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:45,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:42,SAS,foul,,,,,,,,Peja Stojakovic,,George Hill,,,,,,shooting,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:42,NOH,free throw,,,,,,,1,,2,Peja Stojakovic,,,foul,made,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:42,NOH,free throw,,,,,,,2,,2,Peja Stojakovic,,,foul,made,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:27,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump bank,41,13
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:13,NOH,shot,,,Tim Duncan,,,,,,,Emeka Okafor,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:12,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:07,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:06,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:03,SAS,shot,,,Emeka Okafor,,,,,,,George Hill,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:02,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:51,SAS,shot,Tony Parker,,,,,,,,,Keith Bogans,3,,,made,,3pt,15,28
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:30,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:27,NOH,rebound,,,,,,,,,,Devin Brown,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:25,SAS,foul,,,,,,,,Chris Paul,,Keith Bogans,,,,,,personal,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:25,SAS,sub,,,,Manu Ginobili,,George Hill,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:08,NOH,shot,,,,,,,,,,David West,2,,,made,,driving reverse layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:58,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:48,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,27,13
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:47,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:42,SAS,foul,,,,,,,,Emeka Okafor,,Tony Parker,,,,,,personal,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:31,NOH,shot,Chris Paul,,,,,,,,,David West,2,,,made,,layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:12,NOH,foul,,,,,,,,Tim Duncan,,Emeka Okafor,,,,,,shooting,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:12,SAS,sub,,,,Antonio McDyess,,DeJuan Blair,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:12,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,missed,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:12,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:12,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:56,NOH,shot,,,,,,,,,,David West,2,,,made,,fade away jumper,27,16
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:33,SAS,shot,Manu Ginobili,,,,,,,,,Keith Bogans,3,,,made,,3pt,10,26
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:18,NOH,turnover,,,,,,,,,,Emeka Okafor,,,traveling,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:04,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,41,7
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:03,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:51,NOH,turnover,,,,,,,,,,David West,,,bad pass,,Manu Ginobili,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:39,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,2,17
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:38,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:35,NOH,foul,,,,,,,,Tony Parker,,Chris Paul,,,,,,offensive,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:35,NOH,turnover,,,,,,,,,,Chris Paul,,,foul,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:21,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,turnaround jump,38,7
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:00,NOH,shot,,,,,,,,,,Devin Brown,,,,missed,,3pt,41,27
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:59,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:44,SAS,shot,Keith Bogans,,,,,,,,,Manu Ginobili,3,,,made,,3pt,1,9
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:35,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:35,NOH,sub,,,,Darren Collison,,Chris Paul,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:35,SAS,sub,,,,George Hill,,Tony Parker,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:31,SAS,foul,,,,,,,,Darren Collison,,Keith Bogans,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:31,SAS,sub,,,,Roger Mason,,Keith Bogans,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:19,NOH,shot,Emeka Okafor,,,,,,,,,Peja Stojakovic,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,1:55,SAS,shot,,,,,,,,,,George Hill,,,,missed,,3pt,50,7
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,1:54,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,1:46,NOH,shot,,,,,,,,,,Darren Collison,,,,missed,,jump,30,17
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,1:45,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,1:33,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,29,15
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,1:32,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,1:32,NOH,foul,,,,,,,,Tim Duncan,,Emeka Okafor,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,1:32,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,missed,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darren Collison,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,1:32,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,1:32,NOH,sub,,,,Darius Songaila,,Emeka Okafor,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,1:32,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,missed,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,1:31,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,1:16,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,jump,41,20
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,1:15,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,1:09,NOH,foul,,,,,,,,Antonio McDyess,,Darius Songaila,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,1:09,SAS,free throw,,,,,,,1,,2,Antonio McDyess,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,1:09,SAS,sub,,,,DeJuan Blair,,Tim Duncan,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,1:09,SAS,free throw,,,,,,,2,,2,Antonio McDyess,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,0:52,NOH,shot,,,,,,,,,,David West,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,0:51,NOH,rebound,,,,,,,,,,David West,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,0:51,NOH,shot,,,,,,,,,,David West,,,,missed,,tip,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,0:50,NOH,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,0:31,NOH,shot,David West,,,,,,,,,Devin Brown,2,,,made,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,Peja Stojakovic,1,0:07,SAS,shot,Manu Ginobili,,,,,,,,,George Hill,3,,,made,,3pt,0,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,11:43,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,11:42,NOH,rebound,,,,,,,,,,Darren Collison,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,11:28,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,jump,25,27
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,11:27,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,11:13,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,5,21
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,11:11,NOH,rebound,,,,,,,,,,James Posey,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,11:00,NOH,shot,,,,,,,,,,James Posey,,,,missed,,3pt,45,22
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,10:59,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,10:50,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,7,24
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,10:49,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,10:44,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,10:43,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,10:42,SAS,shot,,,,,,,,,,Roger Mason,2,,,made,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,10:19,NOH,turnover,,,,,,,,,,Darren Collison,,,bad pass,,Antonio McDyess,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,10:08,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,25,26
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,10:07,NOH,rebound,,,,,,,,,,Devin Brown,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,10:04,SAS,foul,,,,,,,,Devin Brown,,Roger Mason,,,,,,personal,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,9:55,NOH,shot,Darren Collison,,,,,,,,,David West,2,,,made,,jump,24,15
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,9:40,SAS,turnover,,,,,,,,,,Manu Ginobili,,,lost ball,,Darius Songaila,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,9:35,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,9:34,NOH,rebound,,,,,,,,,,Devin Brown,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,9:34,NOH,shot,,,,,,,,,,Devin Brown,2,,,made,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,9:14,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,6,18
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,9:13,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,9:12,NOH,foul,,,,,,,,DeJuan Blair,,David West,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,9:12,SAS,free throw,,,,,,,1,,2,DeJuan Blair,,,foul,missed,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,9:12,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Darius Songaila,Darren Collison,David West,Devin Brown,James Posey,2,9:12,SAS,sub,,,,Tony Parker,,Manu Ginobili,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,David West,James Posey,2,9:12,NOH,sub,,,,Chris Paul,,Devin Brown,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,David West,James Posey,2,9:12,SAS,free throw,,,,,,,2,,2,DeJuan Blair,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,David West,James Posey,2,8:49,NOH,shot,Darren Collison,,,,,,,,,Chris Paul,3,,,made,,3pt,44,22
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,David West,James Posey,2,8:24,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,David West,James Posey,2,8:02,SAS,foul,,,,,,,,James Posey,,Antonio McDyess,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,David West,James Posey,2,8:02,NOH,timeout,,,,,,,,,,,,,,,,official,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,8:02,NOH,sub,,,,Marcus Thornton,,David West,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,8:02,NOH,free throw,,,,,,,1,,2,James Posey,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,8:02,NOH,free throw,,,,,,,2,,2,James Posey,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,7:47,SAS,shot,,,Marcus Thornton,,,,,,,Tony Parker,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,7:47,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,7:38,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,turnaround jump,21,14
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,7:26,NOH,shot,,,,,,,,,,James Posey,,,,missed,,3pt,41,25
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,7:25,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,7:13,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,jump,15,8
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,6:58,NOH,shot,,,,,,,,,,Darren Collison,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,6:57,NOH,rebound,,,,,,,,,,James Posey,,,,,,off,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,6:51,NOH,shot,,,,,,,,,,James Posey,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,6:50,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,6:44,SAS,shot,,,,,,,,,,George Hill,,,,missed,,3pt,1,7
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,6:42,NOH,rebound,,,,,,,,,,Darren Collison,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,6:30,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,driving layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,6:12,SAS,shot,Tony Parker,,,,,,,,,Roger Mason,3,,,made,,3pt,48,6
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,5:57,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,5:56,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,5:45,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,layup,25,6
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,2,5:37,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,DeJuan Blair,George Hill,Roger Mason,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,5:37,NOH,sub,,,,David West,,Darren Collison,,,,,,,,,,,,
+Antonio McDyess,George Hill,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,5:37,SAS,sub,,,,Tim Duncan,,DeJuan Blair,,,,,,,,,,,,
+George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,5:37,SAS,sub,,,,Manu Ginobili,,Antonio McDyess,,,,,,,,,,,,
+George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,5:29,NOH,shot,Chris Paul,,,,,,,,,Darius Songaila,2,,,made,,layup,25,6
+George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,5:14,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,1,7
+George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,5:12,NOH,rebound,,,,,,,,,,James Posey,,,,,,def,,
+George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,5:06,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,jump,10,19
+George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,5:05,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,4:58,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,layup,25,6
+George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,4:51,SAS,foul,,,,,,,,Chris Paul,,George Hill,,,,,,personal,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,4:51,SAS,sub,,,,DeJuan Blair,,Roger Mason,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,4:45,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,4:44,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,4:38,SAS,shot,,,,,,,,,,George Hill,,,,missed,,3pt,2,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,4:36,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,4:28,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,16,23
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,4:27,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,4:08,SAS,shot,Tim Duncan,,,,,,,,,George Hill,2,,,made,,reverse layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,3:55,NOH,shot,David West,,,,,,,,,Darius Songaila,2,,,made,,jump,11,22
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,3:35,SAS,shot,Manu Ginobili,,,,,,,,,George Hill,2,,,made,,driving finger roll layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,3:11,NOH,shot,Marcus Thornton,,,,,,,,,David West,2,,,made,,jump,35,11
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,2:51,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,13,23
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,2:50,NOH,rebound,,,,,,,,,,James Posey,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,2:44,SAS,foul,,,,,,,,Chris Paul,,Tony Parker,,,,,,personal,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,2:44,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,2:44,SAS,sub,,,,Roger Mason,,George Hill,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,David West,Emeka Okafor,James Posey,Marcus Thornton,2,2:44,NOH,sub,,,,Emeka Okafor,,Darius Songaila,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,David West,Emeka Okafor,James Posey,Marcus Thornton,2,2:44,SAS,sub,,,,Matt Bonner,,DeJuan Blair,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,David West,Emeka Okafor,James Posey,Marcus Thornton,2,2:28,NOH,shot,Chris Paul,,,,,,,,,David West,2,,,made,,jump,37,8
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,David West,Emeka Okafor,James Posey,Marcus Thornton,2,2:07,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,layup,25,6
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,David West,Emeka Okafor,James Posey,Marcus Thornton,2,2:06,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,David West,Emeka Okafor,James Posey,Marcus Thornton,2,2:06,NOH,foul,,,,,,,,Tim Duncan,,Emeka Okafor,,,,,,shooting,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,David West,Emeka Okafor,James Posey,Marcus Thornton,2,2:06,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,made,,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,2:06,NOH,sub,,,,Darius Songaila,,Emeka Okafor,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,2:06,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,1:42,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,jump,27,26
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,1:41,NOH,rebound,,,,,,,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,1:35,NOH,turnover,,,,,,,,,,James Posey,,,bad pass,,Manu Ginobili,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,1:33,NOH,foul,,,,,,,,Manu Ginobili,,James Posey,,,,,,shooting,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,1:33,SAS,timeout,,,,,,,,,,,,,,,,short,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,1:33,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,missed,,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,1:33,SAS,rebound,,,,,,,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,1:33,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,1:14,NOH,shot,Marcus Thornton,,,,,,,,,Darius Songaila,2,,,made,,jump,15,25
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,0:58,SAS,shot,Tim Duncan,,,,,,,,,Manu Ginobili,2,,,made,,hook,17,9
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,0:49,SAS,foul,,,,,,,,Chris Paul,,Manu Ginobili,,,,,,personal,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,0:49,NOH,free throw,,,,,,,1,,2,Chris Paul,,,foul,made,,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,0:49,NOH,free throw,,,,,,,2,,2,Chris Paul,,,foul,made,,,,
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,0:30,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,driving layup,25,6
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,0:08,NOH,shot,Darius Songaila,,,,,,,,,James Posey,2,,,made,,driving reverse layup,25,6
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,0:01,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,jump,44,14
+Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,2,0:00,NOH,rebound,,,,,,,,,,James Posey,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:49,SAS,turnover,,,,,,,,,,Keith Bogans,,,bad pass,,Peja Stojakovic,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:43,NOH,shot,,,,,,,,,,Devin Brown,2,,,made,,running jump,24,13
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:28,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,40,19
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:27,NOH,rebound,,,,,,,,,,Devin Brown,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:18,NOH,shot,,,,,,,,,,Devin Brown,,,,missed,,jump,27,15
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:17,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:06,NOH,foul,,,,,,,,DeJuan Blair,,David West,,,,,,shooting,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:06,SAS,free throw,,,,,,,1,,2,DeJuan Blair,,,foul,missed,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:06,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:06,SAS,free throw,,,,,,,2,,2,DeJuan Blair,,,foul,missed,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:05,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:43,NOH,shot,Chris Paul,,,,,,,,,David West,2,,,made,,driving layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:20,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,2,6
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:20,NOH,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:05,SAS,foul,,,,,,,,Devin Brown,,Tim Duncan,,,,,,personal,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:54,NOH,shot,David West,,,,,,,,,Devin Brown,3,,,made,,3pt,41,25
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:53,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:35,SAS,shot,Tim Duncan,,,,,,,,,George Hill,2,,,made,,jump,39,22
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:23,NOH,shot,Chris Paul,,,,,,,,,Peja Stojakovic,3,,,made,,3pt,13,29
+DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:06,NOH,foul,,,,,,,,Tim Duncan,,Emeka Okafor,,,,,,shooting,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:06,SAS,sub,,,,Manu Ginobili,,Keith Bogans,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,9:06,NOH,sub,,,,Darius Songaila,,Emeka Okafor,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,9:06,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,missed,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,9:06,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,9:06,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,8:51,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump bank,39,12
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,8:50,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,8:40,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,jump,14,8
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,8:39,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,off,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,8:29,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,turnaround jump,21,17
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,8:06,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,jump,29,26
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,8:05,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,7:58,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,33,13
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,7:58,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,7:58,SAS,foul,,,,,,,,David West,,DeJuan Blair,,,,,,loose ball,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,7:41,NOH,shot,,,,,,,,,,David West,,,,missed,,jump,36,7
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,7:40,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,7:28,SAS,shot,Manu Ginobili,,,,,,,,,DeJuan Blair,2,,,made,,hook,30,13
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,7:12,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,turnaround jump,31,21
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,7:11,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,6:56,SAS,shot,Manu Ginobili,,,,,,,,,George Hill,3,,,made,,3pt,1,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,6:48,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,6:31,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,jump,13,20
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,6:30,NOH,rebound,,,,,,,,,,David West,,,,,,off,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,6:30,NOH,shot,,,,,,,,,,David West,,,,missed,,tip,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,6:29,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,6:16,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,6:15,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,5:54,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,3pt,13,28
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,5:53,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,5:37,NOH,sub,,,,Julian Wright,,David West,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,5:29,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,14,15
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,5:29,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,5:25,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,5:24,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,5:22,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,5:21,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,5:11,NOH,shot,,,,,,,,,,Devin Brown,,,,missed,,3pt,9,25
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,5:10,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,4:53,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump bank,39,14
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,4:27,NOH,shot,,,,,,,,,,Julian Wright,,,,missed,,jump,22,17
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,4:26,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,Julian Wright,Peja Stojakovic,3,4:26,NOH,foul,,,,,,,,DeJuan Blair,,Darius Songaila,,,,,,loose ball,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,James Posey,Julian Wright,3,4:26,NOH,sub,,,,James Posey,,Peja Stojakovic,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,Devin Brown,James Posey,Julian Wright,3,4:26,SAS,sub,,,,Keith Bogans,,George Hill,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,4:26,NOH,sub,,,,Marcus Thornton,,Devin Brown,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,4:14,NOH,foul,,,,,,,,,,Marcus Thornton,,,,,,defense 3 second,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,4:14,SAS,free throw,,,,,,,1,,1,Manu Ginobili,,,technical,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,4:06,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump bank,36,14
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,4:04,NOH,rebound,,,,,,,,,,Julian Wright,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,4:00,NOH,shot,Julian Wright,,,,,,,,,Darius Songaila,2,,,made,,layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,3:44,SAS,turnover,,,,,,,,,,DeJuan Blair,,,out of bounds lost ball turnover,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,3:23,NOH,shot,Chris Paul,,,,,,,,,Marcus Thornton,2,,,made,,jump,44,15
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,2:59,NOH,foul,,,,,,,,DeJuan Blair,,Darius Songaila,,,,,,shooting,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,2:59,SAS,free throw,,,,,,,1,,2,DeJuan Blair,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,2:59,SAS,free throw,,,,,,,2,,2,DeJuan Blair,,,foul,missed,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,2:58,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,2:58,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,tip,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,2:47,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,3pt,14,30
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,2:44,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,2:31,SAS,shot,Tony Parker,,,,,,,,,Keith Bogans,3,,,made,,3pt,48,8
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,2:14,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,3pt,47,19
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,2:13,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,1:56,NOH,foul,,,,,,,,Tim Duncan,,James Posey,,,,,,shooting,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,1:56,SAS,sub,,,,George Hill,,DeJuan Blair,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,1:56,SAS,sub,,,,Antonio McDyess,,Tony Parker,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,1:56,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,missed,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,1:56,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,1:56,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,1:38,NOH,shot,Marcus Thornton,,,,,,,,,Julian Wright,2,,,made,,slam dunk,25,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,1:16,SAS,turnover,,,,,,,,,,Tim Duncan,,,bad pass,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,1:03,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,pullup jump,24,25
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,0:36,SAS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,0:36,SAS,sub,,,,Matt Bonner,,Tim Duncan,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,0:31,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,pullup jump,11,19
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,0:08,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,jump,20,19
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,0:07,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,off,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,0:06,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,0:01,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,running jump,15,16
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Chris Paul,Darius Songaila,James Posey,Julian Wright,Marcus Thornton,3,0:00,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,off,,
+Antonio McDyess,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,11:45,NOH,shot,,,,,,,,,,Julian Wright,,,,missed,,jump,31,24
+Antonio McDyess,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,11:44,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,11:22,SAS,turnover,,,,,,,,,,Keith Bogans,,,traveling,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,11:12,NOH,shot,,,,,,,,,,Darren Collison,2,,,made,,pullup jump,13,21
+Antonio McDyess,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,10:53,SAS,turnover,,,,,,,,,,Keith Bogans,,,traveling,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,10:41,NOH,shot,Darren Collison,,,,,,,,,Marcus Thornton,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,10:41,SAS,foul,,,,,,,,Marcus Thornton,,George Hill,,,,,,shooting,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,10:41,SAS,sub,,,,Manu Ginobili,,Roger Mason,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,10:41,NOH,free throw,,,,,,,1,,1,Marcus Thornton,,,foul,made,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,10:25,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,Darius Songaila,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,10:14,NOH,turnover,,,,,,,,,,Marcus Thornton,,,out of bounds lost ball turnover,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,9:59,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,Julian Wright,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,9:54,NOH,shot,Julian Wright,,,,,,,,,Marcus Thornton,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,9:54,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Matt Bonner,Tim Duncan,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,9:54,SAS,sub,,,,Tim Duncan,,George Hill,,,,,,,,,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Tim Duncan,Tony Parker,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,9:54,SAS,sub,,,,Tony Parker,,Antonio McDyess,,,,,,,,,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Tim Duncan,Tony Parker,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,9:40,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,jump,9,8
+Keith Bogans,Manu Ginobili,Matt Bonner,Tim Duncan,Tony Parker,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,9:39,NOH,rebound,,,,,,,,,,James Posey,,,,,,def,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Tim Duncan,Tony Parker,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,9:19,NOH,turnover,,,,,,,,,,Marcus Thornton,,,traveling,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,9:19,SAS,sub,,,,DeJuan Blair,,Matt Bonner,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,9:04,NOH,foul,,,,,,,,Tim Duncan,,Darius Songaila,,,,,,personal,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,9:00,SAS,shot,Manu Ginobili,,,,,,,,,Tim Duncan,2,,,made,,layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darius Songaila,Darren Collison,James Posey,Julian Wright,Marcus Thornton,4,8:51,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,8:51,NOH,sub,,,,David West,,Darius Songaila,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,8:36,NOH,shot,,,,,,,,,,Marcus Thornton,2,,,made,,floating jump,27,14
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,8:16,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,19,19
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,8:15,NOH,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,8:08,SAS,foul,,,,,,,,Darren Collison,,Tony Parker,,,,,,shooting,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,8:08,SAS,sub,,,,George Hill,,Keith Bogans,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,8:08,NOH,free throw,,,,,,,1,,2,Darren Collison,,,foul,missed,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,8:08,NOH,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,8:08,NOH,free throw,,,,,,,2,,2,Darren Collison,,,foul,missed,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,8:07,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,7:47,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,jump,22,15
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,7:46,NOH,rebound,,,,,,,,,,Julian Wright,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,7:42,NOH,shot,,,,,,,,,,Darren Collison,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,7:41,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,7:19,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,11,10
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,7:19,NOH,rebound,,,,,,,,,,James Posey,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,7:06,SAS,foul,,,,,,,,Darren Collison,,George Hill,,,,,,shooting,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Julian Wright,Marcus Thornton,4,7:06,NOH,free throw,,,,,,,1,,2,Darren Collison,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,7:06,NOH,sub,,,,Chris Paul,,Julian Wright,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,7:06,NOH,free throw,,,,,,,2,,2,Darren Collison,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,6:51,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,6:50,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,6:48,SAS,shot,,,,,,,,,,DeJuan Blair,2,,,made,,layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,6:25,NOH,shot,Chris Paul,,,,,,,,,David West,2,,,made,,driving reverse layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,6:11,NOH,foul,,,,,,,,Tony Parker,,James Posey,,,,,,personal,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,6:11,NOH,foul,,,,,,,,,,Double,,,,,,technical,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,6:00,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,jump,40,18
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,5:59,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,5:52,SAS,foul,,,,,,,,David West,,Tim Duncan,,,,,,personal,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,5:39,NOH,turnover,,,,,,,,,,Chris Paul,,,bad pass,,Manu Ginobili,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,5:24,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,41,27
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,5:23,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,5:12,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,5:11,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,off,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,5:11,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,5:11,NOH,jump ball,,Tim Duncan,,,Marcus Thornton,,,,,,,Darren Collison,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,5:11,NOH,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,4:55,NOH,shot,,,,,,,,,,Darren Collison,,,,missed,,jump,28,14
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,4:54,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,4:40,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,driving layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,4:21,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,3pt,8,25
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,4:20,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,4:05,NOH,foul,,,,,,,,Tony Parker,,Marcus Thornton,,,,,,shooting,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,Darren Collison,David West,James Posey,Marcus Thornton,4,4:05,SAS,free throw,,,,,,,1,,2,Tony Parker,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,4:05,NOH,sub,,,,Peja Stojakovic,,Darren Collison,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,4:05,SAS,free throw,,,,,,,2,,2,Tony Parker,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,3:51,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,driving layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,3:51,SAS,foul,,,,,,,,Chris Paul,,Manu Ginobili,,,,,,shooting,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,3:51,NOH,free throw,,,,,,,1,,1,Chris Paul,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,3:34,NOH,foul,,,,,,,,Tim Duncan,,Chris Paul,,,,,,shooting,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,3:34,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,3:34,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,3:28,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,driving layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,3:02,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,driving jump,22,12
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:54,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,11,14
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:53,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:53,NOH,foul,,,,,,,,Tony Parker,,Chris Paul,,,,,,personal,,
+DeJuan Blair,George Hill,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:53,SAS,timeout,,,,,,,,,,,,,,,,official,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:53,SAS,sub,,,,Keith Bogans,,DeJuan Blair,,,,,,,,,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:53,SAS,free throw,,,,,,,1,,2,Tony Parker,,,foul,made,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:53,SAS,free throw,,,,,,,2,,2,Tony Parker,,,foul,made,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:40,NOH,shot,Peja Stojakovic,,,,,,,,,David West,2,,,made,,layup,25,6
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:14,SAS,shot,,,,,,,,,,George Hill,,,,missed,,3pt,1,7
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:13,NOH,rebound,,,,,,,,,,James Posey,,,,,,def,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:04,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,driving layup,25,6
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,1:42,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,layup,25,6
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,1:41,SAS,rebound,,,,,,,,,,George Hill,,,,,,off,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,1:17,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,3pt,49,6
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,1:16,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,1:11,NOH,shot,Peja Stojakovic,,,,,,,,,Marcus Thornton,2,,,made,,layup,25,6
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:49,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,turnaround jump,12,16
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:49,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,off,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:49,NOH,foul,,,,,,,,Manu Ginobili,,James Posey,,,,,,loose ball,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:49,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,made,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:49,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,missed,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:48,NOH,rebound,,,,,,,,,,James Posey,,,,,,def,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:42,NOH,shot,Chris Paul,,,,,,,,,Marcus Thornton,3,,,made,,3pt,48,7
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:38,NOH,foul,,,,,,,,Tony Parker,,Peja Stojakovic,,,,,,personal,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:38,SAS,free throw,,,,,,,1,,2,Tony Parker,,,foul,missed,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:38,SAS,rebound,,,,,,,,,,,,,,,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:38,SAS,free throw,,,,,,,2,,2,Tony Parker,,,foul,made,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:33,NOH,foul,,,,,,,,George Hill,,Chris Paul,,,,,,offensive,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:33,NOH,turnover,,,,,,,,,,Chris Paul,,,foul,,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:31,NOH,foul,,,,,,,,Manu Ginobili,,Chris Paul,,,,,,personal,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:31,NOH,sub,,,,Darren Collison,,Chris Paul,,,,,,,,,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:31,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,made,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:31,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,missed,,,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:30,NOH,rebound,,,,,,,,,,James Posey,,,,,,def,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:30,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:21,NOH,shot,,,,,,,,,,Marcus Thornton,2,,,made,,running jump,26,15
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:21,NOH,foul,,,,,,,,George Hill,,Darren Collison,,,,,,clear path,,
+George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Tony Parker,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:21,SAS,free throw,,,,,,,1,,2,George Hill,,,foul,made,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Tony Parker,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:21,SAS,sub,,,,DeJuan Blair,,Tim Duncan,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Roger Mason,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:21,SAS,sub,,,,Roger Mason,,Tony Parker,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Roger Mason,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:21,SAS,free throw,,,,,,,2,,2,George Hill,,,foul,made,,,,

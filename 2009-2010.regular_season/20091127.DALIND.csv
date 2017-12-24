@@ -1,0 +1,465 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,12:00,OFF,jump ball,,Drew Gooden,,,Roy Hibbert,,,,,,,T.J. Ford,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,11:35,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,jump,41,8
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,11:33,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,11:26,DAL,shot,Rodrigue Beaubois,,,,,,,,,Jason Kidd,3,,,made,,3pt,9,25
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,11:11,IND,shot,Brandon Rush,,,,,,,,,Danny Granger,2,,,made,,jump,21,12
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,10:53,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,layup,28,9
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,10:52,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,10:41,DAL,shot,,,,,,,,,,Drew Gooden,2,,,made,,jump bank,41,11
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,10:22,IND,shot,,,,,,,,,,Brandon Rush,2,,,made,,pullup jump,24,19
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,10:06,IND,foul,,,,,,,,Shawn Marion,,Danny Granger,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,9:53,DAL,shot,,,Brandon Rush,,,,,,,Drew Gooden,,,,missed,,jump,26,10
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,9:52,IND,rebound,,,,,,,,,,Brandon Rush,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,9:48,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,pullup jump,27,25
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,9:47,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,9:46,DAL,turnover,,,,,,,,,,Dirk Nowitzki,,,out of bounds lost ball turnover,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,9:31,IND,shot,,,,,,,,,,T.J. Ford,2,,,made,,fade away jumper,21,13
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,9:10,DAL,shot,Dirk Nowitzki,,,,,,,,,Rodrigue Beaubois,3,,,made,,3pt,42,26
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,9:00,IND,shot,,,,,,,,,,T.J. Ford,,,,missed,,fade away jumper,11,10
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,8:59,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,8:52,DAL,shot,,,,,,,,,,Drew Gooden,,,,missed,,jump,42,12
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,8:51,IND,rebound,,,,,,,,,,T.J. Ford,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,8:45,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,pullup jump,34,27
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,8:25,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,turnaround fade away,38,8
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,8:08,IND,shot,Danny Granger,,,,,,,,,Roy Hibbert,2,,,made,,layup,26,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,7:57,DAL,shot,,,,,,,,,,Jason Kidd,2,,,made,,jump,14,24
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,7:39,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,jump,8,11
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,7:38,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,7:32,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,jump,38,23
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,7:31,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,7:26,DAL,foul,,,,,,,,T.J. Ford,,Rodrigue Beaubois,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,1,7:26,IND,free throw,,,,,,,1,,2,T.J. Ford,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,7:26,IND,sub,,,,Jeff Foster,,Roy Hibbert,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,7:26,IND,free throw,,,,,,,2,,2,T.J. Ford,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,7:17,IND,foul,,,,,,,,Drew Gooden,,Troy Murphy,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,7:09,DAL,shot,Rodrigue Beaubois,,,,,,,,,Dirk Nowitzki,2,,,made,,turnaround jump,40,12
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,6:51,DAL,foul,,,,,,,,Danny Granger,,Shawn Marion,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,6:51,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,6:51,IND,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,6:51,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,6:51,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,6:34,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,fade away jumper,38,10
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,6:34,IND,rebound,,,,,,,,,,T.J. Ford,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,6:34,DAL,foul,,,,,,,,Brandon Rush,,Drew Gooden,,,,,,loose ball,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,6:15,IND,shot,Danny Granger,,,,,,,,,Troy Murphy,3,,,made,,3pt,32,31
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:59,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,37,14
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:50,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,jump,19,16
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:49,IND,rebound,,,,,,,,,,Jeff Foster,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:48,IND,shot,,,,,,,,,,Jeff Foster,2,,,made,,layup,24,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:27,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,34,21
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:14,DAL,foul,,,,,,,,T.J. Ford,,Rodrigue Beaubois,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:14,IND,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:14,DAL,sub,,,,Jason Terry,,Rodrigue Beaubois,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:14,DAL,sub,,,,Tim Thomas,,Drew Gooden,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:14,IND,sub,,,,Dahntay Jones,,Brandon Rush,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:14,IND,free throw,,,,,,,1,,2,T.J. Ford,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:14,IND,free throw,,,,,,,2,,2,T.J. Ford,,,foul,missed,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,5:14,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,4:58,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,driving finger roll layup,23,8
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,4:47,IND,shot,T.J. Ford,,,,,,,,,Troy Murphy,2,,,made,,driving layup,26,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,4:36,DAL,shot,Jason Kidd,,,,,,,,,Tim Thomas,3,,,made,,3pt,13,29
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,4:17,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,jump,6,13
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,4:15,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,1,4:05,IND,foul,,,,,,,,Jason Kidd,,Dahntay Jones,,,,,,personal,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Tyler Hansbrough,1,4:05,IND,sub,,,,Tyler Hansbrough,,Troy Murphy,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,4:05,IND,sub,,,,Earl Watson,,T.J. Ford,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:57,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,3pt,49,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:56,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:56,IND,foul,,,,,,,,Dirk Nowitzki,,Jeff Foster,,,,,,inbound,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:56,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:56,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:45,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,jump,32,25
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:44,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:29,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,28,26
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:28,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:28,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,tip,25,7
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:26,IND,rebound,,,,,,,,,,Jeff Foster,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:20,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,43,24
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:20,DAL,rebound,,,,,,,,,,Tim Thomas,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:02,IND,foul,,,,,,,,Dirk Nowitzki,,Jeff Foster,,,,,,shooting,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Tyler Hansbrough,1,3:02,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,3:02,IND,sub,,,,Mike Dunleavy,,Danny Granger,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,3:02,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,missed,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,3:02,IND,rebound,,,,,,,,,,Jeff Foster,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,2:45,IND,shot,Jeff Foster,,,,,,,,,Mike Dunleavy,2,,,made,,driving layup,23,7
+Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,2:40,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,2:40,DAL,sub,,,,Jose Juan Barea,,Shawn Marion,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,2:40,DAL,sub,,,,Kris Humphries,,Jason Kidd,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,2:32,DAL,shot,,,,,,,,,,Jason Terry,2,,,made,,pullup jump,7,8
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,2:19,IND,shot,,,Dirk Nowitzki,,,,,,,Jeff Foster,,,,missed,,driving layup,22,7
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,2:19,IND,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,2:17,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,jump,7,7
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,2:16,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,1:59,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,9,8
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,1:58,IND,rebound,,,,,,,,,,Mike Dunleavy,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,1:45,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,jump,8,8
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,1:44,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,1:19,DAL,shot,,,,,,,,,,Tim Thomas,2,,,made,,turnaround fade away,36,8
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,1:06,IND,shot,,,,,,,,,,Dahntay Jones,2,,,made,,pullup jump,32,22
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,0:46,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,pullup jump,16,19
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,0:46,IND,rebound,,,,,,,,,,Tyler Hansbrough,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Jeff Foster,Mike Dunleavy,Tyler Hansbrough,1,0:46,DAL,foul,,,,,,,,Tyler Hansbrough,,Kris Humphries,,,,,,loose ball,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:46,IND,sub,,,,Roy Hibbert,,Jeff Foster,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:46,IND,free throw,,,,,,,1,,2,Tyler Hansbrough,,,foul,missed,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:46,IND,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:46,IND,free throw,,,,,,,2,,2,Tyler Hansbrough,,,foul,missed,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:46,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:34,IND,foul,,,,,,,,Kris Humphries,,Roy Hibbert,,,,,,shooting,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:34,DAL,free throw,,,,,,,1,,2,Kris Humphries,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:34,DAL,sub,,,,James Singleton,,Dirk Nowitzki,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:34,DAL,free throw,,,,,,,2,,2,Kris Humphries,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:24,DAL,foul,,,,,,,,Mike Dunleavy,,James Singleton,,,,,,shooting,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:24,IND,free throw,,,,,,,1,,2,Mike Dunleavy,,,foul,made,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:24,DAL,sub,,,,Dirk Nowitzki,,James Singleton,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:24,IND,free throw,,,,,,,2,,2,Mike Dunleavy,,,foul,made,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:01,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,3pt,7,25
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:01,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,off,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Earl Watson,Mike Dunleavy,Roy Hibbert,Tyler Hansbrough,1,0:00,DAL,shot,,,,,,,,,,Jose Juan Barea,3,,,made,,3pt,37,29
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,11:39,DAL,shot,,,,,,,,,,James Singleton,,,,missed,,3pt,9,25
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,11:38,IND,rebound,,,,,,,,,,Dahntay Jones,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,11:28,IND,shot,Earl Watson,,,,,,,,,Roy Hibbert,2,,,made,,turnaround hook,29,13
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,11:22,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,jump,40,18
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,11:20,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,off,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,11:11,DAL,shot,Jose Juan Barea,,,,,,,,,James Singleton,2,,,made,,dunk,25,8
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,11:00,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,jump,10,10
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,11:00,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,10:40,DAL,shot,,,,,,,,,,Kris Humphries,2,,,made,,jump,44,8
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,10:23,IND,shot,,,Kris Humphries,,,,,,,Roy Hibbert,,,,missed,,dunk,26,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,10:19,DAL,rebound,,,,,,,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,10:00,DAL,shot,,,,,,,,,,Jason Terry,2,,,made,,layup,22,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,9:48,IND,shot,Roy Hibbert,,,,,,,,,Danny Granger,3,,,made,,3pt,4,18
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,9:27,DAL,shot,,,,,,,,,,Tim Thomas,,,,missed,,jump,22,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,9:26,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,off,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,2,9:26,IND,foul,,,,,,,,Kris Humphries,,Danny Granger,,,,,,shooting,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,9:26,IND,sub,,,,Jeff Foster,,Roy Hibbert,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,9:26,DAL,free throw,,,,,,,1,,2,Kris Humphries,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,9:26,DAL,free throw,,,,,,,2,,2,Kris Humphries,,,foul,missed,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,9:25,IND,rebound,,,,,,,,,,Jeff Foster,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,9:09,IND,shot,,,,,,,,,,Earl Watson,2,,,made,,jump,44,9
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,8:51,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,3pt,25,32
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,8:47,IND,rebound,,,,,,,,,,Earl Watson,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,8:47,IND,turnover,,,,,,,,,,Earl Watson,,,traveling,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,8:47,DAL,timeout,,,,,,,,,,,,,,,,official,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,8:27,DAL,shot,,,,,,,,,,Jose Juan Barea,2,,,made,,driving layup,22,9
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,8:13,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,50,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,8:12,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,8:08,IND,foul,,,,,,,,James Singleton,,Jeff Foster,,,,,,shooting,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Dahntay Jones,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,8:08,DAL,free throw,,,,,,,1,,2,James Singleton,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Jeff Foster,Troy Murphy,2,8:08,IND,sub,,,,Brandon Rush,,Dahntay Jones,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,8:08,IND,sub,,,,Solomon Jones,,Jeff Foster,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,8:08,DAL,free throw,,,,,,,2,,2,James Singleton,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,7:57,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,17,29
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,7:56,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,7:43,DAL,shot,,,,,,,,,,Tim Thomas,,,,missed,,pullup jump,38,6
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,7:42,IND,rebound,,,,,,,,,,Earl Watson,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,7:33,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,3pt,49,16
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,7:32,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,7:27,DAL,shot,Jason Terry,,,,,,,,,Kris Humphries,2,,,made,,driving finger roll layup,26,8
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,7:27,IND,foul,,,,,,,,Kris Humphries,,Brandon Rush,,,,,,shooting,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,7:27,DAL,free throw,,,,,,,1,,1,Kris Humphries,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,2,7:22,IND,timeout,,,,,,,,,,,,,,,,regular,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,7:22,IND,sub,,,,T.J. Ford,,Earl Watson,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,7:17,DAL,violation,,,,,,,,,,Tim Thomas,,,,,,kicked ball,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,7:11,IND,turnover,,,,,,,,,,T.J. Ford,,,bad pass,,Jason Terry,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,7:05,DAL,shot,,,,,,,,,,James Singleton,,,,missed,,pullup jump,11,13
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,7:04,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,off,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,7:04,DAL,shot,,,,,,,,,,Kris Humphries,,,,missed,,tip,27,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,7:03,IND,rebound,,,,,,,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,6:52,IND,shot,,,,,,,,,,Troy Murphy,,,,missed,,jump,43,6
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,6:51,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,6:39,DAL,shot,Jose Juan Barea,,,,,,,,,Jason Terry,3,,,made,,3pt,49,6
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,6:29,DAL,foul,,,,,,,,Troy Murphy,,Tim Thomas,,,,,,personal,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,6:29,DAL,sub,,,,Dirk Nowitzki,,Tim Thomas,,,,,,,,,,,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,6:21,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,5,21
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,6:20,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,6:04,DAL,shot,Kris Humphries,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,32,21
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,5:46,IND,shot,,,,,,,,,,Troy Murphy,,,,missed,,jump,6,7
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,5:45,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,5:29,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,41,7
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,5:29,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,5:29,IND,foul,,,,,,,,James Singleton,,T.J. Ford,,,,,,loose ball,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,5:21,DAL,turnover,,,,,,,,,,Jose Juan Barea,,,bad pass,,Troy Murphy,,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,5:10,IND,shot,,,,,,,,,,Troy Murphy,,,,missed,,layup,23,5
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,5:09,DAL,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,4:59,IND,foul,,,,,,,,Dirk Nowitzki,,Solomon Jones,,,,,,personal,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,4:59,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,missed,,,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,4:59,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Solomon Jones,T.J. Ford,Troy Murphy,2,4:59,DAL,sub,,,,Jason Kidd,,Jason Terry,,,,,,,,,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:59,IND,sub,,,,Mike Dunleavy,,Solomon Jones,,,,,,,,,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:59,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:51,DAL,foul,,,,,,,,Danny Granger,,James Singleton,,,,,,shooting,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:51,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,made,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:51,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,made,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:39,DAL,shot,,,,,,,,,,Kris Humphries,,,,missed,,driving finger roll layup,25,8
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:37,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,off,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:37,DAL,shot,,,,,,,,,,Kris Humphries,,,,missed,,tip,26,6
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:36,IND,rebound,,,,,,,,,,Brandon Rush,,,,,,def,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:34,DAL,foul,,,,,,,,Danny Granger,,James Singleton,,,,,,shooting,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jose Juan Barea,Kris Humphries,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:34,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:34,DAL,sub,,,,Shawn Marion,,James Singleton,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:34,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,missed,,,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:34,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:12,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,turnaround bank,37,9
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,4:11,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:59,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,floating jump,35,13
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:58,IND,rebound,,,,,,,,,,Brandon Rush,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:52,DAL,foul,,,,,,,,Mike Dunleavy,,Kris Humphries,,,,,,shooting,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:52,IND,free throw,,,,,,,1,,2,Mike Dunleavy,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:52,DAL,sub,,,,Jason Terry,,Jose Juan Barea,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:52,DAL,sub,,,,Drew Gooden,,Kris Humphries,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:52,IND,free throw,,,,,,,2,,2,Mike Dunleavy,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:47,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:32,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,fade away jumper,15,17
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:15,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,driving layup,24,8
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:15,DAL,foul,,,,,,,,Danny Granger,,Shawn Marion,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,3:15,IND,free throw,,,,,,,1,,1,Danny Granger,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,2:59,DAL,shot,,,,,,,,,,Jason Terry,2,,,made,,pullup jump,8,9
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,2:51,IND,shot,,,,,,,,,,T.J. Ford,2,,,made,,driving finger roll layup,24,9
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,2:38,DAL,shot,,,Troy Murphy,,,,,,,Jason Terry,,,,missed,,driving layup,29,7
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,2:38,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,2:30,DAL,turnover,,,,,,,,,,Dirk Nowitzki,,,lost ball,,Danny Granger,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,2:28,DAL,foul,,,,,,,,Danny Granger,,Dirk Nowitzki,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,2,2:28,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,2:28,IND,sub,,,,Tyler Hansbrough,,Troy Murphy,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,2:28,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,2:18,DAL,shot,,,Mike Dunleavy,,,,,,,Shawn Marion,,,,missed,,turnaround jump,23,9
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,2:16,IND,rebound,,,,,,,,,,Tyler Hansbrough,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,2:04,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,driving layup,23,9
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,2:03,IND,rebound,,,,,,,,,,Tyler Hansbrough,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,2:03,IND,shot,,,,,,,,,,Tyler Hansbrough,2,,,made,,putback layup,26,7
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,1:37,DAL,shot,,,,,,,,,,Jason Terry,2,,,made,,fade away jumper,32,21
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,1:27,IND,shot,T.J. Ford,,,,,,,,,Tyler Hansbrough,2,,,made,,jump,27,25
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,1:09,DAL,turnover,,,,,,,,,,Drew Gooden,,,bad pass,,Mike Dunleavy,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,1:05,IND,shot,Tyler Hansbrough,,,,,,,,,Mike Dunleavy,2,,,made,,jump,16,19
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,1:02,DAL,timeout,,,,,,,,,,,,,,,,short,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,0:47,DAL,shot,Jason Terry,,,,,,,,,Shawn Marion,2,,,made,,alley oop dunk,21,7
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,0:35,IND,shot,Tyler Hansbrough,,,,,,,,,Mike Dunleavy,3,,,made,,3pt,34,30
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,0:16,DAL,shot,Jason Terry,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,13,20
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,0:16,IND,foul,,,,,,,,Dirk Nowitzki,,Tyler Hansbrough,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,0:16,DAL,free throw,,,,,,,1,,1,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,0:01,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,3pt,2,15
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Tyler Hansbrough,2,0:00,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,11:44,DAL,shot,,,,,,,,,,Drew Gooden,,,,missed,,turnaround hook,16,8
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,11:43,IND,rebound,,,,,,,,,,Jeff Foster,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,11:31,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,jump,25,25
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,11:30,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,11:12,DAL,turnover,,,,,,,,,,Drew Gooden,,,bad pass,,Brandon Rush,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,10:58,IND,shot,,,,,,,,,,T.J. Ford,,,,missed,,3pt,13,27
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,10:57,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,10:38,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,39,10
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,10:19,IND,turnover,,,,,,,,,,Danny Granger,,,out of bounds lost ball turnover,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,10:03,DAL,turnover,,,,,,,,,,Jason Kidd,,,bad pass,,Danny Granger,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,9:51,IND,turnover,,,,,,,,,,Brandon Rush,,,out of bounds lost ball turnover,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,9:36,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,jump,8,9
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,9:34,IND,rebound,,,,,,,,,,Jeff Foster,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,9:30,DAL,foul,,,,,,,,Brandon Rush,,Rodrigue Beaubois,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,9:17,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,turnaround fade away,25,19
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,9:16,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,9:05,IND,foul,,,,,,,,Jason Kidd,,T.J. Ford,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,8:59,DAL,shot,Dirk Nowitzki,,,,,,,,,Shawn Marion,2,,,made,,jump hook,18,15
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,8:50,IND,shot,T.J. Ford,,,,,,,,,Troy Murphy,3,,,made,,3pt,26,32
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,8:33,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,floating jump,26,17
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,8:32,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,8:28,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,3pt,49,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,8:26,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,8:26,DAL,shot,,,,,,,,,,Drew Gooden,2,,,made,,tip,24,8
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Brandon Rush,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,8:23,IND,turnover,,,,,,,,,,Troy Murphy,,,bad pass,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,8:23,IND,sub,,,,Dahntay Jones,,Brandon Rush,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,8:07,DAL,turnover,,,,,,,,,,Rodrigue Beaubois,,,discontinue dribble,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,7:50,IND,shot,T.J. Ford,,,,,,,,,Jeff Foster,2,,,made,,layup,27,7
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,7:26,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,driving layup,27,7
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,7:26,IND,foul,,,,,,,,Dirk Nowitzki,,Jeff Foster,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,7:26,DAL,free throw,,,,,,,1,,1,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,7:17,IND,turnover,,,,,,,,,,Jeff Foster,,,lost ball,,Rodrigue Beaubois,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,7:12,IND,foul,,,,,,,,Dirk Nowitzki,,Troy Murphy,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,7:12,DAL,free throw,,,,,,,1,,3,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,7:12,DAL,free throw,,,,,,,2,,3,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,7:12,DAL,free throw,,,,,,,3,,3,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,7:01,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,jump,43,8
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,6:59,IND,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,6:58,IND,turnover,,,,,,,,,,Danny Granger,,,bad pass,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,6:44,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,3pt,45,23
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,6:43,IND,rebound,,,,,,,,,,Danny Granger,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,6:30,IND,shot,,,,,,,,,,Troy Murphy,2,,,made,,driving layup,29,7
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Jeff Foster,T.J. Ford,Troy Murphy,3,6:30,DAL,foul,,,,,,,,Troy Murphy,,Drew Gooden,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,Tyler Hansbrough,3,6:30,IND,sub,,,,Tyler Hansbrough,,Jeff Foster,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,Tyler Hansbrough,3,6:30,IND,free throw,,,,,,,1,,1,Troy Murphy,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,Tyler Hansbrough,3,6:29,IND,rebound,,,,,,,,,,Tyler Hansbrough,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,Tyler Hansbrough,3,6:18,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,8,25
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,Tyler Hansbrough,3,6:17,DAL,rebound,,,,,,,,,,Rodrigue Beaubois,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,Tyler Hansbrough,3,6:03,DAL,shot,,,Troy Murphy,,,,,,,Drew Gooden,,,,missed,,running jump,25,11
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,Tyler Hansbrough,3,6:01,IND,rebound,,,,,,,,,,Tyler Hansbrough,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,Tyler Hansbrough,3,5:45,IND,turnover,,,,,,,,,,Danny Granger,,,traveling,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,Tyler Hansbrough,3,5:45,IND,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Luther Head,Troy Murphy,Tyler Hansbrough,3,5:45,IND,sub,,,,Luther Head,,T.J. Ford,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Tyler Hansbrough,3,5:45,IND,sub,,,,Earl Watson,,Troy Murphy,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Tyler Hansbrough,3,5:45,DAL,sub,,,,Jason Terry,,Rodrigue Beaubois,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Tyler Hansbrough,3,5:25,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,finger roll layup,25,10
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Tyler Hansbrough,3,5:00,IND,shot,Earl Watson,,,,,,,,,Luther Head,3,,,made,,3pt,49,9
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Tyler Hansbrough,3,4:45,IND,foul,,,,,,,,Shawn Marion,,Dahntay Jones,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,4:45,IND,sub,,,,Roy Hibbert,,Tyler Hansbrough,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,4:45,DAL,free throw,,,,,,,1,,2,Shawn Marion,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,4:45,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,4:45,DAL,free throw,,,,,,,2,,2,Shawn Marion,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,4:34,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,26,32
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,4:33,IND,rebound,,,,,,,,,,Earl Watson,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,4:23,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,3pt,49,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,4:22,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,4:15,DAL,turnover,,,,,,,,,,Jason Kidd,,,bad pass,,Danny Granger,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,4:05,IND,turnover,,,,,,,,,,Luther Head,,,bad pass,,Dirk Nowitzki,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,3:52,DAL,shot,Drew Gooden,,,,,,,,,Jason Kidd,3,,,made,,3pt,2,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,3:36,IND,shot,,,Jason Kidd,,,,,,,Roy Hibbert,,,,missed,,jump,28,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Roy Hibbert,3,3:36,IND,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,3:36,IND,sub,,,,Mike Dunleavy,,Danny Granger,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,3:25,IND,shot,,,,,,,,,,Earl Watson,,,,missed,,3pt,19,32
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,3:23,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,3:14,IND,shot,,,Dirk Nowitzki,,,,,,,Dahntay Jones,,,,missed,,layup,27,7
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,3:13,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,3:08,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,3pt,50,7
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,3:07,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,3:07,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,3:07,DAL,sub,,,,James Singleton,,Drew Gooden,,,,,,,,,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,2:58,DAL,shot,,,,,,,,,,James Singleton,,,,missed,,jump,42,13
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,2:57,IND,rebound,,,,,,,,,,Dahntay Jones,,,,,,def,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,2:42,IND,shot,,,,,,,,,,Roy Hibbert,2,,,made,,jump,21,7
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,2:26,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,jump,26,22
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,2:25,IND,rebound,,,,,,,,,,Dahntay Jones,,,,,,def,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,2:18,IND,shot,Mike Dunleavy,,,,,,,,,Earl Watson,3,,,made,,3pt,10,25
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Earl Watson,Luther Head,Mike Dunleavy,Roy Hibbert,3,2:08,DAL,timeout,,,,,,,,,,,,,,,,short,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,2:08,IND,sub,,,,Danny Granger,,Luther Head,,,,,,,,,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,1:57,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,jump,8,8
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,1:55,DAL,rebound,,,,,,,,,,James Singleton,,,,,,off,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,1:53,DAL,shot,James Singleton,,,,,,,,,Jason Kidd,3,,,made,,3pt,40,28
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,1:42,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,jump,13,19
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,1:41,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,1:33,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,layup,27,6
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,1:18,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,jump,13,20
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,1:17,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,1:01,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,fade away jumper,12,9
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,0:45,IND,shot,,,Shawn Marion,,,,,,,Dahntay Jones,,,,missed,,jump,25,23
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,0:44,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,3,0:38,IND,foul,,,,,,,,Dirk Nowitzki,,Roy Hibbert,,,,,,shooting,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,0:38,IND,sub,,,,T.J. Ford,,Dahntay Jones,,,,,,,,,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Danny Granger,Earl Watson,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,0:38,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Danny Granger,Earl Watson,Jeff Foster,Mike Dunleavy,T.J. Ford,3,0:38,IND,sub,,,,Jeff Foster,,Roy Hibbert,,,,,,,,,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Danny Granger,Earl Watson,Jeff Foster,Mike Dunleavy,T.J. Ford,3,0:38,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Danny Granger,Earl Watson,Jeff Foster,Mike Dunleavy,T.J. Ford,3,0:23,IND,turnover,,,,,,,,,,Jeff Foster,,,bad pass,,Jason Terry,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Danny Granger,Earl Watson,Jeff Foster,Mike Dunleavy,T.J. Ford,3,0:20,DAL,shot,,,,,,,,,,Jason Terry,2,,,made,,slam dunk,24,7
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Danny Granger,Earl Watson,Jeff Foster,Mike Dunleavy,T.J. Ford,3,0:05,IND,shot,,,,,,,,,,Earl Watson,,,,missed,,3pt,3,19
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Danny Granger,Earl Watson,Jeff Foster,Mike Dunleavy,T.J. Ford,3,0:04,DAL,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Danny Granger,Earl Watson,Jeff Foster,Mike Dunleavy,T.J. Ford,3,0:00,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,3pt,17,48
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Shawn Marion,Danny Granger,Earl Watson,Jeff Foster,Mike Dunleavy,T.J. Ford,3,0:00,DAL,rebound,,,,,,,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Danny Granger,Jeff Foster,Mike Dunleavy,T.J. Ford,Troy Murphy,4,11:51,IND,turnover,,,,,,,,,,Troy Murphy,,,backcourt turnover,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Danny Granger,Jeff Foster,Mike Dunleavy,T.J. Ford,Troy Murphy,4,11:39,DAL,shot,Jose Juan Barea,,,,,,,,,Jason Terry,2,,,made,,jump,40,20
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Danny Granger,Jeff Foster,Mike Dunleavy,T.J. Ford,Troy Murphy,4,11:26,IND,turnover,,,,,,,,,,Jeff Foster,,,bad pass,,James Singleton,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Danny Granger,Jeff Foster,Mike Dunleavy,T.J. Ford,Troy Murphy,4,11:04,DAL,shot,,,,,,,,,,Kris Humphries,,,,missed,,jump,40,18
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Danny Granger,Jeff Foster,Mike Dunleavy,T.J. Ford,Troy Murphy,4,11:03,DAL,rebound,,,,,,,,,,James Singleton,,,,,,off,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Danny Granger,Jeff Foster,Mike Dunleavy,T.J. Ford,Troy Murphy,4,11:03,DAL,shot,,,,,,,,,,James Singleton,,,,missed,,tip,25,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Danny Granger,Jeff Foster,Mike Dunleavy,T.J. Ford,Troy Murphy,4,11:01,IND,rebound,,,,,,,,,,Mike Dunleavy,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Danny Granger,Jeff Foster,Mike Dunleavy,T.J. Ford,Troy Murphy,4,10:55,DAL,foul,,,,,,,,Danny Granger,,Shawn Marion,,,,,,personal,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,10:55,IND,sub,,,,Brandon Rush,,Jeff Foster,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,10:42,IND,shot,T.J. Ford,,,,,,,,,Mike Dunleavy,2,,,made,,jump,13,6
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,10:23,IND,foul,,,,,,,,Jason Terry,,T.J. Ford,,,,,,shooting,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,10:23,DAL,free throw,,,,,,,1,,2,Jason Terry,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,10:23,DAL,free throw,,,,,,,2,,2,Jason Terry,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,10:12,DAL,foul,,,,,,,,Danny Granger,,Jose Juan Barea,,,,,,shooting,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,10:12,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,10:12,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:56,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,jump,44,18
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:56,IND,rebound,,,,,,,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:56,DAL,foul,,,,,,,,Brandon Rush,,James Singleton,,,,,,loose ball,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:48,IND,shot,,,James Singleton,,,,,,,Mike Dunleavy,,,,missed,,layup,24,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:46,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:41,IND,foul,,,,,,,,James Singleton,,Troy Murphy,,,,,,personal,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:37,DAL,foul,,,,,,,,Brandon Rush,,Kris Humphries,,,,,,offensive,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:37,DAL,turnover,,,,,,,,,,Kris Humphries,,,foul,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:27,IND,shot,Troy Murphy,,,,,,,,,T.J. Ford,2,,,made,,layup,27,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:10,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,layup,25,9
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:09,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,off,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:09,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,tip,25,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:07,DAL,rebound,,,,,,,,,,James Singleton,,,,,,off,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:06,DAL,shot,,,Danny Granger,,,,,,,James Singleton,,,,missed,,layup,24,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:04,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:01,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,3pt,8,25
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:00,DAL,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,8:35,DAL,shot,James Singleton,,,,,,,,,Kris Humphries,2,,,made,,layup,25,8
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,8:28,IND,shot,,,,,,,,,,Danny Granger,3,,,made,,3pt,33,30
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,8:02,DAL,shot,,,,,,,,,,Kris Humphries,,,,missed,,jump,27,21
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,8:00,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,off,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,7:58,DAL,shot,,,,,,,,,,Shawn Marion,2,,,made,,layup,24,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,7:57,IND,timeout,,,,,,,,,,,,,,,,regular,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Brandon Rush,Dahntay Jones,Danny Granger,Mike Dunleavy,T.J. Ford,4,7:57,IND,sub,,,,Dahntay Jones,,Troy Murphy,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Mike Dunleavy,T.J. Ford,4,7:57,IND,sub,,,,Earl Watson,,Brandon Rush,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Mike Dunleavy,4,7:57,IND,sub,,,,Luther Head,,T.J. Ford,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,7:57,IND,sub,,,,Solomon Jones,,Mike Dunleavy,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,7:57,DAL,sub,,,,Matt Carroll,,Shawn Marion,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,7:47,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,32,31
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,7:46,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,7:35,IND,foul,,,,,,,,James Singleton,,Danny Granger,,,,,,personal,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,7:34,IND,foul,,,,,,,,Kris Humphries,,Earl Watson,,,,,,personal,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,7:22,DAL,shot,,,Dahntay Jones,,,,,,,Kris Humphries,,,,missed,,layup,26,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,7:22,DAL,rebound,,,,,,,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,7:19,DAL,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,7:02,IND,shot,,,,,,,,,,Earl Watson,,,,missed,,3pt,2,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,7:01,IND,rebound,,,,,,,,,,Solomon Jones,,,,,,off,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,6:56,DAL,foul,,,,,,,,Earl Watson,,Kris Humphries,,,,,,shooting,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,6:56,IND,free throw,,,,,,,1,,2,Earl Watson,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,6:56,IND,free throw,,,,,,,2,,2,Earl Watson,,,foul,made,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,6:33,DAL,shot,,,,,,,,,,Jose Juan Barea,3,,,made,,3pt,38,30
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,6:16,IND,shot,,,,,,,,,,Solomon Jones,2,,,made,,jump,13,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,5:53,DAL,turnover,,,,,,,,,,Jose Juan Barea,,,lost ball,,Earl Watson,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,5:46,IND,shot,Luther Head,,,,,,,,,Solomon Jones,2,,,made,,slam dunk,26,9
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Dahntay Jones,Danny Granger,Earl Watson,Luther Head,Solomon Jones,4,5:43,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,5:43,IND,sub,,,,Brandon Rush,,Danny Granger,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,5:23,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,3pt,11,26
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,5:18,DAL,rebound,,,,,,,,,,Matt Carroll,,,,,,off,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,5:17,DAL,shot,Matt Carroll,,,,,,,,,James Singleton,2,,,made,,slam dunk,27,7
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,5:01,IND,turnover,,,,,,,,,,Dahntay Jones,,,bad pass,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:46,DAL,shot,,,,,,,,,,James Singleton,,,,missed,,3pt,38,29
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:46,DAL,rebound,,,,,,,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:46,IND,foul,,,,,,,,Kris Humphries,,Dahntay Jones,,,,,,loose ball,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:46,DAL,free throw,,,,,,,1,,2,Kris Humphries,,,foul,missed,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Matt Carroll,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:46,DAL,rebound,,,,,,,,,,,,,,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:46,DAL,sub,,,,Rodrigue Beaubois,,Jason Terry,,,,,,,,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:46,DAL,free throw,,,,,,,2,,2,Kris Humphries,,,foul,made,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:39,IND,turnover,,,,,,,,,,Luther Head,,,bad pass,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:23,DAL,turnover,,,,,,,,,,Matt Carroll,,,lost ball,,Solomon Jones,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:07,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,turnaround fade away,11,9
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:06,IND,rebound,,,,,,,,,,Solomon Jones,,,,,,off,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:06,IND,shot,,,,,,,,,,Solomon Jones,,,,missed,,tip,26,7
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,4:05,DAL,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,3:46,DAL,shot,,,,,,,,,,Kris Humphries,,,,missed,,jump,13,21
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,3:45,IND,rebound,,,,,,,,,,Luther Head,,,,,,def,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,3:39,IND,shot,Luther Head,,,,,,,,,Brandon Rush,2,,,made,,pullup jump,6,9
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,3:16,DAL,shot,Jose Juan Barea,,,,,,,,,Rodrigue Beaubois,3,,,made,,3pt,39,28
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,3:02,IND,shot,Solomon Jones,,,,,,,,,Luther Head,2,,,made,,driving layup,23,7
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,3:01,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,2:37,DAL,turnover,,,,,,,,,,Jose Juan Barea,,,bad pass,,Luther Head,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,2:33,DAL,foul,,,,,,,,Dahntay Jones,,Matt Carroll,,,,,,shooting,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,2:33,IND,free throw,,,,,,,1,,2,Dahntay Jones,,,foul,made,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,2:33,IND,free throw,,,,,,,2,,2,Dahntay Jones,,,foul,made,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,2:13,DAL,shot,,,,,,,,,,Matt Carroll,,,,missed,,3pt,25,31
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,2:12,IND,rebound,,,,,,,,,,Solomon Jones,,,,,,def,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,1:59,IND,shot,Solomon Jones,,,,,,,,,Dahntay Jones,2,,,made,,jump,13,20
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,1:44,DAL,foul,,,,,,,,Dahntay Jones,,James Singleton,,,,,,offensive,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,1:44,DAL,turnover,,,,,,,,,,James Singleton,,,foul,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,1:28,DAL,foul,,,,,,,,Earl Watson,,Jose Juan Barea,,,,,,personal,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,1:28,IND,free throw,,,,,,,1,,2,Earl Watson,,,foul,missed,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,1:28,IND,rebound,,,,,,,,,,,,,,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,1:28,IND,free throw,,,,,,,2,,2,Earl Watson,,,foul,missed,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,1:28,DAL,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,1:09,DAL,shot,,,,,,,,,,James Singleton,,,,missed,,jump bank,42,14
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,1:08,IND,rebound,,,,,,,,,,Brandon Rush,,,,,,def,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,1:03,IND,turnover,,,,,,,,,,Dahntay Jones,,,bad pass,,Rodrigue Beaubois,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,0:57,DAL,shot,,,,,,,,,,Matt Carroll,,,,missed,,3pt,44,24
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,0:57,DAL,rebound,,,,,,,,,,,,,,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,0:57,IND,foul,,,,,,,,Kris Humphries,,Earl Watson,,,,,,loose ball,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,0:57,DAL,free throw,,,,,,,1,,2,Kris Humphries,,,foul,missed,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,0:57,DAL,rebound,,,,,,,,,,,,,,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,0:57,DAL,free throw,,,,,,,2,,2,Kris Humphries,,,foul,made,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,0:43,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,jump,15,26
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,0:42,DAL,rebound,,,,,,,,,,James Singleton,,,,,,def,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,0:28,DAL,shot,,,,,,,,,,Matt Carroll,,,,missed,,jump,5,9
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,0:27,DAL,rebound,,,,,,,,,,James Singleton,,,,,,off,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Brandon Rush,Dahntay Jones,Earl Watson,Luther Head,Solomon Jones,4,0:03,DAL,turnover,,,,,,,,,,,,,shot clock turnover,,,,,

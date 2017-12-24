@@ -1,0 +1,397 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,12:00,OFF,jump ball,,Josh Smith,,,Marc Gasol,,,,,,,Mike Bibby,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:44,ATL,shot,Mike Bibby,,,,,,,,,Joe Johnson,2,,,made,,jump,40,18
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:25,MEM,turnover,,,,,,,,,,Zach Randolph,,,bad pass,,Al Horford,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,11:16,ATL,shot,Josh Smith,,,,,,,,,Joe Johnson,3,,,made,,3pt,49,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:51,MEM,turnover,,,,,,,,,,Mike Conley,,,bad pass,,Al Horford,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:44,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,46,4
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:43,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:38,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,10:16,ATL,shot,Josh Smith,,,,,,,,,Mike Bibby,2,,,made,,jump,36,21
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:57,MEM,shot,Zach Randolph,,,,,,,,,Mike Conley,3,,,made,,3pt,17,29
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:33,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,floating jump,24,14
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:32,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:26,MEM,foul,,,,,,,,Josh Smith,,Marc Gasol,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:26,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:26,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:26,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,9:05,MEM,shot,,,,,,,,,,Marc Gasol,2,,,made,,running hook,25,15
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:50,ATL,turnover,,,,,,,,,,Mike Bibby,,,lost ball,,Mike Conley,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:45,MEM,shot,O.J. Mayo,,,,,,,,,Zach Randolph,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:22,ATL,shot,Josh Smith,,,,,,,,,Al Horford,2,,,made,,jump,12,18
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:09,MEM,turnover,,,,,,,,,,Zach Randolph,,,bad pass,,Marvin Williams,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,8:04,ATL,shot,Joe Johnson,,,,,,,,,Marvin Williams,2,,,made,,alley oop dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:44,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,18,13
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:44,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:34,MEM,foul,,,,,,,,,,Marc Gasol,,,,,,defense 3 second,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:34,ATL,free throw,,,,,,,1,,1,Mike Bibby,,,technical,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:21,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:20,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:12,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,44,18
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:12,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:06,ATL,turnover,,,,,,,,,,Mike Bibby,,,bad pass,,O.J. Mayo,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,7:02,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:37,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,10,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:36,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:27,MEM,shot,O.J. Mayo,,,,,,,,,Marc Gasol,2,,,made,,dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:05,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,36,20
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:05,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,6:03,ATL,shot,Al Horford,,,,,,,,,Marvin Williams,2,,,made,,dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:54,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:40,MEM,shot,Mike Conley,,,,,,,,,Rudy Gay,2,,,made,,jump,20,24
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:18,MEM,foul,,,,,,,,,,O.J. Mayo,,,,,,defense 3 second,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:18,ATL,free throw,,,,,,,1,,1,Mike Bibby,,,technical,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,5:09,ATL,shot,,,,,,,,,,Mike Bibby,2,,,made,,jump,43,11
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:49,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,turnaround jump,36,11
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:46,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:45,MEM,foul,,,,,,,,Josh Smith,,Rudy Gay,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:45,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:45,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,1,4:45,ATL,sub,,,,Jamal Crawford,,Marvin Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,4:45,MEM,sub,,,,Darrell Arthur,,Zach Randolph,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,4:45,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,4:19,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,step back jump,27,26
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,4:08,ATL,shot,Mike Bibby,,,,,,,,,Josh Smith,2,,,made,,finger roll layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,3:59,ATL,foul,,,,,,,,Mike Conley,,Joe Johnson,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,3:59,ATL,sub,,,,Joe Smith,,Josh Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,3:53,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,jump,14,10
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,3:25,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,32,30
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,3:24,MEM,rebound,,,,,,,,,,Darrell Arthur,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,3:07,MEM,turnover,,,,,,,,,,Darrell Arthur,,,bad pass,,Al Horford,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:57,ATL,turnover,,,,,,,,,,Jamal Crawford,,,bad pass,,Rudy Gay,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:55,ATL,foul,,,,,,,,Rudy Gay,,Joe Johnson,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:55,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:55,ATL,foul,,,,,,,,,,Mike Bibby,,,,,,technical,,
+Al Horford,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:55,ATL,sub,,,,Maurice Evans,,Joe Johnson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:55,MEM,free throw,,,,,,,1,,1,O.J. Mayo,,,technical,made,,,,
+Al Horford,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:44,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,25,18
+Al Horford,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:44,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:34,ATL,shot,Al Horford,,,,,,,,,Joe Smith,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:16,ATL,foul,,,,,,,,Marc Gasol,,Joe Smith,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:16,MEM,free throw,,,,,,,1,,2,Marc Gasol,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,1,2:16,ATL,sub,,,,Jeff Teague,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,1,2:16,MEM,sub,,,,Marcus Williams,,Mike Conley,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,1,2:16,MEM,sub,,,,Sam Young,,O.J. Mayo,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,1,2:16,ATL,sub,,,,Jason Collins,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,1,2:16,MEM,free throw,,,,,,,2,,2,Marc Gasol,,,foul,made,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,1,1:57,MEM,foul,,,,,,,,Jamal Crawford,,Sam Young,,,,,,shooting,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,1,1:57,ATL,free throw,,,,,,,1,,3,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,1:57,MEM,sub,,,,Zach Randolph,,Marc Gasol,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,1:57,ATL,free throw,,,,,,,2,,3,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,1:57,ATL,free throw,,,,,,,3,,3,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,1:40,MEM,shot,Sam Young,,,,,,,,,Zach Randolph,2,,,made,,layup,25,6
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,1:23,ATL,turnover,,,,,,,,,,Jamal Crawford,,,bad pass,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,1:06,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,jump,11,7
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:50,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,14,19
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:49,MEM,rebound,,,,,,,,,,Darrell Arthur,,,,,,def,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:42,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,turnaround fade away,11,7
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:26,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,jump,34,24
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:26,MEM,rebound,,,,,,,,,,Darrell Arthur,,,,,,def,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:26,ATL,foul,,,,,,,,Darrell Arthur,,Jason Collins,,,,,,loose ball,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:09,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,floating jump,19,17
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:03,MEM,foul,,,,,,,,Jamal Crawford,,Darrell Arthur,,,,,,shooting,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:03,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,missed,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:03,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,1,0:03,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,2,11:44,MEM,shot,Marcus Williams,,,,,,,,,Zach Randolph,2,,,made,,jump,38,19
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,2,11:21,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,driving layup,25,6
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,Rudy Gay,Sam Young,Zach Randolph,2,11:01,ATL,foul,,,,,,,,Zach Randolph,,Joe Smith,,,,,,personal,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,11:01,MEM,sub,,,,O.J. Mayo,,Rudy Gay,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,10:52,MEM,shot,,,,,,,,,,Marcus Williams,,,,missed,,jump,11,22
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,10:51,ATL,rebound,,,,,,,,,,Jason Collins,,,,,,def,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,10:43,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,13,23
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,10:42,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,off,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,10:41,ATL,shot,,,,,,,,,,Joe Smith,2,,,made,,dunk,25,6
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,10:33,ATL,foul,,,,,,,,O.J. Mayo,,Jamal Crawford,,,,,,personal,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,10:28,MEM,shot,Sam Young,,,,,,,,,Zach Randolph,2,,,made,,layup,25,6
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,10:16,ATL,shot,,,,,,,,,,Jeff Teague,2,,,made,,jump,11,22
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:51,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,23,18
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:50,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:48,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+Jamal Crawford,Jason Collins,Jeff Teague,Joe Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:46,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jason Collins,Jeff Teague,Josh Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:46,ATL,sub,,,,Josh Smith,,Joe Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Darrell Arthur,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:46,ATL,sub,,,,Al Horford,,Jason Collins,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:46,MEM,sub,,,,Marc Gasol,,Darrell Arthur,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:33,ATL,shot,,,,,,,,,,Jeff Teague,,,,missed,,jump,16,23
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:31,ATL,rebound,,,,,,,,,,Maurice Evans,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:31,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,tip,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:27,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:14,MEM,shot,O.J. Mayo,,,,,,,,,Zach Randolph,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:14,ATL,foul,,,,,,,,Zach Randolph,,Josh Smith,,,,,,shooting,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:14,ATL,sub,,,,Marvin Williams,,Maurice Evans,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:14,MEM,free throw,,,,,,,1,,1,Zach Randolph,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,9:13,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:55,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,26,13
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:54,MEM,rebound,,,,,,,,,,Marcus Williams,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:47,MEM,shot,Marcus Williams,,,,,,,,,Sam Young,2,,,made,,alley oop dunk,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:22,ATL,shot,Al Horford,,,,,,,,,Jamal Crawford,3,,,made,,3pt,45,21
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:02,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,17,14
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,8:02,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,7:56,ATL,shot,,,,,,,,,,Marvin Williams,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,7:37,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,step back jump,23,16
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,7:27,ATL,turnover,,,,,,,,,,Jeff Teague,,,bad pass,,Marcus Williams,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,7:21,MEM,shot,Marcus Williams,,,,,,,,,O.J. Mayo,2,,,made,,jump,24,15
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,7:15,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,2,7:15,ATL,sub,,,,Joe Johnson,,Jeff Teague,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,7:15,MEM,sub,,,,Mike Conley,,Marcus Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,7:01,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,26,13
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,7:00,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,7:00,ATL,foul,,,,,,,,Zach Randolph,,Josh Smith,,,,,,loose ball,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,6:37,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,jump,15,12
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,6:37,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,6:26,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,3pt,49,7
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,6:25,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,6:07,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,48,12
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,6:07,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,6:03,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,6:03,MEM,sub,,,,Rudy Gay,,Sam Young,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:51,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:50,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:45,MEM,foul,,,,,,,,Jamal Crawford,,Mike Conley,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:45,ATL,timeout,,,,,,,,,,,,,,,,official,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:45,ATL,sub,,,,Mike Bibby,,Jamal Crawford,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:38,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,jump,20,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:23,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,3,,,made,,3pt,39,27
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,5:01,ATL,shot,Joe Johnson,,,,,,,,,Al Horford,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:35,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,4,21
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:34,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:31,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:25,MEM,foul,,,,,,,,Joe Johnson,,O.J. Mayo,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:21,MEM,foul,,,,,,,,Mike Bibby,,Rudy Gay,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:14,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,33,19
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,4:13,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:59,MEM,shot,Zach Randolph,,,,,,,,,Marc Gasol,2,,,made,,hook bank,21,9
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:39,ATL,shot,Josh Smith,,,,,,,,,Al Horford,2,,,made,,dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:13,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,2,7
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:12,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:07,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,3pt,46,20
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,3:07,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:59,ATL,turnover,,,,,,,,,,Al Horford,,,bad pass,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:59,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:59,ATL,sub,,,,Joe Smith,,Josh Smith,,,,,,,,,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:48,MEM,shot,Marc Gasol,,,,,,,,,O.J. Mayo,2,,,made,,reverse layup,25,6
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:24,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,31,13
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:23,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,off,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:20,ATL,turnover,,,,,,,,,,Al Horford,,,lost ball,,Rudy Gay,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:19,ATL,foul,,,,,,,,Rudy Gay,,Joe Johnson,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:19,ATL,sub,,,,Jamal Crawford,,Joe Johnson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:19,MEM,free throw,,,,,,,1,,2,Rudy Gay,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:19,MEM,free throw,,,,,,,2,,2,Rudy Gay,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:02,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,8,25
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,2:02,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:59,ATL,shot,Joe Smith,,,,,,,,,Marvin Williams,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:42,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,26,26
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:41,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,2,1:40,MEM,foul,,,,,,,,Jamal Crawford,,Rudy Gay,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:40,MEM,sub,,,,Sam Young,,Rudy Gay,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:25,ATL,shot,,,,,,,,,,Marvin Williams,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:25,MEM,foul,,,,,,,,Marvin Williams,,Sam Young,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:25,ATL,free throw,,,,,,,1,,1,Marvin Williams,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:11,MEM,turnover,,,,,,,,,,Zach Randolph,,,bad pass,,Mike Bibby,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,1:00,ATL,shot,Joe Smith,,,,,,,,,Al Horford,2,,,made,,jump,8,9
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:45,MEM,shot,,,,,,,,,,Sam Young,,,,missed,,3pt,48,7
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:44,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:36,ATL,shot,Mike Bibby,,,,,,,,,Al Horford,2,,,made,,jump,22,20
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:25,ATL,foul,,,,,,,,Marc Gasol,,Al Horford,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:25,MEM,free throw,,,,,,,1,,2,Marc Gasol,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:25,MEM,free throw,,,,,,,2,,2,Marc Gasol,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:08,ATL,turnover,,,,,,,,,,Jamal Crawford,,,out of bounds lost ball turnover,,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:08,MEM,timeout,,,,,,,,,,,,,,,,short,,
+Al Horford,Jamal Crawford,Joe Smith,Mario West,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:08,ATL,sub,,,,Mario West,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Smith,Mario West,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:01,MEM,turnover,,,,,,,,,,Mike Conley,,,bad pass,,Jamal Crawford,,,
+Al Horford,Jamal Crawford,Joe Smith,Mario West,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:00,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,3pt,20,55
+Al Horford,Jamal Crawford,Joe Smith,Mario West,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,2,0:00,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:48,MEM,turnover,,,,,,,,,,Rudy Gay,,,lost ball,,Mike Bibby,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:43,ATL,shot,Mike Bibby,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:16,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,jump,25,15
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,11:16,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:54,ATL,shot,Mike Bibby,,,,,,,,,Joe Johnson,2,,,made,,jump,25,11
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:33,MEM,shot,Marc Gasol,,,,,,,,,Mike Conley,3,,,made,,3pt,10,26
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,10:04,ATL,shot,,,,,,,,,,Mike Bibby,2,,,made,,jump,27,25
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:38,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,jump,14,26
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:17,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,18,30
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:16,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:10,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,37,27
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:09,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:02,ATL,turnover,,,,,,,,,,Marvin Williams,,,lost ball,,O.J. Mayo,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,9:02,ATL,foul,,,,,,,,O.J. Mayo,,Marvin Williams,,,,,,loose ball,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:37,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,3pt,20,32
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:37,MEM,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:37,MEM,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:14,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,step back jump,36,21
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:13,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,8:10,MEM,shot,Mike Conley,,,,,,,,,Rudy Gay,2,,,made,,alley oop dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:43,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,running jump,24,17
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:39,MEM,shot,,,Marvin Williams,,,,,,,O.J. Mayo,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:36,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:35,MEM,shot,,,Josh Smith,,,,,,,Zach Randolph,,,,missed,,putback layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:33,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:20,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,3pt,47,17
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:19,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:06,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,41,16
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:06,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,7:00,ATL,foul,,,,,,,,Marc Gasol,,Al Horford,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:59,MEM,turnover,,,,,,,,,,Rudy Gay,,,bad pass,,Josh Smith,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:56,MEM,foul,,,,,,,,Josh Smith,,Zach Randolph,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:56,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:56,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:54,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:43,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,jump,38,20
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:43,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:35,ATL,shot,Mike Bibby,,,,,,,,,Josh Smith,2,,,made,,reverse slam dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:35,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,6:24,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:56,ATL,shot,,,,,,,,,,Mike Bibby,2,,,made,,jump,32,27
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:56,MEM,foul,,,,,,,,Mike Bibby,,Mike Conley,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:56,ATL,free throw,,,,,,,1,,1,Mike Bibby,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:44,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,jump,27,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:43,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:38,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,O.J. Mayo,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:34,MEM,shot,Mike Conley,,,,,,,,,Rudy Gay,2,,,made,,slam dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:14,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,27,31
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:14,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:09,ATL,foul,,,,,,,,Zach Randolph,,Al Horford,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,3,5:09,ATL,sub,,,,Jamal Crawford,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,5:09,MEM,sub,,,,Sam Young,,O.J. Mayo,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,5:09,MEM,sub,,,,Darrell Arthur,,Marc Gasol,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,5:02,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,19,25
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,5:01,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:58,ATL,turnover,,,,,,,,,,Jamal Crawford,,,bad pass,,Zach Randolph,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:53,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:50,MEM,rebound,,,,,,,,,,Darrell Arthur,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:50,MEM,shot,,,,,,,,,,Darrell Arthur,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:35,MEM,foul,,,,,,,,Al Horford,,Sam Young,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:35,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:35,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:24,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:23,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:22,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:09,MEM,shot,,,,,,,,,,Sam Young,,,,missed,,3pt,2,9
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:08,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:07,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:05,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,4:02,MEM,turnover,,,,,,,,,,Zach Randolph,,,lost ball,,Josh Smith,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,3:47,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,step back jump,12,9
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,3:28,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,step back jump,29,26
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,3:26,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,3:26,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,3:05,ATL,shot,Joe Johnson,,,,,,,,,Josh Smith,2,,,made,,jump,15,24
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,2:48,ATL,foul,,,,,,,,Sam Young,,Joe Johnson,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,3,2:48,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Darrell Arthur,Marc Gasol,Mike Conley,Rudy Gay,Sam Young,3,2:48,MEM,sub,,,,Marc Gasol,,Zach Randolph,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Mike Conley,Rudy Gay,Sam Young,3,2:48,ATL,sub,,,,Maurice Evans,,Joe Johnson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Mike Conley,Rudy Gay,Sam Young,3,2:35,ATL,foul,,,,,,,,Marc Gasol,,Marvin Williams,,,,,,personal,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Mike Conley,Rudy Gay,Sam Young,3,2:35,MEM,free throw,,,,,,,1,,2,Marc Gasol,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Mike Conley,Rudy Gay,Sam Young,3,2:35,MEM,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,3,2:35,MEM,sub,,,,Marcus Williams,,Mike Conley,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,3,2:35,MEM,free throw,,,,,,,2,,2,Marc Gasol,,,foul,made,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,3,2:23,MEM,foul,,,,,,,,Marvin Williams,,Rudy Gay,,,,,,shooting,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,Rudy Gay,Sam Young,3,2:23,ATL,free throw,,,,,,,1,,2,Marvin Williams,,,foul,made,,,,
+Al Horford,Jamal Crawford,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,2:23,MEM,sub,,,,O.J. Mayo,,Rudy Gay,,,,,,,,,,,,
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,2:23,ATL,sub,,,,Joe Smith,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,2:23,ATL,free throw,,,,,,,2,,2,Marvin Williams,,,foul,made,,,,
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,2:09,MEM,shot,,,,,,,,,,Darrell Arthur,,,,missed,,jump,41,7
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,2:08,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,1:49,ATL,timeout,,,,,,,,,,,,,,,,short,,
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,1:44,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,19,12
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,1:43,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,off,,
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,1:41,ATL,shot,,,,,,,,,,Marvin Williams,2,,,made,,layup,25,6
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,1:24,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,pullup jump,35,20
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,1:07,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,step back jump,19,13
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,0:53,MEM,turnover,,,,,,,,,,O.J. Mayo,,,bad pass,,Josh Smith,,,
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,0:46,ATL,shot,Jamal Crawford,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,0:25,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,driving layup,25,6
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,0:03,MEM,foul,,,,,,,,Jamal Crawford,,Sam Young,,,,,,personal,,
+Jamal Crawford,Joe Smith,Josh Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,0:03,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Joe Smith,Josh Smith,Mario West,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,0:03,ATL,sub,,,,Mario West,,Marvin Williams,,,,,,,,,,,,
+Jamal Crawford,Joe Smith,Josh Smith,Mario West,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,0:03,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,missed,,,,
+Jamal Crawford,Joe Smith,Josh Smith,Mario West,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,3,0:01,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,11:34,ATL,shot,,,Marc Gasol,,,,,,,Maurice Evans,,,,missed,,jump,5,12
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,11:33,MEM,rebound,,,,,,,,,,Marcus Williams,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,11:19,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,18,24
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,11:18,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,11:03,ATL,shot,Al Horford,,,,,,,,,Jamal Crawford,3,,,made,,3pt,27,32
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,10:41,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,jump,30,23
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,10:19,MEM,foul,,,,,,,,Al Horford,,Marc Gasol,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,10:19,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,10:19,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,10:01,MEM,shot,,,,,,,,,,Sam Young,,,,missed,,jump,18,10
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,10:00,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,9:35,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,17,21
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,9:35,MEM,rebound,,,,,,,,,,Marcus Williams,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,9:30,MEM,shot,,,Maurice Evans,,,,,,,Sam Young,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,9:25,ATL,rebound,,,,,,,,,,Maurice Evans,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,9:19,ATL,shot,Jamal Crawford,,,,,,,,,Maurice Evans,3,,,made,,3pt,48,7
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Darrell Arthur,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,4,9:04,ATL,violation,,,,,,,,,,Al Horford,,,,,,kicked ball,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Sam Young,Zach Randolph,4,9:04,MEM,sub,,,,Zach Randolph,,Darrell Arthur,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,9:04,MEM,sub,,,,Rudy Gay,,Sam Young,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,8:58,MEM,shot,Zach Randolph,,,,,,,,,Marcus Williams,3,,,made,,3pt,45,20
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,8:41,ATL,shot,,,,,,,,,,Jamal Crawford,3,,,made,,3pt,39,27
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,8:23,ATL,foul,,,,,,,,Marc Gasol,,Al Horford,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Smith,Marvin Williams,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,8:23,MEM,timeout,,,,,,,,,,,,,,,,official,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,8:23,ATL,sub,,,,Joe Johnson,,Marvin Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,8:13,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,15,29
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,8:13,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:54,ATL,shot,Joe Johnson,,,,,,,,,Jamal Crawford,3,,,made,,3pt,49,12
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:35,MEM,shot,,,,,,,,,,Marcus Williams,,,,missed,,jump,39,18
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:35,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:13,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,47,11
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:12,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Marcus Williams,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:11,MEM,foul,,,,,,,,Al Horford,,Rudy Gay,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:11,MEM,sub,,,,Mike Conley,,Marcus Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:11,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:11,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:11,ATL,sub,,,,Josh Smith,,Joe Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,7:11,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:59,ATL,foul,,,,,,,,Zach Randolph,,Josh Smith,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:59,MEM,free throw,,,,,,,1,,2,Zach Randolph,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:59,MEM,free throw,,,,,,,2,,2,Zach Randolph,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:41,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,reverse layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:25,MEM,turnover,,,,,,,,,,Mike Conley,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,6:08,ATL,shot,Joe Johnson,,,,,,,,,Jamal Crawford,3,,,made,,3pt,49,7
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:42,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,37,21
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:41,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:35,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,11,20
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:34,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:33,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:33,ATL,sub,,,,Jeff Teague,,Joe Johnson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:15,ATL,shot,,,Mike Conley,,,,,,,Jeff Teague,,,,missed,,jump,20,12
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:13,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,5:06,MEM,turnover,,,,,,,,,,Mike Conley,,,out of bounds lost ball turnover,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:47,ATL,shot,,,O.J. Mayo,,,,,,,Jamal Crawford,,,,missed,,3pt,3,17
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:46,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:42,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,jump,37,16
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Randolph Morris,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:26,ATL,sub,,,,Randolph Morris,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Randolph Morris,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:21,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,jump,26,27
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Randolph Morris,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,4:04,ATL,shot,Jeff Teague,,,,,,,,,Josh Smith,2,,,made,,jump,13,25
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Randolph Morris,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:49,MEM,shot,Mike Conley,,,,,,,,,Zach Randolph,2,,,made,,jump,12,23
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Randolph Morris,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:42,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:42,ATL,sub,,,,Mario West,,Josh Smith,,,,,,,,,,,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:42,ATL,sub,,,,Jason Collins,,Jamal Crawford,,,,,,,,,,,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:42,MEM,sub,,,,Darrell Arthur,,Marc Gasol,,,,,,,,,,,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:24,ATL,shot,,,,,,,,,,Jeff Teague,,,,missed,,jump,25,11
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:23,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,3:09,MEM,shot,Mike Conley,,,,,,,,,Darrell Arthur,2,,,made,,jump,36,20
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:50,ATL,turnover,,,,,,,,,,Randolph Morris,,,lost ball,,Mike Conley,,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:44,MEM,shot,O.J. Mayo,,,,,,,,,Rudy Gay,2,,,made,,reverse dunk,25,6
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:26,ATL,shot,Randolph Morris,,,,,,,,,Mario West,2,,,made,,dunk,25,6
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,2:11,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,step back jump,36,18
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:52,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,driving layup,25,6
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:51,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:40,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,jump,37,20
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:40,ATL,rebound,,,,,,,,,,Jeff Teague,,,,,,def,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,4,1:35,MEM,foul,,,,,,,,Jeff Teague,,Zach Randolph,,,,,,personal,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Lester Hudson,Mike Conley,O.J. Mayo,Zach Randolph,4,1:35,MEM,sub,,,,Lester Hudson,,Rudy Gay,,,,,,,,,,,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,Lester Hudson,Mike Conley,O.J. Mayo,Sam Young,4,1:35,MEM,sub,,,,Sam Young,,Zach Randolph,,,,,,,,,,,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Lester Hudson,Mike Conley,Sam Young,4,1:35,MEM,sub,,,,DeMarre Carroll,,O.J. Mayo,,,,,,,,,,,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Hasheem Thabeet,Lester Hudson,Sam Young,4,1:35,MEM,sub,,,,Hasheem Thabeet,,Mike Conley,,,,,,,,,,,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Hasheem Thabeet,Lester Hudson,Sam Young,4,1:23,ATL,turnover,,,,,,,,,,Jeff Teague,,,traveling,,,,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Hasheem Thabeet,Lester Hudson,Sam Young,4,1:13,MEM,shot,,,,,,,,,,Lester Hudson,,,,missed,,jump,40,20
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Hasheem Thabeet,Lester Hudson,Sam Young,4,1:13,ATL,rebound,,,,,,,,,,Mario West,,,,,,def,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Hasheem Thabeet,Lester Hudson,Sam Young,4,0:51,ATL,shot,,,,,,,,,,Jason Collins,,,,missed,,jump,8,18
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Hasheem Thabeet,Lester Hudson,Sam Young,4,0:50,ATL,rebound,,,,,,,,,,Maurice Evans,,,,,,off,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Hasheem Thabeet,Lester Hudson,Sam Young,4,0:40,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,3pt,48,11
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Hasheem Thabeet,Lester Hudson,Sam Young,4,0:40,MEM,rebound,,,,,,,,,,Sam Young,,,,,,def,,
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Hasheem Thabeet,Lester Hudson,Sam Young,4,0:35,MEM,shot,Sam Young,,,,,,,,,Lester Hudson,2,,,made,,layup,25,6
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Hasheem Thabeet,Lester Hudson,Sam Young,4,0:11,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,jump,8,15
+Jason Collins,Jeff Teague,Mario West,Maurice Evans,Randolph Morris,Darrell Arthur,DeMarre Carroll,Hasheem Thabeet,Lester Hudson,Sam Young,4,0:10,ATL,rebound,,,,,,,,,,,,,,,,,,

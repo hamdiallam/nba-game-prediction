@@ -1,0 +1,464 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,12:00,OFF,jump ball,,Brad Miller,,,Roy Hibbert,,,,,,,Earl Watson,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:44,IND,shot,Roy Hibbert,,,,,,,,,Troy Murphy,2,,,made,,jump,36,20
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:26,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,38,20
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:25,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:19,CHI,foul,,,,,,,,Earl Watson,,Derrick Rose,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:19,IND,free throw,,,,,,,1,,2,Earl Watson,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:19,IND,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:19,IND,free throw,,,,,,,2,,2,Earl Watson,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:10,CHI,turnover,,,,,,,,,,Taj Gibson,,,lost ball,,Troy Murphy,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,11:00,IND,turnover,,,,,,,,,,Danny Granger,,,bad pass,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:48,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,42,12
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:46,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:46,CHI,foul,,,,,,,,Roy Hibbert,,Taj Gibson,,,,,,loose ball,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:35,IND,shot,,,,,,,,,,Earl Watson,,,,missed,,floating jump,29,14
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:34,IND,rebound,,,,,,,,,,Earl Watson,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:32,IND,shot,,,,,,,,,,Earl Watson,,,,missed,,jump,29,11
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:32,IND,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:22,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,fade away jumper,32,18
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:21,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:15,CHI,shot,Luol Deng,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,24,31
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,10:01,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,pullup jump,38,23
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:42,CHI,foul,,,,,,,,Earl Watson,,Taj Gibson,,,,,,offensive,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:42,CHI,turnover,,,,,,,,,,Taj Gibson,,,foul,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:42,CHI,sub,,,,Tyrus Thomas,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:29,CHI,foul,,,,,,,,,,Kirk Hinrich,,,,,,defense 3 second,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:29,IND,free throw,,,,,,,1,,1,Danny Granger,,,technical,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:25,IND,shot,Roy Hibbert,,,,,,,,,Danny Granger,2,,,made,,alley oop layup,23,8
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:07,CHI,turnover,,,,,,,,,,Luol Deng,,,lost ball,,Roy Hibbert,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,9:03,IND,turnover,,,,,,,,,,Roy Hibbert,,,bad pass,,Derrick Rose,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:55,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,32,22
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:54,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:47,IND,shot,Earl Watson,,,,,,,,,Troy Murphy,3,,,made,,3pt,28,31
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:41,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:30,IND,foul,,,,,,,,Luol Deng,,Danny Granger,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:30,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:30,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:25,CHI,foul,,,,,,,,Danny Granger,,Luol Deng,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:25,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:25,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:13,IND,foul,,,,,,,,Kirk Hinrich,,Brandon Rush,,,,,,personal,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,8:03,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,turnaround fade away,36,11
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:57,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,driving layup,27,10
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:56,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:50,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,24,8
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:46,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:40,CHI,shot,,,,,,,,,,Kirk Hinrich,2,,,made,,jump,25,27
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:31,IND,turnover,,,,,,,,,,Earl Watson,,,bad pass,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:22,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,jump,20,13
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:22,IND,foul,,,,,,,,Luol Deng,,Danny Granger,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:22,CHI,free throw,,,,,,,1,,1,Luol Deng,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:22,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:06,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,hook,36,9
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:05,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,7:00,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,driving layup,27,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:44,IND,shot,Roy Hibbert,,,,,,,,,Danny Granger,3,,,made,,3pt,11,27
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:28,IND,foul,,,,,,,,,,Roy Hibbert,,,,,,defense 3 second,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:28,CHI,free throw,,,,,,,1,,1,Brad Miller,,,technical,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:28,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:26,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,running jump,18,9
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:25,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:19,IND,shot,,,,,,,,,,Earl Watson,,,,missed,,jump,28,10
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:18,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:11,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,layup,24,8
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,6:10,IND,rebound,,,,,,,,,,Brandon Rush,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,5:55,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,3pt,2,9
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,5:54,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,5:47,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,pullup jump,30,24
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,5:46,IND,rebound,,,,,,,,,,Danny Granger,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,5:33,IND,shot,,,,,,,,,,Brandon Rush,2,,,made,,reverse layup,23,8
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,5:11,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,jump,21,23
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:47,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,jump,24,10
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:46,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:46,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,tip,27,7
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:44,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:40,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,24,7
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:39,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:39,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,tip,26,7
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,1,4:34,IND,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Roy Hibbert,Troy Murphy,1,4:34,IND,sub,,,,Mike Dunleavy,,Danny Granger,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,4:34,IND,sub,,,,Solomon Jones,,Roy Hibbert,,,,,,,,,,,,
+Chris Richard,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,4:34,CHI,sub,,,,Chris Richard,,Brad Miller,,,,,,,,,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,4:34,CHI,sub,,,,John Salmons,,Kirk Hinrich,,,,,,,,,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,4:27,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,jump,18,25
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,4:26,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,4:11,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,layup,28,9
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,4:10,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,4:09,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,layup,23,7
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,3:51,IND,shot,Earl Watson,,,,,,,,,Solomon Jones,2,,,made,,jump,41,6
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,3:24,CHI,shot,,,,,,,,,,Tyrus Thomas,2,,,made,,driving layup,22,9
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,3:19,CHI,foul,,,,,,,,Solomon Jones,,Chris Richard,,,,,,shooting,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Earl Watson,Mike Dunleavy,Solomon Jones,Troy Murphy,1,3:19,IND,free throw,,,,,,,1,,2,Solomon Jones,,,foul,made,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,3:19,IND,sub,,,,Luther Head,,Brandon Rush,,,,,,,,,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,3:19,IND,free throw,,,,,,,2,,2,Solomon Jones,,,foul,made,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,3:01,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,jump,31,22
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,2:54,IND,shot,,,,,,,,,,Earl Watson,2,,,made,,layup,24,7
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,2:39,IND,foul,,,,,,,,Derrick Rose,,Solomon Jones,,,,,,shooting,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,2:39,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,made,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,2:39,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,made,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,2:23,IND,turnover,,,,,,,,,,Mike Dunleavy,,,step out of bounds turnover,,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,2:15,CHI,turnover,,,,,,,,,,Luol Deng,,,out of bounds lost ball turnover,,,,,
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,2:15,CHI,sub,,,,Kirk Hinrich,,Derrick Rose,,,,,,,,,,,,
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,2:00,IND,shot,,,,,,,,,,Troy Murphy,,,,missed,,jump,42,18
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,1:59,CHI,rebound,,,,,,,,,,Chris Richard,,,,,,def,,
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,1:37,CHI,shot,,,Solomon Jones,,,,,,,Chris Richard,,,,missed,,hook,26,11
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,1:36,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,1:21,IND,shot,,,,,,,,,,Troy Murphy,2,,,made,,dunk,24,8
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,1:02,CHI,shot,,,,,,,,,,Chris Richard,,,,missed,,hook,25,9
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,1:01,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:56,IND,shot,,,,,,,,,,Earl Watson,2,,,made,,driving layup,27,7
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:52,CHI,shot,Kirk Hinrich,,,,,,,,,John Salmons,2,,,made,,reverse dunk,27,8
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:46,IND,turnover,,,,,,,,,,Earl Watson,,,bad pass,,John Salmons,,,
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:42,IND,foul,,,,,,,,John Salmons,,Troy Murphy,,,,,,shooting,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:42,CHI,sub,,,,Devin Brown,,Luol Deng,,,,,,,,,,,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:42,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,made,,,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:42,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,made,,,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:31,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,jump,24,26
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:30,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:10,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,25,23
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:09,IND,rebound,,,,,,,,,,Mike Dunleavy,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:01,IND,shot,,,,,,,,,,Luther Head,,,,missed,,jump,41,16
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Earl Watson,Luther Head,Mike Dunleavy,Solomon Jones,Troy Murphy,1,0:00,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,11:48,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,32,31
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,11:47,IND,rebound,,,,,,,,,,Mike Dunleavy,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,11:27,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,jump,36,25
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,11:26,CHI,rebound,,,,,,,,,,Devin Brown,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,11:19,CHI,shot,Kirk Hinrich,,,,,,,,,John Salmons,2,,,made,,layup,27,8
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,10:58,IND,shot,,,,,,,,,,Roy Hibbert,2,,,made,,hook,23,9
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,10:41,CHI,shot,,,,,,,,,,Devin Brown,,,,missed,,pullup jump,8,14
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,10:39,CHI,rebound,,,,,,,,,,Chris Richard,,,,,,off,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,10:31,CHI,shot,,,,,,,,,,Tyrus Thomas,2,,,made,,layup,24,6
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,10:31,IND,foul,,,,,,,,Tyrus Thomas,,Roy Hibbert,,,,,,shooting,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,10:31,CHI,free throw,,,,,,,1,,1,Tyrus Thomas,,,foul,made,,,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,10:13,IND,shot,,,,,,,,,,Roy Hibbert,2,,,made,,hook,30,11
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,10:01,IND,foul,,,,,,,,Chris Richard,,Mike Dunleavy,,,,,,shooting,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,10:01,CHI,free throw,,,,,,,1,,2,Chris Richard,,,foul,made,,,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,10:01,CHI,free throw,,,,,,,2,,2,Chris Richard,,,foul,missed,,,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,10:01,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,9:49,IND,shot,,,,,,,,,,T.J. Ford,2,,,made,,jump,30,25
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,9:31,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,pullup jump,40,13
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,9:25,CHI,foul,,,,,,,,T.J. Ford,,Kirk Hinrich,,,,,,personal,,
+Brad Miller,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Danny Granger,Luther Head,Mike Dunleavy,Roy Hibbert,T.J. Ford,2,9:25,CHI,sub,,,,Brad Miller,,Chris Richard,,,,,,,,,,,,
+Brad Miller,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Luther Head,Roy Hibbert,T.J. Ford,2,9:25,IND,sub,,,,Brandon Rush,,Mike Dunleavy,,,,,,,,,,,,
+Brad Miller,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Luther Head,Roy Hibbert,T.J. Ford,2,9:09,IND,shot,,,,,,,,,,T.J. Ford,,,,missed,,jump,17,27
+Brad Miller,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Luther Head,Roy Hibbert,T.J. Ford,2,9:08,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Brad Miller,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,9:00,IND,sub,,,,Troy Murphy,,Luther Head,,,,,,,,,,,,
+Brad Miller,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:56,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,jump,21,11
+Brad Miller,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:55,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,def,,
+Brad Miller,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:46,IND,shot,Brandon Rush,,,,,,,,,Danny Granger,3,,,made,,3pt,43,25
+Brad Miller,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:29,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,jump,8,7
+Brad Miller,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:16,CHI,foul,,,,,,,,Danny Granger,,Devin Brown,,,,,,shooting,,
+Brad Miller,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:16,IND,timeout,,,,,,,,,,,,,,,,official,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:16,CHI,sub,,,,Derrick Rose,,Devin Brown,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:16,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:16,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:05,IND,foul,,,,,,,,John Salmons,,Roy Hibbert,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:05,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,8:05,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,7:46,IND,shot,,,Tyrus Thomas,,,,,,,Roy Hibbert,,,,missed,,layup,28,8
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,7:45,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,7:44,IND,shot,,,,,,,,,,Roy Hibbert,2,,,made,,layup,23,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,7:18,CHI,turnover,,,,,,,,,,Brad Miller,,,bad pass,,Brandon Rush,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,7:10,IND,shot,,,,,,,,,,Troy Murphy,,,,missed,,3pt,42,25
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,7:08,IND,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:58,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,3pt,2,8
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:57,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:56,CHI,foul,,,,,,,,Roy Hibbert,,Tyrus Thomas,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:56,IND,free throw,,,,,,,1,,2,Roy Hibbert,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Taj Gibson,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:56,CHI,sub,,,,Taj Gibson,,Tyrus Thomas,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:56,CHI,sub,,,,Luol Deng,,Kirk Hinrich,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:56,IND,free throw,,,,,,,2,,2,Roy Hibbert,,,foul,missed,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:56,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:44,CHI,shot,Derrick Rose,,,,,,,,,Brad Miller,2,,,made,,jump,26,25
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:30,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,3pt,1,7
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:28,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:24,CHI,shot,Luol Deng,,,,,,,,,Derrick Rose,2,,,made,,layup,22,8
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Roy Hibbert,T.J. Ford,Troy Murphy,2,6:18,IND,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Danny Granger,Roy Hibbert,T.J. Ford,2,6:18,IND,sub,,,,Dahntay Jones,,Troy Murphy,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,2,6:18,IND,sub,,,,Earl Watson,,T.J. Ford,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,2,5:58,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,turnaround jump,37,9
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,2,5:57,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,2,5:39,CHI,shot,John Salmons,,,,,,,,,Brad Miller,2,,,made,,jump,43,11
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,2,5:26,IND,shot,Roy Hibbert,,,,,,,,,Danny Granger,2,,,made,,jump,41,19
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,2,5:11,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,3pt,9,26
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,2,5:10,IND,rebound,,,,,,,,,,Dahntay Jones,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,2,5:00,CHI,foul,,,,,,,,Dahntay Jones,,Taj Gibson,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,2,5:00,IND,free throw,,,,,,,1,,2,Dahntay Jones,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,5:00,IND,sub,,,,Troy Murphy,,Roy Hibbert,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,5:00,CHI,sub,,,,Kirk Hinrich,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,5:00,IND,free throw,,,,,,,2,,2,Dahntay Jones,,,foul,missed,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,5:00,IND,rebound,,,,,,,,,,Danny Granger,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,4:52,IND,shot,,,,,,,,,,Dahntay Jones,2,,,made,,slam dunk,27,8
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,4:35,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,24,13
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,4:24,IND,shot,,,,,,,,,,Troy Murphy,2,,,made,,driving layup,24,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,4:11,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,28,24
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,4:10,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,4:02,IND,turnover,,,,,,,,,,Dahntay Jones,,,traveling,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,3:49,CHI,turnover,,,,,,,,,,John Salmons,,,bad pass,,Dahntay Jones,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,3:42,CHI,foul,,,,,,,,Troy Murphy,,John Salmons,,,,,,shooting,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,3:42,CHI,sub,,,,Tyrus Thomas,,Brad Miller,,,,,,,,,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,3:42,IND,free throw,,,,,,,1,,2,Troy Murphy,,,foul,made,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,3:42,IND,free throw,,,,,,,2,,2,Troy Murphy,,,foul,made,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,3:27,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,turnaround fade away,20,16
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,3:26,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,3:11,IND,shot,Earl Watson,,,,,,,,,Dahntay Jones,2,,,made,,jump,26,11
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,3:05,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,2:57,CHI,shot,Derrick Rose,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,47,18
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,2:41,IND,turnover,,,,,,,,,,Earl Watson,,,bad pass,,Luol Deng,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,2:37,CHI,turnover,,,,,,,,,,Derrick Rose,,,bad pass,,Troy Murphy,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,2:31,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,dunk,26,9
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,2:30,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,2:25,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,layup,27,7
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,2:24,IND,rebound,,,,,,,,,,Danny Granger,,,,,,def,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,2:18,IND,shot,,,Kirk Hinrich,,,,,,,Danny Granger,,,,missed,,jump,16,12
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,2:17,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,2:10,CHI,shot,Derrick Rose,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,44,23
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,1:42,IND,shot,Danny Granger,,,,,,,,,Brandon Rush,2,,,made,,jump,40,23
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,1:24,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,12,23
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,1:22,IND,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,1:11,IND,shot,,,Luol Deng,,,,,,,Danny Granger,,,,missed,,jump,27,10
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,1:09,IND,rebound,,,,,,,,,,Danny Granger,,,,,,off,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,1:06,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,jump,38,22
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,1:04,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,0:59,CHI,foul,,,,,,,,Earl Watson,,Tyrus Thomas,,,,,,offensive,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,2,0:59,CHI,turnover,,,,,,,,,,Tyrus Thomas,,,foul,,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Earl Watson,Mike Dunleavy,Troy Murphy,2,0:59,IND,sub,,,,Mike Dunleavy,,Danny Granger,,,,,,,,,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Earl Watson,Mike Dunleavy,Troy Murphy,2,0:43,IND,shot,,,,,,,,,,Earl Watson,2,,,made,,floating jump,27,15
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Earl Watson,Mike Dunleavy,Troy Murphy,2,0:31,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,48,13
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Earl Watson,Mike Dunleavy,Troy Murphy,2,0:29,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,off,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Earl Watson,Mike Dunleavy,Troy Murphy,2,0:28,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump bank,38,12
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Earl Watson,Mike Dunleavy,Troy Murphy,2,0:02,IND,shot,,,,,,,,,,Earl Watson,3,,,made,,3pt,26,46
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Earl Watson,Mike Dunleavy,Troy Murphy,2,0:02,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Earl Watson,Mike Dunleavy,Troy Murphy,2,0:00,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,3pt,4,23
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Earl Watson,Mike Dunleavy,Troy Murphy,2,0:00,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:52,IND,foul,,,,,,,,Luol Deng,,Earl Watson,,,,,,personal,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:44,IND,foul,,,,,,,,Kirk Hinrich,,Brandon Rush,,,,,,personal,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:40,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,3pt,10,27
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:39,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:33,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,layup,25,7
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:20,CHI,foul,,,,,,,,Earl Watson,,Taj Gibson,,,,,,offensive,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:20,CHI,turnover,,,,,,,,,,Taj Gibson,,,foul,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:03,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,hook,27,13
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,11:02,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:46,CHI,shot,Taj Gibson,,,,,,,,,Derrick Rose,2,,,made,,jump,11,14
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:22,IND,shot,,,Luol Deng,,,,,,,Danny Granger,,,,missed,,jump,26,13
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:20,IND,rebound,,,,,,,,,,Danny Granger,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:19,IND,turnover,,,,,,,,,,Danny Granger,,,bad pass,,Taj Gibson,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,10:14,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,finger roll layup,26,9
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:54,IND,turnover,,,,,,,,,,Brandon Rush,,,lost ball,,Kirk Hinrich,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:50,CHI,foul,,,,,,,,Earl Watson,,Derrick Rose,,,,,,offensive,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:50,CHI,turnover,,,,,,,,,,Derrick Rose,,,foul,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:38,IND,shot,Danny Granger,,,,,,,,,Roy Hibbert,2,,,made,,jump,14,15
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:25,IND,foul,,,,,,,,Brad Miller,,Troy Murphy,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:25,CHI,free throw,,,,,,,1,,2,Brad Miller,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:25,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:25,CHI,free throw,,,,,,,2,,2,Brad Miller,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:25,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,9:11,IND,shot,,,,,,,,,,Troy Murphy,2,,,made,,jump,28,24
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:59,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,driving layup,27,7
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:41,IND,shot,,,,,,,,,,Troy Murphy,,,,missed,,jump,16,24
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:39,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:34,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump bank,29,7
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:33,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:26,IND,shot,Earl Watson,,,,,,,,,Danny Granger,3,,,made,,3pt,5,22
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:05,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,38,19
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,8:04,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:56,IND,shot,,,,,,,,,,Earl Watson,,,,missed,,driving layup,24,8
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:55,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:46,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,21,28
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:44,IND,rebound,,,,,,,,,,Danny Granger,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:30,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,jump,14,21
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:29,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:29,CHI,foul,,,,,,,,Troy Murphy,,Kirk Hinrich,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:29,IND,free throw,,,,,,,1,,2,Troy Murphy,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,3,7:29,IND,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,7:29,IND,sub,,,,Solomon Jones,,Roy Hibbert,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,7:29,IND,free throw,,,,,,,2,,2,Troy Murphy,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,7:16,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,pullup jump,27,24
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,7:15,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,7:09,IND,shot,Earl Watson,,,,,,,,,Brandon Rush,3,,,made,,3pt,35,30
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,7:08,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,6:56,CHI,shot,,,,,,,,,,Brad Miller,2,,,made,,driving layup,23,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,6:56,IND,foul,,,,,,,,Brad Miller,,Solomon Jones,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,6:56,CHI,free throw,,,,,,,1,,1,Brad Miller,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,6:32,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,2,11
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,6:31,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,6:26,CHI,turnover,,,,,,,,,,Derrick Rose,,,bad pass,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,6:05,IND,shot,,,,,,,,,,Earl Watson,2,,,made,,fade away jumper,31,15
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,5:49,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,32,31
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,5:48,IND,rebound,,,,,,,,,,Danny Granger,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,5:35,IND,shot,Danny Granger,,,,,,,,,Solomon Jones,2,,,made,,jump,16,23
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,5:20,CHI,turnover,,,,,,,,,,Derrick Rose,,,lost ball,,Solomon Jones,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,5:04,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,floating jump,28,18
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,5:03,IND,rebound,,,,,,,,,,Solomon Jones,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,5:03,IND,shot,,,,,,,,,,Solomon Jones,,,,missed,,tip,25,7
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,5:01,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,4:50,CHI,shot,Derrick Rose,,,,,,,,,Brad Miller,3,,,made,,3pt,26,32
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,4:30,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,pullup jump,36,22
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,4:29,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,4:21,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,jump,28,25
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,4:06,IND,shot,,,,,,,,,,Troy Murphy,,,,missed,,3pt,24,32
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,4:04,IND,rebound,,,,,,,,,,Danny Granger,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,3:58,IND,shot,,,Taj Gibson,,,,,,,Troy Murphy,,,,missed,,layup,27,7
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,3:57,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,3:53,CHI,shot,,,,,,,,,,Kirk Hinrich,2,,,made,,layup,24,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Solomon Jones,Troy Murphy,3,3:51,IND,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,Troy Murphy,3,3:51,IND,sub,,,,Dahntay Jones,,Danny Granger,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Earl Watson,Solomon Jones,T.J. Ford,3,3:51,IND,sub,,,,T.J. Ford,,Troy Murphy,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Mike Dunleavy,Solomon Jones,T.J. Ford,3,3:51,IND,sub,,,,Mike Dunleavy,,Earl Watson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,3:51,IND,sub,,,,Roy Hibbert,,Solomon Jones,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,3:51,CHI,sub,,,,John Salmons,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,3:26,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,3pt,28,31
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,3:25,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,3:07,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,3pt,21,31
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,3:06,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,2:51,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,floating jump,15,18
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,2:27,IND,shot,,,,,,,,,,T.J. Ford,2,,,made,,layup,25,9
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,2:09,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,30,27
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,2:08,IND,rebound,,,,,,,,,,T.J. Ford,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:58,IND,shot,Dahntay Jones,,,,,,,,,T.J. Ford,3,,,made,,3pt,49,15
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:37,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,4,19
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:36,IND,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:36,CHI,sub,,,,Tyrus Thomas,,Derrick Rose,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:24,IND,shot,,,,,,,,,,T.J. Ford,2,,,made,,pullup jump,14,19
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:08,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,slam dunk,26,7
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:00,IND,turnover,,,,,,,,,,T.J. Ford,,,bad pass,,Kirk Hinrich,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:00,IND,foul,,,,,,,,Kirk Hinrich,,Dahntay Jones,,,,,,loose ball,,
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:00,CHI,sub,,,,Chris Richard,,Brad Miller,,,,,,,,,,,,
+Chris Richard,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:00,CHI,free throw,,,,,,,1,,2,Kirk Hinrich,,,foul,made,,,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:00,CHI,sub,,,,Devin Brown,,Luol Deng,,,,,,,,,,,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,1:00,CHI,free throw,,,,,,,2,,2,Kirk Hinrich,,,foul,made,,,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,0:47,IND,shot,,,,,,,,,,T.J. Ford,,,,missed,,jump,41,20
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,0:46,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,0:39,CHI,shot,Kirk Hinrich,,,,,,,,,Tyrus Thomas,2,,,made,,jump,18,24
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,0:27,IND,shot,Roy Hibbert,,,,,,,,,Mike Dunleavy,2,,,made,,turnaround bank,32,9
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,0:04,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,fade away jumper,19,16
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,0:03,IND,rebound,,,,,,,,,,Mike Dunleavy,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,0:00,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,3pt,7,38
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Brandon Rush,Dahntay Jones,Mike Dunleavy,Roy Hibbert,T.J. Ford,3,0:00,IND,rebound,,,,,,,,,,,,,,,,,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,11:39,IND,shot,,,,,,,,,,Dahntay Jones,2,,,made,,running bank,21,10
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,11:28,CHI,shot,John Salmons,,,,,,,,,Kirk Hinrich,2,,,made,,jump,42,10
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,11:19,CHI,foul,,,,,,,,Roy Hibbert,,Chris Richard,,,,,,personal,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,11:07,IND,turnover,,,,,,,,,,T.J. Ford,,,bad pass,,Devin Brown,,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,10:58,CHI,shot,,,,,,,,,,Chris Richard,,,,missed,,dunk,23,5
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,10:57,IND,rebound,,,,,,,,,,Mike Dunleavy,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,10:51,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,29,32
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,10:50,CHI,rebound,,,,,,,,,,Chris Richard,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,10:41,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,running jump,16,8
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,10:40,IND,rebound,,,,,,,,,,Dahntay Jones,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,10:25,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,fade away jumper,38,7
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,10:25,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,10:11,CHI,shot,,,,,,,,,,Devin Brown,,,,missed,,jump,14,22
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,10:10,IND,rebound,,,,,,,,,,Roy Hibbert,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,9:59,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,33,31
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,9:58,CHI,rebound,,,,,,,,,,Devin Brown,,,,,,def,,
+Chris Richard,Devin Brown,John Salmons,Kirk Hinrich,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,9:48,IND,foul,,,,,,,,John Salmons,,Dahntay Jones,,,,,,shooting,,
+Chris Richard,Derrick Rose,Devin Brown,John Salmons,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,9:48,CHI,sub,,,,Derrick Rose,,Kirk Hinrich,,,,,,,,,,,,
+Chris Richard,Derrick Rose,Devin Brown,John Salmons,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,9:48,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,missed,,,,
+Chris Richard,Derrick Rose,Devin Brown,John Salmons,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,9:48,CHI,rebound,,,,,,,,,,,,,,,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,Roy Hibbert,T.J. Ford,4,9:48,CHI,sub,,,,Luol Deng,,Devin Brown,,,,,,,,,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Dahntay Jones,Danny Granger,Mike Dunleavy,T.J. Ford,Troy Murphy,4,9:48,IND,sub,,,,Troy Murphy,,Roy Hibbert,,,,,,,,,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,9:48,IND,sub,,,,Brandon Rush,,Mike Dunleavy,,,,,,,,,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,9:48,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,made,,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,9:33,IND,shot,T.J. Ford,,,,,,,,,Troy Murphy,2,,,made,,jump bank,38,11
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,9:10,CHI,turnover,,,,,,,,,,Derrick Rose,,,lost ball,,T.J. Ford,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,9:03,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,3pt,45,22
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,9:02,CHI,rebound,,,,,,,,,,Chris Richard,,,,,,def,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,9:00,CHI,turnover,,,,,,,,,,Chris Richard,,,poss lost ball turnover,,Dahntay Jones,,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:57,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,jump,25,25
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:56,CHI,rebound,,,,,,,,,,Chris Richard,,,,,,def,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:51,IND,foul,,,,,,,,Derrick Rose,,Troy Murphy,,,,,,personal,,
+Chris Richard,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:51,CHI,timeout,,,,,,,,,,,,,,,,official,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:51,CHI,sub,,,,Taj Gibson,,Chris Richard,,,,,,,,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:39,IND,foul,,,,,,,,Luol Deng,,Dahntay Jones,,,,,,personal,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:28,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,27,29
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:27,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:23,IND,foul,,,,,,,,John Salmons,,T.J. Ford,,,,,,shooting,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:23,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,missed,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:23,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:23,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,made,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,8:00,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,jump,8,16
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,7:59,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,off,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,7:59,IND,shot,,,,,,,,,,Troy Murphy,2,,,made,,tip,27,6
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,7:41,CHI,shot,Derrick Rose,,,,,,,,,Luol Deng,2,,,made,,layup,27,8
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,7:33,IND,shot,,,,,,,,,,Dahntay Jones,,,,missed,,layup,22,9
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,T.J. Ford,Troy Murphy,4,7:32,IND,rebound,,,,,,,,,,Danny Granger,,,,,,off,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,7:21,IND,sub,,,,Earl Watson,,T.J. Ford,,,,,,,,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,7:21,IND,jump ball,,Tyrus Thomas,,,Dahntay Jones,,,,,,,John Salmons,,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,7:21,IND,turnover,,,,,,,,,,Dahntay Jones,,,lost ball,,Tyrus Thomas,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,7:16,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,running bank,20,9
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,7:16,IND,foul,,,,,,,,Derrick Rose,,Earl Watson,,,,,,shooting,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,7:16,CHI,free throw,,,,,,,1,,1,Derrick Rose,,,foul,made,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,7:07,IND,turnover,,,,,,,,,,Troy Murphy,,,bad pass,,Luol Deng,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,6:59,CHI,shot,Tyrus Thomas,,,,,,,,,Taj Gibson,2,,,made,,slam dunk,26,6
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,6:59,IND,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,6:59,IND,sub,,,,Roy Hibbert,,Troy Murphy,,,,,,,,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,6:47,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,hook,20,11
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,6:45,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,6:28,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,jump,24,12
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,6:07,IND,shot,,,,,,,,,,Roy Hibbert,,,,missed,,hook,19,7
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,6:06,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,5:55,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,pullup jump,16,21
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,5:30,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,jump,25,27
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,5:03,CHI,shot,Derrick Rose,,,,,,,,,Tyrus Thomas,2,,,made,,jump,45,7
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,4:48,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,jump,14,20
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,4:47,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,4:23,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,41,28
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,4:23,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,4:23,CHI,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,4:04,IND,turnover,,,,,,,,,,Roy Hibbert,,,bad pass,,Luol Deng,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,3:52,CHI,turnover,,,,,,,,,,John Salmons,,,bad pass,,,,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,3:41,IND,shot,Earl Watson,,,,,,,,,Dahntay Jones,2,,,made,,reverse layup,23,7
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Roy Hibbert,4,3:41,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,John Salmons,Luol Deng,Taj Gibson,Tyrus Thomas,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,3:41,IND,sub,,,,Troy Murphy,,Dahntay Jones,,,,,,,,,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,3:41,CHI,sub,,,,Kirk Hinrich,,Tyrus Thomas,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,3:41,CHI,sub,,,,Brad Miller,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,3:21,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,25,23
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,3:20,IND,rebound,,,,,,,,,,Danny Granger,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,3:12,CHI,foul,,,,,,,,Danny Granger,,John Salmons,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,3:12,IND,free throw,,,,,,,1,,2,Danny Granger,,,foul,missed,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,3:12,IND,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,3:12,IND,sub,,,,Dahntay Jones,,Roy Hibbert,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,3:12,IND,free throw,,,,,,,2,,2,Danny Granger,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,2:51,IND,foul,,,,,,,,Brad Miller,,Danny Granger,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Dahntay Jones,Danny Granger,Earl Watson,Troy Murphy,4,2:51,CHI,free throw,,,,,,,1,,2,Brad Miller,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,2:51,IND,sub,,,,Roy Hibbert,,Dahntay Jones,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,2:51,CHI,free throw,,,,,,,2,,2,Brad Miller,,,foul,missed,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,2:51,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,2:39,IND,turnover,,,,,,,,,,Earl Watson,,,bad pass,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,2:22,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,driving layup,22,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,1:59,IND,turnover,,,,,,,,,,Earl Watson,,,lost ball,,Derrick Rose,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,1:56,CHI,shot,Derrick Rose,,,,,,,,,Luol Deng,2,,,made,,slam dunk,25,8
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Roy Hibbert,Troy Murphy,4,1:56,IND,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,1:56,IND,sub,,,,Mike Dunleavy,,Roy Hibbert,,,,,,,,,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,1:56,CHI,sub,,,,Taj Gibson,,Brad Miller,,,,,,,,,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,1:44,IND,shot,,,,,,,,,,Mike Dunleavy,,,,missed,,jump,20,24
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,1:43,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,1:25,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,27,27
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,1:23,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,1:23,IND,foul,,,,,,,,Luol Deng,,Troy Murphy,,,,,,loose ball,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,1:23,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,missed,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,1:23,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,1:23,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,1:14,IND,shot,,,,,,,,,,Earl Watson,2,,,made,,layup,27,7
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:53,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,45,9
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:51,IND,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:51,IND,timeout,,,,,,,,,,,,,,,,short,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:46,IND,shot,,,,,,,,,,Danny Granger,,,,missed,,3pt,37,28
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:45,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:45,IND,foul,,,,,,,,Luol Deng,,Mike Dunleavy,,,,,,personal,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:45,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:45,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:38,IND,shot,,,,,,,,,,Danny Granger,2,,,made,,driving layup,27,7
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:28,IND,foul,,,,,,,,John Salmons,,Earl Watson,,,,,,personal,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:28,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,made,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:28,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,missed,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:28,IND,rebound,,,,,,,,,,Troy Murphy,,,,,,def,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:20,IND,shot,,,,,,,,,,Earl Watson,,,,missed,,driving reverse layup,26,6
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:19,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:19,IND,foul,,,,,,,,Taj Gibson,,Troy Murphy,,,,,,personal,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:19,CHI,free throw,,,,,,,1,,2,Taj Gibson,,,foul,made,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:19,CHI,free throw,,,,,,,2,,2,Taj Gibson,,,foul,made,,,,
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:08,IND,shot,,,,,,,,,,Brandon Rush,,,,missed,,jump,43,6
+Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Taj Gibson,Brandon Rush,Danny Granger,Earl Watson,Mike Dunleavy,Troy Murphy,4,0:06,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,

@@ -1,0 +1,402 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,12:00,OFF,jump ball,,Tim Duncan,,,Dwight Howard,,,,,,,Rashard Lewis,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,11:44,ORL,shot,Vince Carter,,,,,,,,,Rashard Lewis,2,,,made,,jump,8,9
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,11:27,SAS,shot,Antonio McDyess,,,,,,,,,Tim Duncan,2,,,made,,hook,15,12
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,11:05,ORL,shot,,,,,,,,,,Vince Carter,2,,,made,,fade away jumper,19,21
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,10:46,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,9,10
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,10:45,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,10:39,SAS,foul,,,,,,,,Dwight Howard,,Tim Duncan,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,10:33,SAS,foul,,,,,,,,Dwight Howard,,Richard Jefferson,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,10:33,ORL,free throw,,,,,,,1,,2,Dwight Howard,,,foul,missed,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,10:33,ORL,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,10:33,ORL,free throw,,,,,,,2,,2,Dwight Howard,,,foul,missed,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,10:32,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,10:19,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,jump,28,22
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,10:11,ORL,foul,,,,,,,,George Hill,,Rashard Lewis,,,,,,offensive,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,10:11,ORL,turnover,,,,,,,,,,Rashard Lewis,,,foul,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,9:54,SAS,timeout,,,,,,,,,,,,,,,,short,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,9:47,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,jump,12,17
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,9:46,ORL,rebound,,,,,,,,,,Rashard Lewis,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,9:37,ORL,shot,,,,,,,,,,Dwight Howard,2,,,made,,slam dunk,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,9:20,ORL,foul,,,,,,,,Tim Duncan,,Dwight Howard,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,9:20,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,9:20,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,missed,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,9:19,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,8:58,ORL,shot,Vince Carter,,,,,,,,,Matt Barnes,2,,,made,,dunk,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,8:44,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,9,12
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,8:43,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,8:32,SAS,shot,Tim Duncan,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,8:16,ORL,shot,Rashard Lewis,,,,,,,,,Matt Barnes,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,8:01,SAS,shot,George Hill,,,,,,,,,Richard Jefferson,2,,,made,,jump,20,26
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,7:53,ORL,shot,Jameer Nelson,,,,,,,,,Vince Carter,3,,,made,,3pt,44,24
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,7:41,ORL,foul,,,,,,,,Tim Duncan,,Jameer Nelson,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,7:29,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,7:21,ORL,foul,,,,,,,,Richard Jefferson,,Jameer Nelson,,,,,,offensive,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,1,7:21,ORL,turnover,,,,,,,,,,Jameer Nelson,,,foul,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,7:21,ORL,sub,,,,Jason Williams,,Jameer Nelson,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,7:09,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,8,14
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,7:08,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,6:56,ORL,shot,Jason Williams,,,,,,,,,Vince Carter,3,,,made,,3pt,39,27
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,6:41,SAS,shot,Manu Ginobili,,,,,,,,,Richard Jefferson,2,,,made,,jump,9,10
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,6:31,ORL,shot,,,,,,,,,,Vince Carter,,,,missed,,3pt,38,29
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,6:30,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,6:18,SAS,turnover,,,,,,,,,,George Hill,,,bad pass,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,5:54,ORL,shot,,,,,,,,,,Vince Carter,,,,missed,,running jump,28,11
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,5:52,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,5:46,SAS,shot,Manu Ginobili,,,,,,,,,Richard Jefferson,2,,,made,,reverse layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,5:30,SAS,foul,,,,,,,,Vince Carter,,Antonio McDyess,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,5:30,ORL,timeout,,,,,,,,,,,,,,,,regular,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,5:30,SAS,sub,,,,Matt Bonner,,Antonio McDyess,,,,,,,,,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,5:30,ORL,free throw,,,,,,,1,,2,Vince Carter,,,foul,made,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,5:30,ORL,free throw,,,,,,,2,,2,Vince Carter,,,foul,made,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,5:15,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,jump,43,20
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,5:01,SAS,violation,,,,,,,,,,George Hill,,,,,,kicked ball,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,5:01,SAS,sub,,,,Keith Bogans,,Manu Ginobili,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,4:50,ORL,foul,,,,,,,,Matt Bonner,,Dwight Howard,,,,,,offensive,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Dwight Howard,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,4:50,ORL,turnover,,,,,,,,,,Dwight Howard,,,foul,,,,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,4:50,ORL,sub,,,,Marcin Gortat,,Dwight Howard,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,4:32,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,hook,24,13
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,4:31,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,4:23,ORL,shot,,,,,,,,,,Jason Williams,,,,missed,,3pt,13,28
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,4:22,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,4:10,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,21,32
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,4:09,ORL,rebound,,,,,,,,,,Marcin Gortat,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,3:56,ORL,shot,,,,,,,,,,Rashard Lewis,,,,missed,,3pt,33,31
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,3:54,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,3:38,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,22,26
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,3:37,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,3:27,ORL,shot,Jason Williams,,,,,,,,,Rashard Lewis,3,,,made,,3pt,48,10
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,3:13,SAS,turnover,,,,,,,,,,Keith Bogans,,,bad pass,,Marcin Gortat,,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,3:06,ORL,turnover,,,,,,,,,,Matt Barnes,,,bad pass,,Keith Bogans,,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,2:51,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,18,15
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,2:50,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,2:44,ORL,shot,Matt Barnes,,,,,,,,,Vince Carter,2,,,made,,layup,25,6
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,2:34,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,2:34,SAS,sub,,,,DeJuan Blair,,Tim Duncan,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,2:28,SAS,shot,George Hill,,,,,,,,,Richard Jefferson,2,,,made,,jump,39,18
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,2:10,ORL,shot,,,,,,,,,,Rashard Lewis,2,,,made,,jump,20,12
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,1:48,ORL,foul,,,,,,,,DeJuan Blair,,Marcin Gortat,,,,,,shooting,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,1:48,SAS,free throw,,,,,,,1,,2,DeJuan Blair,,,foul,made,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,1:48,SAS,free throw,,,,,,,2,,2,DeJuan Blair,,,foul,missed,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,1:47,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,1:41,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,driving reverse layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,1:27,SAS,foul,,,,,,,,Vince Carter,,George Hill,,,,,,personal,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,1:27,SAS,sub,,,,Manu Ginobili,,George Hill,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,1:17,ORL,shot,,,,,,,,,,Rashard Lewis,,,,missed,,3pt,48,11
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,1:15,ORL,rebound,,,,,,,,,,Marcin Gortat,,,,,,off,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,1:12,ORL,shot,Marcin Gortat,,,,,,,,,Vince Carter,3,,,made,,3pt,3,18
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:52,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,6,23
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:51,ORL,rebound,,,,,,,,,,Vince Carter,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:48,ORL,shot,,,,,,,,,,Matt Barnes,,,,missed,,layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:45,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:35,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,36,29
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:33,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:30,ORL,foul,,,,,,,,Keith Bogans,,Marcin Gortat,,,,,,shooting,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:30,SAS,free throw,,,,,,,1,,2,Keith Bogans,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:30,SAS,sub,,,,Roger Mason,,Richard Jefferson,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:30,SAS,free throw,,,,,,,2,,2,Keith Bogans,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:21,SAS,foul,,,,,,,,Vince Carter,,Keith Bogans,,,,,,personal,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,Vince Carter,1,0:21,ORL,free throw,,,,,,,1,,2,Vince Carter,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,0:21,ORL,sub,,,,Brandon Bass,,Marcin Gortat,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,0:21,ORL,free throw,,,,,,,2,,2,Vince Carter,,,foul,missed,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,0:20,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,0:00,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,42,24
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Matt Barnes,Rashard Lewis,Vince Carter,1,0:00,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,11:45,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,11:24,ORL,shot,,,,,,,,,,Brandon Bass,,,,missed,,turnaround fade away,33,13
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,11:21,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,11:13,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,37,29
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,11:12,ORL,rebound,,,,,,,,,,Marcin Gortat,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,10:59,ORL,shot,,,,,,,,,,Brandon Bass,,,,missed,,turnaround fade away,17,11
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,10:58,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,10:43,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,running jump,35,21
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,10:42,ORL,rebound,,,,,,,,,,Brandon Bass,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,10:34,ORL,shot,,,,,,,,,,Mickael Pietrus,,,,missed,,3pt,2,13
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,10:33,ORL,rebound,,,,,,,,,,Marcin Gortat,,,,,,off,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,10:22,ORL,shot,,,,,,,,,,Mickael Pietrus,,,,missed,,3pt,1,11
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,10:21,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,10:15,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,jump bank,32,13
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,9:59,ORL,shot,Vince Carter,,,,,,,,,Marcin Gortat,2,,,made,,dunk,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,9:43,SAS,sub,,,,George Hill,,Keith Bogans,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,9:36,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,reverse layup,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,9:35,ORL,rebound,,,,,,,,,,Marcin Gortat,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,9:26,ORL,shot,Vince Carter,,,,,,,,,Mickael Pietrus,3,,,made,,3pt,1,10
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,9:11,SAS,foul,,,,,,,,Vince Carter,,DeJuan Blair,,,,,,offensive,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,9:11,SAS,turnover,,,,,,,,,,DeJuan Blair,,,foul,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,8:55,ORL,shot,Vince Carter,,,,,,,,,Brandon Bass,2,,,made,,turnaround fade away,20,16
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,Jason Williams,Marcin Gortat,Mickael Pietrus,Vince Carter,2,8:45,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Mickael Pietrus,2,8:45,ORL,sub,,,,J.J. Redick,,Vince Carter,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Mickael Pietrus,2,8:45,SAS,sub,,,,Antonio McDyess,,Matt Bonner,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Mickael Pietrus,2,8:34,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,14,30
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Mickael Pietrus,2,8:34,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Mickael Pietrus,2,8:26,SAS,shot,,,Marcin Gortat,,,,,,,Manu Ginobili,,,,missed,,jump,30,15
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Mickael Pietrus,2,8:24,ORL,rebound,,,,,,,,,,Marcin Gortat,,,,,,def,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Mickael Pietrus,2,8:13,ORL,shot,Jason Williams,,,,,,,,,Brandon Bass,2,,,made,,jump,11,15
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Mickael Pietrus,2,8:07,ORL,foul,,,,,,,,George Hill,,J.J. Redick,,,,,,personal,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Mickael Pietrus,2,8:07,ORL,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,DeJuan Blair,George Hill,Manu Ginobili,Roger Mason,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,8:07,ORL,sub,,,,Matt Barnes,,Mickael Pietrus,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,8:07,SAS,sub,,,,Tim Duncan,,DeJuan Blair,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,7:52,SAS,turnover,,,,,,,,,,Antonio McDyess,,,bad pass,,Matt Barnes,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,7:35,ORL,shot,Jason Williams,,,,,,,,,J.J. Redick,2,,,made,,jump,23,16
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,7:19,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,15,21
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,7:18,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,7:11,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,42,11
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,7:10,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,7:03,SAS,shot,,,,,,,,,,George Hill,,,,missed,,running jump,34,16
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,7:02,ORL,rebound,,,,,,,,,,Marcin Gortat,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,6:50,ORL,shot,,,,,,,,,,J.J. Redick,,,,missed,,jump,39,18
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,6:49,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,6:39,SAS,foul,,,,,,,,Marcin Gortat,,Antonio McDyess,,,,,,offensive,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,2,6:39,SAS,turnover,,,,,,,,,,Antonio McDyess,,,foul,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,Dwight Howard,J.J. Redick,Marcin Gortat,Matt Barnes,2,6:39,ORL,sub,,,,Dwight Howard,,Jason Williams,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Roger Mason,Tim Duncan,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,2,6:39,ORL,sub,,,,Jameer Nelson,,Marcin Gortat,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,2,6:39,SAS,sub,,,,Richard Jefferson,,Roger Mason,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,2,6:27,SAS,violation,,,,,,,,,,Tim Duncan,,,,,,kicked ball,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,2,6:12,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,jump,41,12
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,2,6:10,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,2,6:10,SAS,foul,,,,,,,,Dwight Howard,,George Hill,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,2,6:10,ORL,free throw,,,,,,,1,,2,Dwight Howard,,,foul,made,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Brandon Bass,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,2,6:10,SAS,sub,,,,Malik Hairston,,Manu Ginobili,,,,,,,,,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,6:10,ORL,sub,,,,Rashard Lewis,,Brandon Bass,,,,,,,,,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,6:10,ORL,free throw,,,,,,,2,,2,Dwight Howard,,,foul,missed,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,6:09,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:49,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,hook,17,11
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:48,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:40,SAS,foul,,,,,,,,Dwight Howard,,Tim Duncan,,,,,,shooting,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:40,ORL,free throw,,,,,,,1,,2,Dwight Howard,,,foul,missed,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:40,ORL,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:40,ORL,free throw,,,,,,,2,,2,Dwight Howard,,,foul,missed,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:40,ORL,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:25,ORL,shot,,,Richard Jefferson,,,,,,,Jameer Nelson,,,,missed,,running jump,29,13
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:23,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:14,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,31,23
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:13,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:01,ORL,shot,,,Malik Hairston,,,,,,,J.J. Redick,,,,missed,,jump,11,11
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,5:01,ORL,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,4:54,SAS,foul,,,,,,,,J.J. Redick,,Malik Hairston,,,,,,shooting,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,4:54,ORL,free throw,,,,,,,1,,2,J.J. Redick,,,foul,made,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,4:54,ORL,free throw,,,,,,,2,,2,J.J. Redick,,,foul,made,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,4:38,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump bank,38,15
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,4:36,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,4:35,SAS,shot,,,,,,,,,,Antonio McDyess,2,,,made,,dunk,25,6
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,4:25,ORL,shot,Jameer Nelson,,,,,,,,,Rashard Lewis,3,,,made,,3pt,32,30
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,4:10,SAS,turnover,,,,,,,,,,Tim Duncan,,,3 second violation,,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,3:56,ORL,shot,Dwight Howard,,,,,,,,,Matt Barnes,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,3:35,SAS,shot,,,,,,,,,,Malik Hairston,,,,missed,,running jump,33,12
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,3:34,ORL,rebound,,,,,,,,,,Jameer Nelson,,,,,,def,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,3:21,ORL,shot,,,,,,,,,,Dwight Howard,,,,missed,,reverse layup,25,6
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,3:20,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,3:07,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,driving layup,25,6
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,2:52,ORL,shot,,,Antonio McDyess,,,,,,,Jameer Nelson,,,,missed,,driving layup,25,6
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,2:52,ORL,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,2:52,ORL,timeout,,,,,,,,,,,,,,,,official,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,2:52,SAS,sub,,,,Manu Ginobili,,Malik Hairston,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,2:38,ORL,shot,,,,,,,,,,J.J. Redick,,,,missed,,3pt,30,31
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,2:37,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,2:22,SAS,shot,Richard Jefferson,,,,,,,,,Manu Ginobili,3,,,made,,3pt,38,28
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,1:55,ORL,shot,Matt Barnes,,,,,,,,,J.J. Redick,2,,,made,,running bank,38,15
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,1:38,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,jump,12,17
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,1:26,SAS,foul,,,,,,,,Dwight Howard,,Tim Duncan,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Rashard Lewis,2,1:26,SAS,sub,,,,Matt Bonner,,Tim Duncan,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,J.J. Redick,Jameer Nelson,Jason Williams,Matt Barnes,Rashard Lewis,2,1:26,ORL,sub,,,,Jason Williams,,Dwight Howard,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,2,1:26,ORL,sub,,,,Marcin Gortat,,Jameer Nelson,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,2,1:18,ORL,shot,,,,,,,,,,Marcin Gortat,,,,missed,,turnaround jump,36,9
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,2,1:15,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,2,1:13,ORL,foul,,,,,,,,Manu Ginobili,,Marcin Gortat,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,2,1:13,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,missed,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,2,1:13,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Brandon Bass,J.J. Redick,Jason Williams,Matt Barnes,Rashard Lewis,2,1:13,ORL,sub,,,,Brandon Bass,,Marcin Gortat,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Brandon Bass,J.J. Redick,Jason Williams,Matt Barnes,Rashard Lewis,2,1:13,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Brandon Bass,J.J. Redick,Jason Williams,Matt Barnes,Rashard Lewis,2,1:05,ORL,turnover,,,,,,,,,,J.J. Redick,,,out of bounds lost ball turnover,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Brandon Bass,J.J. Redick,Jason Williams,Matt Barnes,Rashard Lewis,2,0:46,SAS,shot,Manu Ginobili,,,,,,,,,Matt Bonner,3,,,made,,3pt,19,31
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Brandon Bass,J.J. Redick,Jason Williams,Matt Barnes,Rashard Lewis,2,0:29,ORL,shot,,,,,,,,,,Rashard Lewis,2,,,made,,jump,31,13
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Brandon Bass,J.J. Redick,Jason Williams,Matt Barnes,Rashard Lewis,2,0:04,SAS,shot,Richard Jefferson,,,,,,,,,Matt Bonner,3,,,made,,3pt,26,32
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Brandon Bass,J.J. Redick,Jason Williams,Matt Barnes,Rashard Lewis,2,0:00,ORL,shot,,,,,,,,,,Jason Williams,,,,missed,,running jump,38,14
+Antonio McDyess,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Brandon Bass,J.J. Redick,Jason Williams,Matt Barnes,Rashard Lewis,2,0:00,ORL,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,11:46,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,12,18
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,11:45,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,11:27,ORL,shot,Matt Barnes,,,,,,,,,Jameer Nelson,3,,,made,,3pt,13,29
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,11:02,ORL,foul,,,,,,,,Tim Duncan,,Dwight Howard,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,11:02,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,11:02,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,10:45,SAS,foul,,,,,,,,Vince Carter,,Antonio McDyess,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,10:36,ORL,turnover,,,,,,,,,,Vince Carter,,,traveling,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,10:22,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump bank,37,14
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,10:21,ORL,rebound,,,,,,,,,,Vince Carter,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,10:17,SAS,violation,,,,,,,,,,George Hill,,,,,,kicked ball,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,10:11,ORL,shot,,,,,,,,,,Vince Carter,,,,missed,,fade away jumper,12,9
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,10:10,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,10:00,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,15,24
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,9:59,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,9:58,SAS,turnover,,,,,,,,,,Antonio McDyess,,,out of bounds lost ball turnover,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,9:43,SAS,foul,,,,,,,,Rashard Lewis,,Antonio McDyess,,,,,,inbound,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,9:43,ORL,free throw,,,,,,,1,,2,Rashard Lewis,,,foul,made,,,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,9:43,SAS,sub,,,,Malik Hairston,,Antonio McDyess,,,,,,,,,,,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,9:43,ORL,free throw,,,,,,,2,,2,Rashard Lewis,,,foul,made,,,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,9:20,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,9,27
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,9:19,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,9:14,ORL,turnover,,,,,,,,,,Dwight Howard,,,bad pass,,Richard Jefferson,,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,9:07,SAS,shot,Richard Jefferson,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,6
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,8:50,ORL,shot,,,,,,,,,,Matt Barnes,,,,missed,,running jump,17,10
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,8:49,ORL,rebound,,,,,,,,,,,,,,,,,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,8:46,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,jump,41,11
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,8:45,SAS,rebound,,,,,,,,,,Malik Hairston,,,,,,def,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,8:35,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,3pt,19,32
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,8:34,ORL,rebound,,,,,,,,,,,,,,,,,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,8:19,ORL,shot,,,,,,,,,,Vince Carter,2,,,made,,driving layup,25,6
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,8:00,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,fade away jumper,25,23
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,7:37,ORL,shot,,,,,,,,,,Vince Carter,2,,,made,,driving layup,25,6
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,7:07,SAS,shot,,,Dwight Howard,,,,,,,Tim Duncan,,,,missed,,layup,25,6
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,7:05,ORL,rebound,,,,,,,,,,Rashard Lewis,,,,,,def,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,6:54,ORL,shot,,,,,,,,,,Jameer Nelson,2,,,made,,jump,16,22
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,6:53,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,6:42,SAS,shot,George Hill,,,,,,,,,Malik Hairston,2,,,made,,driving layup,25,6
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,6:18,ORL,shot,Dwight Howard,,,,,,,,,Matt Barnes,2,,,made,,driving reverse layup,25,6
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,6:01,ORL,foul,,,,,,,,Malik Hairston,,Vince Carter,,,,,,personal,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,5:55,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,,,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,5:33,ORL,shot,,,,,,,,,,Rashard Lewis,,,,missed,,turnaround jump,36,9
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,5:31,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,5:19,SAS,shot,,,,,,,,,,George Hill,2,,,made,,floating jump,15,11
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,5:11,ORL,shot,,,,,,,,,,Jameer Nelson,2,,,made,,driving layup,25,6
+George Hill,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,5:11,SAS,foul,,,,,,,,Jameer Nelson,,George Hill,,,,,,shooting,,
+George Hill,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,5:11,SAS,sub,,,,Keith Bogans,,Manu Ginobili,,,,,,,,,,,,
+George Hill,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,5:11,ORL,free throw,,,,,,,1,,1,Jameer Nelson,,,foul,made,,,,
+George Hill,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,4:58,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,layup,25,6
+George Hill,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,4:55,ORL,rebound,,,,,,,,,,Matt Barnes,,,,,,def,,
+George Hill,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,4:47,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,3pt,44,24
+George Hill,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,4:45,SAS,rebound,,,,,,,,,,,,,,,,,,
+George Hill,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,4:23,SAS,shot,,,,,,,,,,Malik Hairston,,,,missed,,3pt,48,11
+George Hill,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,4:22,ORL,rebound,,,,,,,,,,Vince Carter,,,,,,def,,
+George Hill,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,4:10,SAS,foul,,,,,,,,Vince Carter,,George Hill,,,,,,shooting,,
+George Hill,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,4:10,ORL,free throw,,,,,,,1,,2,Vince Carter,,,foul,made,,,,
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,4:10,SAS,sub,,,,Garrett Temple,,George Hill,,,,,,,,,,,,
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,4:10,ORL,free throw,,,,,,,2,,2,Vince Carter,,,foul,made,,,,
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,4:03,ORL,foul,,,,,,,,Richard Jefferson,,Matt Barnes,,,,,,personal,,
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:54,SAS,shot,,,Rashard Lewis,,,,,,,Keith Bogans,,,,missed,,layup,25,6
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:51,ORL,rebound,,,,,,,,,,Jameer Nelson,,,,,,def,,
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:49,SAS,foul,,,,,,,,Vince Carter,,Richard Jefferson,,,,,,shooting,,
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:49,ORL,free throw,,,,,,,1,,2,Vince Carter,,,foul,made,,,,
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:49,ORL,free throw,,,,,,,2,,2,Vince Carter,,,foul,made,,,,
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:40,SAS,shot,,,,,,,,,,Garrett Temple,,,,missed,,jump,15,21
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:39,ORL,rebound,,,,,,,,,,Jameer Nelson,,,,,,def,,
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:31,SAS,foul,,,,,,,,Jameer Nelson,,Garrett Temple,,,,,,shooting,,
+Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Tim Duncan,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:31,ORL,free throw,,,,,,,1,,2,Jameer Nelson,,,foul,made,,,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:31,SAS,sub,,,,Antonio McDyess,,Tim Duncan,,,,,,,,,,,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:31,ORL,free throw,,,,,,,2,,2,Jameer Nelson,,,foul,made,,,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:18,ORL,foul,,,,,,,,Richard Jefferson,,Matt Barnes,,,,,,shooting,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:18,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,made,,,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:18,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,3:01,ORL,shot,Vince Carter,,,,,,,,,Dwight Howard,2,,,made,,alley oop dunk,25,6
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,2:37,SAS,shot,,,,,,,,,,Garrett Temple,2,,,made,,jump,17,26
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,2:18,ORL,shot,,,,,,,,,,Jameer Nelson,,,,missed,,3pt,1,11
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,2:17,ORL,rebound,,,,,,,,,,Vince Carter,,,,,,off,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,1:55,ORL,shot,,,,,,,,,,Matt Barnes,,,,missed,,3pt,2,10
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,1:53,SAS,rebound,,,,,,,,,,Keith Bogans,,,,,,def,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,Jameer Nelson,Matt Barnes,Rashard Lewis,Vince Carter,3,1:40,ORL,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jameer Nelson,Matt Barnes,Vince Carter,3,1:40,ORL,sub,,,,J.J. Redick,,Rashard Lewis,,,,,,,,,,,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,1:40,ORL,sub,,,,Jason Williams,,Jameer Nelson,,,,,,,,,,,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,1:33,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,jump,38,20
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,1:31,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,1:16,SAS,foul,,,,,,,,Dwight Howard,,Malik Hairston,,,,,,shooting,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,1:16,ORL,free throw,,,,,,,1,,2,Dwight Howard,,,foul,made,,,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,1:16,ORL,free throw,,,,,,,2,,2,Dwight Howard,,,foul,made,,,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,1:03,SAS,shot,,,,,,,,,,Malik Hairston,,,,missed,,driving layup,25,6
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,1:02,ORL,rebound,,,,,,,,,,Dwight Howard,,,,,,def,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,0:48,ORL,turnover,,,,,,,,,,Dwight Howard,,,bad pass,,Malik Hairston,,,
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,0:35,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,fade away jumper,17,21
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,0:20,ORL,shot,Vince Carter,,,,,,,,,Dwight Howard,2,,,made,,alley oop dunk,25,6
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,0:08,SAS,shot,,,,,,,,,,Malik Hairston,,,,missed,,jump,42,20
+Antonio McDyess,Garrett Temple,Keith Bogans,Malik Hairston,Richard Jefferson,Dwight Howard,J.J. Redick,Jason Williams,Matt Barnes,Vince Carter,3,0:07,ORL,rebound,,,,,,,,,,J.J. Redick,,,,,,def,,
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,11:44,ORL,shot,Vince Carter,,,,,,,,,Marcin Gortat,2,,,made,,hook,33,9
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,11:26,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,hook,26,14
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,11:25,ORL,rebound,,,,,,,,,,Rashard Lewis,,,,,,def,,
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,11:09,ORL,shot,,,,,,,,,,J.J. Redick,,,,missed,,3pt,2,15
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,11:07,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,10:58,ORL,foul,,,,,,,,Ian Mahinmi,,J.J. Redick,,,,,,shooting,,
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,10:58,SAS,free throw,,,,,,,1,,2,Ian Mahinmi,,,foul,made,,,,
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,10:58,SAS,free throw,,,,,,,2,,2,Ian Mahinmi,,,foul,made,,,,
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,10:44,ORL,shot,Jason Williams,,,,,,,,,Rashard Lewis,3,,,made,,3pt,20,31
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,10:24,SAS,shot,Malik Hairston,,,,,,,,,Richard Jefferson,2,,,made,,driving dunk,25,6
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,10:10,ORL,shot,,,,,,,,,,Jason Williams,,,,missed,,alley oop layup,25,6
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,10:08,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,9:55,SAS,shot,George Hill,,,,,,,,,Ian Mahinmi,2,,,made,,layup,25,6
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,9:35,ORL,shot,,,,,,,,,,Vince Carter,,,,missed,,layup,25,6
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,9:34,SAS,rebound,,,,,,,,,,Malik Hairston,,,,,,def,,
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,9:23,SAS,shot,,,,,,,,,,Malik Hairston,,,,missed,,jump,9,15
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,9:22,ORL,rebound,,,,,,,,,,Rashard Lewis,,,,,,def,,
+George Hill,Ian Mahinmi,Malik Hairston,Matt Bonner,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,9:18,SAS,foul,,,,,,,,Marcin Gortat,,Richard Jefferson,,,,,,shooting,,
+George Hill,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,9:18,SAS,sub,,,,Keith Bogans,,Matt Bonner,,,,,,,,,,,,
+George Hill,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,9:18,ORL,free throw,,,,,,,1,,2,Marcin Gortat,,,foul,made,,,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Rashard Lewis,Vince Carter,4,9:18,SAS,sub,,,,Garrett Temple,,George Hill,,,,,,,,,,,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,4,9:18,ORL,sub,,,,Matt Barnes,,Vince Carter,,,,,,,,,,,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,4,9:18,ORL,free throw,,,,,,,2,,2,Marcin Gortat,,,foul,missed,,,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,4,9:17,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,def,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,4,9:01,SAS,shot,,,,,,,,,,Garrett Temple,,,,missed,,jump,9,18
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,4,9:00,ORL,rebound,,,,,,,,,,Marcin Gortat,,,,,,def,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,4,8:47,ORL,shot,Matt Barnes,,,,,,,,,Rashard Lewis,3,,,made,,3pt,48,12
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,4,8:27,SAS,shot,,,,,,,,,,Ian Mahinmi,2,,,made,,hook,19,12
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,4,8:12,SAS,foul,,,,,,,,Marcin Gortat,,Malik Hairston,,,,,,personal,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,Rashard Lewis,4,8:12,ORL,timeout,,,,,,,,,,,,,,,,official,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Richard Jefferson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,4,8:12,ORL,sub,,,,Brandon Bass,,Rashard Lewis,,,,,,,,,,,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,Matt Barnes,4,8:12,SAS,sub,,,,Roger Mason,,Richard Jefferson,,,,,,,,,,,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,8:12,ORL,sub,,,,Anthony Johnson,,Matt Barnes,,,,,,,,,,,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,7:58,ORL,shot,,,,,,,,,,Anthony Johnson,2,,,made,,fade away jumper,9,9
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,7:58,SAS,foul,,,,,,,,Anthony Johnson,,Keith Bogans,,,,,,shooting,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,7:58,ORL,free throw,,,,,,,1,,1,Anthony Johnson,,,foul,made,,,,
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,7:38,SAS,shot,,,,,,,,,,Ian Mahinmi,2,,,made,,hook bank,32,11
+Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,7:14,ORL,turnover,,,,,,,,,,Brandon Bass,,,out of bounds lost ball turnover,,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,7:14,SAS,sub,,,,DeJuan Blair,,Keith Bogans,,,,,,,,,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,6:55,SAS,shot,,,,,,,,,,Ian Mahinmi,,,,missed,,layup,25,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,6:54,ORL,rebound,,,,,,,,,,Jason Williams,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,6:48,ORL,shot,,,,,,,,,,Jason Williams,3,,,made,,3pt,31,31
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,6:24,SAS,shot,,,,,,,,,,DeJuan Blair,2,,,made,,layup,25,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,6:07,SAS,foul,,,,,,,,J.J. Redick,,DeJuan Blair,,,,,,shooting,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Jason Williams,Marcin Gortat,4,6:07,ORL,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,6:07,ORL,sub,,,,Ryan Anderson,,Jason Williams,,,,,,,,,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,6:07,ORL,free throw,,,,,,,1,,2,J.J. Redick,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,6:07,ORL,free throw,,,,,,,2,,2,J.J. Redick,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,5:55,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,jump,17,25
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,5:54,ORL,rebound,,,,,,,,,,Brandon Bass,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,5:49,ORL,shot,,,Ian Mahinmi,,,,,,,Marcin Gortat,,,,missed,,layup,25,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,5:47,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,5:35,SAS,shot,,,,,,,,,,Ian Mahinmi,,,,missed,,jump,12,19
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,5:33,ORL,rebound,,,,,,,,,,Brandon Bass,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,5:20,ORL,shot,,,,,,,,,,Ryan Anderson,,,,missed,,jump,32,9
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,5:20,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,5:00,SAS,shot,,,,,,,,,,Ian Mahinmi,,,,missed,,hook,23,14
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,4:59,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,4:55,SAS,shot,DeJuan Blair,,,,,,,,,Roger Mason,3,,,made,,3pt,36,30
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,4:41,ORL,shot,,,,,,,,,,J.J. Redick,,,,missed,,3pt,46,18
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,4:40,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,4:28,SAS,shot,,,,,,,,,,Malik Hairston,2,,,made,,driving layup,25,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,4:08,ORL,shot,J.J. Redick,,,,,,,,,Marcin Gortat,2,,,made,,hook,28,13
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,3:53,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,jump,39,16
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,3:52,ORL,rebound,,,,,,,,,,J.J. Redick,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,3:48,SAS,foul,,,,,,,,J.J. Redick,,Roger Mason,,,,,,personal,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,3:48,ORL,free throw,,,,,,,1,,2,J.J. Redick,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,3:48,ORL,free throw,,,,,,,2,,2,J.J. Redick,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,3:34,SAS,shot,Malik Hairston,,,,,,,,,DeJuan Blair,2,,,made,,jump,27,11
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,3:12,ORL,shot,,,,,,,,,,Anthony Johnson,2,,,made,,jump,20,24
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,3:12,SAS,foul,,,,,,,,Anthony Johnson,,Garrett Temple,,,,,,shooting,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,3:12,ORL,free throw,,,,,,,1,,1,Anthony Johnson,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,3:02,ORL,foul,,,,,,,,DeJuan Blair,,Ryan Anderson,,,,,,personal,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,2:54,SAS,shot,Roger Mason,,,,,,,,,DeJuan Blair,2,,,made,,jump bank,19,10
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,2:36,ORL,shot,,,,,,,,,,Ryan Anderson,,,,missed,,3pt,22,32
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,2:35,ORL,rebound,,,,,,,,,,Marcin Gortat,,,,,,off,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,2:33,ORL,turnover,,,,,,,,,,Marcin Gortat,,,lost ball,,Roger Mason,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,2:25,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,layup,25,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,2:22,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,off,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,2:22,SAS,shot,,,,,,,,,,Ian Mahinmi,2,,,made,,layup,25,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,2:06,SAS,foul,,,,,,,,Brandon Bass,,Garrett Temple,,,,,,personal,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,2:06,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,2:06,ORL,free throw,,,,,,,1,,2,Brandon Bass,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,2:06,ORL,free throw,,,,,,,2,,2,Brandon Bass,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,1:54,SAS,shot,,,,,,,,,,Garrett Temple,,,,missed,,jump,10,18
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,1:52,ORL,rebound,,,,,,,,,,Marcin Gortat,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,1:28,ORL,shot,,,,,,,,,,Brandon Bass,2,,,made,,hook,25,13
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,1:10,SAS,turnover,,,,,,,,,,DeJuan Blair,,,traveling,,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,0:53,ORL,shot,,,,,,,,,,Ryan Anderson,2,,,made,,jump,12,11
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,0:36,SAS,turnover,,,,,,,,,,DeJuan Blair,,,bad pass,,Anthony Johnson,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,0:32,ORL,shot,,,,,,,,,,Anthony Johnson,,,,missed,,driving layup,25,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,0:30,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Anthony Johnson,Brandon Bass,J.J. Redick,Marcin Gortat,Ryan Anderson,4,0:18,SAS,shot,DeJuan Blair,,,,,,,,,Malik Hairston,3,,,made,,3pt,1,10

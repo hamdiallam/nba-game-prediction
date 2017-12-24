@@ -1,0 +1,442 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,12:00,OFF,jump ball,,Andris Biedrins,,,Luis Scola,,,,,,,Aaron Brooks,,,,,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:45,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,layup,25,6
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:43,GSW,rebound,,,,,,,,,,Vladimir Radmanovic,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:39,GSW,shot,,,,,,,,,,Vladimir Radmanovic,,,,missed,,layup,25,6
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:36,GSW,rebound,,,,,,,,,,Andris Biedrins,,,,,,off,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:36,GSW,shot,,,,,,,,,,Andris Biedrins,,,,missed,,tip,25,6
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:35,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:33,GSW,foul,,,,,,,,Trevor Ariza,,Anthony Tolliver,,,,,,shooting,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:33,HOU,free throw,,,,,,,1,,2,Trevor Ariza,,,foul,made,,,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:33,HOU,free throw,,,,,,,2,,2,Trevor Ariza,,,foul,made,,,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:20,GSW,shot,Stephen Curry,,,,,,,,,Anthony Tolliver,2,,,made,,jump,15,24
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:00,HOU,turnover,,,,,,,,,,Chuck Hayes,,,3 second violation,,,,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:50,GSW,shot,,,,,,,,,,Stephen Curry,,,,missed,,layup,25,6
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:49,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:44,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,running jump,29,16
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:30,GSW,shot,,,,,,,,,,Monta Ellis,,,,missed,,pullup jump,43,15
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:29,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:19,HOU,shot,,,,,,,,,,Luis Scola,2,,,made,,layup,25,6
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:05,GSW,shot,,,,,,,,,,Anthony Tolliver,,,,missed,,jump,22,25
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:04,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:56,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,reverse layup,25,6
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:55,GSW,rebound,,,,,,,,,,Andris Biedrins,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:47,GSW,turnover,,,,,,,,,,Monta Ellis,,,traveling,,,,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:44,HOU,shot,Aaron Brooks,,,,,,,,,Trevor Ariza,2,,,made,,driving layup,25,6
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:44,GSW,foul,,,,,,,,Trevor Ariza,,Andris Biedrins,,,,,,shooting,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:44,HOU,free throw,,,,,,,1,,1,Trevor Ariza,,,foul,made,,,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:24,GSW,shot,,,,,,,,,,Anthony Tolliver,,,,missed,,jump,6,10
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:23,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:08,HOU,shot,,,,,,,,,,Aaron Brooks,3,,,made,,3pt,48,6
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:03,GSW,timeout,,,,,,,,,,,,,,,,regular,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:51,GSW,shot,,,,,,,,,,Andris Biedrins,2,,,made,,jump hook,24,14
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:35,GSW,foul,,,,,,,,Trevor Ariza,,Anthony Tolliver,,,,,,personal,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:27,HOU,shot,Aaron Brooks,,,,,,,,,Luis Scola,2,,,made,,layup,25,6
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:19,GSW,shot,,,,,,,,,,Stephen Curry,2,,,made,,pullup jump,16,22
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:04,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,jump,11,14
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:03,GSW,rebound,,,,,,,,,,Anthony Tolliver,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:56,GSW,shot,,,,,,,,,,Stephen Curry,,,,missed,,layup,25,6
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:55,GSW,rebound,,,,,,,,,,Andris Biedrins,,,,,,off,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:52,HOU,foul,,,,,,,,Monta Ellis,,Shane Battier,,,,,,shooting,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:52,GSW,free throw,,,,,,,1,,2,Monta Ellis,,,foul,missed,,,,
+Andris Biedrins,Anthony Tolliver,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:52,GSW,rebound,,,,,,,,,,,,,,,,,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:52,GSW,sub,,,,Coby Karl,,Anthony Tolliver,,,,,,,,,,,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:52,GSW,free throw,,,,,,,2,,2,Monta Ellis,,,foul,missed,,,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:51,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:36,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,layup,25,6
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:35,GSW,rebound,,,,,,,,,,Coby Karl,,,,,,def,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:28,GSW,shot,,,,,,,,,,Vladimir Radmanovic,,,,missed,,3pt,42,24
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:27,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:16,HOU,shot,,,,,,,,,,Trevor Ariza,2,,,made,,pullup jump,12,19
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:54,GSW,shot,,,,,,,,,,Coby Karl,,,,missed,,3pt,40,27
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:53,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:40,HOU,shot,Trevor Ariza,,,,,,,,,Chuck Hayes,2,,,made,,layup,25,6
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:22,GSW,shot,,,,,,,,,,Monta Ellis,,,,missed,,fade away jumper,26,15
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:21,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:11,GSW,violation,,,,,,,,,,Andris Biedrins,,,,,,kicked ball,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:02,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,turnaround jump,33,18
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:01,GSW,rebound,,,,,,,,,,Andris Biedrins,,,,,,def,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:50,GSW,shot,,,,,,,,,,Monta Ellis,2,,,made,,driving layup,25,6
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:42,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,driving layup,25,6
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:28,GSW,shot,,,,,,,,,,Vladimir Radmanovic,,,,missed,,jump,37,23
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:27,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:15,HOU,shot,Luis Scola,,,,,,,,,Shane Battier,2,,,made,,layup,25,6
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:01,GSW,shot,,,Luis Scola,,,,,,,Stephen Curry,,,,missed,,layup,25,6
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:59,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:57,HOU,shot,,,Monta Ellis,,,,,,,Luis Scola,,,,missed,,driving layup,25,6
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:56,HOU,rebound,,,,,,,,,,,,,,,,,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,4:56,HOU,sub,,,,Chase Budinger,,Shane Battier,,,,,,,,,,,,
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,4:47,HOU,shot,Aaron Brooks,,,,,,,,,Trevor Ariza,3,,,made,,3pt,10,27
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,4:36,GSW,shot,Andris Biedrins,,,,,,,,,Monta Ellis,2,,,made,,dunk,25,6
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,4:15,HOU,shot,,,,,,,,,,Trevor Ariza,2,,,made,,turnaround fade away,10,8
+Andris Biedrins,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,4:02,HOU,foul,,,,,,,,Monta Ellis,,Trevor Ariza,,,,,,personal,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,4:02,GSW,sub,,,,Ronny Turiaf,,Andris Biedrins,,,,,,,,,,,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,4:02,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,3:54,GSW,shot,,,,,,,,,,Stephen Curry,,,,missed,,3pt,13,28
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,3:53,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,def,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,3:44,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,3pt,19,30
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,3:43,GSW,rebound,,,,,,,,,,Vladimir Radmanovic,,,,,,def,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,3:33,GSW,shot,Ronny Turiaf,,,,,,,,,Vladimir Radmanovic,2,,,made,,layup,25,6
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,3:20,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,48,7
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,3:19,GSW,rebound,,,,,,,,,,Ronny Turiaf,,,,,,def,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,3:13,GSW,turnover,,,,,,,,,,Monta Ellis,,,lost ball,,Trevor Ariza,,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Chase Budinger,Chuck Hayes,Luis Scola,Trevor Ariza,1,3:13,GSW,foul,,,,,,,,Trevor Ariza,,Ronny Turiaf,,,,,,clear path,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,3:13,HOU,sub,,,,Carl Landry,,Chuck Hayes,,,,,,,,,,,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,3:13,HOU,free throw,,,,,,,1,,2,Trevor Ariza,,,foul,made,,,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,3:13,HOU,free throw,,,,,,,2,,2,Trevor Ariza,,,foul,made,,,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,3:01,HOU,shot,,,Ronny Turiaf,,,,,,,Aaron Brooks,,,,missed,,layup,25,6
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,3:00,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,off,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,2:47,GSW,foul,,,,,,,,Carl Landry,,Vladimir Radmanovic,,,,,,shooting,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,2:47,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,missed,,,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,2:47,HOU,rebound,,,,,,,,,,,,,,,,,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,2:47,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,made,,,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,2:38,GSW,turnover,,,,,,,,,,Coby Karl,,,bad pass,,,,,
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,2:23,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,jump,26,13
+Coby Karl,Monta Ellis,Ronny Turiaf,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,2:23,GSW,foul,,,,,,,,Carl Landry,,Vladimir Radmanovic,,,,,,shooting,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,2:23,GSW,sub,,,,Devean George,,Vladimir Radmanovic,,,,,,,,,,,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,2:23,HOU,free throw,,,,,,,1,,1,Carl Landry,,,foul,made,,,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,2:14,GSW,shot,,,,,,,,,,Coby Karl,2,,,made,,driving layup,25,6
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,2:00,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,26,32
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:59,GSW,rebound,,,,,,,,,,Ronny Turiaf,,,,,,def,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:53,GSW,shot,Coby Karl,,,,,,,,,Monta Ellis,2,,,made,,layup,25,6
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:53,HOU,foul,,,,,,,,Monta Ellis,,Luis Scola,,,,,,shooting,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:53,GSW,sub,,,,C.J. Watson,,Stephen Curry,,,,,,,,,,,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:53,GSW,free throw,,,,,,,1,,1,Monta Ellis,,,foul,made,,,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:37,GSW,foul,,,,,,,,Carl Landry,,Ronny Turiaf,,,,,,shooting,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:37,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,made,,,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:37,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,made,,,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:23,GSW,shot,Ronny Turiaf,,,,,,,,,Monta Ellis,2,,,made,,driving layup,25,6
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:11,GSW,foul,,,,,,,,Carl Landry,,Devean George,,,,,,personal,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:11,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,made,,,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,1:11,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,made,,,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:56,GSW,shot,Coby Karl,,,,,,,,,Ronny Turiaf,2,,,made,,reverse layup,25,6
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:46,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,layup,25,6
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:46,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,off,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:45,HOU,shot,,,,,,,,,,Luis Scola,2,,,made,,layup,25,6
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:32,GSW,shot,,,,,,,,,,C.J. Watson,,,,missed,,layup,25,6
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:31,GSW,rebound,,,,,,,,,,,,,,,,,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:31,HOU,foul,,,,,,,,Monta Ellis,,Luis Scola,,,,,,loose ball,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:31,GSW,free throw,,,,,,,1,,2,Monta Ellis,,,foul,made,,,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:31,GSW,free throw,,,,,,,2,,2,Monta Ellis,,,foul,made,,,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:11,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,layup,25,6
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:09,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,off,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:09,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,tip,25,6
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:09,GSW,rebound,,,,,,,,,,Devean George,,,,,,def,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:05,GSW,shot,,,Chase Budinger,,,,,,,Monta Ellis,,,,missed,,layup,25,6
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:04,GSW,rebound,,,,,,,,,,Ronny Turiaf,,,,,,off,,
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:04,GSW,shot,,,,,,,,,,Ronny Turiaf,2,,,made,,layup,25,6
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:00,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,25,47
+C.J. Watson,Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,1,0:00,HOU,rebound,,,,,,,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,11:47,GSW,shot,,,,,,,,,,Devean George,,,,missed,,jump,44,15
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,11:46,HOU,rebound,,,,,,,,,,David Andersen,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,11:30,HOU,turnover,,,,,,,,,,Trevor Ariza,,,bad pass,,Devean George,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,11:19,GSW,shot,Coby Karl,,,,,,,,,Andris Biedrins,2,,,made,,driving layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,11:04,GSW,foul,,,,,,,,Carl Landry,,Devean George,,,,,,shooting,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,11:04,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,made,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,11:04,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,made,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,10:49,GSW,shot,,,,,,,,,,Monta Ellis,,,,missed,,driving layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,10:48,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,10:38,HOU,foul,,,,,,,,Monta Ellis,,Carl Landry,,,,,,offensive,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,10:38,HOU,turnover,,,,,,,,,,Carl Landry,,,foul,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,10:23,GSW,turnover,,,,,,,,,,Coby Karl,,,bad pass,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,10:16,HOU,turnover,,,,,,,,,,Will Conroy,,,palming turnover,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,10:01,GSW,shot,,,,,,,,,,Monta Ellis,2,,,made,,driving layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,9:28,HOU,shot,,,,,,,,,,Carl Landry,,,,missed,,jump,9,9
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,9:27,HOU,rebound,,,,,,,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,9:24,HOU,shot,,,Monta Ellis,,,,,,,Trevor Ariza,,,,missed,,jump,43,13
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,9:22,GSW,rebound,,,,,,,,,,Monta Ellis,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,9:19,HOU,foul,,,,,,,,Monta Ellis,,David Andersen,,,,,,shooting,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,Will Conroy,2,9:19,GSW,free throw,,,,,,,1,,2,Monta Ellis,,,foul,made,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,9:19,HOU,sub,,,,Shane Battier,,Trevor Ariza,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,9:19,GSW,free throw,,,,,,,2,,2,Monta Ellis,,,foul,made,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,9:07,HOU,foul,,,,,,,,C.J. Watson,,Will Conroy,,,,,,offensive,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,9:07,HOU,turnover,,,,,,,,,,Will Conroy,,,foul,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,8:54,GSW,shot,Coby Karl,,,,,,,,,Monta Ellis,2,,,made,,jump,34,23
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,8:38,HOU,turnover,,,,,,,,,,Shane Battier,,,traveling,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,8:38,GSW,timeout,,,,,,,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,8:22,GSW,shot,,,,,,,,,,C.J. Watson,,,,missed,,3pt,48,14
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,8:21,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,8:15,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,3pt,15,29
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,8:14,GSW,rebound,,,,,,,,,,Devean George,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,8:01,GSW,shot,,,,,,,,,,Monta Ellis,,,,missed,,3pt,27,31
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,8:01,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,7:45,HOU,shot,,,,,,,,,,David Andersen,,,,missed,,3pt,13,27
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,7:44,GSW,rebound,,,,,,,,,,Coby Karl,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,7:40,GSW,shot,,,,,,,,,,Devean George,,,,missed,,layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,7:39,GSW,rebound,,,,,,,,,,Coby Karl,,,,,,off,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,7:32,GSW,shot,,,,,,,,,,Devean George,,,,missed,,3pt,47,10
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,7:31,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,7:10,HOU,shot,,,,,,,,,,David Andersen,2,,,made,,turnaround fade away,15,9
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,6:52,GSW,turnover,,,,,,,,,,C.J. Watson,,,bad pass,,Chase Budinger,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Carl Landry,Chase Budinger,David Andersen,Shane Battier,Will Conroy,2,6:50,HOU,turnover,,,,,,,,,,Chase Budinger,,,bad pass,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Shane Battier,2,6:50,HOU,sub,,,,Aaron Brooks,,Will Conroy,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Shane Battier,2,6:34,GSW,shot,,,,,,,,,,C.J. Watson,2,,,made,,turnaround jump,14,9
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Shane Battier,2,6:19,HOU,shot,,,,,,,,,,Shane Battier,,,,missed,,3pt,25,31
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Shane Battier,2,6:18,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,off,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,6:09,HOU,sub,,,,Trevor Ariza,,Chase Budinger,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,5:56,HOU,shot,,,,,,,,,,Carl Landry,,,,missed,,running jump,27,13
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,5:55,HOU,rebound,,,,,,,,,,David Andersen,,,,,,off,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,5:54,HOU,shot,,,,,,,,,,David Andersen,2,,,made,,putback layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,5:36,GSW,shot,,,,,,,,,,Monta Ellis,2,,,made,,pullup jump,42,18
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,5:20,HOU,shot,,,Andris Biedrins,,,,,,,Aaron Brooks,,,,missed,,driving layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,5:20,HOU,rebound,,,,,,,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,5:20,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,5:19,HOU,shot,Shane Battier,,,,,,,,,Aaron Brooks,2,,,made,,layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,5:01,GSW,shot,,,,,,,,,,Monta Ellis,2,,,made,,pullup jump,41,19
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,4:45,HOU,shot,Trevor Ariza,,,,,,,,,David Andersen,2,,,made,,pullup jump,38,11
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,4:31,GSW,shot,,,,,,,,,,Coby Karl,,,,missed,,jump,46,15
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,4:30,HOU,rebound,,,,,,,,,,David Andersen,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,4:21,HOU,shot,,,Devean George,,,,,,,Carl Landry,,,,missed,,dunk,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,4:21,HOU,rebound,,,,,,,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,4:14,HOU,turnover,,,,,,,,,,Aaron Brooks,,,bad pass,,Monta Ellis,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,4:09,GSW,shot,Monta Ellis,,,,,,,,,Coby Karl,2,,,made,,layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,3:47,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,pullup jump,12,13
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,3:46,GSW,rebound,,,,,,,,,,Andris Biedrins,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,3:38,GSW,shot,,,,,,,,,,Monta Ellis,3,,,made,,3pt,7,25
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,3:20,HOU,turnover,,,,,,,,,,Aaron Brooks,,,lost ball,,Monta Ellis,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,3:16,GSW,shot,Monta Ellis,,,,,,,,,Coby Karl,2,,,made,,layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,2:59,GSW,foul,,,,,,,,Shane Battier,,Monta Ellis,,,,,,personal,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Carl Landry,David Andersen,Shane Battier,Trevor Ariza,2,2:59,GSW,timeout,,,,,,,,,,,,,,,,regular,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,David Andersen,Luis Scola,Shane Battier,Trevor Ariza,2,2:59,HOU,sub,,,,Luis Scola,,Carl Landry,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:59,HOU,sub,,,,Chuck Hayes,,David Andersen,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:59,HOU,free throw,,,,,,,1,,2,Shane Battier,,,foul,made,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:59,HOU,free throw,,,,,,,2,,2,Shane Battier,,,foul,missed,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:58,GSW,rebound,,,,,,,,,,Andris Biedrins,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:36,GSW,shot,,,,,,,,,,Devean George,,,,missed,,3pt,3,18
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:33,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:27,HOU,shot,,,Devean George,,,,,,,Luis Scola,,,,missed,,layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:25,GSW,rebound,,,,,,,,,,Andris Biedrins,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:17,GSW,shot,C.J. Watson,,,,,,,,,Monta Ellis,3,,,made,,3pt,1,7
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:59,HOU,shot,Chuck Hayes,,,,,,,,,Luis Scola,2,,,made,,layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:45,GSW,shot,,,,,,,,,,Coby Karl,,,,missed,,jump,27,11
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:43,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:35,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,driving layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:12,GSW,shot,,,,,,,,,,Monta Ellis,,,,missed,,3pt,46,19
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:10,GSW,rebound,,,,,,,,,,C.J. Watson,,,,,,off,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:05,GSW,shot,,,,,,,,,,Devean George,,,,missed,,jump,14,27
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:04,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:57,GSW,foul,,,,,,,,Luis Scola,,Coby Karl,,,,,,shooting,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:57,HOU,free throw,,,,,,,1,,2,Luis Scola,,,foul,made,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:57,HOU,free throw,,,,,,,2,,2,Luis Scola,,,foul,made,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:39,GSW,shot,,,Shane Battier,,,,,,,Monta Ellis,,,,missed,,layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:38,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:34,GSW,foul,,,,,,,,Aaron Brooks,,Coby Karl,,,,,,shooting,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:34,HOU,free throw,,,,,,,1,,2,Aaron Brooks,,,foul,made,,,,
+Anthony Tolliver,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:34,GSW,sub,,,,Anthony Tolliver,,Andris Biedrins,,,,,,,,,,,,
+Anthony Tolliver,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:34,HOU,free throw,,,,,,,2,,2,Aaron Brooks,,,foul,missed,,,,
+Anthony Tolliver,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:33,GSW,rebound,,,,,,,,,,Monta Ellis,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:27,GSW,shot,,,,,,,,,,C.J. Watson,,,,missed,,pullup jump,7,14
+Anthony Tolliver,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:26,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:02,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,pullup jump,32,13
+Anthony Tolliver,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:01,GSW,shot,,,,,,,,,,Coby Karl,,,,missed,,3pt,26,72
+Anthony Tolliver,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:00,GSW,rebound,,,,,,,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:46,GSW,shot,,,,,,,,,,Coby Karl,,,,missed,,turnaround jump,30,26
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:45,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:34,HOU,shot,Chuck Hayes,,,,,,,,,Shane Battier,2,,,made,,slam dunk,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:14,HOU,foul,,,,,,,,Monta Ellis,,Trevor Ariza,,,,,,personal,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:05,GSW,shot,,,,,,,,,,Coby Karl,,,,missed,,3pt,38,28
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:04,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:50,HOU,turnover,,,,,,,,,,Shane Battier,,,bad pass,,C.J. Watson,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:45,GSW,shot,,,,,,,,,,C.J. Watson,2,,,made,,driving layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:38,HOU,shot,Shane Battier,,,,,,,,,Chuck Hayes,2,,,made,,layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:23,GSW,foul,,,,,,,,Chuck Hayes,,Coby Karl,,,,,,offensive,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:23,GSW,turnover,,,,,,,,,,Coby Karl,,,foul,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:06,HOU,shot,,,,,,,,,,Trevor Ariza,2,,,made,,layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:52,GSW,shot,,,Shane Battier,,,,,,,Coby Karl,,,,missed,,driving layup,25,6
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:51,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:46,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,40,26
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:46,GSW,rebound,,,,,,,,,,,,,,,,,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:22,GSW,shot,,,,,,,,,,Devean George,,,,missed,,3pt,42,24
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:21,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Andris Biedrins,C.J. Watson,Coby Karl,Devean George,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:18,HOU,turnover,,,,,,,,,,Luis Scola,,,out of bounds lost ball turnover,,,,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:18,GSW,sub,,,,Anthony Tolliver,,Devean George,,,,,,,,,,,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:05,GSW,shot,,,,,,,,,,Monta Ellis,,,,missed,,3pt,15,31
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:04,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:53,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,13,27
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:52,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,off,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:49,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,48,6
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:48,GSW,rebound,,,,,,,,,,Coby Karl,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:39,GSW,shot,,,,,,,,,,Anthony Tolliver,,,,missed,,jump,40,8
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:38,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:17,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,layup,25,6
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:16,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,off,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,8:09,HOU,shot,Luis Scola,,,,,,,,,Shane Battier,3,,,made,,3pt,27,31
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:58,HOU,foul,,,,,,,,C.J. Watson,,Aaron Brooks,,,,,,shooting,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:58,GSW,free throw,,,,,,,1,,2,C.J. Watson,,,foul,missed,,,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:58,GSW,rebound,,,,,,,,,,,,,,,,,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:58,GSW,free throw,,,,,,,2,,2,C.J. Watson,,,foul,made,,,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Coby Karl,Monta Ellis,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:45,HOU,turnover,,,,,,,,,,Luis Scola,,,out of bounds lost ball turnover,,,,,
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:45,GSW,sub,,,,Stephen Curry,,C.J. Watson,,,,,,,,,,,,
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:33,GSW,shot,Anthony Tolliver,,,,,,,,,Stephen Curry,2,,,made,,pullup jump,39,8
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:21,HOU,shot,Chuck Hayes,,,,,,,,,Aaron Brooks,2,,,made,,layup,25,6
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:03,GSW,shot,,,Luis Scola,,,,,,,Coby Karl,,,,missed,,reverse layup,25,6
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:02,GSW,rebound,,,,,,,,,,Coby Karl,,,,,,off,,
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:02,HOU,foul,,,,,,,,Coby Karl,,Chuck Hayes,,,,,,shooting,,
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:02,GSW,free throw,,,,,,,1,,2,Coby Karl,,,foul,missed,,,,
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:02,GSW,rebound,,,,,,,,,,,,,,,,,,
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,7:02,GSW,free throw,,,,,,,2,,2,Coby Karl,,,foul,made,,,,
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,6:42,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,running jump,12,14
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,6:41,GSW,rebound,,,,,,,,,,Andris Biedrins,,,,,,def,,
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,6:28,GSW,shot,,,,,,,,,,Monta Ellis,2,,,made,,pullup jump,7,15
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,6:12,HOU,shot,Shane Battier,,,,,,,,,Chuck Hayes,2,,,made,,reverse layup,25,6
+Andris Biedrins,Anthony Tolliver,Coby Karl,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,6:12,GSW,foul,,,,,,,,Chuck Hayes,,Andris Biedrins,,,,,,shooting,,
+Andris Biedrins,Anthony Tolliver,C.J. Watson,Monta Ellis,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,6:12,GSW,sub,,,,C.J. Watson,,Coby Karl,,,,,,,,,,,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,6:12,GSW,sub,,,,Ronny Turiaf,,Andris Biedrins,,,,,,,,,,,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,6:12,HOU,free throw,,,,,,,1,,1,Chuck Hayes,,,foul,made,,,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,6:00,GSW,shot,,,,,,,,,,Anthony Tolliver,,,,missed,,turnaround jump,35,22
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,5:59,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,5:51,GSW,foul,,,,,,,,Luis Scola,,Anthony Tolliver,,,,,,personal,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,5:51,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,5:45,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,11,28
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,5:44,GSW,rebound,,,,,,,,,,Ronny Turiaf,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,5:28,GSW,shot,,,,,,,,,,Stephen Curry,,,,missed,,jump,28,26
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,5:27,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,5:21,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,40,25
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,5:21,GSW,rebound,,,,,,,,,,Ronny Turiaf,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,5:10,GSW,shot,,,,,,,,,,Ronny Turiaf,,,,missed,,jump,25,25
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,5:09,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,4:54,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,jump,29,24
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,4:53,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,off,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,4:49,HOU,shot,,,Ronny Turiaf,,,,,,,Aaron Brooks,,,,missed,,layup,25,6
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,4:48,GSW,rebound,,,,,,,,,,C.J. Watson,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,4:48,HOU,foul,,,,,,,,C.J. Watson,,Chuck Hayes,,,,,,personal,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,4:36,GSW,shot,,,,,,,,,,Stephen Curry,,,,missed,,jump,9,21
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,4:35,GSW,rebound,,,,,,,,,,Ronny Turiaf,,,,,,off,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,4:28,GSW,shot,,,,,,,,,,Anthony Tolliver,,,,missed,,jump,6,11
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,4:27,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,4:11,HOU,turnover,,,,,,,,,,Luis Scola,,,traveling,,,,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,3:57,GSW,shot,Ronny Turiaf,,,,,,,,,Monta Ellis,2,,,made,,jump,26,24
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,3:43,GSW,foul,,,,,,,,Aaron Brooks,,Anthony Tolliver,,,,,,shooting,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,3:43,HOU,sub,,,,Carl Landry,,Luis Scola,,,,,,,,,,,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,3:43,HOU,free throw,,,,,,,1,,2,Aaron Brooks,,,foul,missed,,,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,3:43,HOU,rebound,,,,,,,,,,,,,,,,,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,3:43,HOU,free throw,,,,,,,2,,2,Aaron Brooks,,,foul,made,,,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,3:27,HOU,foul,,,,,,,,Monta Ellis,,Chuck Hayes,,,,,,shooting,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,3:27,GSW,free throw,,,,,,,1,,2,Monta Ellis,,,foul,made,,,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,3:27,GSW,free throw,,,,,,,2,,2,Monta Ellis,,,foul,missed,,,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,3:27,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,3:15,HOU,shot,Shane Battier,,,,,,,,,Trevor Ariza,2,,,made,,slam dunk,25,6
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,2:54,GSW,shot,,,,,,,,,,Monta Ellis,2,,,made,,fade away jumper,15,8
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,2:41,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,pullup jump,25,23
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,2:33,HOU,violation,,,,,,,,,,Shane Battier,,,,,,kicked ball,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,2:33,GSW,timeout,,,,,,,,,,,,,,,,regular,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,2:20,GSW,shot,,,,,,,,,,Anthony Tolliver,,,,missed,,jump,42,18
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,2:19,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:59,GSW,foul,,,,,,,,Carl Landry,,Anthony Tolliver,,,,,,shooting,,
+Anthony Tolliver,C.J. Watson,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:59,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,made,,,,
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:59,GSW,sub,,,,Devean George,,Anthony Tolliver,,,,,,,,,,,,
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:59,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,made,,,,
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:46,GSW,shot,,,,,,,,,,Ronny Turiaf,,,,missed,,turnaround jump,16,12
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:45,GSW,rebound,,,,,,,,,,Devean George,,,,,,off,,
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:43,GSW,shot,,,,,,,,,,Devean George,2,,,made,,putback layup,25,6
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:27,GSW,foul,,,,,,,,Shane Battier,,C.J. Watson,,,,,,personal,,
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:27,HOU,free throw,,,,,,,1,,2,Shane Battier,,,foul,missed,,,,
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:27,HOU,rebound,,,,,,,,,,,,,,,,,,
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:27,HOU,free throw,,,,,,,2,,2,Shane Battier,,,foul,made,,,,
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,1:09,GSW,shot,Ronny Turiaf,,,,,,,,,C.J. Watson,2,,,made,,jump,4,12
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,0:50,HOU,shot,,,,,,,,,,Chuck Hayes,,,,missed,,layup,25,6
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,0:48,GSW,rebound,,,,,,,,,,,,,,,,,,
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,0:35,GSW,shot,,,,,,,,,,Stephen Curry,2,,,made,,pullup jump,37,19
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,0:17,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,pullup jump,20,23
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,0:04,HOU,violation,,,,,,,,,,Trevor Ariza,,,,,,kicked ball,,
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,0:01,GSW,shot,,,,,,,,,,Monta Ellis,,,,missed,,3pt,31,33
+C.J. Watson,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,3,0:00,GSW,rebound,,,,,,,,,,,,,,,,,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,11:38,HOU,shot,Shane Battier,,,,,,,,,Carl Landry,2,,,made,,jump hook,26,15
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,11:18,GSW,shot,,,,,,,,,,Stephen Curry,,,,missed,,jump,40,22
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,11:18,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,11:02,GSW,foul,,,,,,,,Carl Landry,,Ronny Turiaf,,,,,,personal,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,10:49,HOU,shot,,,,,,,,,,Shane Battier,,,,missed,,3pt,21,30
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,10:48,GSW,rebound,,,,,,,,,,Ronny Turiaf,,,,,,def,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,10:39,HOU,foul,,,,,,,,Ronny Turiaf,,Chuck Hayes,,,,,,shooting,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,10:39,GSW,free throw,,,,,,,1,,2,Ronny Turiaf,,,foul,missed,,,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,10:39,GSW,rebound,,,,,,,,,,,,,,,,,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,10:39,GSW,free throw,,,,,,,2,,2,Ronny Turiaf,,,foul,made,,,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,10:22,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,jump,39,16
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,10:21,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,off,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,10:16,HOU,shot,Aaron Brooks,,,,,,,,,Shane Battier,3,,,made,,3pt,48,10
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,10:01,GSW,shot,Coby Karl,,,,,,,,,Devean George,2,,,made,,jump,44,7
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,9:31,HOU,shot,Carl Landry,,,,,,,,,Aaron Brooks,3,,,made,,3pt,47,20
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,9:20,GSW,shot,,,,,,,,,,Stephen Curry,,,,missed,,driving layup,25,6
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,9:19,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,9:18,GSW,foul,,,,,,,,Carl Landry,,Stephen Curry,,,,,,personal,,
+Coby Karl,Devean George,Monta Ellis,Ronny Turiaf,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,9:18,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Chris Hunter,Coby Karl,Devean George,Monta Ellis,Stephen Curry,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,9:18,GSW,sub,,,,Chris Hunter,,Ronny Turiaf,,,,,,,,,,,,
+Chris Hunter,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,9:18,GSW,sub,,,,Vladimir Radmanovic,,Devean George,,,,,,,,,,,,
+Chris Hunter,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,Chuck Hayes,Trevor Ariza,4,9:18,HOU,sub,,,,Chase Budinger,,Shane Battier,,,,,,,,,,,,
+Chris Hunter,Coby Karl,Monta Ellis,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,9:18,HOU,sub,,,,David Andersen,,Chuck Hayes,,,,,,,,,,,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,9:18,GSW,sub,,,,C.J. Watson,,Monta Ellis,,,,,,,,,,,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,9:01,HOU,shot,Chase Budinger,,,,,,,,,David Andersen,2,,,made,,turnaround fade away,11,6
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,8:37,GSW,shot,,,,,,,,,,Coby Karl,2,,,made,,driving layup,25,6
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,8:28,HOU,turnover,,,,,,,,,,Trevor Ariza,,,bad pass,,Coby Karl,,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,8:23,GSW,shot,Vladimir Radmanovic,,,,,,,,,C.J. Watson,2,,,made,,jump,11,21
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,8:02,HOU,shot,David Andersen,,,,,,,,,Chase Budinger,3,,,made,,3pt,35,30
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,7:47,GSW,shot,Stephen Curry,,,,,,,,,Chris Hunter,2,,,made,,jump,19,23
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,7:30,GSW,foul,,,,,,,,Carl Landry,,Chris Hunter,,,,,,shooting,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,7:30,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,made,,,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,7:30,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,made,,,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,7:22,GSW,shot,,,,,,,,,,C.J. Watson,,,,missed,,3pt,43,22
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,7:21,HOU,rebound,,,,,,,,,,David Andersen,,,,,,def,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,7:15,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,2,7
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,7:14,GSW,rebound,,,,,,,,,,Stephen Curry,,,,,,def,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,7:03,GSW,shot,Coby Karl,,,,,,,,,Vladimir Radmanovic,3,,,made,,3pt,31,30
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,6:44,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,driving dunk,25,6
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,6:27,GSW,shot,Stephen Curry,,,,,,,,,Chris Hunter,2,,,made,,driving layup,25,6
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,6:03,GSW,foul,,,,,,,,Trevor Ariza,,Chris Hunter,,,,,,personal,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,5:54,HOU,shot,,,,,,,,,,Chase Budinger,2,,,made,,running jump,27,14
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,5:41,GSW,shot,,,,,,,,,,Stephen Curry,,,,missed,,3pt,14,29
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,5:40,HOU,rebound,,,,,,,,,,David Andersen,,,,,,def,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,5:29,HOU,turnover,,,,,,,,,,David Andersen,,,bad pass,,,,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Trevor Ariza,4,5:29,GSW,timeout,,,,,,,,,,,,,,,,,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,5:29,HOU,sub,,,,Will Conroy,,Trevor Ariza,,,,,,,,,,,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,5:15,GSW,shot,,,,,,,,,,Chris Hunter,,,,missed,,layup,25,6
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,5:14,GSW,rebound,,,,,,,,,,Stephen Curry,,,,,,off,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,5:05,GSW,shot,,,,,,,,,,Chris Hunter,2,,,made,,hook,27,15
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,4:47,HOU,shot,Aaron Brooks,,,,,,,,,Carl Landry,2,,,made,,jump,6,19
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,4:31,GSW,shot,,,,,,,,,,Chris Hunter,,,,missed,,turnaround jump,38,12
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,4:30,GSW,rebound,,,,,,,,,,Vladimir Radmanovic,,,,,,off,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,4:24,GSW,shot,,,,,,,,,,Stephen Curry,2,,,made,,driving layup,25,6
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,4:09,HOU,shot,,,,,,,,,,David Andersen,,,,missed,,jump,12,9
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,4:08,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,off,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,4:08,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,tip,25,6
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,4:07,GSW,rebound,,,,,,,,,,Coby Karl,,,,,,def,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,3:59,GSW,shot,,,,,,,,,,Vladimir Radmanovic,,,,missed,,3pt,45,20
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,3:59,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,def,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,3:46,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,reverse layup,25,6
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,3:33,GSW,shot,,,,,,,,,,C.J. Watson,,,,missed,,jump,17,21
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,3:32,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,def,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,3:22,HOU,shot,Aaron Brooks,,,,,,,,,Chase Budinger,3,,,made,,3pt,21,33
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,3:08,GSW,shot,Vladimir Radmanovic,,,,,,,,,Stephen Curry,3,,,made,,3pt,46,18
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,2:57,HOU,shot,,,,,,,,,,Will Conroy,,,,missed,,driving layup,25,6
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,2:56,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,off,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,2:56,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,putback slam dunk,25,6
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,2:39,GSW,shot,,,,,,,,,,Stephen Curry,,,,missed,,jump,22,26
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,2:38,HOU,rebound,,,,,,,,,,David Andersen,,,,,,def,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Will Conroy,4,2:33,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Carl Landry,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,2:33,HOU,sub,,,,Joey Dorsey,,Aaron Brooks,,,,,,,,,,,,
+C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Vladimir Radmanovic,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,2:33,HOU,sub,,,,Brian Cook,,Carl Landry,,,,,,,,,,,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,2:33,GSW,sub,,,,Anthony Tolliver,,Vladimir Radmanovic,,,,,,,,,,,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,2:18,HOU,shot,,,,,,,,,,Brian Cook,,,,missed,,jump,16,20
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,2:17,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,off,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,2:17,HOU,shot,,,,,,,,,,Chase Budinger,2,,,made,,putback slam dunk,25,6
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,2:00,GSW,shot,,,,,,,,,,C.J. Watson,,,,missed,,3pt,49,11
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:59,HOU,rebound,,,,,,,,,,David Andersen,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:46,HOU,shot,,,,,,,,,,Will Conroy,,,,missed,,3pt,44,21
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:45,GSW,rebound,,,,,,,,,,Coby Karl,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:37,GSW,shot,,,,,,,,,,C.J. Watson,,,,missed,,floating jump,25,15
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:37,HOU,rebound,,,,,,,,,,,,,,,,,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:37,GSW,foul,,,,,,,,Chase Budinger,,Chris Hunter,,,,,,loose ball,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:37,HOU,free throw,,,,,,,1,,2,Chase Budinger,,,foul,made,,,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:37,HOU,free throw,,,,,,,2,,2,Chase Budinger,,,foul,made,,,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:22,GSW,shot,,,,,,,,,,Stephen Curry,,,,missed,,3pt,48,7
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:21,HOU,rebound,,,,,,,,,,Will Conroy,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:13,HOU,shot,Will Conroy,,,,,,,,,Chase Budinger,2,,,made,,jump bank,30,11
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,1:02,GSW,shot,Stephen Curry,,,,,,,,,Coby Karl,3,,,made,,3pt,7,26
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,0:53,HOU,turnover,,,,,,,,,,Will Conroy,,,lost ball,,Stephen Curry,,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,0:46,GSW,shot,,,,,,,,,,Stephen Curry,,,,missed,,jump,11,9
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,0:45,HOU,rebound,,,,,,,,,,Will Conroy,,,,,,def,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,0:40,HOU,shot,,,,,,,,,,Will Conroy,2,,,made,,driving dunk,25,6
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,0:35,GSW,shot,Coby Karl,,,,,,,,,Anthony Tolliver,2,,,made,,jump,46,8
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,0:14,HOU,shot,,,,,,,,,,Will Conroy,,,,missed,,running jump,20,11
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,0:14,GSW,rebound,,,,,,,,,,,,,,,,,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,0:14,HOU,foul,,,,,,,,Chris Hunter,,Joey Dorsey,,,,,,loose ball,,
+Anthony Tolliver,C.J. Watson,Chris Hunter,Coby Karl,Stephen Curry,Brian Cook,Chase Budinger,David Andersen,Joey Dorsey,Will Conroy,4,0:06,GSW,shot,C.J. Watson,,,,,,,,,Stephen Curry,3,,,made,,3pt,35,29

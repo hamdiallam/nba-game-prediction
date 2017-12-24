@@ -1,0 +1,477 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,12:00,OFF,jump ball,,Darko Milicic,,,Tim Duncan,,,,,,,George Hill,,,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,11:46,SAS,shot,George Hill,,,,,,,,,Matt Bonner,3,,,made,,3pt,36,29
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,11:22,MIN,shot,,,,,,,,,,Al Jefferson,2,,,made,,jump bank,33,8
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,11:05,SAS,shot,Manu Ginobili,,,,,,,,,Tim Duncan,2,,,made,,layup,26,6
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:50,MIN,shot,,,,,,,,,,Al Jefferson,2,,,made,,jump,19,7
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:50,SAS,foul,,,,,,,,Al Jefferson,,Matt Bonner,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:50,MIN,free throw,,,,,,,1,,1,Al Jefferson,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:50,SAS,shot,George Hill,,,,,,,,,Richard Jefferson,2,,,made,,jump,24,27
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:37,SAS,foul,,,,,,,,Corey Brewer,,Manu Ginobili,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:37,MIN,free throw,,,,,,,1,,2,Corey Brewer,,,foul,missed,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:37,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:37,SAS,timeout,,,,,,,,,,,,,,,,short,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:37,MIN,free throw,,,,,,,2,,2,Corey Brewer,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:37,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,32,23
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:36,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:17,MIN,shot,Ryan Gomes,,,,,,,,,Corey Brewer,3,,,made,,3pt,2,10
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,10:02,SAS,shot,Tim Duncan,,,,,,,,,Manu Ginobili,2,,,made,,floating jump,25,14
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,9:48,MIN,turnover,,,,,,,,,,Jonny Flynn,,,bad pass,,Matt Bonner,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,9:37,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,running jump,25,11
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,9:36,MIN,rebound,,,,,,,,,,Darko Milicic,,,,,,def,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,9:31,MIN,shot,,,,,,,,,,Jonny Flynn,,,,missed,,layup,26,6
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,9:31,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,def,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,9:24,SAS,shot,,,Darko Milicic,,,,,,,George Hill,,,,missed,,layup,24,6
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,9:22,MIN,rebound,,,,,,,,,,Darko Milicic,,,,,,def,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,9:11,MIN,shot,,,,,,,,,,Al Jefferson,2,,,made,,jump,41,10
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,8:52,MIN,foul,,,,,,,,Tim Duncan,,Darko Milicic,,,,,,personal,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,8:52,SAS,shot,,,,,,,,,,Matt Bonner,2,,,made,,slam dunk,25,7
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,8:36,MIN,shot,Corey Brewer,,,,,,,,,Ryan Gomes,2,,,made,,jump,15,19
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,8:19,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,Ryan Gomes,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,8:12,MIN,shot,,,,,,,,,,Ryan Gomes,2,,,made,,layup,25,7
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,1,8:12,SAS,foul,,,,,,,,Ryan Gomes,,Matt Bonner,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,1,8:12,SAS,sub,,,,DeJuan Blair,,Matt Bonner,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,8:12,SAS,sub,,,,Tony Parker,,George Hill,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,8:12,MIN,free throw,,,,,,,1,,1,Ryan Gomes,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,7:19,MIN,foul,,,,,,,,Tim Duncan,,Corey Brewer,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,7:19,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,7:19,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,7:04,MIN,shot,,,,,,,,,,Darko Milicic,2,,,made,,jump hook,18,11
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,6:46,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,38,6
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,6:45,MIN,rebound,,,,,,,,,,Corey Brewer,,,,,,def,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,6:30,MIN,shot,,,,,,,,,,Darko Milicic,2,,,made,,jump,14,6
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,6:12,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,jump,25,12
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,6:00,MIN,shot,,,,,,,,,,Ryan Gomes,,,,missed,,jump,39,4
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:59,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:58,SAS,turnover,,,,,,,,,,Richard Jefferson,,,bad pass,,Corey Brewer,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:42,MIN,shot,,,,,,,,,,Corey Brewer,2,,,made,,layup,24,6
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:42,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:42,MIN,sub,,,,Kevin Love,,Al Jefferson,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:42,MIN,sub,,,,Damien Wilkins,,Ryan Gomes,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:34,MIN,foul,,,,,,,,Richard Jefferson,,Damien Wilkins,,,,,,shooting,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:34,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,made,,,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:34,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:12,MIN,shot,,,,,,,,,,Darko Milicic,,,,missed,,layup,24,6
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:12,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:06,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,layup,23,6
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:05,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:01,MIN,shot,,,,,,,,,,Jonny Flynn,,,,missed,,layup,27,7
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,5:00,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,4:54,SAS,shot,Tim Duncan,,,,,,,,,Tony Parker,2,,,made,,reverse layup,24,7
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,4:33,MIN,shot,,,,,,,,,,Corey Brewer,,,,missed,,pullup jump,37,19
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Manu Ginobili,Richard Jefferson,Tim Duncan,Tony Parker,1,4:29,MIN,rebound,,,,,,,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,1,4:29,SAS,sub,,,,Roger Mason,,Manu Ginobili,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,1,4:27,MIN,shot,,,,,,,,,,Kevin Love,,,,missed,,jump,10,17
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,1,4:26,SAS,rebound,,,,,,,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,1,4:08,SAS,shot,,,,,,,,,,Tony Parker,,,,missed,,layup,26,6
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,1,4:07,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,1,4:07,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,putback layup,24,7
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,1,3:54,MIN,shot,,,,,,,,,,Darko Milicic,,,,missed,,jump,33,7
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,1,3:53,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,1,3:30,SAS,shot,Roger Mason,,,,,,,,,Richard Jefferson,3,,,made,,3pt,35,30
+Corey Brewer,Damien Wilkins,Darko Milicic,Jonny Flynn,Kevin Love,DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,1,3:21,MIN,timeout,,,,,,,,,,,,,,,,regular,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Kevin Love,Ramon Sessions,DeJuan Blair,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,1,3:21,MIN,sub,,,,Ramon Sessions,,Jonny Flynn,,,,,,,,,,,,
+Corey Brewer,Damien Wilkins,Darko Milicic,Kevin Love,Ramon Sessions,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,3:21,SAS,sub,,,,Ian Mahinmi,,Tim Duncan,,,,,,,,,,,,
+Damien Wilkins,Darko Milicic,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,3:21,MIN,sub,,,,Wayne Ellington,,Corey Brewer,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,3:21,MIN,sub,,,,Al Jefferson,,Darko Milicic,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,3:08,MIN,shot,,,,,,,,,,Al Jefferson,,,,missed,,jump,16,6
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,3:07,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,2:51,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,jump,14,21
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,2:50,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,2:32,MIN,shot,,,,,,,,,,Wayne Ellington,,,,missed,,3pt,7,23
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,2:31,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,def,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,2:25,SAS,shot,,,Wayne Ellington,,,,,,,Tony Parker,,,,missed,,layup,25,8
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,2:24,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,2:10,SAS,shot,Tony Parker,,,,,,,,,Roger Mason,3,,,made,,3pt,40,26
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,1:43,SAS,foul,,,,,,,,Kevin Love,,DeJuan Blair,,,,,,shooting,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,1:43,MIN,free throw,,,,,,,1,,2,Kevin Love,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,1:43,MIN,free throw,,,,,,,2,,2,Kevin Love,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,1:31,SAS,shot,Roger Mason,,,,,,,,,DeJuan Blair,2,,,made,,reverse layup,27,5
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,1:18,MIN,shot,,,,,,,,,,Al Jefferson,,,,missed,,jump,38,15
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,1:17,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,1:10,MIN,foul,,,,,,,,Ian Mahinmi,,Damien Wilkins,,,,,,shooting,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,1:10,SAS,free throw,,,,,,,1,,2,Ian Mahinmi,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,1:10,SAS,free throw,,,,,,,2,,2,Ian Mahinmi,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,0:54,SAS,foul,,,,,,,,Kevin Love,,DeJuan Blair,,,,,,personal,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,0:54,MIN,free throw,,,,,,,1,,2,Kevin Love,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,0:54,MIN,free throw,,,,,,,2,,2,Kevin Love,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,0:47,SAS,shot,Tony Parker,,,,,,,,,Ian Mahinmi,2,,,made,,dunk,24,6
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,0:25,MIN,shot,,,,,,,,,,Damien Wilkins,,,,missed,,jump,25,15
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,0:25,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,def,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,0:02,MIN,foul,,,,,,,,Ian Mahinmi,,Wayne Ellington,,,,,,shooting,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,0:02,SAS,free throw,,,,,,,1,,2,Ian Mahinmi,,,foul,missed,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Richard Jefferson,Roger Mason,Tony Parker,1,0:02,SAS,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,Ian Mahinmi,Malik Hairston,Richard Jefferson,Roger Mason,Tony Parker,1,0:02,SAS,sub,,,,Malik Hairston,,DeJuan Blair,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,Ian Mahinmi,Malik Hairston,Manu Ginobili,Roger Mason,Tony Parker,1,0:02,SAS,sub,,,,Manu Ginobili,,Richard Jefferson,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,Ian Mahinmi,Malik Hairston,Manu Ginobili,Roger Mason,Tony Parker,1,0:02,SAS,free throw,,,,,,,2,,2,Ian Mahinmi,,,foul,missed,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,Ian Mahinmi,Malik Hairston,Manu Ginobili,Roger Mason,Tony Parker,1,0:02,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,Ian Mahinmi,Malik Hairston,Manu Ginobili,Roger Mason,Tony Parker,1,0:00,MIN,shot,,,,,,,,,,Damien Wilkins,,,,missed,,3pt,44,45
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,Ian Mahinmi,Malik Hairston,Manu Ginobili,Roger Mason,Tony Parker,1,0:00,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,11:41,MIN,shot,,,,,,,,,,Ramon Sessions,,,,missed,,jump,25,11
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,11:40,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,off,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,11:40,MIN,shot,,,,,,,,,,Kevin Love,,,,missed,,layup,25,8
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,11:39,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,def,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,11:27,SAS,shot,,,Al Jefferson,,,,,,,Ian Mahinmi,,,,missed,,jump,25,9
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,11:26,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,11:14,MIN,shot,Ramon Sessions,,,,,,,,,Wayne Ellington,3,,,made,,3pt,16,30
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,10:56,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,27,6
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,10:40,MIN,turnover,,,,,,,,,,Ramon Sessions,,,bad pass,,Matt Bonner,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,10:25,SAS,turnover,,,,,,,,,,Roger Mason,,,bad pass,,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,10:10,MIN,shot,,,,,,,,,,Kevin Love,2,,,made,,layup,27,6
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,10:10,SAS,foul,,,,,,,,Kevin Love,,Ian Mahinmi,,,,,,shooting,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,10:10,MIN,free throw,,,,,,,1,,1,Kevin Love,,,foul,made,,,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,9:52,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,jump bank,17,10
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,9:51,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Al Jefferson,Damien Wilkins,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,9:40,MIN,turnover,,,,,,,,,,Kevin Love,,,3 second violation,,,,,
+Al Jefferson,Corey Brewer,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,9:40,MIN,sub,,,,Corey Brewer,,Damien Wilkins,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,9:28,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,26,6
+Al Jefferson,Corey Brewer,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,9:17,SAS,foul,,,,,,,,Al Jefferson,,Ian Mahinmi,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Roger Mason,2,9:17,MIN,free throw,,,,,,,1,,2,Al Jefferson,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,9:17,SAS,sub,,,,Tim Duncan,,Ian Mahinmi,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,9:17,MIN,free throw,,,,,,,2,,2,Al Jefferson,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,9:01,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,28,30
+Al Jefferson,Corey Brewer,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,9:00,MIN,rebound,,,,,,,,,,Wayne Ellington,,,,,,def,,
+Al Jefferson,Corey Brewer,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:57,MIN,shot,,,,,,,,,,Wayne Ellington,2,,,made,,layup,24,5
+Al Jefferson,Corey Brewer,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:57,SAS,foul,,,,,,,,Wayne Ellington,,Roger Mason,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Kevin Love,Ramon Sessions,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:57,MIN,timeout,,,,,,,,,,,,,,,,official,,
+Al Jefferson,Corey Brewer,Darko Milicic,Ramon Sessions,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:57,MIN,sub,,,,Darko Milicic,,Kevin Love,,,,,,,,,,,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:57,MIN,sub,,,,Ryan Gomes,,Al Jefferson,,,,,,,,,,,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:57,MIN,free throw,,,,,,,1,,1,Wayne Ellington,,,foul,made,,,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:44,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,dunk,26,5
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:43,MIN,rebound,,,,,,,,,,Ramon Sessions,,,,,,def,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:36,MIN,shot,,,Manu Ginobili,,,,,,,Corey Brewer,,,,missed,,layup,23,7
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:36,MIN,rebound,,,,,,,,,,,,,,,,,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:28,MIN,shot,,,,,,,,,,Darko Milicic,,,,missed,,running hook,26,14
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:27,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Matt Bonner,Roger Mason,Tim Duncan,2,8:18,SAS,shot,Manu Ginobili,,,,,,,,,Matt Bonner,3,,,made,,3pt,10,26
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,2,8:05,SAS,sub,,,,Richard Jefferson,,Matt Bonner,,,,,,,,,,,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,2,7:57,MIN,shot,Ramon Sessions,,,,,,,,,Wayne Ellington,2,,,made,,pullup jump,39,22
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,2,7:28,SAS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,7:28,SAS,sub,,,,Tony Parker,,George Hill,,,,,,,,,,,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,7:16,MIN,shot,,,,,,,,,,Ramon Sessions,,,,missed,,jump,41,15
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,7:15,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,def,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,7:02,SAS,shot,Manu Ginobili,,,,,,,,,Roger Mason,3,,,made,,3pt,47,19
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:45,MIN,shot,,,,,,,,,,Darko Milicic,,,,missed,,jump hook,24,14
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:43,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,def,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:31,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,layup,26,5
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:30,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,off,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:30,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,putback layup,27,5
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:30,MIN,turnover,,,,,,,,,,Darko Milicic,,,inbound turnover,,,,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:18,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,2,6
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:15,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,off,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:15,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,layup,24,6
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:14,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,off,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:14,SAS,shot,,,Darko Milicic,,,,,,,Richard Jefferson,,,,missed,,layup,25,6
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:11,MIN,rebound,,,,,,,,,,Ryan Gomes,,,,,,def,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,6:08,MIN,shot,Ryan Gomes,,,,,,,,,Corey Brewer,2,,,made,,layup,25,7
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,5:56,MIN,foul,,,,,,,,Manu Ginobili,,Corey Brewer,,,,,,personal,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,5:56,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,5:48,SAS,shot,,,,,,,,,,Roger Mason,2,,,made,,driving layup,23,7
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,5:26,MIN,shot,,,,,,,,,,Ryan Gomes,2,,,made,,jump,31,10
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,5:12,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,jump,38,17
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,5:02,MIN,foul,,,,,,,,Tony Parker,,Ryan Gomes,,,,,,offensive,,
+Corey Brewer,Darko Milicic,Ramon Sessions,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,5:02,MIN,turnover,,,,,,,,,,Ryan Gomes,,,foul,,,,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,5:02,MIN,sub,,,,Jonny Flynn,,Ramon Sessions,,,,,,,,,,,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,5:02,SAS,sub,,,,George Hill,,Manu Ginobili,,,,,,,,,,,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,4:47,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,fade away jumper,25,13
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,4:26,MIN,shot,,,,,,,,,,Jonny Flynn,,,,missed,,3pt,6,23
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,4:25,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,4:14,SAS,shot,Tony Parker,,,,,,,,,George Hill,3,,,made,,3pt,1,9
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,3:57,MIN,shot,,,,,,,,,,Corey Brewer,,,,missed,,jump,14,26
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,3:54,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,3:54,SAS,jump ball,,Darko Milicic,,,Richard Jefferson,,,,,,,Tony Parker,,,,,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,3:48,SAS,shot,Tony Parker,,,,,,,,,George Hill,2,,,made,,layup,24,7
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Richard Jefferson,Roger Mason,Tim Duncan,Tony Parker,2,3:40,MIN,timeout,,,,,,,,,,,,,,,,regular,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Keith Bogans,Roger Mason,Tim Duncan,Tony Parker,2,3:40,SAS,sub,,,,Keith Bogans,,Richard Jefferson,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Keith Bogans,Roger Mason,Tim Duncan,Tony Parker,2,3:40,MIN,sub,,,,Al Jefferson,,Darko Milicic,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Keith Bogans,Roger Mason,Tim Duncan,Tony Parker,2,3:32,MIN,shot,,,,,,,,,,Wayne Ellington,,,,missed,,3pt,42,25
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Keith Bogans,Roger Mason,Tim Duncan,Tony Parker,2,3:32,SAS,rebound,,,,,,,,,,Tony Parker,,,,,,def,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Ryan Gomes,Wayne Ellington,George Hill,Keith Bogans,Roger Mason,Tim Duncan,Tony Parker,2,3:25,SAS,jump ball,,Wayne Ellington,,,Roger Mason,,,,,,,San Antonio,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Wayne Ellington,George Hill,Keith Bogans,Roger Mason,Tim Duncan,Tony Parker,2,3:25,MIN,sub,,,,Kevin Love,,Ryan Gomes,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Wayne Ellington,DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,2,3:25,SAS,sub,,,,DeJuan Blair,,Roger Mason,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Jonny Flynn,Kevin Love,Wayne Ellington,DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,2,3:18,MIN,foul,,,,,,,,George Hill,,Corey Brewer,,,,,,shooting,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,2,3:18,MIN,sub,,,,Sasha Pavlovic,,Corey Brewer,,,,,,,,,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,2,3:18,SAS,free throw,,,,,,,1,,2,George Hill,,,foul,missed,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,2,3:18,SAS,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,2,3:18,SAS,free throw,,,,,,,2,,2,George Hill,,,foul,made,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,2,3:03,MIN,turnover,,,,,,,,,,Wayne Ellington,,,bad pass,,Tim Duncan,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,2,2:45,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,turnaround jump,12,6
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,2,2:40,SAS,foul,,,,,,,,Jonny Flynn,,Tony Parker,,,,,,shooting,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,2,2:40,MIN,free throw,,,,,,,1,,2,Jonny Flynn,,,foul,missed,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Keith Bogans,Tim Duncan,Tony Parker,2,2:40,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,2:40,SAS,sub,,,,Ian Mahinmi,,Tim Duncan,,,,,,,,,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,2:40,MIN,free throw,,,,,,,2,,2,Jonny Flynn,,,foul,made,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,2:27,SAS,shot,,,,,,,,,,Ian Mahinmi,2,,,made,,driving layup,22,6
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,2:27,MIN,foul,,,,,,,,Ian Mahinmi,,Al Jefferson,,,,,,shooting,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,2:27,SAS,free throw,,,,,,,1,,1,Ian Mahinmi,,,foul,missed,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,2:26,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,2:18,MIN,shot,,,George Hill,,,,,,,Kevin Love,,,,missed,,layup,27,7
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,2:18,MIN,jump ball,,Kevin Love,,,George Hill,,,,,,,San Antonio,,,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,2:18,SAS,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,1:59,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,jump hook,15,6
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,1:58,MIN,rebound,,,,,,,,,,Jonny Flynn,,,,,,def,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,1:51,MIN,shot,,,,,,,,,,Wayne Ellington,,,,missed,,jump,20,7
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,1:50,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,1:34,SAS,turnover,,,,,,,,,,DeJuan Blair,,,bad pass,,Al Jefferson,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,1:30,SAS,foul,,,,,,,,Jonny Flynn,,George Hill,,,,,,shooting,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,George Hill,Ian Mahinmi,Keith Bogans,Tony Parker,2,1:30,MIN,free throw,,,,,,,1,,2,Jonny Flynn,,,foul,made,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,2,1:30,SAS,sub,,,,Roger Mason,,George Hill,,,,,,,,,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,2,1:30,MIN,free throw,,,,,,,2,,2,Jonny Flynn,,,foul,made,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,2,1:15,SAS,shot,Tony Parker,,,,,,,,,Keith Bogans,3,,,made,,3pt,1,9
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,2,1:05,MIN,turnover,,,,,,,,,,Al Jefferson,,,lost ball,,DeJuan Blair,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,2,0:59,SAS,shot,Tony Parker,,,,,,,,,Keith Bogans,3,,,made,,3pt,49,6
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,2,0:42,MIN,shot,,,,,,,,,,Jonny Flynn,,,,missed,,jump,22,8
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,2,0:41,SAS,rebound,,,,,,,,,,Keith Bogans,,,,,,def,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,2,0:38,SAS,shot,Keith Bogans,,,,,,,,,Roger Mason,2,,,made,,layup,24,7
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,2,0:30,SAS,foul,,,,,,,,Kevin Love,,Ian Mahinmi,,,,,,personal,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,2,0:30,MIN,free throw,,,,,,,1,,2,Kevin Love,,,foul,missed,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,2,0:30,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,2,0:30,SAS,sub,,,,Matt Bonner,,Ian Mahinmi,,,,,,,,,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,2,0:30,MIN,free throw,,,,,,,2,,2,Kevin Love,,,foul,made,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,2,0:06,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,41,27
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,2,0:05,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,2,0:05,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,layup,26,7
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,2,0:03,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,2,0:00,MIN,turnover,,,,,,,,,,Al Jefferson,,,lost ball,,Roger Mason,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,2,0:00,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,38,63
+Al Jefferson,Jonny Flynn,Kevin Love,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,2,0:00,SAS,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,11:35,MIN,shot,Jonny Flynn,,,,,,,,,Corey Brewer,3,,,made,,3pt,23,31
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,11:14,SAS,shot,Richard Jefferson,,,,,,,,,Matt Bonner,2,,,made,,jump,9,15
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,10:45,MIN,shot,,,,,,,,,,Darko Milicic,2,,,made,,running hook,25,13
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,10:30,MIN,foul,,,,,,,,Richard Jefferson,,Jonny Flynn,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,10:30,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,10:30,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,10:15,SAS,foul,,,,,,,,Darko Milicic,,Matt Bonner,,,,,,personal,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,10:10,SAS,foul,,,,,,,,Ryan Gomes,,Richard Jefferson,,,,,,personal,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,10:03,SAS,foul,,,,,,,,Jonny Flynn,,George Hill,,,,,,personal,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:55,MIN,shot,,,,,,,,,,Ryan Gomes,,,,missed,,jump,8,16
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:54,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,def,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:45,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,36,28
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:44,MIN,rebound,,,,,,,,,,Corey Brewer,,,,,,def,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:38,MIN,shot,,,,,,,,,,Corey Brewer,,,,missed,,layup,25,6
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:37,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:28,SAS,shot,Tim Duncan,,,,,,,,,Matt Bonner,3,,,made,,3pt,34,29
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:17,MIN,shot,,,,,,,,,,Jonny Flynn,,,,missed,,jump,35,21
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:16,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:03,MIN,foul,,,,,,,,Tim Duncan,,Al Jefferson,,,,,,shooting,,
+Al Jefferson,Corey Brewer,Darko Milicic,Jonny Flynn,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:03,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,made,,,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:03,MIN,sub,,,,Kevin Love,,Al Jefferson,,,,,,,,,,,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,9:03,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,8:51,MIN,shot,Jonny Flynn,,,,,,,,,Ryan Gomes,3,,,made,,3pt,3,18
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,8:34,SAS,shot,George Hill,,,,,,,,,Manu Ginobili,2,,,made,,layup,23,6
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,8:24,MIN,turnover,,,,,,,,,,Kevin Love,,,bad pass,,Matt Bonner,,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,8:17,SAS,shot,Manu Ginobili,,,,,,,,,Tim Duncan,2,,,made,,turnaround jump,20,10
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,3,8:17,MIN,timeout,,,,,,,,,,,,,,,,regular,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,8:17,SAS,sub,,,,Ian Mahinmi,,Tim Duncan,,,,,,,,,,,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,8:01,MIN,turnover,,,,,,,,,,Kevin Love,,,3 second violation,,,,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,7:40,SAS,shot,,,,,,,,,,Ian Mahinmi,,,,missed,,jump,38,6
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,7:39,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,7:29,MIN,shot,,,Ian Mahinmi,,,,,,,Jonny Flynn,,,,missed,,running jump,19,7
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,7:28,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,7:25,SAS,foul,,,,,,,,Corey Brewer,,George Hill,,,,,,offensive,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,7:25,SAS,turnover,,,,,,,,,,George Hill,,,foul,,,,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,7:19,MIN,shot,,,,,,,,,,Jonny Flynn,2,,,made,,floating jump,25,13
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,7:03,MIN,foul,,,,,,,,Richard Jefferson,,Corey Brewer,,,,,,shooting,,
+Corey Brewer,Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,7:03,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,made,,,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,George Hill,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,3,7:03,MIN,sub,,,,Wayne Ellington,,Corey Brewer,,,,,,,,,,,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,Tony Parker,3,7:03,SAS,sub,,,,Tony Parker,,George Hill,,,,,,,,,,,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,Tony Parker,3,7:03,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,Tony Parker,3,6:46,MIN,shot,,,,,,,,,,Ryan Gomes,2,,,made,,jump,9,8
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,Tony Parker,3,6:28,SAS,shot,Tony Parker,,,,,,,,,Ian Mahinmi,2,,,made,,layup,27,7
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,Tony Parker,3,6:00,MIN,shot,,,,,,,,,,Wayne Ellington,,,,missed,,jump,40,15
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,Tony Parker,3,5:59,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,Tony Parker,3,5:45,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,28,31
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,Tony Parker,3,5:44,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,off,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,Tony Parker,3,5:44,MIN,foul,,,,,,,,Ian Mahinmi,,Darko Milicic,,,,,,shooting,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Manu Ginobili,Matt Bonner,Richard Jefferson,Tony Parker,3,5:44,SAS,free throw,,,,,,,1,,2,Ian Mahinmi,,,foul,made,,,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Matt Bonner,Richard Jefferson,Roger Mason,Tony Parker,3,5:44,SAS,sub,,,,Roger Mason,,Manu Ginobili,,,,,,,,,,,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:44,SAS,sub,,,,Keith Bogans,,Richard Jefferson,,,,,,,,,,,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:44,SAS,free throw,,,,,,,2,,2,Ian Mahinmi,,,foul,missed,,,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:44,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:35,MIN,shot,,,,,,,,,,Kevin Love,,,,missed,,3pt,23,30
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:34,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,def,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:28,SAS,turnover,,,,,,,,,,Tony Parker,,,bad pass,,,,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:13,MIN,shot,,,,,,,,,,Ryan Gomes,,,,missed,,turnaround bank,9,13
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:13,SAS,rebound,,,,,,,,,,,,,,,,,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:00,MIN,foul,,,,,,,,Tony Parker,,Wayne Ellington,,,,,,personal,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:00,SAS,free throw,,,,,,,1,,2,Tony Parker,,,foul,missed,,,,
+Darko Milicic,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:00,SAS,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Jonny Flynn,Kevin Love,Ryan Gomes,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:00,MIN,sub,,,,Al Jefferson,,Darko Milicic,,,,,,,,,,,,
+Al Jefferson,Brian Cardinal,Jonny Flynn,Kevin Love,Wayne Ellington,Ian Mahinmi,Keith Bogans,Matt Bonner,Roger Mason,Tony Parker,3,5:00,MIN,sub,,,,Brian Cardinal,,Ryan Gomes,,,,,,,,,,,,
+Al Jefferson,Brian Cardinal,Jonny Flynn,Kevin Love,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,5:00,SAS,sub,,,,DeJuan Blair,,Matt Bonner,,,,,,,,,,,,
+Al Jefferson,Brian Cardinal,Jonny Flynn,Kevin Love,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,5:00,SAS,free throw,,,,,,,2,,2,Tony Parker,,,foul,made,,,,
+Al Jefferson,Brian Cardinal,Jonny Flynn,Kevin Love,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,4:48,SAS,foul,,,,,,,,Kevin Love,,DeJuan Blair,,,,,,shooting,,
+Al Jefferson,Brian Cardinal,Jonny Flynn,Kevin Love,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,4:48,MIN,free throw,,,,,,,1,,2,Kevin Love,,,foul,made,,,,
+Al Jefferson,Brian Cardinal,Jonny Flynn,Kevin Love,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,4:48,MIN,free throw,,,,,,,2,,2,Kevin Love,,,foul,made,,,,
+Al Jefferson,Brian Cardinal,Jonny Flynn,Kevin Love,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,4:38,SAS,foul,,,,,,,,Wayne Ellington,,DeJuan Blair,,,,,,offensive,,
+Al Jefferson,Brian Cardinal,Jonny Flynn,Kevin Love,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,4:38,SAS,turnover,,,,,,,,,,DeJuan Blair,,,foul,,,,,
+Al Jefferson,Brian Cardinal,Jonny Flynn,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,4:38,MIN,sub,,,,Sasha Pavlovic,,Kevin Love,,,,,,,,,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,4:38,MIN,sub,,,,Ramon Sessions,,Jonny Flynn,,,,,,,,,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,4:25,MIN,turnover,,,,,,,,,,Wayne Ellington,,,bad pass,,DeJuan Blair,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,4:17,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,8,26
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,4:15,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,4:04,MIN,shot,Brian Cardinal,,,,,,,,,Ramon Sessions,2,,,made,,layup,24,6
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,3:49,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,floating jump,18,12
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,3:31,MIN,shot,Ramon Sessions,,,,,,,,,Al Jefferson,2,,,made,,jump,36,19
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,3:14,SAS,shot,Keith Bogans,,,,,,,,,Ian Mahinmi,2,,,made,,jump,22,9
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Ian Mahinmi,Keith Bogans,Roger Mason,Tony Parker,3,3:14,MIN,foul,,,,,,,,Ian Mahinmi,,Al Jefferson,,,,,,shooting,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,3:14,SAS,sub,,,,Malik Hairston,,DeJuan Blair,,,,,,,,,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,3:14,SAS,free throw,,,,,,,1,,1,Ian Mahinmi,,,foul,made,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,3:00,SAS,foul,,,,,,,,Ramon Sessions,,Tony Parker,,,,,,shooting,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,3:00,MIN,free throw,,,,,,,1,,2,Ramon Sessions,,,foul,missed,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,3:00,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,3:00,MIN,free throw,,,,,,,2,,2,Ramon Sessions,,,foul,made,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,2:46,MIN,foul,,,,,,,,Malik Hairston,,Brian Cardinal,,,,,,shooting,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,2:46,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,2:46,SAS,free throw,,,,,,,1,,2,Malik Hairston,,,foul,made,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,2:46,SAS,free throw,,,,,,,2,,2,Malik Hairston,,,foul,missed,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,2:45,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,2:29,MIN,shot,,,,,,,,,,Ramon Sessions,2,,,made,,floating jump,25,10
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,2:08,SAS,shot,,,,,,,,,,Ian Mahinmi,,,,missed,,jump hook,23,10
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,2:07,MIN,rebound,,,,,,,,,,Al Jefferson,,,,,,def,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,2:05,SAS,foul,,,,,,,,Brian Cardinal,,Keith Bogans,,,,,,personal,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,2:05,MIN,free throw,,,,,,,1,,2,Brian Cardinal,,,foul,made,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,2:05,MIN,free throw,,,,,,,2,,2,Brian Cardinal,,,foul,made,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:55,SAS,shot,,,,,,,,,,Malik Hairston,,,,missed,,layup,24,9
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:53,MIN,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:53,SAS,foul,,,,,,,,Al Jefferson,,Ian Mahinmi,,,,,,loose ball,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:53,MIN,free throw,,,,,,,1,,2,Al Jefferson,,,foul,made,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:53,MIN,free throw,,,,,,,2,,2,Al Jefferson,,,foul,made,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:40,SAS,shot,,,,,,,,,,Tony Parker,2,,,made,,pullup jump,17,21
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:20,MIN,shot,,,,,,,,,,Sasha Pavlovic,,,,missed,,jump,9,17
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:19,MIN,rebound,,,,,,,,,,Brian Cardinal,,,,,,off,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:15,MIN,shot,,,,,,,,,,Al Jefferson,,,,missed,,layup,28,5
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:14,MIN,rebound,,,,,,,,,,Ramon Sessions,,,,,,off,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:05,MIN,shot,,,,,,,,,,Al Jefferson,,,,missed,,jump,30,6
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:04,MIN,rebound,,,,,,,,,,Brian Cardinal,,,,,,off,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,1:00,MIN,shot,Brian Cardinal,,,,,,,,,Wayne Ellington,2,,,made,,layup,28,5
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:42,MIN,foul,,,,,,,,Ian Mahinmi,,Al Jefferson,,,,,,shooting,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:42,SAS,free throw,,,,,,,1,,2,Ian Mahinmi,,,foul,missed,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:42,SAS,rebound,,,,,,,,,,,,,,,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:42,SAS,free throw,,,,,,,2,,2,Ian Mahinmi,,,foul,made,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:30,MIN,shot,,,,,,,,,,Ramon Sessions,,,,missed,,pullup jump,38,13
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:29,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,def,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:09,MIN,foul,,,,,,,,Tony Parker,,Al Jefferson,,,,,,shooting,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:09,SAS,free throw,,,,,,,1,,2,Tony Parker,,,foul,missed,,,,
+Al Jefferson,Brian Cardinal,Ramon Sessions,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:09,SAS,rebound,,,,,,,,,,,,,,,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:09,MIN,sub,,,,Ryan Hollins,,Al Jefferson,,,,,,,,,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:09,SAS,free throw,,,,,,,2,,2,Tony Parker,,,foul,made,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,Ian Mahinmi,Keith Bogans,Malik Hairston,Roger Mason,Tony Parker,3,0:00,MIN,turnover,,,,,,,,,,Ramon Sessions,,,lost ball,,Tony Parker,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,11:47,MIN,foul,,,,,,,,Malik Hairston,,Ryan Hollins,,,,,,shooting,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,11:47,SAS,free throw,,,,,,,1,,2,Malik Hairston,,,foul,made,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,11:47,SAS,free throw,,,,,,,2,,2,Malik Hairston,,,foul,missed,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,11:46,MIN,rebound,,,,,,,,,,Sasha Pavlovic,,,,,,def,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,11:36,MIN,shot,,,,,,,,,,Wayne Ellington,,,,missed,,jump,39,11
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,11:35,MIN,rebound,,,,,,,,,,,,,,,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,11:32,MIN,shot,Sasha Pavlovic,,,,,,,,,Ramon Sessions,2,,,made,,jump,39,8
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,11:27,MIN,foul,,,,,,,,Keith Bogans,,Brian Cardinal,,,,,,shooting,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,11:27,SAS,free throw,,,,,,,1,,2,Keith Bogans,,,foul,made,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,11:27,SAS,free throw,,,,,,,2,,2,Keith Bogans,,,foul,made,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,11:10,MIN,shot,Ramon Sessions,,,,,,,,,Sasha Pavlovic,3,,,made,,3pt,43,25
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:58,SAS,shot,DeJuan Blair,,,,,,,,,Malik Hairston,2,,,made,,layup,24,6
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:58,MIN,foul,,,,,,,,Malik Hairston,,Sasha Pavlovic,,,,,,shooting,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:58,SAS,free throw,,,,,,,1,,1,Malik Hairston,,,foul,missed,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:57,MIN,rebound,,,,,,,,,,Ryan Hollins,,,,,,def,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:43,MIN,shot,,,,,,,,,,Wayne Ellington,,,,missed,,3pt,48,11
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:42,MIN,rebound,,,,,,,,,,Wayne Ellington,,,,,,off,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:38,SAS,foul,,,,,,,,Ramon Sessions,,Keith Bogans,,,,,,personal,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:33,MIN,shot,,,,,,,,,,Ryan Hollins,,,,missed,,jump,38,11
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:32,SAS,rebound,,,,,,,,,,Malik Hairston,,,,,,def,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:21,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,16,30
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:20,MIN,rebound,,,,,,,,,,Ryan Hollins,,,,,,def,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:16,MIN,shot,Ramon Sessions,,,,,,,,,Sasha Pavlovic,2,,,made,,dunk,25,6
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,10:14,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,9:54,SAS,shot,Malik Hairston,,,,,,,,,Keith Bogans,3,,,made,,3pt,8,24
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,9:43,MIN,foul,,,,,,,,Garrett Temple,,Ryan Hollins,,,,,,offensive,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,9:43,MIN,turnover,,,,,,,,,,Ryan Hollins,,,foul,,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,9:32,SAS,shot,Garrett Temple,,,,,,,,,Roger Mason,3,,,made,,3pt,48,6
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,9:14,MIN,shot,Ramon Sessions,,,,,,,,,Wayne Ellington,3,,,made,,3pt,41,25
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,9:00,SAS,shot,,,,,,,,,,Garrett Temple,2,,,made,,pullup jump,14,21
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,8:44,MIN,shot,,,,,,,,,,Ramon Sessions,2,,,made,,pullup jump,39,17
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,8:29,MIN,foul,,,,,,,,Garrett Temple,,Ramon Sessions,,,,,,personal,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,8:28,SAS,turnover,,,,,,,,,,Malik Hairston,,,bad pass,,Wayne Ellington,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,8:26,SAS,violation,,,,,,,,,,Roger Mason,,,,,,kicked ball,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,8:21,MIN,turnover,,,,,,,,,,Ramon Sessions,,,lost ball,,Malik Hairston,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,8:18,SAS,shot,Keith Bogans,,,,,,,,,Malik Hairston,2,,,made,,layup,24,6
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,8:18,MIN,foul,,,,,,,,Malik Hairston,,Brian Cardinal,,,,,,shooting,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,8:18,MIN,timeout,,,,,,,,,,,,,,,,regular,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,8:18,SAS,sub,,,,Ian Mahinmi,,Roger Mason,,,,,,,,,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,8:18,MIN,sub,,,,Kevin Love,,Brian Cardinal,,,,,,,,,,,,
+Jonny Flynn,Kevin Love,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,8:18,MIN,sub,,,,Jonny Flynn,,Ramon Sessions,,,,,,,,,,,,
+Jonny Flynn,Kevin Love,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,8:18,SAS,free throw,,,,,,,1,,1,Malik Hairston,,,foul,made,,,,
+Jonny Flynn,Kevin Love,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,8:10,MIN,turnover,,,,,,,,,,Jonny Flynn,,,lost ball,,Garrett Temple,,,
+Jonny Flynn,Kevin Love,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,8:04,SAS,shot,Keith Bogans,,,,,,,,,Malik Hairston,2,,,made,,layup,25,8
+Jonny Flynn,Kevin Love,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,8:04,MIN,timeout,,,,,,,,,,,,,,,,short,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,8:04,MIN,sub,,,,Ramon Sessions,,Jonny Flynn,,,,,,,,,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,7:52,MIN,turnover,,,,,,,,,,Sasha Pavlovic,,,bad pass,,Ian Mahinmi,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,7:41,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,layup,26,6
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,7:37,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,7:28,SAS,shot,,,,,,,,,,Malik Hairston,,,,missed,,3pt,41,27
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,7:28,SAS,rebound,,,,,,,,,,Malik Hairston,,,,,,off,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,7:25,SAS,turnover,,,,,,,,,,Malik Hairston,,,bad pass,,Sasha Pavlovic,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,7:18,MIN,shot,,,,,,,,,,Sasha Pavlovic,2,,,made,,dunk,24,7
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,7:06,SAS,shot,,,,,,,,,,Malik Hairston,2,,,made,,jump,24,22
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,6:49,MIN,shot,,,DeJuan Blair,,,,,,,Kevin Love,,,,missed,,jump,26,15
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,6:45,SAS,rebound,,,,,,,,,,Garrett Temple,,,,,,def,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,6:36,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,jump bank,37,10
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,6:34,MIN,rebound,,,,,,,,,,Ramon Sessions,,,,,,def,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,6:25,MIN,shot,Wayne Ellington,,,,,,,,,Sasha Pavlovic,3,,,made,,3pt,45,21
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,6:09,SAS,turnover,,,,,,,,,,Ian Mahinmi,,,3 second violation,,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:55,MIN,shot,,,,,,,,,,Kevin Love,,,,missed,,3pt,17,30
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:55,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,def,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:55,MIN,foul,,,,,,,,Ian Mahinmi,,Ryan Hollins,,,,,,personal,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:55,SAS,free throw,,,,,,,1,,2,Ian Mahinmi,,,foul,made,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:55,SAS,free throw,,,,,,,2,,2,Ian Mahinmi,,,foul,missed,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:54,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:47,SAS,foul,,,,,,,,Ramon Sessions,,Garrett Temple,,,,,,personal,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:36,MIN,shot,Ramon Sessions,,,,,,,,,Sasha Pavlovic,3,,,made,,3pt,47,18
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:19,SAS,shot,,,,,,,,,,Malik Hairston,,,,missed,,3pt,38,29
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:18,MIN,rebound,,,,,,,,,,Wayne Ellington,,,,,,def,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:13,MIN,shot,,,,,,,,,,Wayne Ellington,,,,missed,,jump,19,26
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:13,MIN,rebound,,,,,,,,,,,,,,,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:13,SAS,foul,,,,,,,,Ryan Hollins,,Ian Mahinmi,,,,,,loose ball,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Ian Mahinmi,Keith Bogans,Malik Hairston,4,5:08,SAS,foul,,,,,,,,Ryan Hollins,,Ian Mahinmi,,,,,,shooting,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,5:08,SAS,sub,,,,Roger Mason,,Ian Mahinmi,,,,,,,,,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,5:08,MIN,free throw,,,,,,,1,,2,Ryan Hollins,,,foul,made,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,5:08,MIN,free throw,,,,,,,2,,2,Ryan Hollins,,,foul,missed,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,5:07,SAS,rebound,,,,,,,,,,Keith Bogans,,,,,,def,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,4:49,SAS,shot,Malik Hairston,,,,,,,,,DeJuan Blair,2,,,made,,slam dunk,23,5
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,4:31,MIN,shot,Sasha Pavlovic,,,,,,,,,Ramon Sessions,2,,,made,,jump,10,23
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,4:16,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,10,26
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,4:14,MIN,rebound,,,,,,,,,,Wayne Ellington,,,,,,def,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,4:08,MIN,shot,Ramon Sessions,,,,,,,,,Ryan Hollins,2,,,made,,dunk,24,6
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,3:50,SAS,shot,Keith Bogans,,,,,,,,,Malik Hairston,3,,,made,,3pt,49,6
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,3:32,MIN,shot,,,,,,,,,,Ramon Sessions,,,,missed,,jump bank,39,10
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,3:31,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,3:17,SAS,shot,Roger Mason,,,,,,,,,Keith Bogans,3,,,made,,3pt,41,26
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,3:17,MIN,timeout,,,,,,,,,,,,,,,,regular,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,3:00,MIN,foul,,,,,,,,Keith Bogans,,Ryan Hollins,,,,,,offensive,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,3:00,MIN,turnover,,,,,,,,,,Ryan Hollins,,,foul,,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,2:53,MIN,foul,,,,,,,,Garrett Temple,,Kevin Love,,,,,,shooting,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,2:53,SAS,free throw,,,,,,,1,,2,Garrett Temple,,,foul,made,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,2:53,SAS,free throw,,,,,,,2,,2,Garrett Temple,,,foul,missed,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,2:52,MIN,rebound,,,,,,,,,,Ryan Hollins,,,,,,def,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,2:42,SAS,foul,,,,,,,,Kevin Love,,Keith Bogans,,,,,,personal,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,2:42,MIN,free throw,,,,,,,1,,2,Kevin Love,,,foul,missed,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,2:42,MIN,rebound,,,,,,,,,,,,,,,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,2:42,MIN,free throw,,,,,,,2,,2,Kevin Love,,,foul,made,,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,2:24,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,8,23
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,2:23,MIN,rebound,,,,,,,,,,Kevin Love,,,,,,def,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,2:11,MIN,turnover,,,,,,,,,,Kevin Love,,,lost ball,,Keith Bogans,,,
+Kevin Love,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,1:56,SAS,turnover,,,,,,,,,,DeJuan Blair,,,traveling,,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,1:56,MIN,sub,,,,Brian Cardinal,,Kevin Love,,,,,,,,,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,1:46,MIN,shot,,,,,,,,,,Ramon Sessions,,,,missed,,jump,7,11
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,1:45,MIN,rebound,,,,,,,,,,Ryan Hollins,,,,,,off,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,1:43,MIN,shot,,,,,,,,,,Ryan Hollins,2,,,made,,slam dunk,25,6
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,1:28,SAS,shot,,,,,,,,,,Garrett Temple,2,,,made,,layup,26,8
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,1:19,MIN,shot,Brian Cardinal,,,,,,,,,Ryan Hollins,2,,,made,,jump hook,25,12
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,0:54,SAS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,0:52,MIN,shot,Ramon Sessions,,,,,,,,,Sasha Pavlovic,3,,,made,,3pt,46,19
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,0:34,SAS,shot,,,,,,,,,,Keith Bogans,3,,,made,,3pt,6,23
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Malik Hairston,Roger Mason,4,0:34,MIN,turnover,,,,,,,,,,Wayne Ellington,,,inbound turnover,,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Matt Bonner,Roger Mason,4,0:34,SAS,sub,,,,Matt Bonner,,Malik Hairston,,,,,,,,,,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Matt Bonner,Roger Mason,4,0:30,SAS,shot,,,,,,,,,,Garrett Temple,,,,missed,,jump,42,10
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Matt Bonner,Roger Mason,4,0:29,MIN,rebound,,,,,,,,,,Sasha Pavlovic,,,,,,def,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Matt Bonner,Roger Mason,4,0:25,MIN,shot,Ramon Sessions,,,,,,,,,Ryan Hollins,2,,,made,,alley oop dunk,23,5
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Matt Bonner,Roger Mason,4,0:07,SAS,turnover,,,,,,,,,,Roger Mason,,,lost ball,,Ramon Sessions,,,
+Brian Cardinal,Ramon Sessions,Ryan Hollins,Sasha Pavlovic,Wayne Ellington,DeJuan Blair,Garrett Temple,Keith Bogans,Matt Bonner,Roger Mason,4,0:04,MIN,shot,,,,,,,,,,Ramon Sessions,2,,,made,,layup,25,6

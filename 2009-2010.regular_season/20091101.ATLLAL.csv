@@ -1,0 +1,458 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,12:00,OFF,jump ball,,Josh Smith,,,Andrew Bynum,,,,,,,Kobe Bryant,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:43,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,26,28
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:42,LAL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:37,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:36,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:26,ATL,shot,Joe Johnson,,,,,,,,,Mike Bibby,3,,,made,,3pt,12,27
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:09,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,turnaround hook,25,11
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:06,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:59,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,18,32
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:59,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:52,ATL,shot,Al Horford,,,,,,,,,Joe Johnson,2,,,made,,jump,40,17
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:35,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:33,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:21,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,45,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:20,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:10,LAL,shot,Lamar Odom,,,,,,,,,Andrew Bynum,2,,,made,,jump,18,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:50,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,41,5
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:48,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:42,LAL,turnover,,,,,,,,,,Andrew Bynum,,,lost ball,,Joe Johnson,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:39,ATL,turnover,,,,,,,,,,Al Horford,,,bad pass,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:20,LAL,shot,,,,,,,,,,Derek Fisher,2,,,made,,jump,38,19
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:08,ATL,foul,,,,,,,,Derek Fisher,,Josh Smith,,,,,,offensive,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:08,ATL,turnover,,,,,,,,,,Josh Smith,,,foul,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:51,LAL,shot,Ron Artest,,,,,,,,,Lamar Odom,3,,,made,,3pt,1,5
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:35,ATL,shot,Mike Bibby,,,,,,,,,Joe Johnson,2,,,made,,jump,6,7
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:23,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,18,18
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:22,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:15,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,driving layup,27,11
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:55,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,jump,29,10
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:54,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:40,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,48,9
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:39,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:21,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,43,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:20,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:12,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,2,9
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:11,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:00,LAL,shot,Derek Fisher,,,,,,,,,Andrew Bynum,2,,,made,,hook,19,9
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,6:43,ATL,turnover,,,,,,,,,,Al Horford,,,lost ball,,Kobe Bryant,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,6:38,LAL,shot,Derek Fisher,,,,,,,,,Kobe Bryant,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,6:24,ATL,shot,Josh Smith,,,,,,,,,Joe Johnson,2,,,made,,slam dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,6:05,LAL,shot,Andrew Bynum,,,,,,,,,Derek Fisher,2,,,made,,jump,21,26
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:49,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,Derek Fisher,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:46,LAL,turnover,,,,,,,,,,Kobe Bryant,,,bad pass,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:46,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:46,ATL,sub,,,,Jamal Crawford,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:32,ATL,shot,Josh Smith,,,,,,,,,Joe Johnson,3,,,made,,3pt,48,9
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:19,LAL,shot,Derek Fisher,,,,,,,,,Kobe Bryant,2,,,made,,turnaround jump,33,15
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:02,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,35,25
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:00,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:51,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:50,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:43,ATL,turnover,,,,,,,,,,Marvin Williams,,,lost ball,,Kobe Bryant,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:39,ATL,foul,,,,,,,,Kobe Bryant,,Joe Johnson,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:39,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:39,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:19,ATL,shot,,,,,,,,,,Joe Johnson,3,,,made,,3pt,15,31
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:07,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,turnaround fade away,15,21
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:58,ATL,sub,,,,Maurice Evans,,Marvin Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:50,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,jump,39,18
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:39,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,jump,27,9
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:38,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:30,ATL,shot,Josh Smith,,,,,,,,,Joe Johnson,3,,,made,,3pt,2,9
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:30,LAL,foul,,,,,,,,Joe Johnson,,Kobe Bryant,,,,,,shooting,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:30,ATL,sub,,,,Zaza Pachulia,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:30,ATL,free throw,,,,,,,1,,1,Joe Johnson,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:16,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,jump,33,20
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:01,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,3:01,LAL,sub,,,,Jordan Farmar,,Derek Fisher,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,3:01,LAL,sub,,,,D.J. Mbenga,,Andrew Bynum,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:53,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,49,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:51,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:50,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:50,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:50,ATL,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:39,ATL,foul,,,,,,,,Kobe Bryant,,Maurice Evans,,,,,,personal,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:39,ATL,sub,,,,Jeff Teague,,Joe Johnson,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:31,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,turnaround jump,41,19
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:27,ATL,rebound,,,,,,,,,,Maurice Evans,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:23,ATL,shot,Maurice Evans,,,,,,,,,Zaza Pachulia,2,,,made,,driving layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:12,ATL,foul,,,,,,,,Kobe Bryant,,Jamal Crawford,,,,,,personal,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:05,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,27,12
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:04,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:03,ATL,foul,,,,,,,,D.J. Mbenga,,Jeff Teague,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:03,LAL,free throw,,,,,,,1,,2,D.J. Mbenga,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:03,LAL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,2:03,LAL,free throw,,,,,,,2,,2,D.J. Mbenga,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,1:51,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,18,28
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,1:49,LAL,rebound,,,,,,,,,,D.J. Mbenga,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,1:40,LAL,shot,,,Maurice Evans,,,,,,,Jordan Farmar,,,,missed,,jump,26,11
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,1:39,ATL,rebound,,,,,,,,,,Jeff Teague,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,1:34,ATL,turnover,,,,,,,,,,Josh Smith,,,traveling,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,1:27,LAL,foul,,,,,,,,Jeff Teague,,Lamar Odom,,,,,,offensive,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,1:27,LAL,turnover,,,,,,,,,,Lamar Odom,,,foul,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,1:10,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,jump,15,20
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,1:09,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,1:05,ATL,shot,,,,,,,,,,Zaza Pachulia,,,,missed,,dunk,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,1:02,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,0:58,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,0:56,LAL,rebound,,,,,,,,,,D.J. Mbenga,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,0:54,LAL,shot,,,,,,,,,,D.J. Mbenga,2,,,made,,jump,18,19
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,0:40,ATL,shot,,,D.J. Mbenga,,,,,,,Jamal Crawford,,,,missed,,jump,29,12
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,0:38,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,0:32,LAL,shot,Jordan Farmar,,,,,,,,,Kobe Bryant,3,,,made,,3pt,49,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,1,0:13,ATL,turnover,,,,,,,,,,Jamal Crawford,,,palming turnover,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:13,LAL,sub,,,,Sasha Vujacic,,D.J. Mbenga,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:13,LAL,violation,,,,,,,,,,,,,,,,delay of game,,
+Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Maurice Evans,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:13,ATL,sub,,,,Marvin Williams,,Zaza Pachulia,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Maurice Evans,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:00,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,23,27
+Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Maurice Evans,Jordan Farmar,Kobe Bryant,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:00,LAL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,11:50,ATL,shot,,,,,,,,,,Zaza Pachulia,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,11:48,LAL,rebound,,,,,,,,,,Jordan Farmar,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,11:35,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,jump,19,14
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,11:33,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,11:28,ATL,turnover,,,,,,,,,,Jamal Crawford,,,bad pass,,Jordan Farmar,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,11:20,LAL,shot,Sasha Vujacic,,,,,,,,,Luke Walton,2,,,made,,jump,42,7
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,11:02,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,3pt,2,10
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,11:00,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,off,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,10:59,ATL,shot,Jeff Teague,,,,,,,,,Maurice Evans,2,,,made,,layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,10:44,LAL,shot,,,,,,,,,,Luke Walton,2,,,made,,pullup jump,22,11
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,10:28,ATL,turnover,,,,,,,,,,Jeff Teague,,,lost ball,,Sasha Vujacic,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,10:24,ATL,foul,,,,,,,,Jordan Farmar,,Zaza Pachulia,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,10:24,LAL,free throw,,,,,,,1,,2,Jordan Farmar,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,10:24,LAL,free throw,,,,,,,2,,2,Jordan Farmar,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,10:09,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,49,9
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,10:08,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,off,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,10:05,LAL,foul,,,,,,,,Jamal Crawford,,Sasha Vujacic,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,10:05,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,10:05,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,9:53,ATL,foul,,,,,,,,Ron Artest,,Maurice Evans,,,,,,personal,,
+Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,9:53,ATL,sub,,,,Mike Bibby,,Jeff Teague,,,,,,,,,,,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,9:53,ATL,sub,,,,Marvin Williams,,Maurice Evans,,,,,,,,,,,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,9:44,LAL,turnover,,,,,,,,,,Luke Walton,,,bad pass,,Mike Bibby,,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,9:41,LAL,foul,,,,,,,,Joe Smith,,Luke Walton,,,,,,shooting,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,9:41,ATL,free throw,,,,,,,1,,2,Joe Smith,,,foul,made,,,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,9:41,ATL,free throw,,,,,,,2,,2,Joe Smith,,,foul,made,,,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,9:28,LAL,shot,Jordan Farmar,,,,,,,,,Sasha Vujacic,2,,,made,,jump,12,22
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,9:12,ATL,shot,,,,,,,,,,Zaza Pachulia,,,,missed,,layup,25,6
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,9:11,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,off,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,9:11,ATL,shot,,,,,,,,,,Zaza Pachulia,2,,,made,,tip,25,6
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,8:57,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,5,23
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,8:56,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,8:49,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,driving layup,25,6
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,8:49,LAL,foul,,,,,,,,Jamal Crawford,,Andrew Bynum,,,,,,shooting,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Sasha Vujacic,2,8:49,ATL,timeout,,,,,,,,,,,,,,,,official,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Luke Walton,Sasha Vujacic,Shannon Brown,2,8:49,LAL,sub,,,,Shannon Brown,,Ron Artest,,,,,,,,,,,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,8:49,LAL,sub,,,,Lamar Odom,,Sasha Vujacic,,,,,,,,,,,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,8:49,ATL,free throw,,,,,,,1,,1,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,8:38,LAL,shot,Luke Walton,,,,,,,,,Andrew Bynum,2,,,made,,slam dunk,25,6
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,8:16,ATL,shot,,,,,,,,,,Mike Bibby,2,,,made,,floating jump,24,17
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,7:54,LAL,shot,Lamar Odom,,,,,,,,,Jordan Farmar,3,,,made,,3pt,50,9
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,7:33,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,26,14
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,7:32,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Jamal Crawford,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,7:28,ATL,foul,,,,,,,,Andrew Bynum,,Zaza Pachulia,,,,,,shooting,,
+Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,7:28,ATL,sub,,,,Joe Johnson,,Jamal Crawford,,,,,,,,,,,,
+Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,7:28,LAL,sub,,,,Kobe Bryant,,Jordan Farmar,,,,,,,,,,,,
+Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Zaza Pachulia,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,7:28,LAL,free throw,,,,,,,1,,2,Andrew Bynum,,,foul,made,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,7:28,ATL,sub,,,,Al Horford,,Zaza Pachulia,,,,,,,,,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,7:28,LAL,free throw,,,,,,,2,,2,Andrew Bynum,,,foul,made,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,7:10,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,37,32
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,7:09,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,7:03,ATL,turnover,,,,,,,,,,Joe Johnson,,,lost ball,,Shannon Brown,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:53,LAL,shot,,,,,,,,,,Luke Walton,,,,missed,,3pt,34,32
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:52,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,off,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:47,LAL,shot,,,,,,,,,,Luke Walton,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:45,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,def,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:38,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,37,15
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:37,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:28,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,3pt,10,28
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:27,LAL,rebound,,,,,,,,,,Luke Walton,,,,,,def,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:17,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,jump,38,12
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:16,LAL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:09,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,12,22
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,6:07,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,def,,
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,5:56,ATL,shot,Joe Johnson,,,,,,,,,Joe Smith,2,,,made,,jump,27,18
+Al Horford,Joe Johnson,Joe Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,5:45,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,2,5:45,ATL,sub,,,,Josh Smith,,Joe Smith,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Kobe Bryant,Lamar Odom,Luke Walton,Ron Artest,Shannon Brown,2,5:45,LAL,sub,,,,Ron Artest,,Andrew Bynum,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,5:45,LAL,sub,,,,Josh Powell,,Luke Walton,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,5:35,LAL,turnover,,,,,,,,,,Kobe Bryant,,,lost ball,,Mike Bibby,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,5:31,LAL,foul,,,,,,,,Joe Johnson,,Shannon Brown,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,5:31,ATL,free throw,,,,,,,1,,2,Joe Johnson,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,5:31,ATL,free throw,,,,,,,2,,2,Joe Johnson,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,5:30,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,5:08,LAL,shot,,,,,,,,,,Josh Powell,2,,,made,,turnaround jump,33,7
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,4:52,LAL,foul,,,,,,,,Marvin Williams,,Ron Artest,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,4:52,ATL,free throw,,,,,,,1,,2,Marvin Williams,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,4:52,ATL,free throw,,,,,,,2,,2,Marvin Williams,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,4:44,LAL,turnover,,,,,,,,,,Lamar Odom,,,bad pass,,Josh Smith,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,4:40,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,slam dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,4:23,LAL,shot,,,,,,,,,,Josh Powell,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,4:11,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,jump bank,15,15
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,3:51,LAL,shot,Ron Artest,,,,,,,,,Lamar Odom,2,,,made,,driving finger roll layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,3:30,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,18,25
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,3:29,LAL,rebound,,,,,,,,,,Josh Powell,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,3:20,LAL,shot,,,,,,,,,,Shannon Brown,3,,,made,,3pt,38,26
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,3:05,LAL,foul,,,,,,,,Marvin Williams,,Josh Powell,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,2,3:05,LAL,sub,,,,Derek Fisher,,Shannon Brown,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Ron Artest,2,3:05,ATL,free throw,,,,,,,1,,2,Marvin Williams,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,3:05,LAL,sub,,,,Andrew Bynum,,Josh Powell,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,3:05,ATL,free throw,,,,,,,2,,2,Marvin Williams,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:49,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,fade away jumper,18,17
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:32,ATL,shot,Marvin Williams,,,,,,,,,Al Horford,2,,,made,,jump,5,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:22,ATL,foul,,,,,,,,Lamar Odom,,Josh Smith,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:22,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:22,LAL,free throw,,,,,,,1,,2,Lamar Odom,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:22,LAL,free throw,,,,,,,2,,2,Lamar Odom,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:12,LAL,foul,,,,,,,,,,Andrew Bynum,,,,,,defense 3 second,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:12,ATL,sub,,,,Jamal Crawford,,Josh Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:12,ATL,free throw,,,,,,,1,,1,Joe Johnson,,,technical,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:03,ATL,timeout,,,,,,,,,,,,,,,,short,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:03,LAL,foul,,,,,,,,Mike Bibby,,Derek Fisher,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:03,ATL,free throw,,,,,,,1,,2,Mike Bibby,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:03,ATL,free throw,,,,,,,2,,2,Mike Bibby,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:52,LAL,shot,Ron Artest,,,,,,,,,Kobe Bryant,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:30,ATL,shot,,,,,,,,,,Al Horford,2,,,made,,turnaround jump,23,18
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:10,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,fade away jumper,18,19
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:08,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:07,LAL,shot,,,,,,,,,,Andrew Bynum,2,,,made,,putback dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:48,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,driving layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:47,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:40,LAL,shot,Lamar Odom,,,,,,,,,Ron Artest,3,,,made,,3pt,27,32
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:33,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:32,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:28,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:06,LAL,foul,,,,,,,,Jamal Crawford,,Kobe Bryant,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:06,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,0:06,LAL,sub,,,,Shannon Brown,,Andrew Bynum,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,0:06,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,Shannon Brown,2,0:06,LAL,turnover,,,,,,,,,,Lamar Odom,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:06,LAL,sub,,,,Andrew Bynum,,Shannon Brown,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:05,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,45,22
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:03,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:02,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,26,12
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:00,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,11:36,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,11:35,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,11:34,ATL,shot,,,,,,,,,,Al Horford,2,,,made,,slam dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,11:06,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,jump,28,27
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,11:05,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:49,ATL,shot,Joe Johnson,,,,,,,,,Marvin Williams,2,,,made,,jump hook,26,15
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:31,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,16,22
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:30,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:10,ATL,shot,,,Andrew Bynum,,,,,,,Al Horford,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:09,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:07,ATL,turnover,,,,,,,,,,Al Horford,,,lost ball,,Kobe Bryant,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:00,LAL,shot,,,Josh Smith,,,,,,,Lamar Odom,,,,missed,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,9:57,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,9:48,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,2,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,9:46,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,9:38,LAL,shot,Kobe Bryant,,,,,,,,,Andrew Bynum,2,,,made,,alley oop dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,9:11,ATL,shot,Josh Smith,,,,,,,,,Mike Bibby,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,9:00,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,8:58,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,8:57,LAL,shot,,,,,,,,,,Ron Artest,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,8:39,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,3pt,18,31
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,8:38,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,8:25,LAL,shot,,,,,,,,,,Derek Fisher,2,,,made,,jump,26,28
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,8:06,ATL,shot,Josh Smith,,,,,,,,,Mike Bibby,3,,,made,,3pt,48,16
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,7:55,ATL,foul,,,,,,,,Kobe Bryant,,Marvin Williams,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,7:55,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,7:55,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,7:35,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,26,13
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,7:34,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,7:30,ATL,violation,,,,,,,,,,Marvin Williams,,,,,,kicked ball,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,7:22,LAL,turnover,,,,,,,,,,Derek Fisher,,,bad pass,,Josh Smith,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,7:18,ATL,turnover,,,,,,,,,,Josh Smith,,,lost ball,,Derek Fisher,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,7:14,LAL,shot,Ron Artest,,,,,,,,,Kobe Bryant,2,,,made,,slam dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,6:44,ATL,shot,Joe Johnson,,,,,,,,,Mike Bibby,3,,,made,,3pt,48,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,6:34,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,3pt,16,31
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,6:33,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,6:23,ATL,shot,,,Ron Artest,,,,,,,Al Horford,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,6:20,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,6:17,LAL,shot,Lamar Odom,,,,,,,,,Kobe Bryant,2,,,made,,slam dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:52,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,24,14
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:51,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:46,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,37,28
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:43,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:43,LAL,shot,Lamar Odom,,,,,,,,,Kobe Bryant,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:43,ATL,foul,,,,,,,,Kobe Bryant,,Al Horford,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:43,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:43,ATL,sub,,,,Jamal Crawford,,Marvin Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:43,LAL,free throw,,,,,,,1,,1,Kobe Bryant,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:40,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:30,ATL,foul,,,,,,,,Kobe Bryant,,Al Horford,,,,,,offensive,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:30,ATL,turnover,,,,,,,,,,Al Horford,,,foul,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:20,ATL,foul,,,,,,,,Kobe Bryant,,Jamal Crawford,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:15,ATL,foul,,,,,,,,Ron Artest,,Josh Smith,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:08,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,3pt,2,7
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:06,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,5:00,LAL,shot,Kobe Bryant,,,,,,,,,Andrew Bynum,2,,,made,,slam dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,4:42,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,48,15
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,4:41,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,4:30,LAL,shot,,,Al Horford,,,,,,,Andrew Bynum,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,4:28,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,4:27,LAL,shot,,,,,,,,,,Lamar Odom,2,,,made,,hook,28,9
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,4:19,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Mike Bibby,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,4:19,ATL,sub,,,,Maurice Evans,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,4:19,ATL,sub,,,,Zaza Pachulia,,Mike Bibby,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,4:10,ATL,turnover,,,,,,,,,,Zaza Pachulia,,,lost ball,,Kobe Bryant,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,4:04,LAL,shot,Kobe Bryant,,,,,,,,,Ron Artest,2,,,made,,slam dunk,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,3:45,ATL,jump ball,,Jamal Crawford,,,Kobe Bryant,,,,,,,Kobe Bryant,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,3:45,ATL,turnover,,,,,,,,,,Jamal Crawford,,,lost ball,,Kobe Bryant,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,3:36,LAL,shot,Lamar Odom,,,,,,,,,Andrew Bynum,2,,,made,,alley oop dunk,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,3:21,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,28,12
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,3:19,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,3:19,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,tip,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,3:17,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,3:15,LAL,shot,,,,,,,,,,Ron Artest,2,,,made,,slam dunk,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,2:56,ATL,turnover,,,,,,,,,,Jamal Crawford,,,bad pass,,Derek Fisher,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,2:45,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,fade away jumper,31,15
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,2:42,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,2:41,ATL,turnover,,,,,,,,,,Zaza Pachulia,,,bad pass,,Lamar Odom,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,2:37,LAL,shot,Lamar Odom,,,,,,,,,Andrew Bynum,2,,,made,,slam dunk,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,2:35,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,2:19,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,3pt,9,26
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,2:17,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,2:07,ATL,foul,,,,,,,,Kobe Bryant,,Josh Smith,,,,,,shooting,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,2:07,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,3,2:07,LAL,sub,,,,Luke Walton,,Ron Artest,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,3,2:07,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,3,2:01,LAL,foul,,,,,,,,Jamal Crawford,,Derek Fisher,,,,,,personal,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,3,1:52,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,16,17
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,3,1:51,LAL,rebound,,,,,,,,,,Luke Walton,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,3,1:43,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,jump,43,14
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,3,1:42,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,3,1:36,ATL,shot,Jamal Crawford,,,,,,,,,Zaza Pachulia,2,,,made,,driving layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,3,1:11,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,jump,16,25
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,3,1:09,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,3,1:07,LAL,foul,,,,,,,,Joe Johnson,,Derek Fisher,,,,,,personal,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,1:07,LAL,sub,,,,Jordan Farmar,,Derek Fisher,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,1:01,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,Luke Walton,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,0:58,LAL,shot,Lamar Odom,,,,,,,,,Kobe Bryant,2,,,made,,reverse slam dunk,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,0:46,LAL,foul,,,,,,,,Joe Johnson,,Kobe Bryant,,,,,,personal,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,0:46,ATL,free throw,,,,,,,1,,2,Joe Johnson,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,0:46,ATL,sub,,,,Joe Smith,,Josh Smith,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,0:46,ATL,free throw,,,,,,,2,,2,Joe Johnson,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,0:37,ATL,foul,,,,,,,,Kobe Bryant,,Zaza Pachulia,,,,,,shooting,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,0:37,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,0:37,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,0:32,LAL,foul,,,,,,,,Joe Johnson,,Kobe Bryant,,,,,,personal,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Luke Walton,3,0:32,ATL,free throw,,,,,,,1,,2,Joe Johnson,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Sasha Vujacic,3,0:32,LAL,sub,,,,Sasha Vujacic,,Kobe Bryant,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Sasha Vujacic,3,0:32,ATL,free throw,,,,,,,2,,2,Joe Johnson,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Sasha Vujacic,3,0:17,LAL,shot,,,,,,,,,,Sasha Vujacic,,,,missed,,jump,40,15
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Sasha Vujacic,3,0:16,LAL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Sasha Vujacic,3,0:09,LAL,shot,Luke Walton,,,,,,,,,Lamar Odom,2,,,made,,jump,25,25
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Sasha Vujacic,3,0:01,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,jump,14,19
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Sasha Vujacic,3,0:00,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,11:50,LAL,foul,,,,,,,,Jeff Teague,,D.J. Mbenga,,,,,,offensive,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,11:50,LAL,turnover,,,,,,,,,,D.J. Mbenga,,,foul,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,11:32,ATL,turnover,,,,,,,,,,Maurice Evans,,,bad pass,,D.J. Mbenga,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,11:20,LAL,shot,Jordan Farmar,,,,,,,,,Josh Powell,2,,,made,,jump,17,25
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,10:58,ATL,shot,Joe Smith,,,,,,,,,Zaza Pachulia,2,,,made,,slam dunk,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,10:28,LAL,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,10:17,ATL,shot,,,,,,,,,,Jeff Teague,,,,missed,,jump,19,23
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,10:16,LAL,rebound,,,,,,,,,,Josh Powell,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,10:10,ATL,foul,,,,,,,,Jordan Farmar,,Joe Smith,,,,,,personal,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,10:03,LAL,shot,Jordan Farmar,,,,,,,,,Luke Walton,2,,,made,,jump,35,7
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,9:47,ATL,shot,Jeff Teague,,,,,,,,,Joe Smith,2,,,made,,jump,29,16
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,9:20,LAL,turnover,,,,,,,,,,Jordan Farmar,,,step out of bounds turnover,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,9:10,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,jump,36,15
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,8:49,LAL,turnover,,,,,,,,,,Josh Powell,,,bad pass,,Jeff Teague,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,8:46,ATL,shot,,,,,,,,,,Jeff Teague,2,,,made,,driving layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,8:46,LAL,foul,,,,,,,,Jeff Teague,,Josh Powell,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,D.J. Mbenga,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,8:46,ATL,timeout,,,,,,,,,,,,,,,,official,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,Shannon Brown,4,8:46,LAL,sub,,,,Shannon Brown,,D.J. Mbenga,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,8:46,LAL,sub,,,,Ron Artest,,Sasha Vujacic,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,8:46,ATL,free throw,,,,,,,1,,1,Jeff Teague,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,8:45,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,8:27,LAL,shot,,,,,,,,,,Luke Walton,2,,,made,,jump,20,15
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,8:12,ATL,shot,,,Ron Artest,,,,,,,Joe Smith,,,,missed,,jump,44,8
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,8:12,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,8:07,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,48,7
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,8:06,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,off,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,8:04,ATL,shot,Joe Smith,,,,,,,,,Maurice Evans,2,,,made,,slam dunk,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:45,ATL,foul,,,,,,,,Ron Artest,,Joe Smith,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:45,LAL,free throw,,,,,,,1,,2,Ron Artest,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:45,LAL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:45,ATL,sub,,,,Al Horford,,Zaza Pachulia,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:45,LAL,free throw,,,,,,,2,,2,Ron Artest,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:33,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,3pt,47,19
+Al Horford,Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:33,LAL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:33,ATL,sub,,,,Joe Johnson,,Maurice Evans,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:23,LAL,turnover,,,,,,,,,,Shannon Brown,,,double dribble,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:17,ATL,shot,,,,,,,,,,Jeff Teague,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:17,LAL,foul,,,,,,,,Jeff Teague,,Jordan Farmar,,,,,,shooting,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,7:17,ATL,free throw,,,,,,,1,,1,Jeff Teague,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,6:56,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,3pt,48,8
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,6:56,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,6:56,LAL,foul,,,,,,,,Joe Smith,,Ron Artest,,,,,,loose ball,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,6:45,ATL,shot,Jeff Teague,,,,,,,,,Joe Smith,2,,,made,,jump,26,24
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Jordan Farmar,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,6:42,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Derek Fisher,Josh Powell,Luke Walton,Ron Artest,Shannon Brown,4,6:42,LAL,sub,,,,Derek Fisher,,Jordan Farmar,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Derek Fisher,Josh Powell,Lamar Odom,Ron Artest,Shannon Brown,4,6:42,LAL,sub,,,,Lamar Odom,,Luke Walton,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Andrew Bynum,Derek Fisher,Josh Powell,Lamar Odom,Ron Artest,4,6:42,LAL,sub,,,,Andrew Bynum,,Shannon Brown,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,6:42,LAL,sub,,,,Kobe Bryant,,Josh Powell,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,6:25,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,37,19
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,6:24,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,6:06,ATL,shot,,,Ron Artest,,,,,,,Joe Johnson,,,,missed,,jump,11,22
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,6:04,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,5:55,ATL,shot,,,,,,,,,,Jeff Teague,2,,,made,,jump,39,17
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,5:38,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,5:22,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,5:21,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,5:13,ATL,foul,,,,,,,,Andrew Bynum,,Al Horford,,,,,,shooting,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,5:13,ATL,sub,,,,Josh Smith,,Joe Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,5:13,LAL,free throw,,,,,,,1,,2,Andrew Bynum,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,5:13,LAL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,5:13,LAL,free throw,,,,,,,2,,2,Andrew Bynum,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:56,ATL,shot,,,Andrew Bynum,,,,,,,Josh Smith,,,,missed,,dunk,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:55,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:55,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:55,LAL,foul,,,,,,,,Josh Smith,,Lamar Odom,,,,,,shooting,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:55,ATL,free throw,,,,,,,1,,1,Josh Smith,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:46,LAL,turnover,,,,,,,,,,Lamar Odom,,,bad pass,,Al Horford,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:39,ATL,shot,,,,,,,,,,Jeff Teague,2,,,made,,driving slam dunk,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:17,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,jump,39,22
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:16,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:13,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:04,LAL,foul,,,,,,,,Joe Johnson,,Ron Artest,,,,,,personal,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:04,ATL,free throw,,,,,,,1,,2,Joe Johnson,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:04,ATL,free throw,,,,,,,2,,2,Joe Johnson,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,4:03,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,3:45,ATL,foul,,,,,,,,Kobe Bryant,,Al Horford,,,,,,shooting,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,3:45,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,3:45,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,3:30,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,49,8
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,3:29,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,3:28,LAL,turnover,,,,,,,,,,Kobe Bryant,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,3:21,ATL,shot,,,,,,,,,,Jeff Teague,3,,,made,,3pt,31,31
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,3:05,LAL,shot,,,,,,,,,,Ron Artest,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:47,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,33,7
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:46,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:37,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,40,26
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:35,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:34,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:22,ATL,shot,,,,,,,,,,Jeff Teague,,,,missed,,floating jump,20,11
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:22,LAL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:22,ATL,foul,,,,,,,,Andrew Bynum,,Jeff Teague,,,,,,loose ball,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:22,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:22,LAL,free throw,,,,,,,1,,2,Andrew Bynum,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:22,LAL,free throw,,,,,,,2,,2,Andrew Bynum,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,2:01,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,4,10
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,1:59,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,1:46,LAL,turnover,,,,,,,,,,Andrew Bynum,,,lost ball,,Jeff Teague,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,1:41,ATL,shot,Josh Smith,,,,,,,,,Jamal Crawford,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,1:25,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,39,18
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,1:24,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,1:09,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,1:00,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,41,24
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,0:59,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,0:53,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,0:31,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,3pt,14,30
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,0:30,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,0:26,ATL,shot,Josh Smith,,,,,,,,,Jamal Crawford,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,0:03,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,3pt,39,30
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,4,0:00,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,off,,

@@ -1,0 +1,469 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,12:00,OFF,jump ball,,Samuel Dalembert,,,Kendrick Perkins,,,,,,,Paul Pierce,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,11:56,PHI,violation,,,,,,,,,,Samuel Dalembert,,,,,,defensive goaltending,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,11:56,BOS,shot,,,,,,,,,,Paul Pierce,2,,,made,,layup,25,6
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,11:38,PHI,shot,Samuel Dalembert,,,,,,,,,Thaddeus Young,2,,,made,,layup,27,6
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,11:22,BOS,shot,Paul Pierce,,,,,,,,,Ray Allen,2,,,made,,running jump,30,11
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,11:07,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,layup,28,7
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,11:06,BOS,rebound,,,,,,,,,,Rajon Rondo,,,,,,def,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,10:59,BOS,shot,Kevin Garnett,,,,,,,,,Ray Allen,3,,,made,,3pt,48,6
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,10:31,PHI,shot,,,,,,,,,,Samuel Dalembert,,,,missed,,jump,34,15
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,10:31,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,10:31,PHI,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,10:16,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,3pt,46,19
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,10:15,PHI,rebound,,,,,,,,,,Jason Smith,,,,,,def,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,9:55,PHI,shot,,,,,,,,,,Samuel Dalembert,,,,missed,,turnaround jump,34,7
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,9:54,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,def,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,9:46,PHI,foul,,,,,,,,Kevin Garnett,,Jason Smith,,,,,,personal,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,9:34,BOS,shot,,,Jason Smith,,,,,,,Kendrick Perkins,,,,missed,,jump,30,10
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,9:32,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,9:28,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,layup,24,8
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,9:24,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,off,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,9:24,PHI,shot,,,,,,,,,,Andre Iguodala,2,,,made,,putback dunk,25,6
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,9:14,BOS,shot,,,,,,,,,,Rajon Rondo,2,,,made,,driving layup,23,7
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,8:54,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,reverse layup,25,6
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,8:53,PHI,rebound,,,,,,,,,,Jrue Holiday,,,,,,off,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,8:48,PHI,shot,Jrue Holiday,,,,,,,,,Jason Smith,3,,,made,,3pt,10,26
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,8:35,BOS,turnover,,,,,,,,,,Kevin Garnett,,,lost ball,,Thaddeus Young,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,8:30,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,layup,24,5
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,8:29,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,off,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,8:29,PHI,shot,,,,,,,,,,Samuel Dalembert,2,,,made,,putback layup,24,6
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,8:10,BOS,shot,,,,,,,,,,Paul Pierce,2,,,made,,jump,5,10
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,7:55,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,jump,8,5
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,7:54,PHI,rebound,,,,,,,,,,Jason Smith,,,,,,off,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,7:50,PHI,turnover,,,,,,,,,,Jrue Holiday,,,lost ball,,Rajon Rondo,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,7:41,BOS,shot,Ray Allen,,,,,,,,,Paul Pierce,3,,,made,,3pt,49,9
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,7:35,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,7:25,PHI,turnover,,,,,,,,,,Samuel Dalembert,,,out of bounds lost ball turnover,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,7:03,BOS,turnover,,,,,,,,,,Kendrick Perkins,,,3 second violation,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,6:44,PHI,shot,,,,,,,,,,Thaddeus Young,2,,,made,,fade away jumper,28,25
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,6:21,BOS,turnover,,,,,,,,,,Kevin Garnett,,,lost ball,,Samuel Dalembert,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,6:12,PHI,shot,Jrue Holiday,,,,,,,,,Andre Iguodala,2,,,made,,dunk,25,9
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,5:48,BOS,shot,,,,,,,,,,Kevin Garnett,2,,,made,,jump,40,10
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,5:41,PHI,turnover,,,,,,,,,,Thaddeus Young,,,lost ball,,Paul Pierce,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,5:41,BOS,turnover,,,,,,,,,,Rajon Rondo,,,out of bounds lost ball turnover,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,5:35,PHI,shot,Jrue Holiday,,,,,,,,,Andre Iguodala,2,,,made,,alley oop layup,26,7
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,5:14,PHI,foul,,,,,,,,Kendrick Perkins,,Jason Smith,,,,,,shooting,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,5:14,BOS,free throw,,,,,,,1,,2,Kendrick Perkins,,,foul,made,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,1,5:14,BOS,sub,,,,Marquis Daniels,,Ray Allen,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,1,5:14,BOS,free throw,,,,,,,2,,2,Kendrick Perkins,,,foul,made,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,1,4:58,PHI,shot,,,,,,,,,,Samuel Dalembert,,,,missed,,jump,39,10
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,1,4:57,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,1,4:50,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,layup,26,8
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,1,4:50,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,off,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,1,4:50,PHI,foul,,,,,,,,Kendrick Perkins,,Andre Iguodala,,,,,,shooting,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:50,BOS,sub,,,,Eddie House,,Rajon Rondo,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:50,BOS,free throw,,,,,,,1,,2,Kendrick Perkins,,,foul,made,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:50,BOS,free throw,,,,,,,2,,2,Kendrick Perkins,,,foul,missed,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:50,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,def,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:34,BOS,foul,,,,,,,,Jrue Holiday,,Kendrick Perkins,,,,,,shooting,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:34,PHI,sub,,,,Rodney Carney,,Jason Smith,,,,,,,,,,,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:34,PHI,free throw,,,,,,,1,,2,Jrue Holiday,,,foul,made,,,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:34,PHI,free throw,,,,,,,2,,2,Jrue Holiday,,,foul,missed,,,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:30,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,def,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:19,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,3pt,39,26
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:18,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,def,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:11,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,layup,24,8
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,4:10,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,def,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,3:58,BOS,shot,,,,,,,,,,Kendrick Perkins,2,,,made,,fade away jumper,32,10
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,3:36,PHI,shot,Rodney Carney,,,,,,,,,Jrue Holiday,2,,,made,,driving finger roll layup,25,7
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,3:14,BOS,shot,,,,,,,,,,Eddie House,,,,missed,,3pt,48,6
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,1,3:14,BOS,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Marquis Daniels,Paul Pierce,Rasheed Wallace,1,3:14,BOS,sub,,,,Rasheed Wallace,,Kevin Garnett,,,,,,,,,,,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Marquis Daniels,Paul Pierce,Rasheed Wallace,1,2:57,BOS,shot,,,,,,,,,,Rasheed Wallace,,,,missed,,3pt,24,30
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Marquis Daniels,Paul Pierce,Rasheed Wallace,1,2:56,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Marquis Daniels,Paul Pierce,Rasheed Wallace,1,2:52,PHI,turnover,,,,,,,,,,Andre Iguodala,,,bad pass,,,,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Kendrick Perkins,Marquis Daniels,Paul Pierce,Rasheed Wallace,1,2:52,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,2:52,BOS,sub,,,,Shelden Williams,,Kendrick Perkins,,,,,,,,,,,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,2:33,BOS,shot,,,,,,,,,,Marquis Daniels,,,,missed,,jump,24,12
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,2:31,BOS,rebound,,,,,,,,,,Shelden Williams,,,,,,off,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,2:29,BOS,shot,Marquis Daniels,,,,,,,,,Eddie House,2,,,made,,jump,7,7
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,2:13,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,jump,24,27
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,2:12,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,off,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,2:09,PHI,shot,,,,,,,,,,Samuel Dalembert,,,,missed,,fade away jumper,21,11
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,2:08,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,1:53,BOS,turnover,,,,,,,,,,Marquis Daniels,,,lost ball,,Andre Iguodala,,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,1:48,PHI,shot,,,,,,,,,,Andre Iguodala,2,,,made,,driving layup,24,7
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,1:25,BOS,shot,Paul Pierce,,,,,,,,,Rasheed Wallace,3,,,made,,3pt,22,31
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,1:03,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,3pt,37,27
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,1:02,BOS,rebound,,,,,,,,,,Shelden Williams,,,,,,def,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:47,BOS,shot,,,,,,,,,,Marquis Daniels,,,,missed,,hook,25,12
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:45,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:36,PHI,foul,,,,,,,,Paul Pierce,,Jrue Holiday,,,,,,offensive,,
+Andre Iguodala,Jrue Holiday,Rodney Carney,Samuel Dalembert,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:36,PHI,turnover,,,,,,,,,,Jrue Holiday,,,foul,,,,,
+Andre Iguodala,Jrue Holiday,Primoz Brezec,Rodney Carney,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:36,PHI,sub,,,,Primoz Brezec,,Samuel Dalembert,,,,,,,,,,,,
+Andre Iguodala,Jrue Holiday,Primoz Brezec,Rodney Carney,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:22,BOS,shot,,,,,,,,,,Shelden Williams,,,,missed,,layup,27,5
+Andre Iguodala,Jrue Holiday,Primoz Brezec,Rodney Carney,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:20,BOS,rebound,,,,,,,,,,Shelden Williams,,,,,,off,,
+Andre Iguodala,Jrue Holiday,Primoz Brezec,Rodney Carney,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:20,PHI,foul,,,,,,,,Shelden Williams,,Primoz Brezec,,,,,,shooting,,
+Andre Iguodala,Jrue Holiday,Primoz Brezec,Rodney Carney,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:20,BOS,free throw,,,,,,,1,,2,Shelden Williams,,,foul,made,,,,
+Andre Iguodala,Jrue Holiday,Primoz Brezec,Rodney Carney,Thaddeus Young,Lester Hudson,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:20,BOS,sub,,,,Lester Hudson,,Eddie House,,,,,,,,,,,,
+Andre Iguodala,Jrue Holiday,Primoz Brezec,Rodney Carney,Thaddeus Young,Lester Hudson,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:20,BOS,free throw,,,,,,,2,,2,Shelden Williams,,,foul,missed,,,,
+Andre Iguodala,Jrue Holiday,Primoz Brezec,Rodney Carney,Thaddeus Young,Lester Hudson,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:20,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Andre Iguodala,Jrue Holiday,Primoz Brezec,Rodney Carney,Thaddeus Young,Lester Hudson,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:03,PHI,shot,Andre Iguodala,,,,,,,,,Rodney Carney,3,,,made,,3pt,48,9
+Andre Iguodala,Jrue Holiday,Primoz Brezec,Rodney Carney,Thaddeus Young,Lester Hudson,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:00,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,3pt,17,41
+Andre Iguodala,Jrue Holiday,Primoz Brezec,Rodney Carney,Thaddeus Young,Lester Hudson,Marquis Daniels,Paul Pierce,Rasheed Wallace,Shelden Williams,1,0:00,BOS,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,11:39,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,jump,16,23
+Andre Iguodala,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,11:38,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,11:29,PHI,shot,,,,,,,,,,Willie Green,2,,,made,,jump,20,25
+Andre Iguodala,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,11:09,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,3pt,47,17
+Andre Iguodala,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,11:08,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,off,,
+Andre Iguodala,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,11:05,BOS,shot,,,,,,,,,,Eddie House,,,,missed,,jump,23,29
+Andre Iguodala,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,11:03,BOS,rebound,,,,,,,,,,Ray Allen,,,,,,off,,
+Andre Iguodala,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,11:02,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,putback layup,25,7
+Andre Iguodala,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,11:02,BOS,rebound,,,,,,,,,,,,,,,,,,
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,11:02,PHI,sub,,,,Jason Kapono,,Andre Iguodala,,,,,,,,,,,,
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,10:55,BOS,shot,Eddie House,,,,,,,,,Ray Allen,2,,,made,,jump,4,9
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,10:41,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,jump,26,14
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,10:40,PHI,rebound,,,,,,,,,,Primoz Brezec,,,,,,off,,
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,10:38,PHI,shot,,,,,,,,,,Primoz Brezec,,,,missed,,tip,23,9
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,10:37,PHI,rebound,,,,,,,,,,Primoz Brezec,,,,,,off,,
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,10:35,PHI,shot,,,,,,,,,,Primoz Brezec,,,,missed,,layup,25,8
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,10:33,BOS,rebound,,,,,,,,,,Shelden Williams,,,,,,def,,
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Rasheed Wallace,Ray Allen,Shelden Williams,2,10:26,BOS,turnover,,,,,,,,,,Rasheed Wallace,,,bad pass,,,,,
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,10:26,BOS,sub,,,,Rajon Rondo,,Eddie House,,,,,,,,,,,,
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,10:06,PHI,shot,,,,,,,,,,Thaddeus Young,2,,,made,,running hook,24,12
+Jason Kapono,Primoz Brezec,Rodney Carney,Thaddeus Young,Willie Green,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,9:49,PHI,foul,,,,,,,,Rajon Rondo,,Primoz Brezec,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,9:49,PHI,sub,,,,Andre Iguodala,,Thaddeus Young,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,9:35,BOS,shot,,,,,,,,,,Rasheed Wallace,,,,missed,,turnaround fade away,23,12
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,9:34,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,9:26,PHI,shot,Andre Iguodala,,,,,,,,,Jason Kapono,3,,,made,,3pt,2,6
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,9:03,BOS,shot,,,,,,,,,,Marquis Daniels,,,,missed,,3pt,46,19
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,9:02,PHI,rebound,,,,,,,,,,Primoz Brezec,,,,,,def,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,8:58,BOS,foul,,,,,,,,Rodney Carney,,Ray Allen,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,8:58,PHI,timeout,,,,,,,,,,,,,,,,official,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,2,8:58,BOS,sub,,,,Brian Scalabrine,,Shelden Williams,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,2,8:58,PHI,free throw,,,,,,,1,,2,Rodney Carney,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,2,8:58,PHI,free throw,,,,,,,2,,2,Rodney Carney,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,2,8:45,PHI,foul,,,,,,,,Rasheed Wallace,,Andre Iguodala,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,2,8:39,PHI,foul,,,,,,,,Marquis Daniels,,Primoz Brezec,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,2,8:39,BOS,free throw,,,,,,,1,,2,Marquis Daniels,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,2,8:39,BOS,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,2,8:39,BOS,free throw,,,,,,,2,,2,Marquis Daniels,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,2,8:27,PHI,shot,Willie Green,,,,,,,,,Jason Kapono,2,,,made,,jump,25,28
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Marquis Daniels,Rajon Rondo,Rasheed Wallace,Ray Allen,2,8:12,BOS,turnover,,,,,,,,,,Marquis Daniels,,,traveling,,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Kendrick Perkins,Marquis Daniels,Rajon Rondo,Ray Allen,2,8:12,BOS,sub,,,,Kendrick Perkins,,Rasheed Wallace,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Kendrick Perkins,Marquis Daniels,Rajon Rondo,Ray Allen,2,7:57,PHI,shot,,,,,,,,,,Willie Green,,,,missed,,jump,32,21
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Kendrick Perkins,Marquis Daniels,Rajon Rondo,Ray Allen,2,7:56,BOS,rebound,,,,,,,,,,Ray Allen,,,,,,def,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Kendrick Perkins,Marquis Daniels,Rajon Rondo,Ray Allen,2,7:43,BOS,shot,,,,,,,,,,Kendrick Perkins,2,,,made,,jump hook,25,11
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Kendrick Perkins,Marquis Daniels,Rajon Rondo,Ray Allen,2,7:23,PHI,turnover,,,,,,,,,,Willie Green,,,lost ball,,Brian Scalabrine,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Kendrick Perkins,Marquis Daniels,Rajon Rondo,Ray Allen,2,7:16,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,3pt,13,28
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Kendrick Perkins,Marquis Daniels,Rajon Rondo,Ray Allen,2,7:15,PHI,rebound,,,,,,,,,,Primoz Brezec,,,,,,def,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Rodney Carney,Willie Green,Brian Scalabrine,Kendrick Perkins,Marquis Daniels,Rajon Rondo,Ray Allen,2,7:07,BOS,foul,,,,,,,,Willie Green,,Kendrick Perkins,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Rodney Carney,Samuel Dalembert,Willie Green,Brian Scalabrine,Kendrick Perkins,Marquis Daniels,Rajon Rondo,Ray Allen,2,7:07,PHI,sub,,,,Samuel Dalembert,,Primoz Brezec,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Rodney Carney,Samuel Dalembert,Willie Green,Brian Scalabrine,Kendrick Perkins,Marquis Daniels,Rajon Rondo,Ray Allen,2,7:07,PHI,free throw,,,,,,,1,,2,Willie Green,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Rodney Carney,Samuel Dalembert,Willie Green,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,2,7:07,BOS,sub,,,,Kevin Garnett,,Brian Scalabrine,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Rodney Carney,Samuel Dalembert,Willie Green,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,2,7:07,PHI,free throw,,,,,,,2,,2,Willie Green,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Rodney Carney,Samuel Dalembert,Willie Green,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,2,6:45,BOS,shot,,,,,,,,,,Marquis Daniels,,,,missed,,3pt,48,13
+Andre Iguodala,Jason Kapono,Rodney Carney,Samuel Dalembert,Willie Green,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,2,6:44,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,off,,
+Andre Iguodala,Jason Kapono,Rodney Carney,Samuel Dalembert,Willie Green,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,2,6:43,PHI,foul,,,,,,,,Kendrick Perkins,,Willie Green,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Rodney Carney,Samuel Dalembert,Willie Green,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:43,BOS,sub,,,,Paul Pierce,,Marquis Daniels,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Rodney Carney,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:43,PHI,sub,,,,Thaddeus Young,,Willie Green,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:43,PHI,sub,,,,Jrue Holiday,,Rodney Carney,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:43,BOS,free throw,,,,,,,1,,2,Kendrick Perkins,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:43,BOS,free throw,,,,,,,2,,2,Kendrick Perkins,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:43,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:31,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,jump,27,19
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:30,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,off,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:27,PHI,shot,,,,,,,,,,Samuel Dalembert,2,,,made,,hook,22,9
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:12,PHI,foul,,,,,,,,Kevin Garnett,,Samuel Dalembert,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:12,BOS,free throw,,,,,,,1,,2,Kevin Garnett,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:12,BOS,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:12,BOS,free throw,,,,,,,2,,2,Kevin Garnett,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,6:01,PHI,shot,Jrue Holiday,,,,,,,,,Thaddeus Young,3,,,made,,3pt,47,18
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,5:45,BOS,shot,Rajon Rondo,,,,,,,,,Kevin Garnett,2,,,made,,reverse layup,27,7
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,5:37,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,5:23,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,jump,6,18
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,5:23,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,5:23,BOS,foul,,,,,,,,Samuel Dalembert,,Paul Pierce,,,,,,loose ball,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,5:14,PHI,shot,Jrue Holiday,,,,,,,,,Jason Kapono,2,,,made,,jump,24,24
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,4:59,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,turnaround fade away,32,10
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,4:57,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,4:49,PHI,jump ball,,Jrue Holiday,,,Ray Allen,,,,,,,Kevin Garnett,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,4:49,PHI,turnover,,,,,,,,,,Jrue Holiday,,,lost ball,,Ray Allen,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,4:27,BOS,shot,,,Samuel Dalembert,,,,,,,Kendrick Perkins,,,,missed,,layup,23,7
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,4:25,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,off,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,4:25,BOS,shot,,,,,,,,,,Kendrick Perkins,2,,,made,,putback layup,23,7
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,4:09,PHI,shot,,,,,,,,,,Andre Iguodala,2,,,made,,jump,38,24
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,3:58,BOS,shot,Rajon Rondo,,,,,,,,,Kevin Garnett,2,,,made,,layup,23,6
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,3:44,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,jump,21,7
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,3:43,BOS,rebound,,,,,,,,,,Ray Allen,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,3:37,PHI,foul,,,,,,,,Kevin Garnett,,Samuel Dalembert,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,3:37,BOS,free throw,,,,,,,1,,2,Kevin Garnett,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,3:37,PHI,sub,,,,Jason Smith,,Samuel Dalembert,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,3:37,BOS,free throw,,,,,,,2,,2,Kevin Garnett,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,3:15,PHI,shot,,,,,,,,,,Jason Kapono,,,,missed,,3pt,44,21
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,3:14,PHI,rebound,,,,,,,,,,Jason Smith,,,,,,off,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,3:11,PHI,shot,Jason Smith,,,,,,,,,Jason Kapono,3,,,made,,3pt,48,5
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,2:49,BOS,shot,Rajon Rondo,,,,,,,,,Paul Pierce,3,,,made,,3pt,2,9
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,2:36,PHI,turnover,,,,,,,,,,Andre Iguodala,,,bad pass,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,2:36,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,2:13,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,jump,42,17
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,2:12,PHI,rebound,,,,,,,,,,Jrue Holiday,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,2:02,PHI,turnover,,,,,,,,,,Jrue Holiday,,,bad pass,,Kendrick Perkins,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,1:58,BOS,shot,Rajon Rondo,,,,,,,,,Paul Pierce,2,,,made,,driving dunk,24,6
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,1:40,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,jump,36,9
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,1:39,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,off,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,1:38,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,putback layup,23,8
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,1:36,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,1:22,PHI,foul,,,,,,,,Kevin Garnett,,Jason Smith,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,1:22,BOS,free throw,,,,,,,1,,2,Kevin Garnett,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,1:22,BOS,free throw,,,,,,,2,,2,Kevin Garnett,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,1:04,PHI,shot,Jason Smith,,,,,,,,,Jason Kapono,2,,,made,,pullup jump,28,25
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:49,BOS,turnover,,,,,,,,,,Rajon Rondo,,,bad pass,,Thaddeus Young,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:42,PHI,shot,,,,,,,,,,Jason Kapono,,,,missed,,3pt,2,17
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:42,BOS,rebound,,,,,,,,,,Ray Allen,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:36,BOS,shot,,,,,,,,,,Kendrick Perkins,,,,missed,,layup,25,7
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:35,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,off,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:35,BOS,shot,,,,,,,,,,Kendrick Perkins,2,,,made,,putback layup,26,7
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:18,PHI,shot,,,Kendrick Perkins,,,,,,,Jason Kapono,,,,missed,,jump,14,21
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:17,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:17,PHI,timeout,,,,,,,,,,,,,,,,short,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:16,PHI,shot,Andre Iguodala,,,,,,,,,Jason Smith,2,,,made,,layup,26,5
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:00,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,3pt,47,19
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,2,0:00,PHI,rebound,,,,,,,,,,Jason Smith,,,,,,def,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,11:48,BOS,foul,,,,,,,,Jason Smith,,Kevin Garnett,,,,,,personal,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,11:39,PHI,shot,Jrue Holiday,,,,,,,,,Andre Iguodala,2,,,made,,jump,8,6
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,11:14,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,3pt,14,28
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,11:11,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,off,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,11:06,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,3pt,47,18
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,11:05,PHI,rebound,,,,,,,,,,Jason Smith,,,,,,def,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,10:58,PHI,shot,Andre Iguodala,,,,,,,,,Thaddeus Young,2,,,made,,alley oop layup,25,5
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,10:34,BOS,shot,,,,,,,,,,Ray Allen,2,,,made,,pullup jump,14,20
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,10:09,PHI,shot,,,,,,,,,,Jason Smith,,,,missed,,jump,22,6
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,10:08,BOS,rebound,,,,,,,,,,Rajon Rondo,,,,,,def,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,9:54,BOS,shot,Kevin Garnett,,,,,,,,,Paul Pierce,2,,,made,,driving dunk,25,7
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,9:32,PHI,shot,,,,,,,,,,Samuel Dalembert,,,,missed,,jump,44,7
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,9:31,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,def,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,9:25,PHI,foul,,,,,,,,Paul Pierce,,Jrue Holiday,,,,,,shooting,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,9:25,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,made,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,9:25,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,made,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,9:16,PHI,turnover,,,,,,,,,,Jason Smith,,,step out of bounds turnover,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,9:04,BOS,turnover,,,,,,,,,,Rajon Rondo,,,bad pass,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,8:57,BOS,foul,,,,,,,,Thaddeus Young,,Rajon Rondo,,,,,,personal,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,8:49,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,jump,15,21
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,8:48,BOS,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,8:36,BOS,shot,Kendrick Perkins,,,,,,,,,Paul Pierce,2,,,made,,layup,24,7
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,8:34,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,8:24,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,running hook,25,11
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,8:24,BOS,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,8:10,BOS,foul,,,,,,,,Thaddeus Young,,Kendrick Perkins,,,,,,offensive,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,8:10,BOS,turnover,,,,,,,,,,Kendrick Perkins,,,foul,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:56,PHI,shot,,,,,,,,,,Andre Iguodala,3,,,made,,3pt,2,7
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:34,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,layup,23,7
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:34,BOS,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:31,BOS,shot,Paul Pierce,,,,,,,,,Ray Allen,2,,,made,,layup,23,7
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:10,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,jump,20,21
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:08,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,off,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:08,PHI,shot,,,,,,,,,,Samuel Dalembert,,,,missed,,tip,25,6
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:07,BOS,rebound,,,,,,,,,,Kendrick Perkins,,,,,,def,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:05,PHI,foul,,,,,,,,Rajon Rondo,,Jrue Holiday,,,,,,personal,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,6:42,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,jump,36,20
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,6:42,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,6:42,BOS,foul,,,,,,,,Jason Smith,,Kendrick Perkins,,,,,,loose ball,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,6:42,BOS,sub,,,,Rasheed Wallace,,Kendrick Perkins,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,6:24,PHI,shot,Samuel Dalembert,,,,,,,,,Jrue Holiday,2,,,made,,jump,25,26
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,6:08,PHI,foul,,,,,,,,Paul Pierce,,Thaddeus Young,,,,,,personal,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,6:05,PHI,foul,,,,,,,,Paul Pierce,,Jason Smith,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,6:05,PHI,sub,,,,Jason Kapono,,Jason Smith,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,5:58,BOS,turnover,,,,,,,,,,Rasheed Wallace,,,bad pass,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,5:37,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,3pt,48,8
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,5:35,BOS,rebound,,,,,,,,,,Ray Allen,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,5:33,PHI,foul,,,,,,,,Ray Allen,,Jason Kapono,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,5:33,BOS,free throw,,,,,,,1,,2,Ray Allen,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,5:33,BOS,free throw,,,,,,,2,,2,Ray Allen,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,5:24,PHI,shot,,,,,,,,,,Jrue Holiday,2,,,made,,driving dunk,26,6
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,5:01,BOS,shot,,,,,,,,,,Ray Allen,2,,,made,,driving layup,24,7
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,4:47,PHI,shot,Andre Iguodala,,,,,,,,,Jason Kapono,2,,,made,,jump,10,23
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,4:21,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,3pt,1,12
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,4:21,BOS,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,4:21,PHI,foul,,,,,,,,Rasheed Wallace,,Jrue Holiday,,,,,,loose ball,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,4:21,BOS,sub,,,,Eddie House,,Rajon Rondo,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,4:21,BOS,free throw,,,,,,,1,,2,Rasheed Wallace,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,4:21,BOS,free throw,,,,,,,2,,2,Rasheed Wallace,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,4:21,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,4:13,PHI,turnover,,,,,,,,,,Andre Iguodala,,,bad pass,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:52,PHI,foul,,,,,,,,Kevin Garnett,,Jason Kapono,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:52,BOS,free throw,,,,,,,1,,2,Kevin Garnett,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:52,PHI,sub,,,,Royal Ivey,,Jrue Holiday,,,,,,,,,,,,
+Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:52,PHI,sub,,,,Willie Green,,Andre Iguodala,,,,,,,,,,,,
+Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:52,BOS,free throw,,,,,,,2,,2,Kevin Garnett,,,foul,made,,,,
+Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:34,PHI,shot,Willie Green,,,,,,,,,Royal Ivey,3,,,made,,3pt,17,30
+Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:21,PHI,foul,,,,,,,,Kevin Garnett,,Samuel Dalembert,,,,,,personal,,
+Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:21,BOS,foul,,,,,,,,,,Double,,,,,,technical,,
+Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:21,BOS,free throw,,,,,,,1,,2,Kevin Garnett,,,foul,made,,,,
+Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:21,BOS,free throw,,,,,,,2,,2,Kevin Garnett,,,foul,missed,,,,
+Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:20,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,def,,
+Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:13,BOS,foul,,,,,,,,Royal Ivey,,Paul Pierce,,,,,,personal,,
+Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:12,BOS,foul,,,,,,,,Willie Green,,Ray Allen,,,,,,personal,,
+Jason Kapono,Royal Ivey,Samuel Dalembert,Thaddeus Young,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:12,PHI,free throw,,,,,,,1,,2,Willie Green,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Royal Ivey,Samuel Dalembert,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:12,PHI,sub,,,,Andre Iguodala,,Thaddeus Young,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Royal Ivey,Samuel Dalembert,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:12,PHI,free throw,,,,,,,2,,2,Willie Green,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Royal Ivey,Samuel Dalembert,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:04,BOS,shot,,,,,,,,,,Eddie House,2,,,made,,jump,46,6
+Andre Iguodala,Jason Kapono,Royal Ivey,Samuel Dalembert,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:03,PHI,foul,,,,,,,,,,Samuel Dalembert,,,,,,technical,,
+Andre Iguodala,Jason Kapono,Royal Ivey,Samuel Dalembert,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,3:03,BOS,free throw,,,,,,,1,,1,Ray Allen,,,technical,made,,,,
+Andre Iguodala,Jason Kapono,Royal Ivey,Samuel Dalembert,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,2:50,PHI,shot,Royal Ivey,,,,,,,,,Willie Green,3,,,made,,3pt,21,30
+Andre Iguodala,Jason Kapono,Royal Ivey,Samuel Dalembert,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,2:37,PHI,foul,,,,,,,,Rasheed Wallace,,Andre Iguodala,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Royal Ivey,Samuel Dalembert,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,2:37,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,2:37,PHI,sub,,,,Primoz Brezec,,Samuel Dalembert,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,2:37,BOS,free throw,,,,,,,1,,2,Rasheed Wallace,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,2:37,BOS,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,2:37,BOS,free throw,,,,,,,2,,2,Rasheed Wallace,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,2:20,PHI,shot,,,,,,,,,,Willie Green,,,,missed,,jump,21,24
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,2:19,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,2:13,BOS,shot,,,,,,,,,,Paul Pierce,2,,,made,,reverse layup,26,6
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,2:02,PHI,shot,Andre Iguodala,,,,,,,,,Willie Green,2,,,made,,jump,41,5
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,1:43,BOS,shot,Ray Allen,,,,,,,,,Kevin Garnett,2,,,made,,jump,25,28
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Kevin Garnett,Paul Pierce,Rasheed Wallace,Ray Allen,3,1:36,BOS,foul,,,,,,,,Willie Green,,Rasheed Wallace,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Kevin Garnett,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,1:36,BOS,sub,,,,Marquis Daniels,,Ray Allen,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,1:36,BOS,sub,,,,Brian Scalabrine,,Kevin Garnett,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,1:36,PHI,free throw,,,,,,,1,,2,Willie Green,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,1:36,PHI,free throw,,,,,,,2,,2,Willie Green,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,1:29,BOS,shot,,,,,,,,,,Eddie House,,,,missed,,3pt,47,18
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,1:27,PHI,rebound,,,,,,,,,,Willie Green,,,,,,def,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,1:21,PHI,shot,Willie Green,,,,,,,,,Jason Kapono,3,,,made,,3pt,14,28
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,1:01,BOS,shot,,,,,,,,,,Rasheed Wallace,,,,missed,,3pt,48,8
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,1:00,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,0:55,PHI,shot,Jason Kapono,,,,,,,,,Willie Green,3,,,made,,3pt,48,7
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,0:45,PHI,foul,,,,,,,,Eddie House,,Royal Ivey,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,0:45,BOS,free throw,,,,,,,1,,2,Eddie House,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,0:45,BOS,free throw,,,,,,,2,,2,Eddie House,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,0:29,PHI,shot,Andre Iguodala,,,,,,,,,Willie Green,2,,,made,,running jump,25,16
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,0:04,BOS,shot,,,,,,,,,,Rasheed Wallace,,,,missed,,3pt,47,16
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,0:02,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,0:00,PHI,shot,,,,,,,,,,Primoz Brezec,,,,missed,,jump,42,5
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Brian Scalabrine,Eddie House,Marquis Daniels,Paul Pierce,Rasheed Wallace,3,0:00,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,11:47,PHI,foul,,,,,,,,Paul Pierce,,Primoz Brezec,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,11:47,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,11:47,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,11:31,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,jump,24,21
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,11:30,BOS,rebound,,,,,,,,,,Eddie House,,,,,,def,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,11:14,BOS,shot,Paul Pierce,,,,,,,,,Eddie House,3,,,made,,3pt,3,17
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:54,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,jump,30,21
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:53,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,def,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:46,BOS,shot,,,,,,,,,,Eddie House,,,,missed,,3pt,4,20
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:44,PHI,rebound,,,,,,,,,,Jason Kapono,,,,,,def,,
+Andre Iguodala,Jason Kapono,Primoz Brezec,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:40,BOS,foul,,,,,,,,Jason Kapono,,Rajon Rondo,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jason Smith,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:40,PHI,sub,,,,Jason Smith,,Primoz Brezec,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:24,BOS,foul,,,,,,,,Andre Iguodala,,Rasheed Wallace,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Jason Smith,Royal Ivey,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:24,PHI,free throw,,,,,,,1,,2,Andre Iguodala,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:24,PHI,sub,,,,Thaddeus Young,,Royal Ivey,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:24,PHI,free throw,,,,,,,2,,2,Andre Iguodala,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:16,PHI,foul,,,,,,,,Rajon Rondo,,Willie Green,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,10:06,BOS,shot,Marquis Daniels,,,,,,,,,Paul Pierce,3,,,made,,3pt,2,6
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:47,BOS,foul,,,,,,,,Thaddeus Young,,Rajon Rondo,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:37,PHI,turnover,,,,,,,,,,Thaddeus Young,,,traveling,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:24,BOS,shot,Rajon Rondo,,,,,,,,,Rasheed Wallace,3,,,made,,3pt,41,26
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:08,PHI,shot,,,Paul Pierce,,,,,,,Andre Iguodala,,,,missed,,jump,33,19
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:08,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:08,PHI,foul,,,,,,,,Paul Pierce,,Andre Iguodala,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:55,BOS,timeout,,,,,,,,,,,,,,,,official,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:51,BOS,shot,Paul Pierce,,,,,,,,,Rajon Rondo,2,,,made,,layup,24,8
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:28,PHI,shot,Willie Green,,,,,,,,,Jason Smith,3,,,made,,3pt,2,8
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:14,PHI,violation,,,,,,,,,,Thaddeus Young,,,,,,defensive goaltending,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:14,BOS,shot,,,,,,,,,,Rajon Rondo,2,,,made,,running jump,29,16
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:57,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,jump,32,14
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:56,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:39,BOS,shot,,,,,,,,,,Rajon Rondo,2,,,made,,running finger roll layup,24,7
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:31,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,layup,26,9
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:31,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Thaddeus Young,Willie Green,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:31,BOS,foul,,,,,,,,Jason Smith,,Marquis Daniels,,,,,,loose ball,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:31,PHI,sub,,,,Jrue Holiday,,Willie Green,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:22,PHI,shot,,,,,,,,,,Thaddeus Young,,,,missed,,layup,25,8
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:21,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:09,BOS,shot,Rajon Rondo,,,,,,,,,Marquis Daniels,2,,,made,,layup,24,7
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:45,BOS,foul,,,,,,,,Thaddeus Young,,Marquis Daniels,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:45,PHI,free throw,,,,,,,1,,2,Thaddeus Young,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:45,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:45,PHI,free throw,,,,,,,2,,2,Thaddeus Young,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:44,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:30,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,3pt,4,20
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:29,PHI,rebound,,,,,,,,,,Jrue Holiday,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:29,BOS,foul,,,,,,,,Jrue Holiday,,Rajon Rondo,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:29,PHI,free throw,,,,,,,1,,2,Jrue Holiday,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:29,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:29,PHI,free throw,,,,,,,2,,2,Jrue Holiday,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:11,BOS,shot,,,,,,,,,,Paul Pierce,2,,,made,,step back jump,17,19
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,5:57,BOS,foul,,,,,,,,Andre Iguodala,,Rasheed Wallace,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,5:57,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,5:57,PHI,free throw,,,,,,,1,,2,Andre Iguodala,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,5:57,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,5:57,PHI,free throw,,,,,,,2,,2,Andre Iguodala,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,5:40,BOS,shot,Rajon Rondo,,,,,,,,,Marquis Daniels,2,,,made,,layup,23,7
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,5:31,PHI,shot,,,,,,,,,,Jrue Holiday,,,,missed,,3pt,46,18
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,5:29,BOS,rebound,,,,,,,,,,Rajon Rondo,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,5:09,BOS,shot,,,,,,,,,,Rasheed Wallace,,,,missed,,3pt,11,28
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,5:08,BOS,rebound,,,,,,,,,,Marquis Daniels,,,,,,off,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,4:44,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,jump,21,29
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,4:43,PHI,rebound,,,,,,,,,,Jason Smith,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,4:39,PHI,shot,Andre Iguodala,,,,,,,,,Thaddeus Young,2,,,made,,layup,25,7
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,4:19,BOS,sub,,,,Kevin Garnett,,Rasheed Wallace,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,4:10,BOS,shot,,,,,,,,,,Marquis Daniels,,,,missed,,jump,31,27
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,4:09,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,off,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,4:07,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,layup,25,6
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,4:06,BOS,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,4:06,BOS,turnover,,,,,,,,,,Kevin Garnett,,,traveling,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,3:55,PHI,shot,,,,,,,,,,Thaddeus Young,2,,,made,,turnaround hook,30,9
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,3:27,BOS,shot,Kevin Garnett,,,,,,,,,Eddie House,2,,,made,,jump,24,28
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,3:17,BOS,foul,,,,,,,,Andre Iguodala,,Paul Pierce,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,3:17,BOS,sub,,,,Ray Allen,,Marquis Daniels,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Jrue Holiday,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,3:17,PHI,free throw,,,,,,,1,,2,Andre Iguodala,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,3:17,PHI,sub,,,,Samuel Dalembert,,Jason Smith,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,3:17,PHI,free throw,,,,,,,2,,2,Andre Iguodala,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,3:04,BOS,shot,Paul Pierce,,,,,,,,,Kevin Garnett,2,,,made,,layup,24,7
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,2:47,PHI,shot,,,,,,,,,,Andre Iguodala,,,,missed,,3pt,17,30
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,2:46,BOS,rebound,,,,,,,,,,Rajon Rondo,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,2:34,PHI,foul,,,,,,,,Rajon Rondo,,Jrue Holiday,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,2:34,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,2:30,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,driving layup,25,7
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,2:29,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,2:23,PHI,shot,Andre Iguodala,,,,,,,,,Jason Kapono,3,,,made,,3pt,18,30
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,2:03,PHI,foul,,,,,,,,Kevin Garnett,,Thaddeus Young,,,,,,shooting,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,2:03,BOS,free throw,,,,,,,1,,2,Kevin Garnett,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,2:03,BOS,free throw,,,,,,,2,,2,Kevin Garnett,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,2:01,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,1:45,PHI,shot,,,,,,,,,,Jrue Holiday,2,,,made,,driving layup,23,6
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,1:25,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,layup,26,7
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,1:24,PHI,rebound,,,,,,,,,,Samuel Dalembert,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,1:20,BOS,foul,,,,,,,,Andre Iguodala,,Eddie House,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,1:20,PHI,free throw,,,,,,,1,,2,Andre Iguodala,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,1:20,PHI,free throw,,,,,,,2,,2,Andre Iguodala,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,1:00,BOS,shot,,,,,,,,,,Eddie House,,,,missed,,3pt,41,24
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:59,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:45,PHI,turnover,,,,,,,,,,Thaddeus Young,,,lost ball,,Rajon Rondo,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:40,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,layup,27,7
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:38,PHI,rebound,,,,,,,,,,Thaddeus Young,,,,,,def,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:34,PHI,foul,,,,,,,,Paul Pierce,,Andre Iguodala,,,,,,offensive,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:34,PHI,turnover,,,,,,,,,,Andre Iguodala,,,foul,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:34,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:09,BOS,shot,Kevin Garnett,,,,,,,,,Rajon Rondo,2,,,made,,fade away jumper,42,7
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:09,PHI,timeout,,,,,,,,,,,,,,,,regular,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:09,BOS,sub,,,,Marquis Daniels,,Eddie House,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:06,PHI,shot,,,Marquis Daniels,,,,,,,Andre Iguodala,,,,missed,,3pt,29,31
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:05,PHI,rebound,,,,,,,,,,Andre Iguodala,,,,,,off,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:04,PHI,shot,,,,,,,,,,Andre Iguodala,3,,,made,,3pt,23,31
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:03,PHI,foul,,,,,,,,Ray Allen,,Thaddeus Young,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:03,BOS,free throw,,,,,,,1,,2,Ray Allen,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:03,BOS,free throw,,,,,,,2,,2,Ray Allen,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:03,PHI,timeout,,,,,,,,,,,,,,,,short,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:02,BOS,foul,,,,,,,,Thaddeus Young,,Rajon Rondo,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:02,PHI,free throw,,,,,,,1,,2,Thaddeus Young,,,foul,made,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:02,BOS,sub,,,,Kendrick Perkins,,Marquis Daniels,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:02,PHI,sub,,,,Jason Smith,,Jason Kapono,,,,,,,,,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:02,PHI,free throw,,,,,,,2,,2,Thaddeus Young,,,foul,made,,,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:02,BOS,timeout,,,,,,,,,,,,,,,,short,,
+Andre Iguodala,Jason Smith,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:02,BOS,sub,,,,Eddie House,,Kendrick Perkins,,,,,,,,,,,,
+Andre Iguodala,Jrue Holiday,Royal Ivey,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:02,PHI,sub,,,,Royal Ivey,,Jason Smith,,,,,,,,,,,,
+Andre Iguodala,Jrue Holiday,Royal Ivey,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:02,BOS,timeout,,,,,,,,,,,,,,,,short,,
+Andre Iguodala,Jrue Holiday,Royal Ivey,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:01,PHI,foul,,,,,,,,Eddie House,,Royal Ivey,,,,,,personal,,
+Andre Iguodala,Jrue Holiday,Royal Ivey,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:01,BOS,free throw,,,,,,,1,,2,Eddie House,,,foul,made,,,,
+Andre Iguodala,Jrue Holiday,Royal Ivey,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:01,BOS,free throw,,,,,,,2,,2,Eddie House,,,foul,made,,,,
+Andre Iguodala,Jrue Holiday,Royal Ivey,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:01,PHI,timeout,,,,,,,,,,,,,,,,short,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Eddie House,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,4,0:01,PHI,sub,,,,Jason Kapono,,Royal Ivey,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:01,BOS,sub,,,,Marquis Daniels,,Eddie House,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:01,BOS,foul,,,,,,,,Jason Kapono,,Paul Pierce,,,,,,personal,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:01,PHI,free throw,,,,,,,1,,2,Jason Kapono,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Jrue Holiday,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:01,PHI,rebound,,,,,,,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Samuel Dalembert,Thaddeus Young,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Ray Allen,4,0:01,PHI,sub,,,,Jason Smith,,Jrue Holiday,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,0:01,BOS,sub,,,,Kendrick Perkins,,Ray Allen,,,,,,,,,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,0:01,PHI,free throw,,,,,,,2,,2,Jason Kapono,,,foul,missed,,,,
+Andre Iguodala,Jason Kapono,Jason Smith,Samuel Dalembert,Thaddeus Young,Kendrick Perkins,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,4,0:01,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,

@@ -1,0 +1,451 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,12:00,OFF,jump ball,,Marc Gasol,,,Amare Stoudemire,,,,,,,Zach Randolph,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,11:40,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,43,10
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,11:38,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,11:24,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,11:06,MEM,shot,,,,,,,,,,Marc Gasol,2,,,made,,driving reverse layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,10:43,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,42,24
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,10:43,MEM,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,10:26,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,8,8
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,10:24,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,10:19,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,driving reverse layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,10:19,MEM,foul,,,,,,,,Steve Nash,,Mike Conley,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,10:19,PHX,free throw,,,,,,,1,,1,Steve Nash,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,10:18,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,9:57,MEM,shot,Mike Conley,,,,,,,,,Rudy Gay,3,,,made,,3pt,7,23
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,9:43,MEM,foul,,,,,,,,Channing Frye,,Zach Randolph,,,,,,personal,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,9:38,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,jump,24,14
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,9:36,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,9:32,MEM,shot,O.J. Mayo,,,,,,,,,Marc Gasol,2,,,made,,layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,9:32,PHX,foul,,,,,,,,Marc Gasol,,Channing Frye,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,9:32,MEM,free throw,,,,,,,1,,1,Marc Gasol,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,9:22,PHX,shot,Jason Richardson,,,,,,,,,Amare Stoudemire,2,,,made,,dunk,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,9:04,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,driving layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,8:55,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,driving layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,8:41,MEM,shot,,,,,,,,,,Mike Conley,2,,,made,,driving layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,8:25,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,jump,24,13
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,8:22,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,8:00,MEM,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,7:46,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,49,8
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,7:44,MEM,rebound,,,,,,,,,,Mike Conley,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,7:41,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,2,,,made,,dunk,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,7:27,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,14,29
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,7:26,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,7:21,MEM,turnover,,,,,,,,,,O.J. Mayo,,,lost ball,,Jason Richardson,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,7:11,PHX,shot,,,Zach Randolph,,,,,,,Channing Frye,,,,missed,,layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,7:09,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,7:02,MEM,shot,Rudy Gay,,,,,,,,,Zach Randolph,2,,,made,,turnaround bank,32,9
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,6:57,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,6:46,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,18,22
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,6:44,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,6:40,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,jump,19,12
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,6:15,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,turnaround jump,41,13
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,6:12,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,6:04,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,running jump,25,14
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,5:42,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,38,21
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,5:40,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,5:30,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,16,25
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,5:28,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,5:23,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,2,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,5:21,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,5:18,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,26,13
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,5:16,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,5:16,PHX,shot,,,,,,,,,,Channing Frye,2,,,made,,tip,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,5:03,MEM,shot,,,,,,,,,,Marc Gasol,2,,,made,,jump,15,22
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,1,4:51,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,dunk,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,4:29,PHX,sub,,,,Jared Dudley,,Jason Richardson,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,4:29,MEM,jump ball,,Marc Gasol,,,Channing Frye,,,,,,,Zach Randolph,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,4:24,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,turnaround jump,18,14
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,4:11,MEM,foul,,,,,,,,Steve Nash,,Mike Conley,,,,,,personal,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,4:11,MEM,sub,,,,Jamaal Tinsley,,Mike Conley,,,,,,,,,,,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,4:06,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,dunk,25,6
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,3:46,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump bank,18,9
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,3:43,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,off,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,3:42,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,layup,25,6
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,3:41,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,off,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,3:40,MEM,shot,,,,,,,,,,Marc Gasol,2,,,made,,layup,25,6
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,3:38,PHX,shot,Steve Nash,,,,,,,,,Grant Hill,2,,,made,,jump,37,20
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,3:33,MEM,turnover,,,,,,,,,,Rudy Gay,,,bad pass,,Amare Stoudemire,,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,3:29,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,jump,27,13
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,1,3:29,MEM,foul,,,,,,,,Amare Stoudemire,,Jamaal Tinsley,,,,,,shooting,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,1,3:29,PHX,sub,,,,Robin Lopez,,Channing Frye,,,,,,,,,,,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,1,3:29,PHX,free throw,,,,,,,1,,1,Amare Stoudemire,,,foul,missed,,,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,1,3:29,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,1,3:22,MEM,shot,Rudy Gay,,,,,,,,,O.J. Mayo,2,,,made,,jump,8,14
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,1,2:57,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,jump,25,14
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,1,2:44,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,18,10
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,1,2:42,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,off,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,1,2:36,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,26,13
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,1,2:34,MEM,rebound,,,,,,,,,,,,,,,,,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Robin Lopez,Steve Nash,1,2:34,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,2:34,PHX,sub,,,,Goran Dragic,,Grant Hill,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,2:34,MEM,sub,,,,Hasheem Thabeet,,Marc Gasol,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,2:23,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,turnaround jump,24,15
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,1:57,PHX,shot,,,,,,,,,,Robin Lopez,,,,missed,,jump,26,15
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,1:55,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,off,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,1:39,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,jump,37,19
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,1:23,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,37,20
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,1:22,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,1:22,PHX,foul,,,,,,,,Zach Randolph,,Amare Stoudemire,,,,,,personal,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,1:13,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,running bank,33,12
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,1:01,PHX,shot,,,,,,,,,,Steve Nash,3,,,made,,3pt,6,24
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,0:43,MEM,shot,Jamaal Tinsley,,,,,,,,,O.J. Mayo,3,,,made,,3pt,49,15
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,0:32,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,jump,33,25
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,0:20,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,34,11
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,0:18,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,0:15,PHX,shot,,,,,,,,,,Goran Dragic,2,,,made,,layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,0:03,MEM,sub,,,,Sam Young,,O.J. Mayo,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,0:00,MEM,shot,,,Goran Dragic,,,,,,,Sam Young,,,,missed,,jump,35,26
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Robin Lopez,Steve Nash,1,0:00,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,11:48,MEM,foul,,,,,,,,Amare Stoudemire,,Rudy Gay,,,,,,shooting,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,11:48,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,11:48,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,11:35,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,jump,46,15
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,11:13,PHX,shot,,,Hasheem Thabeet,,,,,,,Amare Stoudemire,,,,missed,,jump,22,12
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,11:11,MEM,rebound,,,,,,,,,,Jamaal Tinsley,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,11:08,PHX,foul,,,,,,,,Sam Young,,Louis Amundson,,,,,,shooting,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,11:08,MEM,free throw,,,,,,,1,,2,Sam Young,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,11:08,MEM,free throw,,,,,,,2,,2,Sam Young,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,10:46,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,jump bank,36,11
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,10:43,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,10:41,MEM,shot,Zach Randolph,,,,,,,,,Rudy Gay,2,,,made,,dunk,25,6
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,10:35,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,3pt,1,6
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,10:33,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,10:27,PHX,foul,,,,,,,,Sam Young,,Leandro Barbosa,,,,,,personal,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,10:17,MEM,shot,,,Louis Amundson,,,,,,,Hasheem Thabeet,,,,missed,,jump,29,12
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,10:15,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,10:09,PHX,turnover,,,,,,,,,,Goran Dragic,,,bad pass,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,9:52,MEM,shot,,,,,,,,,,Jamaal Tinsley,,,,missed,,3pt,14,30
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,9:52,MEM,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,9:52,PHX,foul,,,,,,,,Zach Randolph,,Louis Amundson,,,,,,loose ball,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,9:52,MEM,sub,,,,Marc Gasol,,Zach Randolph,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,9:52,MEM,sub,,,,O.J. Mayo,,Rudy Gay,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,9:52,PHX,sub,,,,Channing Frye,,Amare Stoudemire,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,9:41,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,driving layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,9:27,PHX,turnover,,,,,,,,,,Leandro Barbosa,,,bad pass,,O.J. Mayo,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,9:27,PHX,foul,,,,,,,,Sam Young,,Jared Dudley,,,,,,personal,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,9:12,MEM,shot,Sam Young,,,,,,,,,Hasheem Thabeet,2,,,made,,jump,34,14
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,8:58,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,jump,34,13
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,8:56,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,8:41,MEM,shot,,,,,,,,,,Sam Young,,,,missed,,jump,14,5
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,8:38,MEM,rebound,,,,,,,,,,Sam Young,,,,,,off,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,8:37,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,8:37,PHX,foul,,,,,,,,Sam Young,,Goran Dragic,,,,,,shooting,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,2,8:37,MEM,timeout,,,,,,,,,,,,,,,,official,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Robin Lopez,2,8:37,PHX,sub,,,,Robin Lopez,,Louis Amundson,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Robin Lopez,2,8:37,MEM,free throw,,,,,,,1,,1,Sam Young,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Robin Lopez,2,8:26,PHX,foul,,,,,,,,Sam Young,,Leandro Barbosa,,,,,,offensive,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Robin Lopez,2,8:26,PHX,turnover,,,,,,,,,,Leandro Barbosa,,,foul,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Robin Lopez,2,8:18,PHX,foul,,,,,,,,Sam Young,,Robin Lopez,,,,,,shooting,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Jared Dudley,Leandro Barbosa,Robin Lopez,Steve Nash,2,8:18,PHX,sub,,,,Steve Nash,,Goran Dragic,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Jared Dudley,Jason Richardson,Robin Lopez,Steve Nash,2,8:18,PHX,sub,,,,Jason Richardson,,Leandro Barbosa,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,8:18,PHX,sub,,,,Grant Hill,,Jared Dudley,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,8:18,MEM,free throw,,,,,,,1,,2,Sam Young,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,8:18,MEM,free throw,,,,,,,2,,2,Sam Young,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,8:06,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,25,27
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,8:05,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,7:56,PHX,foul,,,,,,,,Marc Gasol,,Channing Frye,,,,,,personal,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,7:56,MEM,free throw,,,,,,,1,,2,Marc Gasol,,,foul,missed,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Channing Frye,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,7:56,MEM,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,7:56,PHX,sub,,,,Amare Stoudemire,,Robin Lopez,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,7:56,MEM,free throw,,,,,,,2,,2,Marc Gasol,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,7:44,PHX,shot,Steve Nash,,,,,,,,,Grant Hill,3,,,made,,3pt,48,6
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,7:22,MEM,shot,,,,,,,,,,Sam Young,,,,missed,,jump,14,23
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,7:22,PHX,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,7:22,MEM,foul,,,,,,,,Channing Frye,,Marc Gasol,,,,,,loose ball,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,7:22,MEM,sub,,,,Zach Randolph,,Hasheem Thabeet,,,,,,,,,,,,
+Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,7:06,MEM,violation,,,,,,,,,,Sam Young,,,,,,kicked ball,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,7:06,MEM,sub,,,,Mike Conley,,Jamaal Tinsley,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,6:57,PHX,shot,,,,,,,,,,Jason Richardson,2,,,made,,jump,34,13
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,6:31,MEM,shot,O.J. Mayo,,,,,,,,,Sam Young,3,,,made,,3pt,7,24
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,6:18,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,25,13
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,6:16,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,5:51,MEM,shot,Zach Randolph,,,,,,,,,O.J. Mayo,3,,,made,,3pt,7,23
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,5:37,PHX,shot,Grant Hill,,,,,,,,,Jason Richardson,3,,,made,,3pt,8,24
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,5:14,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,35,25
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,5:12,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:59,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,49,7
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:57,MEM,rebound,,,,,,,,,,Mike Conley,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:52,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,running jump,17,9
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:51,MEM,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:51,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:43,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,25,22
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:41,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:33,PHX,foul,,,,,,,,Marc Gasol,,Grant Hill,,,,,,personal,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:33,MEM,free throw,,,,,,,1,,2,Marc Gasol,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:33,MEM,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:33,MEM,sub,,,,Rudy Gay,,Sam Young,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:33,MEM,free throw,,,,,,,2,,2,Marc Gasol,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:23,MEM,foul,,,,,,,,Steve Nash,,Marc Gasol,,,,,,personal,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:15,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,42,26
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:12,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:12,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,putback dunk,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:09,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,4:08,PHX,turnover,,,,,,,,,,Jason Richardson,,,bad pass,,Mike Conley,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,3:55,MEM,shot,,,,,,,,,,Marc Gasol,2,,,made,,running hook,26,15
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,3:45,PHX,shot,,,,,,,,,,Steve Nash,3,,,made,,3pt,7,23
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,3:20,PHX,foul,,,,,,,,Mike Conley,,Amare Stoudemire,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,3:20,MEM,free throw,,,,,,,1,,2,Mike Conley,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,3:20,MEM,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,3:20,MEM,free throw,,,,,,,2,,2,Mike Conley,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,3:11,MEM,foul,,,,,,,,,,Zach Randolph,,,,,,defense 3 second,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,3:11,PHX,free throw,,,,,,,1,,1,Steve Nash,,,technical,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,2:57,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,jump,43,12
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,2:32,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,3pt,49,10
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,2:30,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,2:25,PHX,shot,Steve Nash,,,,,,,,,Channing Frye,2,,,made,,layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,2:19,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,2,,,made,,layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,2:08,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,running jump,28,13
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,1:53,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,running jump,25,14
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,1:34,MEM,foul,,,,,,,,Amare Stoudemire,,Zach Randolph,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,1:34,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Mike Conley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,1:34,MEM,sub,,,,Sam Young,,Marc Gasol,,,,,,,,,,,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,1:34,MEM,sub,,,,Jamaal Tinsley,,Mike Conley,,,,,,,,,,,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,1:34,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,1:34,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,missed,,,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,1:33,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,1:21,MEM,shot,,,,,,,,,,Rudy Gay,2,,,made,,jump,13,21
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,1:03,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,11,26
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,1:02,MEM,rebound,,,,,,,,,,Jamaal Tinsley,,,,,,def,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,0:45,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,jump bank,18,11
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,0:39,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,3pt,44,23
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,0:37,MEM,rebound,,,,,,,,,,Jamaal Tinsley,,,,,,def,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,0:26,MEM,timeout,,,,,,,,,,,,,,,,short,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Channing Frye,Grant Hill,Jason Richardson,Robin Lopez,Steve Nash,2,0:26,PHX,sub,,,,Robin Lopez,,Amare Stoudemire,,,,,,,,,,,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Grant Hill,Jason Richardson,Louis Amundson,Robin Lopez,Steve Nash,2,0:26,PHX,sub,,,,Louis Amundson,,Channing Frye,,,,,,,,,,,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Grant Hill,Jason Richardson,Louis Amundson,Robin Lopez,Steve Nash,2,0:14,MEM,shot,Rudy Gay,,,,,,,,,O.J. Mayo,2,,,made,,jump,10,19
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Grant Hill,Jason Richardson,Louis Amundson,Robin Lopez,Steve Nash,2,0:07,PHX,timeout,,,,,,,,,,,,,,,,short,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,2,0:07,PHX,sub,,,,Amare Stoudemire,,Robin Lopez,,,,,,,,,,,,
+Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,0:07,PHX,sub,,,,Channing Frye,,Louis Amundson,,,,,,,,,,,,
+DeMarre Carroll,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,0:07,MEM,sub,,,,DeMarre Carroll,,Zach Randolph,,,,,,,,,,,,
+DeMarre Carroll,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,0:02,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,3pt,18,31
+DeMarre Carroll,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,0:02,MEM,rebound,,,,,,,,,,,,,,,,,,
+DeMarre Carroll,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,0:00,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,3pt,44,46
+DeMarre Carroll,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,2,0:00,MEM,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,11:44,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,5,5
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,11:42,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,11:36,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,running jump,25,13
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,11:31,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,11:27,MEM,shot,Mike Conley,,,,,,,,,O.J. Mayo,3,,,made,,3pt,6,21
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,11:12,PHX,shot,Jason Richardson,,,,,,,,,Amare Stoudemire,2,,,made,,jump,34,24
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,10:55,MEM,shot,Marc Gasol,,,,,,,,,Mike Conley,3,,,made,,3pt,15,29
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,10:42,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,39,22
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,10:40,MEM,rebound,,,,,,,,,,Mike Conley,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,10:35,MEM,shot,,,,,,,,,,O.J. Mayo,2,,,made,,jump,11,19
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,10:23,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,slam dunk,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,10:05,MEM,shot,Zach Randolph,,,,,,,,,Marc Gasol,2,,,made,,layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,9:57,MEM,foul,,,,,,,,Amare Stoudemire,,Marc Gasol,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,9:57,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,9:57,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,9:46,PHX,foul,,,,,,,,Marc Gasol,,Channing Frye,,,,,,personal,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,9:40,MEM,shot,Mike Conley,,,,,,,,,Zach Randolph,2,,,made,,jump,13,22
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,9:21,PHX,shot,Channing Frye,,,,,,,,,Grant Hill,2,,,made,,jump,31,23
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,9:00,MEM,shot,,,,,,,,,,Marc Gasol,,,,missed,,turnaround jump,29,15
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:56,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:51,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,43,24
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:49,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:43,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,jump,42,5
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:41,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:31,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,jump,15,22
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:31,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:25,PHX,foul,,,,,,,,Marc Gasol,,Grant Hill,,,,,,personal,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:25,PHX,foul,,,,,,,,Marc Gasol,,Grant Hill,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:25,MEM,free throw,,,,,,,1,,2,Marc Gasol,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:25,MEM,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:25,MEM,free throw,,,,,,,2,,2,Marc Gasol,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:24,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:20,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,8:02,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,turnaround bank,18,11
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,7:48,MEM,foul,,,,,,,,Amare Stoudemire,,Rudy Gay,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,7:48,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,7:48,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,7:32,MEM,shot,Mike Conley,,,,,,,,,Marc Gasol,2,,,made,,jump,42,15
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,7:21,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,jump,35,19
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,7:07,MEM,shot,,,,,,,,,,Zach Randolph,,,,missed,,hook,29,15
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,7:04,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,7:00,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,16,26
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,6:58,MEM,rebound,,,,,,,,,,O.J. Mayo,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,6:50,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,13,25
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,6:48,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,6:40,PHX,turnover,,,,,,,,,,Steve Nash,,,lost ball,,Rudy Gay,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,6:36,MEM,shot,O.J. Mayo,,,,,,,,,Marc Gasol,2,,,made,,layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,3,6:31,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,6:31,PHX,sub,,,,Louis Amundson,,Channing Frye,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,6:16,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,43,23
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,6:14,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,5:57,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,3pt,43,26
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,5:54,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,5:46,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,jump,35,21
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,5:27,MEM,shot,Marc Gasol,,,,,,,,,Zach Randolph,2,,,made,,hook,26,15
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,5:15,PHX,shot,,,Rudy Gay,,,,,,,Amare Stoudemire,,,,missed,,jump,30,13
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,5:13,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,5:11,PHX,foul,,,,,,,,Mike Conley,,Grant Hill,,,,,,shooting,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,5:11,MEM,free throw,,,,,,,1,,2,Mike Conley,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,3,5:11,MEM,rebound,,,,,,,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,5:11,PHX,sub,,,,Jared Dudley,,Jason Richardson,,,,,,,,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,5:11,MEM,free throw,,,,,,,2,,2,Mike Conley,,,foul,missed,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,5:10,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,4:54,MEM,shot,,,,,,,,,,Mike Conley,,,,missed,,3pt,13,28
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,4:52,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,4:45,PHX,shot,,,,,,,,,,Louis Amundson,,,,missed,,alley oop layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,4:42,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,4:40,PHX,shot,,,,,,,,,,Louis Amundson,,,,missed,,jump bank,32,12
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,4:37,MEM,rebound,,,,,,,,,,Zach Randolph,,,,,,def,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,4:33,MEM,shot,,,,,,,,,,O.J. Mayo,,,,missed,,jump,36,10
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,4:31,MEM,rebound,,,,,,,,,,Marc Gasol,,,,,,off,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,4:31,MEM,turnover,,,,,,,,,,Marc Gasol,,,bad pass,,,,,
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,4:23,PHX,shot,Steve Nash,,,,,,,,,Louis Amundson,2,,,made,,reverse layup,25,6
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,4:02,MEM,shot,Mike Conley,,,,,,,,,Rudy Gay,3,,,made,,3pt,12,28
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:50,PHX,shot,Steve Nash,,,,,,,,,Louis Amundson,2,,,made,,jump,34,14
+Marc Gasol,Mike Conley,O.J. Mayo,Rudy Gay,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:45,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+Marc Gasol,Mike Conley,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:45,MEM,sub,,,,Sam Young,,O.J. Mayo,,,,,,,,,,,,
+Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:45,MEM,sub,,,,Jamaal Tinsley,,Mike Conley,,,,,,,,,,,,
+Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:22,MEM,shot,,,Louis Amundson,,,,,,,Sam Young,,,,missed,,jump,18,9
+Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:18,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,def,,
+Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:13,PHX,shot,,,,,,,,,,Jared Dudley,,,,missed,,3pt,48,11
+Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:12,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,off,,
+Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:11,PHX,shot,,,,,,,,,,Louis Amundson,,,,missed,,layup,25,6
+Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:10,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,off,,
+Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:10,PHX,shot,,,,,,,,,,Louis Amundson,,,,missed,,tip,25,6
+Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:09,MEM,rebound,,,,,,,,,,Jamaal Tinsley,,,,,,def,,
+Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:07,PHX,foul,,,,,,,,Jamaal Tinsley,,Amare Stoudemire,,,,,,personal,,
+Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Zach Randolph,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:07,MEM,free throw,,,,,,,1,,2,Jamaal Tinsley,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:07,MEM,sub,,,,Hasheem Thabeet,,Zach Randolph,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,3:07,MEM,free throw,,,,,,,2,,2,Jamaal Tinsley,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,2:57,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,Jamaal Tinsley,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,2:53,MEM,turnover,,,,,,,,,,Sam Young,,,bad pass,,Jared Dudley,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,2:51,PHX,turnover,,,,,,,,,,Jared Dudley,,,bad pass,,Sam Young,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,2:50,PHX,foul,,,,,,,,Sam Young,,Grant Hill,,,,,,personal,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Grant Hill,Jared Dudley,Louis Amundson,Steve Nash,3,2:50,MEM,free throw,,,,,,,1,,2,Sam Young,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,2:50,PHX,sub,,,,Earl Clark,,Grant Hill,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,2:50,MEM,free throw,,,,,,,2,,2,Sam Young,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,2:33,PHX,shot,Amare Stoudemire,,,,,,,,,Steve Nash,2,,,made,,jump,42,17
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,2:11,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,42,17
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,2:09,MEM,rebound,,,,,,,,,,Jamaal Tinsley,,,,,,off,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,2:05,MEM,shot,,,Louis Amundson,,,,,,,Rudy Gay,,,,missed,,layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,2:04,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,1:54,PHX,shot,Jared Dudley,,,,,,,,,Earl Clark,2,,,made,,jump,8,19
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,1:37,MEM,shot,,,,,,,,,,Sam Young,,,,missed,,jump,13,6
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,1:36,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,1:36,MEM,foul,,,,,,,,Louis Amundson,,Sam Young,,,,,,personal,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,1:36,MEM,sub,,,,O.J. Mayo,,Rudy Gay,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,1:25,PHX,shot,Earl Clark,,,,,,,,,Louis Amundson,2,,,made,,jump,16,7
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,1:25,MEM,foul,,,,,,,,Louis Amundson,,Hasheem Thabeet,,,,,,shooting,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,1:25,PHX,free throw,,,,,,,1,,1,Louis Amundson,,,foul,missed,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,1:24,MEM,rebound,,,,,,,,,,Jamaal Tinsley,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,1:04,MEM,shot,,,,,,,,,,Jamaal Tinsley,,,,missed,,3pt,26,32
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,1:02,PHX,rebound,,,,,,,,,,Earl Clark,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,0:54,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,0:43,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,jump,25,25
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,0:31,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,34,15
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,0:30,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,off,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,0:30,PHX,shot,,,,,,,,,,Louis Amundson,2,,,made,,layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,0:17,PHX,foul,,,,,,,,Sam Young,,Louis Amundson,,,,,,shooting,,
+Hasheem Thabeet,Jamaal Tinsley,Marc Gasol,O.J. Mayo,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,0:17,MEM,free throw,,,,,,,1,,2,Sam Young,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,0:17,MEM,sub,,,,Rudy Gay,,Marc Gasol,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,0:17,MEM,free throw,,,,,,,2,,2,Sam Young,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Jared Dudley,Louis Amundson,Steve Nash,3,0:01,PHX,turnover,,,,,,,,,,Steve Nash,,,lost ball,,Jamaal Tinsley,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,12:00,PHX,foul,,,,,,,,,,Gentry,,,,,,technical,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,12:00,MEM,free throw,,,,,,,1,,1,O.J. Mayo,,,technical,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,11:50,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,3pt,8,25
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,11:47,PHX,rebound,,,,,,,,,,Earl Clark,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,11:32,MEM,foul,,,,,,,,Amare Stoudemire,,Rudy Gay,,,,,,personal,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,11:25,PHX,shot,,,Hasheem Thabeet,,,,,,,Amare Stoudemire,,,,missed,,jump,25,14
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,11:25,MEM,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,11:07,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,running jump,29,14
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,11:04,PHX,rebound,,,,,,,,,,Earl Clark,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,11:00,PHX,shot,,,,,,,,,,Earl Clark,,,,missed,,jump,13,22
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,10:58,MEM,rebound,,,,,,,,,,Sam Young,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,10:46,MEM,shot,Rudy Gay,,,,,,,,,Jamaal Tinsley,2,,,made,,layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,10:34,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,jump,11,7
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,10:32,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,10:25,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,10:24,MEM,rebound,,,,,,,,,,Sam Young,,,,,,off,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,10:24,MEM,shot,,,,,,,,,,Sam Young,2,,,made,,layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,10:01,PHX,shot,Amare Stoudemire,,,,,,,,,Goran Dragic,2,,,made,,layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,4,9:45,PHX,foul,,,,,,,,O.J. Mayo,,Goran Dragic,,,,,,personal,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,9:45,PHX,sub,,,,Robin Lopez,,Amare Stoudemire,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,9:39,MEM,shot,,,Louis Amundson,,,,,,,Rudy Gay,,,,missed,,jump,27,14
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,9:39,MEM,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,9:35,MEM,shot,O.J. Mayo,,,,,,,,,Hasheem Thabeet,2,,,made,,dunk,25,6
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,9:16,PHX,shot,,,,,,,,,,Jared Dudley,2,,,made,,jump,33,13
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:56,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,turnaround bank,38,10
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:52,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,off,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:52,MEM,shot,,,,,,,,,,Hasheem Thabeet,2,,,made,,tip,25,6
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:44,PHX,shot,,,,,,,,,,Jared Dudley,,,,missed,,jump,15,23
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:42,MEM,rebound,,,,,,,,,,Rudy Gay,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:36,MEM,shot,Jamaal Tinsley,,,,,,,,,O.J. Mayo,3,,,made,,3pt,4,22
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:30,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:20,PHX,turnover,,,,,,,,,,Earl Clark,,,bad pass,,Jamaal Tinsley,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:16,PHX,foul,,,,,,,,Rudy Gay,,Jared Dudley,,,,,,shooting,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:16,MEM,free throw,,,,,,,1,,2,Rudy Gay,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:16,MEM,free throw,,,,,,,2,,2,Rudy Gay,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,8:02,PHX,shot,,,,,,,,,,Goran Dragic,2,,,made,,floating jump,25,14
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,7:48,MEM,shot,,,,,,,,,,Rudy Gay,,,,missed,,jump,36,24
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,7:45,PHX,rebound,,,,,,,,,,Earl Clark,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,7:39,PHX,shot,Goran Dragic,,,,,,,,,Earl Clark,2,,,made,,jump bank,18,11
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,7:15,MEM,shot,,,Jared Dudley,,,,,,,Rudy Gay,,,,missed,,jump,34,8
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Robin Lopez,4,7:15,MEM,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Rudy Gay,Sam Young,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,7:15,PHX,sub,,,,Leandro Barbosa,,Jared Dudley,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,7:15,MEM,sub,,,,Zach Randolph,,Rudy Gay,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,7:12,MEM,shot,Sam Young,,,,,,,,,Jamaal Tinsley,2,,,made,,hook,16,8
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,6:57,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,jump,38,21
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,6:55,MEM,rebound,,,,,,,,,,Jamaal Tinsley,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,6:38,MEM,shot,,,,,,,,,,Hasheem Thabeet,2,,,made,,layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,6:19,PHX,shot,,,,,,,,,,Louis Amundson,,,,missed,,jump,34,19
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,6:18,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,off,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,6:18,MEM,foul,,,,,,,,Louis Amundson,,Jamaal Tinsley,,,,,,shooting,,
+Hasheem Thabeet,Jamaal Tinsley,O.J. Mayo,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,6:18,PHX,free throw,,,,,,,1,,2,Louis Amundson,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,6:18,MEM,sub,,,,Marcus Williams,,O.J. Mayo,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,6:18,PHX,free throw,,,,,,,2,,2,Louis Amundson,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,6:07,MEM,shot,,,,,,,,,,Zach Randolph,2,,,made,,jump,13,16
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:57,MEM,foul,,,,,,,,Goran Dragic,,Jamaal Tinsley,,,,,,shooting,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Zach Randolph,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:57,PHX,timeout,,,,,,,,,,,,,,,,official,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:57,MEM,sub,,,,Steven Hunter,,Zach Randolph,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:57,PHX,free throw,,,,,,,1,,2,Goran Dragic,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:57,PHX,free throw,,,,,,,2,,2,Goran Dragic,,,foul,made,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:40,MEM,shot,Marcus Williams,,,,,,,,,Hasheem Thabeet,2,,,made,,layup,25,6
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:20,PHX,shot,,,Hasheem Thabeet,,,,,,,Earl Clark,,,,missed,,dunk,25,6
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:17,MEM,rebound,,,,,,,,,,Sam Young,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:15,MEM,turnover,,,,,,,,,,Sam Young,,,bad pass,,Goran Dragic,,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:14,MEM,foul,,,,,,,,Goran Dragic,,Hasheem Thabeet,,,,,,shooting,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:14,PHX,free throw,,,,,,,1,,2,Goran Dragic,,,foul,missed,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:14,PHX,rebound,,,,,,,,,,,,,,,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:14,PHX,free throw,,,,,,,2,,2,Goran Dragic,,,foul,missed,,,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,5:12,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,def,,
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,4:57,MEM,shot,,,,,,,,,,Marcus Williams,2,,,made,,jump,11,22
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,4:38,PHX,shot,,,,,,,,,,Robin Lopez,,,,missed,,hook,25,14
+Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Sam Young,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,4:37,MEM,rebound,,,,,,,,,,,,,,,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,4:37,MEM,sub,,,,DeMarre Carroll,,Sam Young,,,,,,,,,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,4:22,MEM,turnover,,,,,,,,,,Jamaal Tinsley,,,bad pass,,Louis Amundson,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,4:18,PHX,shot,Louis Amundson,,,,,,,,,Goran Dragic,2,,,made,,layup,25,6
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,3:58,MEM,shot,,,Robin Lopez,,,,,,,Hasheem Thabeet,,,,missed,,jump,25,14
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,3:56,MEM,rebound,,,,,,,,,,Hasheem Thabeet,,,,,,off,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,3:53,MEM,shot,,,,,,,,,,DeMarre Carroll,,,,missed,,jump,12,19
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,3:49,PHX,rebound,,,,,,,,,,Goran Dragic,,,,,,def,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,3:44,MEM,foul,,,,,,,,Louis Amundson,,Jamaal Tinsley,,,,,,personal,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,3:44,PHX,free throw,,,,,,,1,,2,Louis Amundson,,,foul,made,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,3:44,MEM,violation,,,,,,,,,,Steven Hunter,,,,,,lane,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,3:44,PHX,free throw,,,,,,,2,,2,Louis Amundson,,,foul,made,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,3:32,MEM,shot,,,,,,,,,,Marcus Williams,2,,,made,,jump,22,27
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,3:09,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,reverse layup,25,6
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,3:08,PHX,rebound,,,,,,,,,,,,,,,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,2:58,PHX,shot,,,,,,,,,,Leandro Barbosa,2,,,made,,jump,42,15
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,2:42,MEM,foul,,,,,,,,Louis Amundson,,Steven Hunter,,,,,,offensive,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,2:42,MEM,turnover,,,,,,,,,,Steven Hunter,,,foul,,,,,
+DeMarre Carroll,Hasheem Thabeet,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,2:42,MEM,timeout,,,,,,,,,,,,,,,,regular,,
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,2:42,MEM,sub,,,,Hamed Haddadi,,Hasheem Thabeet,,,,,,,,,,,,
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,2:28,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,jump,24,13
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,2:27,PHX,rebound,,,,,,,,,,,,,,,,,,
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,2:11,PHX,shot,,,,,,,,,,Earl Clark,,,,missed,,jump,39,21
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,2:10,PHX,rebound,,,,,,,,,,Goran Dragic,,,,,,off,,
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,1:59,PHX,shot,Leandro Barbosa,,,,,,,,,Louis Amundson,2,,,made,,jump bank,18,9
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,1:42,MEM,shot,,,,,,,,,,Steven Hunter,,,,missed,,hook,25,15
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,1:39,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,def,,
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,1:31,PHX,shot,Earl Clark,,,,,,,,,Goran Dragic,3,,,made,,3pt,10,27
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,1:09,MEM,shot,,,,,,,,,,DeMarre Carroll,,,,missed,,jump,43,17
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,1:06,MEM,rebound,,,,,,,,,,Steven Hunter,,,,,,off,,
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,1:06,MEM,shot,,,,,,,,,,Steven Hunter,2,,,made,,dunk,25,6
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,0:56,MEM,foul,,,,,,,,Leandro Barbosa,,Jamaal Tinsley,,,,,,shooting,,
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,0:56,PHX,free throw,,,,,,,1,,2,Leandro Barbosa,,,foul,made,,,,
+DeMarre Carroll,Hamed Haddadi,Jamaal Tinsley,Marcus Williams,Steven Hunter,Earl Clark,Goran Dragic,Leandro Barbosa,Louis Amundson,Robin Lopez,4,0:56,PHX,free throw,,,,,,,2,,2,Leandro Barbosa,,,foul,made,,,,

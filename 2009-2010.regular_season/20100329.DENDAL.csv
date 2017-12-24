@@ -1,0 +1,433 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Johan Petro,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,12:00,OFF,jump ball,,Johan Petro,,,Brendan Haywood,,,,,,,Nene Hilario,,,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Johan Petro,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,11:42,DAL,foul,,,,,,,,Nene Hilario,,Brendan Haywood,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Johan Petro,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,11:42,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Johan Petro,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,11:42,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Johan Petro,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,11:31,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,29,25
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Johan Petro,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,11:30,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Johan Petro,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,11:12,DEN,shot,,,,,,,,,,Johan Petro,,,,missed,,jump,42,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Johan Petro,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,11:11,DAL,rebound,,,,,,,,,,Caron Butler,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Johan Petro,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,11:04,DEN,foul,,,,,,,,Jason Kidd,,Johan Petro,,,,,,personal,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Johan Petro,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,10:52,DEN,foul,,,,,,,,Dirk Nowitzki,,Johan Petro,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Johan Petro,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,10:52,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,10:52,DEN,sub,,,,Malik Allen,,Johan Petro,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,10:52,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,10:35,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,32,18
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,10:34,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,10:30,DAL,shot,Jason Kidd,,,,,,,,,Brendan Haywood,2,,,made,,slam dunk,25,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,10:12,DEN,turnover,,,,,,,,,,Nene Hilario,,,bad pass,,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,10:00,DAL,shot,Jason Kidd,,,,,,,,,Caron Butler,3,,,made,,3pt,30,30
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,9:35,DEN,shot,,,,,,,,,,Arron Afflalo,,,,missed,,3pt,8,27
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,9:34,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,9:29,DAL,shot,,,,,,,,,,Caron Butler,,,,missed,,jump,14,10
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,9:28,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,9:14,DEN,shot,,,,,,,,,,Chauncey Billups,,,,missed,,3pt,49,5
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,9:13,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,9:03,DAL,shot,Jason Kidd,,,,,,,,,Brendan Haywood,2,,,made,,layup,25,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,8:43,DEN,shot,,,,,,,,,,Arron Afflalo,2,,,made,,driving reverse layup,25,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,8:27,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,turnaround hook,36,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,8:26,DEN,rebound,,,,,,,,,,Malik Allen,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,8:18,DEN,shot,,,,,,,,,,Chauncey Billups,,,,missed,,jump,38,16
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,8:17,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,8:13,DEN,foul,,,,,,,,Brendan Haywood,,Nene Hilario,,,,,,personal,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,8:02,DAL,shot,Dirk Nowitzki,,,,,,,,,Shawn Marion,2,,,made,,driving layup,25,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,7:37,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,driving layup,25,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,7:35,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,7:20,DAL,shot,Dirk Nowitzki,,,,,,,,,Shawn Marion,2,,,made,,running jump,34,8
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,7:07,DEN,shot,Chauncey Billups,,,,,,,,,Carmelo Anthony,2,,,made,,jump,8,11
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:52,DAL,shot,Shawn Marion,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,39,20
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:36,DEN,shot,,,,,,,,,,Chauncey Billups,,,,missed,,driving reverse layup,25,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:35,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:28,DAL,shot,Jason Kidd,,,,,,,,,Dirk Nowitzki,2,,,made,,running layup,25,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:23,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:23,DEN,violation,,,,,,,,,,,,,,,,delay of game,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:14,DAL,foul,,,,,,,,Carmelo Anthony,,Jason Kidd,,,,,,personal,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:04,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,driving jump,25,9
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:03,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:03,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,tip,25,9
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:02,DEN,rebound,,,,,,,,,,Malik Allen,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,6:02,DEN,shot,,,,,,,,,,Malik Allen,2,,,made,,putback layup,25,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,5:43,DAL,shot,,,,,,,,,,Caron Butler,,,,missed,,step back jump,18,13
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,5:42,DEN,rebound,,,,,,,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,5:22,DEN,shot,,,,,,,,,,Chauncey Billups,2,,,made,,driving layup,25,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,5:08,DEN,foul,,,,,,,,Caron Butler,,Arron Afflalo,,,,,,personal,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,4:55,DAL,shot,Shawn Marion,,,,,,,,,Jason Kidd,3,,,made,,3pt,34,31
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,4:35,DEN,shot,,,,,,,,,,Nene Hilario,2,,,made,,jump,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,4:18,DAL,shot,Brendan Haywood,,,,,,,,,Dirk Nowitzki,3,,,made,,3pt,17,29
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,3:58,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,41,8
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,3:57,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,3:57,DEN,shot,,,,,,,,,,Nene Hilario,2,,,made,,putback layup,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,3:48,DAL,shot,,,,,,,,,,Caron Butler,,,,missed,,driving finger roll layup,25,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,3:47,DEN,rebound,,,,,,,,,,Malik Allen,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,3:39,DEN,shot,,,,,,,,,,Nene Hilario,2,,,made,,driving layup,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,1,3:23,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Malik Allen,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,3:23,DAL,sub,,,,Jason Terry,,Caron Butler,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,3:23,DEN,sub,,,,J.R. Smith,,Nene Hilario,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,3:23,DEN,sub,,,,Chris Andersen,,Arron Afflalo,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,3:19,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,fade away bank,31,8
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,3:18,DAL,rebound,,,,,,,,,,Brendan Haywood,,,,,,off,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,3:10,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,jump,24,20
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,3:09,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,off,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,3:00,DAL,shot,,,,,,,,,,Shawn Marion,2,,,made,,driving layup,25,6
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,2:35,DEN,shot,,,,,,,,,,Malik Allen,,,,missed,,jump,24,11
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,2:33,DEN,rebound,,,,,,,,,,Malik Allen,,,,,,off,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,2:26,DEN,shot,,,,,,,,,,J.R. Smith,2,,,made,,running jump,20,11
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,2:12,DAL,turnover,,,,,,,,,,Shawn Marion,,,lost ball,,Carmelo Anthony,,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Jason Terry,Shawn Marion,1,2:12,DAL,foul,,,,,,,,Carmelo Anthony,,Shawn Marion,,,,,,personal,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,2:12,DAL,sub,,,,Eduardo Najera,,Dirk Nowitzki,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,1:55,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,19,15
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,1:54,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,1:43,DAL,shot,,,,,,,,,,Brendan Haywood,2,,,made,,jump hook,25,11
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,1:29,DEN,shot,,,,,,,,,,J.R. Smith,2,,,made,,running jump,31,12
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,1:10,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,3pt,16,29
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,1:09,DEN,rebound,,,,,,,,,,Chris Andersen,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,0:59,DEN,turnover,,,,,,,,,,J.R. Smith,,,bad pass,,Shawn Marion,,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,0:56,DAL,shot,,,,,,,,,,Shawn Marion,2,,,made,,running layup,25,6
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,0:38,DEN,shot,,,,,,,,,,Malik Allen,,,,missed,,jump,27,28
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,0:37,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,0:30,DAL,shot,Jason Terry,,,,,,,,,Shawn Marion,2,,,made,,turnaround hook,17,8
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,0:07,DEN,shot,Chauncey Billups,,,,,,,,,Malik Allen,3,,,made,,3pt,47,5
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,0:00,DAL,shot,,,,,,,,,,Eduardo Najera,,,,missed,,3pt,14,28
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Malik Allen,Brendan Haywood,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,1,0:00,DAL,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,11:35,DAL,shot,,,,,,,,,,Caron Butler,2,,,made,,step back jump,19,27
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,11:08,DEN,shot,Malik Allen,,,,,,,,,J.R. Smith,2,,,made,,turnaround fade away,43,11
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,10:53,DAL,shot,,,,,,,,,,Jason Terry,2,,,made,,floating jump,13,23
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,10:38,DAL,foul,,,,,,,,Malik Allen,,Eduardo Najera,,,,,,shooting,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,10:38,DEN,free throw,,,,,,,1,,2,Malik Allen,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,10:38,DEN,free throw,,,,,,,2,,2,Malik Allen,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,10:24,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,3pt,47,7
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,10:22,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,off,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,10:22,DAL,shot,,,,,,,,,,Erick Dampier,2,,,made,,tip,25,6
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,10:11,DAL,foul,,,,,,,,J.R. Smith,,Jason Terry,,,,,,personal,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,10:11,DAL,foul,,,,,,,,J.R. Smith,,Jason Terry,,,,,,technical,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,10:11,DEN,free throw,,,,,,,1,,1,Carmelo Anthony,,,technical,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,10:00,DEN,shot,,,,,,,,,,Malik Allen,,,,missed,,jump,15,23
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,9:59,DEN,rebound,,,,,,,,,,J.R. Smith,,,,,,off,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,9:59,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,putback dunk,25,6
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,9:58,DAL,rebound,,,,,,,,,,Caron Butler,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,9:45,DAL,shot,,,Chris Andersen,,,,,,,Erick Dampier,,,,missed,,driving layup,25,6
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,9:43,DEN,rebound,,,,,,,,,,Malik Allen,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Malik Allen,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,9:30,DAL,foul,,,,,,,,Carmelo Anthony,,Caron Butler,,,,,,personal,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,9:30,DEN,sub,,,,Joey Graham,,Malik Allen,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,9:20,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,jump,35,27
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,9:19,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,9:04,DAL,shot,,,,,,,,,,Eduardo Najera,,,,missed,,driving bank,21,8
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,9:02,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,off,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,8:54,DAL,timeout,,,,,,,,,,,,,,,,official,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,8:54,DEN,sub,,,,Arron Afflalo,,Carmelo Anthony,,,,,,,,,,,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,8:39,DAL,shot,Jason Terry,,,,,,,,,Caron Butler,3,,,made,,3pt,8,25
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,8:19,DEN,shot,,,,,,,,,,J.R. Smith,2,,,made,,turnaround bank,19,9
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:57,DAL,shot,,,,,,,,,,Caron Butler,,,,missed,,driving layup,25,6
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:56,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,off,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:55,DAL,shot,,,Chris Andersen,,,,,,,Erick Dampier,,,,missed,,layup,25,6
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:55,DEN,rebound,,,,,,,,,,,,,,,,,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:50,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,driving layup,25,6
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:37,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,3pt,23,30
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:36,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,off,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:36,DAL,shot,,,,,,,,,,Erick Dampier,2,,,made,,putback dunk,25,6
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:28,DEN,turnover,,,,,,,,,,J.R. Smith,,,lost ball,,Rodrigue Beaubois,,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:22,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,pullup jump,31,23
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:21,DEN,rebound,,,,,,,,,,Ty Lawson,,,,,,def,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:09,DAL,foul,,,,,,,,J.R. Smith,,Eduardo Najera,,,,,,personal,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,7:09,DAL,sub,,,,Dirk Nowitzki,,Eduardo Najera,,,,,,,,,,,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,6:59,DEN,shot,,,,,,,,,,Joey Graham,2,,,made,,driving finger roll layup,25,6
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,6:42,DAL,turnover,,,,,,,,,,Caron Butler,,,bad pass,,Chris Andersen,,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,6:38,DEN,shot,Arron Afflalo,,,,,,,,,Joey Graham,2,,,made,,reverse layup,25,6
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,2,6:38,DAL,foul,,,,,,,,Joey Graham,,Dirk Nowitzki,,,,,,shooting,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,2,6:38,DAL,sub,,,,Jason Kidd,,Rodrigue Beaubois,,,,,,,,,,,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,2,6:38,DEN,free throw,,,,,,,1,,1,Joey Graham,,,foul,made,,,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,2,6:15,DEN,foul,,,,,,,,Dirk Nowitzki,,Chris Andersen,,,,,,shooting,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,2,6:15,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,2,6:15,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,2,5:56,DEN,turnover,,,,,,,,,,J.R. Smith,,,lost ball,,Jason Kidd,,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,2,5:39,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,30,22
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,2,5:38,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,def,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,2,5:33,DEN,shot,Arron Afflalo,,,,,,,,,Ty Lawson,2,,,made,,running layup,25,6
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,2,5:22,DEN,foul,,,,,,,,Dirk Nowitzki,,Joey Graham,,,,,,personal,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,2,5:22,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Kidd,Shawn Marion,2,5:22,DAL,sub,,,,Shawn Marion,,Jason Terry,,,,,,,,,,,,
+Arron Afflalo,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,5:22,DAL,sub,,,,Rodrigue Beaubois,,Erick Dampier,,,,,,,,,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,5:22,DEN,sub,,,,Nene Hilario,,Chris Andersen,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,5:22,DEN,sub,,,,Carmelo Anthony,,Joey Graham,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,5:22,DAL,sub,,,,Brendan Haywood,,Caron Butler,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,5:13,DAL,shot,Dirk Nowitzki,,,,,,,,,Rodrigue Beaubois,2,,,made,,driving layup,25,6
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,5:00,DEN,shot,,,Brendan Haywood,,,,,,,Ty Lawson,,,,missed,,driving jump,18,8
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,5:00,DEN,rebound,,,,,,,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:49,DEN,shot,,,,,,,,,,Arron Afflalo,,,,missed,,driving jump,32,9
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:47,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:42,DEN,foul,,,,,,,,Rodrigue Beaubois,,Carmelo Anthony,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:42,DAL,free throw,,,,,,,1,,2,Brendan Haywood,,,foul,missed,,,,
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:42,DAL,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:42,DEN,sub,,,,Chauncey Billups,,Arron Afflalo,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:42,DAL,free throw,,,,,,,2,,2,Brendan Haywood,,,foul,missed,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:41,DEN,rebound,,,,,,,,,,J.R. Smith,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:30,DEN,shot,Ty Lawson,,,,,,,,,J.R. Smith,3,,,made,,3pt,14,28
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:19,DAL,foul,,,,,,,,Carmelo Anthony,,Dirk Nowitzki,,,,,,offensive,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:19,DAL,turnover,,,,,,,,,,Dirk Nowitzki,,,foul,,,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:19,DEN,sub,,,,Anthony Carter,,Ty Lawson,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:03,DEN,shot,,,,,,,,,,Chauncey Billups,,,,missed,,jump,40,19
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,4:02,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,3:57,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,3pt,22,31
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,3:56,DAL,rebound,,,,,,,,,,Brendan Haywood,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,3:48,DEN,foul,,,,,,,,Dirk Nowitzki,,Anthony Carter,,,,,,shooting,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,3:48,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,missed,,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,3:48,DAL,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,3:48,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,3:37,DAL,foul,,,,,,,,Chauncey Billups,,Rodrigue Beaubois,,,,,,shooting,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,3:37,DEN,free throw,,,,,,,1,,2,Chauncey Billups,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,3:37,DEN,free throw,,,,,,,2,,2,Chauncey Billups,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,3:13,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,pullup jump,37,11
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,3:11,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,off,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,2:58,DAL,shot,Dirk Nowitzki,,,,,,,,,Jason Kidd,3,,,made,,3pt,23,31
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,2:42,DEN,turnover,,,,,,,,,,Anthony Carter,,,bad pass,,Rodrigue Beaubois,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,2:35,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,jump,16,27
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,2:34,DEN,rebound,,,,,,,,,,J.R. Smith,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,2:20,DEN,turnover,,,,,,,,,,Chauncey Billups,,,lost ball,,Rodrigue Beaubois,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,2:12,DAL,shot,Dirk Nowitzki,,,,,,,,,Rodrigue Beaubois,3,,,made,,3pt,48,5
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:52,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,8,15
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:51,DAL,rebound,,,,,,,,,,Brendan Haywood,,,,,,def,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:46,DEN,foul,,,,,,,,Shawn Marion,,Chauncey Billups,,,,,,shooting,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:46,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:46,DAL,free throw,,,,,,,1,,2,Shawn Marion,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:46,DAL,free throw,,,,,,,2,,2,Shawn Marion,,,foul,made,,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:28,DEN,shot,,,,,,,,,,Anthony Carter,,,,missed,,3pt,19,30
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:28,DAL,rebound,,,,,,,,,,,,,,,,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:12,DAL,turnover,,,,,,,,,,Jason Kidd,,,bad pass,,,,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:05,DAL,foul,,,,,,,,Nene Hilario,,Brendan Haywood,,,,,,shooting,,
+Anthony Carter,Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:05,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,made,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:05,DEN,sub,,,,Joey Graham,,Anthony Carter,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,1:05,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,made,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,0:44,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,35,8
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,0:43,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,0:33,DEN,shot,,,,,,,,,,Chauncey Billups,,,,missed,,3pt,40,25
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,0:32,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,0:26,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,3pt,8,24
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Dirk Nowitzki,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,0:26,DEN,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Eduardo Najera,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,0:26,DAL,sub,,,,Eduardo Najera,,Dirk Nowitzki,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Eduardo Najera,Erick Dampier,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,0:26,DAL,sub,,,,Erick Dampier,,Brendan Haywood,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Eduardo Najera,Erick Dampier,Jason Kidd,Rodrigue Beaubois,Shawn Marion,2,0:04,DEN,turnover,,,,,,,,,,Nene Hilario,,,bad pass,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Eduardo Najera,Jason Kidd,Jason Terry,Rodrigue Beaubois,Shawn Marion,2,0:04,DAL,sub,,,,Jason Terry,,Erick Dampier,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Eduardo Najera,Jason Kidd,Jason Terry,Rodrigue Beaubois,Shawn Marion,2,0:00,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,driving layup,25,6
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Eduardo Najera,Jason Kidd,Jason Terry,Rodrigue Beaubois,Shawn Marion,2,0:00,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,11:47,DEN,foul,,,,,,,,Dirk Nowitzki,,Joey Graham,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,11:47,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,11:47,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,11:23,DEN,shot,Chauncey Billups,,,,,,,,,Carmelo Anthony,2,,,made,,fade away jumper,43,7
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,11:02,DAL,turnover,,,,,,,,,,Shawn Marion,,,bad pass,,Joey Graham,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,10:54,DEN,shot,,,,,,,,,,Chauncey Billups,,,,missed,,3pt,19,29
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,10:54,DAL,rebound,,,,,,,,,,Caron Butler,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,10:39,DAL,shot,,,,,,,,,,Shawn Marion,2,,,made,,jump,32,11
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,10:39,DEN,foul,,,,,,,,Shawn Marion,,Chauncey Billups,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,10:39,DAL,free throw,,,,,,,1,,1,Shawn Marion,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,10:20,DEN,shot,,,Brendan Haywood,,,,,,,Carmelo Anthony,,,,missed,,jump,25,25
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,10:19,DAL,rebound,,,,,,,,,,Caron Butler,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,10:03,DAL,shot,Jason Kidd,,,,,,,,,Brendan Haywood,2,,,made,,slam dunk,25,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,9:39,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,jump,41,17
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,9:38,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,9:26,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,turnaround jump,40,8
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,9:25,DEN,rebound,,,,,,,,,,Joey Graham,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,9:09,DEN,turnover,,,,,,,,,,Joey Graham,,,bad pass,,Shawn Marion,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,9:01,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,turnaround jump,14,8
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,8:55,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,8:45,DEN,shot,Nene Hilario,,,,,,,,,Chauncey Billups,3,,,made,,3pt,47,6
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,8:30,DAL,shot,Jason Kidd,,,,,,,,,Dirk Nowitzki,2,,,made,,step back jump,23,16
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,8:12,DEN,shot,,,,,,,,,,Chauncey Billups,,,,missed,,3pt,47,15
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,8:11,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,7:59,DEN,foul,,,,,,,,Dirk Nowitzki,,Carmelo Anthony,,,,,,personal,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,7:45,DAL,shot,,,,,,,,,,Brendan Haywood,,,,missed,,jump,8,7
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,7:44,DEN,rebound,,,,,,,,,,Chauncey Billups,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,7:32,DEN,shot,,,Brendan Haywood,,,,,,,Arron Afflalo,,,,missed,,jump,42,7
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,7:31,DAL,rebound,,,,,,,,,,Caron Butler,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,7:27,DEN,foul,,,,,,,,Jason Kidd,,Arron Afflalo,,,,,,shooting,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,7:27,DAL,free throw,,,,,,,1,,2,Jason Kidd,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,7:27,DAL,free throw,,,,,,,2,,2,Jason Kidd,,,foul,made,,,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,7:03,DEN,shot,Chauncey Billups,,,,,,,,,Joey Graham,2,,,made,,jump,17,9
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,6:41,DAL,shot,,,,,,,,,,Brendan Haywood,,,,missed,,fade away jumper,21,14
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,6:40,DEN,rebound,,,,,,,,,,Joey Graham,,,,,,def,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,6:34,DEN,shot,,,,,,,,,,Chauncey Billups,,,,missed,,jump,13,10
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,6:32,DEN,rebound,,,,,,,,,,Chauncey Billups,,,,,,off,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,6:29,DEN,shot,Chauncey Billups,,,,,,,,,Carmelo Anthony,3,,,made,,3pt,19,30
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,6:09,DEN,foul,,,,,,,,,,Joey Graham,,,,,,defense 3 second,,
+Arron Afflalo,Carmelo Anthony,Chauncey Billups,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,6:09,DAL,free throw,,,,,,,1,,1,Dirk Nowitzki,,,technical,made,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,6:09,DEN,sub,,,,J.R. Smith,,Arron Afflalo,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,6:00,DAL,shot,,,,,,,,,,Caron Butler,,,,missed,,jump,39,25
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,5:59,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,off,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,5:53,DEN,foul,,,,,,,,Dirk Nowitzki,,Chauncey Billups,,,,,,personal,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,5:53,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,5:53,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,5:37,DAL,foul,,,,,,,,Nene Hilario,,Brendan Haywood,,,,,,personal,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,5:27,DEN,shot,,,,,,,,,,J.R. Smith,2,,,made,,driving jump,26,12
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,5:11,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,turnaround jump,35,10
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,5:10,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,5:03,DEN,turnover,,,,,,,,,,Chauncey Billups,,,lost ball,,Jason Kidd,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,4:58,DAL,shot,Dirk Nowitzki,,,,,,,,,Shawn Marion,2,,,made,,driving layup,25,6
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,4:37,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,driving layup,25,6
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,4:36,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,off,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,4:36,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,tip,25,6
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,4:35,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,off,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,4:31,DEN,shot,,,,,,,,,,Chauncey Billups,,,,missed,,3pt,27,31
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,4:30,DAL,rebound,,,,,,,,,,Brendan Haywood,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,4:12,DAL,shot,Dirk Nowitzki,,,,,,,,,Shawn Marion,2,,,made,,turnaround bank,21,8
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,3:52,DEN,shot,,,,,,,,,,Joey Graham,2,,,made,,floating jump,26,10
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,3:26,DAL,shot,,,,,,,,,,Caron Butler,2,,,made,,jump,17,9
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,3:05,DEN,shot,Carmelo Anthony,,,,,,,,,J.R. Smith,3,,,made,,3pt,14,29
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,2:44,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,3pt,7,22
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,2:43,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,2:33,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,3pt,41,26
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,2:32,DAL,rebound,,,,,,,,,,Caron Butler,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,2:26,DEN,foul,,,,,,,,Dirk Nowitzki,,Carmelo Anthony,,,,,,personal,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Shawn Marion,3,2:26,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Caron Butler,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Shawn Marion,3,2:26,DAL,sub,,,,Eduardo Najera,,Brendan Haywood,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Nene Hilario,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,2:26,DAL,sub,,,,Jason Terry,,Caron Butler,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,2:26,DEN,sub,,,,Ty Lawson,,Nene Hilario,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,2:26,DEN,sub,,,,Chris Andersen,,Chauncey Billups,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,2:26,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,2:26,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,2:15,DEN,shot,,,,,,,,,,Carmelo Anthony,,,,missed,,driving jump,21,7
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,2:14,DAL,rebound,,,,,,,,,,Eduardo Najera,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,2:09,DEN,violation,,,,,,,,,,Joey Graham,,,,,,kicked ball,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,1:52,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,23,19
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,1:51,DEN,rebound,,,,,,,,,,Joey Graham,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,1:39,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,3pt,3,6
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,1:37,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,1:14,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,22,28
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,1:13,DEN,rebound,,,,,,,,,,Chris Andersen,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Dirk Nowitzki,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,1:07,DAL,foul,,,,,,,,J.R. Smith,,Jason Terry,,,,,,personal,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,1:07,DAL,sub,,,,Caron Butler,,Dirk Nowitzki,,,,,,,,,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:52,DAL,foul,,,,,,,,Joey Graham,,Caron Butler,,,,,,shooting,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:52,DEN,free throw,,,,,,,1,,2,Joey Graham,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:52,DEN,free throw,,,,,,,2,,2,Joey Graham,,,foul,missed,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:51,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,off,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:50,DAL,foul,,,,,,,,Carmelo Anthony,,Eduardo Najera,,,,,,shooting,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:50,DEN,free throw,,,,,,,1,,2,Carmelo Anthony,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:50,DEN,free throw,,,,,,,2,,2,Carmelo Anthony,,,foul,made,,,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:32,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,3pt,48,6
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:31,DEN,rebound,,,,,,,,,,Chris Andersen,,,,,,def,,
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:09,DEN,shot,,,,,,,,,,J.R. Smith,3,,,made,,3pt,2,8
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:01,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,running jump,20,11
+Carmelo Anthony,Chris Andersen,J.R. Smith,Joey Graham,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Shawn Marion,3,0:00,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,def,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,11:54,DAL,foul,,,,,,,,Ty Lawson,,Jason Terry,,,,,,personal,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,11:40,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,pullup bank,36,10
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,11:10,DAL,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,11:05,DAL,foul,,,,,,,,J.R. Smith,,Rodrigue Beaubois,,,,,,personal,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,11:01,DAL,foul,,,,,,,,Nene Hilario,,Erick Dampier,,,,,,shooting,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,11:01,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,missed,,,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,11:01,DEN,rebound,,,,,,,,,,,,,,,,,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,11:01,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,made,,,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,10:45,DAL,shot,Rodrigue Beaubois,,,,,,,,,Dirk Nowitzki,3,,,made,,3pt,24,30
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,10:34,DAL,foul,,,,,,,,Nene Hilario,,Jason Terry,,,,,,shooting,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,10:34,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,missed,,,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,10:34,DEN,rebound,,,,,,,,,,,,,,,,,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,10:34,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,made,,,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,10:17,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,3pt,37,27
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,10:15,DEN,rebound,,,,,,,,,,Chris Andersen,,,,,,def,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,10:08,DEN,shot,,,,,,,,,,J.R. Smith,2,,,made,,running jump,30,11
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Caron Butler,Dirk Nowitzki,Erick Dampier,Jason Terry,Rodrigue Beaubois,4,10:02,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Terry,Rodrigue Beaubois,4,10:02,DAL,sub,,,,Brendan Haywood,,Erick Dampier,,,,,,,,,,,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Terry,Rodrigue Beaubois,4,9:56,DAL,timeout,,,,,,,,,,,,,,,,short,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,9:56,DAL,sub,,,,Jason Kidd,,Rodrigue Beaubois,,,,,,,,,,,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,9:43,DAL,shot,Dirk Nowitzki,,,,,,,,,Jason Terry,3,,,made,,3pt,29,31
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,9:25,DEN,turnover,,,,,,,,,,Ty Lawson,,,bad pass,,Caron Butler,,,
+Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,9:20,DEN,foul,,,,,,,,Jason Terry,,Ty Lawson,,,,,,personal,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,9:20,DEN,sub,,,,Chauncey Billups,,Ty Lawson,,,,,,,,,,,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,9:11,DAL,shot,,,,,,,,,,Caron Butler,,,,missed,,jump,12,20
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,9:09,DEN,rebound,,,,,,,,,,J.R. Smith,,,,,,def,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:55,DAL,foul,,,,,,,,Nene Hilario,,Brendan Haywood,,,,,,shooting,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:55,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,made,,,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:55,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,made,,,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:41,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,13,23
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:40,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:32,DEN,shot,,,,,,,,,,Nene Hilario,,,,missed,,layup,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:31,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:29,DAL,turnover,,,,,,,,,,Dirk Nowitzki,,,bad pass,,J.R. Smith,,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:28,DEN,turnover,,,,,,,,,,J.R. Smith,,,bad pass,,Jason Kidd,,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:26,DEN,violation,,,,,,,,,,Chris Andersen,,,,,,defensive goaltending,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:26,DAL,shot,Jason Kidd,,,,,,,,,Jason Terry,2,,,made,,driving layup,25,6
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:13,DEN,turnover,,,,,,,,,,J.R. Smith,,,bad pass,,Caron Butler,,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,8:05,DAL,shot,Dirk Nowitzki,,,,,,,,,Jason Terry,3,,,made,,3pt,3,16
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,7:38,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,jump,37,11
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,7:37,DAL,rebound,,,,,,,,,,Brendan Haywood,,,,,,def,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,7:32,DAL,shot,,,J.R. Smith,,,,,,,Jason Terry,,,,missed,,layup,25,6
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,7:30,DEN,rebound,,,,,,,,,,Chauncey Billups,,,,,,def,,
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,7:24,DEN,shot,,,,,,,,,,Chauncey Billups,2,,,made,,layup,25,6
+Chauncey Billups,Chris Andersen,J.R. Smith,Joey Graham,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,7:22,DEN,foul,,,,,,,,Jason Kidd,,Chauncey Billups,,,,,,personal,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,7:22,DEN,sub,,,,Carmelo Anthony,,Joey Graham,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,7:05,DEN,foul,,,,,,,,Dirk Nowitzki,,J.R. Smith,,,,,,shooting,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,7:05,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,7:05,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,6:55,DEN,shot,,,Dirk Nowitzki,,,,,,,Chauncey Billups,,,,missed,,jump,17,9
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,6:53,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,6:45,DAL,shot,Caron Butler,,,,,,,,,Dirk Nowitzki,3,,,made,,3pt,21,30
+Carmelo Anthony,Chauncey Billups,Chris Andersen,J.R. Smith,Nene Hilario,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,6:44,DEN,timeout,,,,,,,,,,,,,,,,regular,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,6:44,DEN,sub,,,,Ty Lawson,,Chris Andersen,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,6:24,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,3pt,48,5
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,6:23,DAL,rebound,,,,,,,,,,Caron Butler,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,6:10,DEN,foul,,,,,,,,Dirk Nowitzki,,Carmelo Anthony,,,,,,personal,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,5:57,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,3pt,3,9
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,5:56,DAL,rebound,,,,,,,,,,Brendan Haywood,,,,,,off,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,5:54,DAL,shot,,,,,,,,,,Brendan Haywood,2,,,made,,putback layup,25,6
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,5:48,DEN,shot,,,,,,,,,,Ty Lawson,,,,missed,,driving layup,25,6
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,5:47,DAL,rebound,,,,,,,,,,Brendan Haywood,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,5:46,DAL,turnover,,,,,,,,,,Brendan Haywood,,,traveling,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,5:32,DAL,foul,,,,,,,,Nene Hilario,,Brendan Haywood,,,,,,shooting,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,5:32,DEN,free throw,,,,,,,1,,2,Chauncey Billups,,,foul,made,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,5:32,DEN,free throw,,,,,,,2,,2,Chauncey Billups,,,foul,made,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,5:13,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,41,6
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,5:12,DEN,rebound,,,,,,,,,,Ty Lawson,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:59,DEN,shot,,,,,,,,,,Chauncey Billups,,,,missed,,3pt,48,6
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:58,DAL,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:35,DAL,shot,Jason Kidd,,,,,,,,,Dirk Nowitzki,3,,,made,,3pt,22,31
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:24,DAL,foul,,,,,,,,J.R. Smith,,Jason Kidd,,,,,,shooting,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:24,DEN,free throw,,,,,,,1,,2,J.R. Smith,,,foul,made,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:24,DEN,free throw,,,,,,,2,,2,J.R. Smith,,,foul,made,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:13,DAL,shot,,,,,,,,,,Caron Butler,,,,missed,,layup,25,6
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:13,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:13,DAL,foul,,,,,,,,Nene Hilario,,Caron Butler,,,,,,loose ball,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:13,DEN,free throw,,,,,,,1,,2,Nene Hilario,,,foul,missed,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:13,DEN,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:13,DEN,free throw,,,,,,,2,,2,Nene Hilario,,,foul,missed,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:12,DEN,rebound,,,,,,,,,,Carmelo Anthony,,,,,,off,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:08,DEN,shot,,,Brendan Haywood,,,,,,,Carmelo Anthony,,,,missed,,layup,25,6
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,4:06,DAL,rebound,,,,,,,,,,Jason Terry,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,3:50,DAL,shot,Jason Kidd,,,,,,,,,Jason Terry,3,,,made,,3pt,38,27
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,3:42,DEN,shot,Chauncey Billups,,,,,,,,,Ty Lawson,2,,,made,,driving reverse layup,25,6
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,3:25,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,driving jump,21,8
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,3:23,DEN,rebound,,,,,,,,,,Nene Hilario,,,,,,def,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,3:16,DEN,shot,,,,,,,,,,J.R. Smith,,,,missed,,3pt,13,28
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,3:15,DEN,rebound,,,,,,,,,,,,,,,,,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,3:06,DEN,shot,,,,,,,,,,J.R. Smith,2,,,made,,jump,27,26
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,2:44,DEN,foul,,,,,,,,Dirk Nowitzki,,Carmelo Anthony,,,,,,personal,,
+Carmelo Anthony,Chauncey Billups,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,2:44,DAL,timeout,,,,,,,,,,,,,,,,official,,
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,2:44,DEN,sub,,,,Arron Afflalo,,Chauncey Billups,,,,,,,,,,,,
+Arron Afflalo,Carmelo Anthony,J.R. Smith,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,2:44,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Nene Hilario,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,2:44,DEN,sub,,,,Joey Graham,,Carmelo Anthony,,,,,,,,,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,2:44,DEN,sub,,,,Johan Petro,,Nene Hilario,,,,,,,,,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,2:44,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,2:34,DEN,shot,,,,,,,,,,Ty Lawson,2,,,made,,driving layup,25,6
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,2:15,DAL,shot,Dirk Nowitzki,,,,,,,,,Jason Terry,2,,,made,,jump,28,25
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,Brendan Haywood,Caron Butler,Dirk Nowitzki,Jason Kidd,Jason Terry,4,2:08,DAL,foul,,,,,,,,J.R. Smith,,Dirk Nowitzki,,,,,,personal,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,Brendan Haywood,Caron Butler,Jason Kidd,Jason Terry,Matt Carroll,4,2:08,DAL,sub,,,,Matt Carroll,,Dirk Nowitzki,,,,,,,,,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,Caron Butler,Eduardo Najera,Jason Kidd,Jason Terry,Matt Carroll,4,2:08,DAL,sub,,,,Eduardo Najera,,Brendan Haywood,,,,,,,,,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,Caron Butler,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,2:08,DAL,sub,,,,Rodrigue Beaubois,,Jason Kidd,,,,,,,,,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,2:08,DAL,sub,,,,DeShawn Stevenson,,Caron Butler,,,,,,,,,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,2:08,DEN,free throw,,,,,,,1,,2,J.R. Smith,,,foul,missed,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,2:08,DEN,rebound,,,,,,,,,,,,,,,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,2:08,DEN,free throw,,,,,,,2,,2,J.R. Smith,,,foul,made,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,1:50,DAL,shot,,,,,,,,,,Matt Carroll,2,,,made,,running jump,39,8
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,1:40,DEN,shot,,,,,,,,,,Johan Petro,,,,missed,,jump,24,10
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,1:40,DAL,rebound,,,,,,,,,,Matt Carroll,,,,,,def,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,1:26,DAL,shot,,,,,,,,,,DeShawn Stevenson,,,,missed,,jump,10,9
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,1:24,DEN,rebound,,,,,,,,,,Joey Graham,,,,,,def,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,1:18,DEN,shot,,,,,,,,,,Arron Afflalo,,,,missed,,fade away jumper,20,15
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,1:17,DEN,rebound,,,,,,,,,,Johan Petro,,,,,,off,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,1:08,DEN,shot,,,,,,,,,,Joey Graham,,,,missed,,3pt,47,17
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,1:07,DAL,rebound,,,,,,,,,,Jason Terry,,,,,,def,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,0:45,DAL,shot,,,,,,,,,,DeShawn Stevenson,,,,missed,,jump,6,17
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,0:44,DEN,rebound,,,,,,,,,,Arron Afflalo,,,,,,def,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,0:41,DAL,foul,,,,,,,,J.R. Smith,,DeShawn Stevenson,,,,,,personal,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,0:41,DEN,free throw,,,,,,,1,,2,J.R. Smith,,,foul,made,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,0:41,DEN,free throw,,,,,,,2,,2,J.R. Smith,,,foul,missed,,,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,0:40,DAL,rebound,,,,,,,,,,Matt Carroll,,,,,,def,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,0:21,DAL,shot,,,,,,,,,,Matt Carroll,,,,missed,,3pt,6,21
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,0:19,DEN,rebound,,,,,,,,,,Johan Petro,,,,,,def,,
+Arron Afflalo,J.R. Smith,Joey Graham,Johan Petro,Ty Lawson,DeShawn Stevenson,Eduardo Najera,Jason Terry,Matt Carroll,Rodrigue Beaubois,4,0:15,DEN,shot,,,,,,,,,,Arron Afflalo,2,,,made,,finger roll layup,25,6

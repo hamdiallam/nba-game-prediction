@@ -1,0 +1,456 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,12:00,OFF,jump ball,,Amare Stoudemire,,,Luis Scola,,,,,,,Steve Nash,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:39,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:38,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:19,HOU,turnover,,,,,,,,,,Shane Battier,,,out of bounds lost ball turnover,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:10,HOU,foul,,,,,,,,Jason Richardson,,Shane Battier,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:10,PHX,free throw,,,,,,,1,,2,Jason Richardson,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:10,PHX,free throw,,,,,,,2,,2,Jason Richardson,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:48,HOU,shot,,,,,,,,,,Shane Battier,,,,missed,,3pt,47,7
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:46,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:42,HOU,shot,Chuck Hayes,,,,,,,,,Trevor Ariza,3,,,made,,3pt,44,21
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:33,PHX,shot,Steve Nash,,,,,,,,,Grant Hill,2,,,made,,jump,43,8
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:23,HOU,shot,,,,,,,,,,Aaron Brooks,3,,,made,,3pt,43,22
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:14,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,39,27
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:13,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:08,HOU,shot,,,Amare Stoudemire,,,,,,,Trevor Ariza,,,,missed,,driving layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:08,HOU,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:59,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,jump bank,20,18
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:58,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:42,PHX,shot,Steve Nash,,,,,,,,,Grant Hill,2,,,made,,turnaround jump,40,7
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:25,HOU,shot,Aaron Brooks,,,,,,,,,Shane Battier,3,,,made,,3pt,2,9
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:17,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:16,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:10,HOU,shot,Aaron Brooks,,,,,,,,,Trevor Ariza,3,,,made,,3pt,42,24
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:54,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,turnaround jump,20,11
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:53,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:41,HOU,shot,Aaron Brooks,,,,,,,,,Luis Scola,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:29,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,47,7
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:28,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:25,HOU,foul,,,,,,,,Steve Nash,,Aaron Brooks,,,,,,offensive,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:25,HOU,turnover,,,,,,,,,,Aaron Brooks,,,foul,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:14,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,jump,10,11
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:13,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:53,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,2,11
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:52,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:43,PHX,shot,Steve Nash,,,,,,,,,Channing Frye,3,,,made,,3pt,25,30
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:28,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,turnaround hook,15,10
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:27,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:20,PHX,foul,,,,,,,,Luis Scola,,Amare Stoudemire,,,,,,offensive,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:20,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,foul,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:07,HOU,shot,,,,,,,,,,Shane Battier,2,,,made,,hook,17,10
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:55,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,5,9
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:54,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:49,HOU,shot,Chuck Hayes,,,,,,,,,Aaron Brooks,3,,,made,,3pt,44,22
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:44,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:33,PHX,foul,,,,,,,,Chuck Hayes,,Channing Frye,,,,,,offensive,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:33,PHX,turnover,,,,,,,,,,Channing Frye,,,foul,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:18,HOU,shot,Shane Battier,,,,,,,,,Chuck Hayes,2,,,made,,reverse layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:01,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,hook,24,14
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:43,HOU,shot,,,,,,,,,,Chuck Hayes,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:41,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:30,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,40,26
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:29,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:18,PHX,foul,,,,,,,,Shane Battier,,Channing Frye,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:18,PHX,sub,,,,Louis Amundson,,Channing Frye,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:11,HOU,shot,Trevor Ariza,,,,,,,,,Shane Battier,2,,,made,,hook,18,10
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:58,HOU,foul,,,,,,,,Amare Stoudemire,,Chuck Hayes,,,,,,shooting,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:58,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:58,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:41,HOU,shot,,,,,,,,,,Trevor Ariza,2,,,made,,pullup jump,30,22
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:24,PHX,shot,,,,,,,,,,Jason Richardson,2,,,made,,running reverse layup,25,6
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:05,PHX,foul,,,,,,,,Shane Battier,,Jason Richardson,,,,,,shooting,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:05,HOU,free throw,,,,,,,1,,2,Shane Battier,,,foul,missed,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:05,HOU,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:05,HOU,free throw,,,,,,,2,,2,Shane Battier,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,3:49,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,layup,25,6
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,3:48,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,3:37,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,hook,19,14
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,3:36,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,off,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,3:36,HOU,shot,,,,,,,,,,Chuck Hayes,2,,,made,,tip,25,6
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,3:22,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,jump,39,16
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,3:21,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,3:14,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,25,30
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,3:14,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,2:56,PHX,shot,Steve Nash,,,,,,,,,Grant Hill,2,,,made,,jump,14,7
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,2:30,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,40,29
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,2:28,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,2:23,HOU,violation,,,,,,,,,,Shane Battier,,,,,,kicked ball,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,2:23,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Jason Richardson,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,2:23,PHX,sub,,,,Leandro Barbosa,,Grant Hill,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,2:23,PHX,sub,,,,Jared Dudley,,Jason Richardson,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:23,HOU,sub,,,,Kyle Lowry,,Shane Battier,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Kyle Lowry,Trevor Ariza,1,2:23,HOU,sub,,,,Carl Landry,,Luis Scola,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Kyle Lowry,Trevor Ariza,1,2:19,PHX,turnover,,,,,,,,,,Jared Dudley,,,bad pass,,Trevor Ariza,,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Kyle Lowry,Trevor Ariza,1,2:00,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,running jump,21,14
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Kyle Lowry,Trevor Ariza,1,1:59,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Kyle Lowry,Trevor Ariza,1,1:47,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,lost ball,,Chuck Hayes,,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Kyle Lowry,Trevor Ariza,1,1:41,HOU,shot,Aaron Brooks,,,,,,,,,Trevor Ariza,2,,,made,,layup,25,6
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Kyle Lowry,Trevor Ariza,1,1:26,PHX,shot,Steve Nash,,,,,,,,,Louis Amundson,2,,,made,,layup,25,6
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Kyle Lowry,Trevor Ariza,1,1:26,HOU,foul,,,,,,,,Louis Amundson,,Chuck Hayes,,,,,,shooting,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,1:26,HOU,sub,,,,David Andersen,,Chuck Hayes,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,1:26,PHX,free throw,,,,,,,1,,1,Louis Amundson,,,foul,made,,,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,1:10,HOU,shot,,,,,,,,,,David Andersen,2,,,made,,turnaround jump,29,12
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,1:00,PHX,shot,,,,,,,,,,Jared Dudley,,,,missed,,3pt,37,27
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,0:59,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,def,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,0:38,HOU,shot,Aaron Brooks,,,,,,,,,Carl Landry,2,,,made,,jump bank,32,11
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,0:26,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,jump,24,24
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,0:02,HOU,shot,,,Louis Amundson,,,,,,,Aaron Brooks,,,,missed,,layup,25,6
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,0:02,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,off,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,0:02,HOU,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,0:00,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,jump,38,11
+Amare Stoudemire,Jared Dudley,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Trevor Ariza,1,0:00,PHX,rebound,,,,,,,,,,,,,,,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,11:43,HOU,shot,,,,,,,,,,Kyle Lowry,2,,,made,,driving layup,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,11:24,PHX,shot,Goran Dragic,,,,,,,,,Jared Dudley,3,,,made,,3pt,47,10
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,11:20,PHX,foul,,,,,,,,Aaron Brooks,,Goran Dragic,,,,,,shooting,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,11:20,HOU,free throw,,,,,,,1,,2,Aaron Brooks,,,foul,made,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,11:20,HOU,free throw,,,,,,,2,,2,Aaron Brooks,,,foul,made,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:59,HOU,violation,,,,,,,,,,Carl Landry,,,,,,defensive goaltending,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:59,PHX,shot,,,,,,,,,,Goran Dragic,2,,,made,,layup,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:46,HOU,shot,Aaron Brooks,,,,,,,,,David Andersen,2,,,made,,turnaround jump,15,7
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:35,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,jump,25,25
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:33,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:27,HOU,shot,,,,,,,,,,David Andersen,,,,missed,,3pt,27,30
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:26,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:16,HOU,foul,,,,,,,,Leandro Barbosa,,David Andersen,,,,,,shooting,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:16,PHX,free throw,,,,,,,1,,2,Leandro Barbosa,,,foul,missed,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:16,PHX,rebound,,,,,,,,,,,,,,,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:16,PHX,free throw,,,,,,,2,,2,Leandro Barbosa,,,foul,made,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:01,HOU,shot,,,,,,,,,,Kyle Lowry,,,,missed,,3pt,41,24
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:00,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:50,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,42,25
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:49,HOU,rebound,,,,,,,,,,Kyle Lowry,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:39,PHX,foul,,,,,,,,David Andersen,,Louis Amundson,,,,,,shooting,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:39,HOU,free throw,,,,,,,1,,2,David Andersen,,,foul,missed,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:39,HOU,rebound,,,,,,,,,,,,,,,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:39,HOU,free throw,,,,,,,2,,2,David Andersen,,,foul,made,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:24,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,3pt,37,27
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:23,HOU,rebound,,,,,,,,,,David Andersen,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:17,HOU,shot,Chase Budinger,,,,,,,,,Carl Landry,2,,,made,,dunk,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:01,PHX,shot,,,,,,,,,,Leandro Barbosa,2,,,made,,jump,41,8
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:44,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,3pt,43,24
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:43,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:39,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,layup,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:38,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,off,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:36,PHX,shot,,,David Andersen,,,,,,,Jared Dudley,,,,missed,,layup,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:35,HOU,rebound,,,,,,,,,,David Andersen,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:29,HOU,shot,Aaron Brooks,,,,,,,,,Carl Landry,2,,,made,,dunk,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:13,PHX,shot,,,,,,,,,,Leandro Barbosa,2,,,made,,driving layup,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:13,HOU,foul,,,,,,,,Leandro Barbosa,,Kyle Lowry,,,,,,shooting,,
+Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:13,PHX,timeout,,,,,,,,,,,,,,,,official,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:13,PHX,sub,,,,Amare Stoudemire,,Louis Amundson,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:13,PHX,free throw,,,,,,,1,,1,Leandro Barbosa,,,foul,missed,,,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:13,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,def,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:59,HOU,shot,,,,,,,,,,Carl Landry,,,,missed,,jump,18,9
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:57,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,off,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:57,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,tip,25,6
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:38,HOU,foul,,,,,,,,Amare Stoudemire,,Aaron Brooks,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:35,HOU,foul,,,,,,,,Amare Stoudemire,,David Andersen,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:25,PHX,shot,Amare Stoudemire,,,,,,,,,Goran Dragic,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:09,HOU,shot,,,,,,,,,,Chase Budinger,2,,,made,,driving dunk,25,6
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:55,PHX,shot,Channing Frye,,,,,,,,,Amare Stoudemire,2,,,made,,jump,11,11
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:55,PHX,violation,,,,,,,,,,,,,,,,delay of game,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:36,HOU,shot,,,,,,,,,,David Andersen,,,,missed,,jump,34,13
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:35,PHX,rebound,,,,,,,,,,Goran Dragic,,,,,,def,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:20,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,pullup jump,38,8
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:19,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,def,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:12,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,3pt,27,32
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:11,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:03,PHX,shot,Leandro Barbosa,,,,,,,,,Jared Dudley,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,5:57,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,2,5:57,HOU,sub,,,,Trevor Ariza,,Aaron Brooks,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,2,5:57,HOU,sub,,,,Luis Scola,,David Andersen,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Leandro Barbosa,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,5:57,HOU,sub,,,,Shane Battier,,Chase Budinger,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,5:57,PHX,sub,,,,Jason Richardson,,Leandro Barbosa,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Grant Hill,Jason Richardson,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,5:57,PHX,sub,,,,Grant Hill,,Jared Dudley,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,5:57,PHX,sub,,,,Steve Nash,,Goran Dragic,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,5:45,HOU,shot,,,,,,,,,,Carl Landry,,,,missed,,jump,23,10
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,5:44,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,5:35,PHX,shot,Steve Nash,,,,,,,,,Channing Frye,3,,,made,,3pt,18,30
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,5:18,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,7,23
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,5:17,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,5:01,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,jump,32,11
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,4:51,PHX,foul,,,,,,,,Luis Scola,,Amare Stoudemire,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,4:41,HOU,shot,,,,,,,,,,Kyle Lowry,,,,missed,,jump,7,9
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,4:40,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,4:38,PHX,turnover,,,,,,,,,,Steve Nash,,,double dribble,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,4:23,HOU,shot,,,,,,,,,,Shane Battier,,,,missed,,3pt,2,8
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,4:22,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,4:18,PHX,shot,Steve Nash,,,,,,,,,Jason Richardson,2,,,made,,dunk,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,4:03,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,jump,30,22
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,4:02,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,3:52,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,3:45,HOU,timeout,,,,,,,,,,,,,,,,short,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,3:45,HOU,sub,,,,Chuck Hayes,,Carl Landry,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,3:45,HOU,sub,,,,Aaron Brooks,,Kyle Lowry,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,3:26,HOU,shot,,,,,,,,,,Shane Battier,,,,missed,,jump,40,9
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,3:25,HOU,rebound,,,,,,,,,,Aaron Brooks,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,3:22,HOU,shot,Aaron Brooks,,,,,,,,,Luis Scola,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,3:01,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,26,31
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,3:00,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:51,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,reverse layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:50,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:40,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,driving layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:39,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:35,PHX,foul,,,,,,,,Shane Battier,,Jason Richardson,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:35,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:29,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,jump,15,22
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:28,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,2:13,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,dunk,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:44,HOU,shot,,,Channing Frye,,,,,,,Chuck Hayes,,,,missed,,hook,27,11
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:42,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:25,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,11,24
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:24,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:19,PHX,foul,,,,,,,,Luis Scola,,Channing Frye,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:19,HOU,free throw,,,,,,,1,,2,Luis Scola,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:19,PHX,sub,,,,Louis Amundson,,Channing Frye,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,1:19,HOU,free throw,,,,,,,2,,2,Luis Scola,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:59,PHX,shot,Amare Stoudemire,,,,,,,,,Grant Hill,2,,,made,,reverse layup,25,6
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:44,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,jump,21,12
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:42,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:24,HOU,foul,,,,,,,,Amare Stoudemire,,Chuck Hayes,,,,,,shooting,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:24,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,2,0:24,PHX,sub,,,,Leandro Barbosa,,Jason Richardson,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Leandro Barbosa,Louis Amundson,Steve Nash,Aaron Brooks,David Andersen,Luis Scola,Shane Battier,Trevor Ariza,2,0:24,HOU,sub,,,,David Andersen,,Chuck Hayes,,,,,,,,,,,,
+Amare Stoudemire,Goran Dragic,Grant Hill,Leandro Barbosa,Louis Amundson,Aaron Brooks,David Andersen,Luis Scola,Shane Battier,Trevor Ariza,2,0:24,PHX,sub,,,,Goran Dragic,,Steve Nash,,,,,,,,,,,,
+Amare Stoudemire,Goran Dragic,Grant Hill,Leandro Barbosa,Louis Amundson,Aaron Brooks,David Andersen,Luis Scola,Shane Battier,Trevor Ariza,2,0:24,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,missed,,,,
+Amare Stoudemire,Goran Dragic,Grant Hill,Leandro Barbosa,Louis Amundson,Aaron Brooks,David Andersen,Luis Scola,Shane Battier,Trevor Ariza,2,0:24,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Amare Stoudemire,Goran Dragic,Grant Hill,Leandro Barbosa,Louis Amundson,Aaron Brooks,David Andersen,Luis Scola,Shane Battier,Trevor Ariza,2,0:02,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,pullup jump,18,19
+Amare Stoudemire,Goran Dragic,Grant Hill,Leandro Barbosa,Louis Amundson,Aaron Brooks,David Andersen,Luis Scola,Shane Battier,Trevor Ariza,2,0:00,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,3pt,7,47
+Amare Stoudemire,Goran Dragic,Grant Hill,Leandro Barbosa,Louis Amundson,Aaron Brooks,David Andersen,Luis Scola,Shane Battier,Trevor Ariza,2,0:00,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:39,HOU,shot,,,,,,,,,,Trevor Ariza,2,,,made,,jump,45,14
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:19,PHX,foul,,,,,,,,Chuck Hayes,,Grant Hill,,,,,,offensive,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:19,PHX,turnover,,,,,,,,,,Grant Hill,,,foul,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:04,HOU,foul,,,,,,,,Channing Frye,,Luis Scola,,,,,,offensive,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:04,HOU,turnover,,,,,,,,,,Luis Scola,,,foul,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:48,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,hook,30,10
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:42,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,24,31
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:41,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:27,HOU,foul,,,,,,,,Amare Stoudemire,,Chuck Hayes,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,10:27,HOU,sub,,,,Carl Landry,,Chuck Hayes,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,10:16,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,jump,39,11
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,10:10,HOU,free throw,,,,,,,1,,1,Aaron Brooks,,,technical,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,10:07,HOU,turnover,,,,,,,,,,Luis Scola,,,bad pass,,Channing Frye,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,9:59,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,turnaround jump,15,15
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,9:58,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,9:45,HOU,shot,Trevor Ariza,,,,,,,,,Carl Landry,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,9:25,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,9,25
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,9:24,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,9:22,PHX,foul,,,,,,,,Carl Landry,,Channing Frye,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,9:22,PHX,sub,,,,Louis Amundson,,Channing Frye,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,9:20,PHX,foul,,,,,,,,Trevor Ariza,,Amare Stoudemire,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,9:14,HOU,shot,,,Jason Richardson,,,,,,,Carl Landry,,,,missed,,jump,28,15
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,9:13,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,9:13,HOU,foul,,,,,,,,Steve Nash,,Carl Landry,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,8:51,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,jump,38,8
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,8:28,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,39,26
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,8:27,HOU,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,8:24,HOU,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,8:09,PHX,shot,Amare Stoudemire,,,,,,,,,Jason Richardson,3,,,made,,3pt,2,8
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,7:43,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,hook,21,13
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,7:42,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,7:35,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,10,23
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,7:34,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,7:25,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,pullup jump,41,9
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,7:11,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,pullup jump,28,17
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:56,HOU,turnover,,,,,,,,,,Shane Battier,,,lost ball,,Grant Hill,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:52,PHX,turnover,,,,,,,,,,Jason Richardson,,,lost ball,,Trevor Ariza,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:45,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,2,9
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:44,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,off,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:43,HOU,shot,,,,,,,,,,Carl Landry,,,,missed,,layup,25,6
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:41,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:31,HOU,foul,,,,,,,,,,Luis Scola,,,,,,defense 3 second,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:31,PHX,free throw,,,,,,,1,,1,Steve Nash,,,technical,missed,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:31,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:31,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:23,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,jump,19,24
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:22,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,6:08,PHX,foul,,,,,,,,Carl Landry,,Louis Amundson,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,5:58,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,jump,23,14
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,5:44,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,Trevor Ariza,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,5:35,HOU,turnover,,,,,,,,,,Luis Scola,,,traveling,,,,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,5:25,PHX,shot,,,,,,,,,,Jason Richardson,2,,,made,,driving dunk,25,6
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,5:14,HOU,shot,Aaron Brooks,,,,,,,,,Trevor Ariza,3,,,made,,3pt,2,8
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,5:03,PHX,shot,Steve Nash,,,,,,,,,Jason Richardson,3,,,made,,3pt,24,31
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,4:40,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,jump,6,9
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,4:39,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,off,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,4:36,HOU,shot,Carl Landry,,,,,,,,,Trevor Ariza,2,,,made,,dunk,25,6
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,4:16,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,pullup jump,39,9
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,3:59,HOU,shot,Shane Battier,,,,,,,,,Carl Landry,2,,,made,,layup,25,6
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,3:51,PHX,shot,Steve Nash,,,,,,,,,Louis Amundson,2,,,made,,dunk,25,6
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,3:27,HOU,shot,Luis Scola,,,,,,,,,Carl Landry,2,,,made,,jump,10,9
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,3:13,PHX,foul,,,,,,,,Luis Scola,,Amare Stoudemire,,,,,,offensive,,
+Amare Stoudemire,Grant Hill,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,3:13,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,foul,,,,,
+Amare Stoudemire,Jared Dudley,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,3:13,PHX,sub,,,,Jared Dudley,,Grant Hill,,,,,,,,,,,,
+Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,3:13,PHX,sub,,,,Jarron Collins,,Amare Stoudemire,,,,,,,,,,,,
+Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,2:55,HOU,shot,Aaron Brooks,,,,,,,,,Luis Scola,2,,,made,,jump,28,25
+Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,2:44,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,41,25
+Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,2:43,PHX,rebound,,,,,,,,,,,,,,,,,,
+Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,2:43,HOU,foul,,,,,,,,Jarron Collins,,Luis Scola,,,,,,loose ball,,
+Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,2:43,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,2:32,PHX,shot,Steve Nash,,,,,,,,,Jason Richardson,2,,,made,,jump,15,20
+Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,2:04,HOU,shot,,,,,,,,,,Aaron Brooks,3,,,made,,3pt,43,23
+Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,1:41,PHX,shot,Steve Nash,,,,,,,,,Jason Richardson,2,,,made,,jump,44,16
+Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,1:26,PHX,foul,,,,,,,,Carl Landry,,Louis Amundson,,,,,,personal,,
+Goran Dragic,Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,3,1:26,PHX,sub,,,,Goran Dragic,,Steve Nash,,,,,,,,,,,,
+Goran Dragic,Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,1:26,HOU,sub,,,,Chase Budinger,,Shane Battier,,,,,,,,,,,,
+Goran Dragic,Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,1:19,HOU,shot,Trevor Ariza,,,,,,,,,Carl Landry,2,,,made,,slam dunk,25,6
+Goran Dragic,Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:54,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,6,21
+Goran Dragic,Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:53,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,off,,
+Goran Dragic,Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:52,HOU,foul,,,,,,,,Jared Dudley,,Trevor Ariza,,,,,,shooting,,
+Goran Dragic,Jared Dudley,Jarron Collins,Jason Richardson,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:52,PHX,free throw,,,,,,,1,,2,Jared Dudley,,,foul,made,,,,
+Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:52,PHX,sub,,,,Leandro Barbosa,,Jason Richardson,,,,,,,,,,,,
+Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:52,PHX,free throw,,,,,,,2,,2,Jared Dudley,,,foul,made,,,,
+Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:34,HOU,shot,,,Jarron Collins,,,,,,,Chase Budinger,,,,missed,,jump,23,11
+Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:32,PHX,rebound,,,,,,,,,,Jarron Collins,,,,,,def,,
+Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:23,PHX,turnover,,,,,,,,,,Goran Dragic,,,bad pass,,,,,
+Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:02,HOU,shot,Aaron Brooks,,,,,,,,,Luis Scola,2,,,made,,jump,41,8
+Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:00,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,3pt,43,43
+Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Louis Amundson,Aaron Brooks,Carl Landry,Chase Budinger,Luis Scola,Trevor Ariza,3,0:00,PHX,rebound,,,,,,,,,,,,,,,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,11:45,PHX,shot,Jarron Collins,,,,,,,,,Channing Frye,2,,,made,,jump,11,20
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,11:31,PHX,foul,,,,,,,,Carl Landry,,Jarron Collins,,,,,,personal,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,11:14,HOU,shot,,,,,,,,,,Carl Landry,,,,missed,,jump,10,9
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,11:13,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,11:09,PHX,shot,Leandro Barbosa,,,,,,,,,Goran Dragic,2,,,made,,layup,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,10:56,HOU,shot,Kyle Lowry,,,,,,,,,Chase Budinger,3,,,made,,3pt,2,9
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,10:52,PHX,foul,,,,,,,,Chase Budinger,,Leandro Barbosa,,,,,,offensive,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,10:52,PHX,turnover,,,,,,,,,,Leandro Barbosa,,,foul,,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,10:38,HOU,shot,,,,,,,,,,David Andersen,,,,missed,,jump,10,12
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,10:37,PHX,rebound,,,,,,,,,,Goran Dragic,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,10:21,PHX,shot,,,,,,,,,,Jarron Collins,2,,,made,,turnaround jump,25,13
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,10:00,HOU,shot,,,Channing Frye,,,,,,,David Andersen,,,,missed,,jump,23,12
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,9:59,PHX,rebound,,,,,,,,,,Jarron Collins,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,9:49,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,jump,31,15
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,9:48,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,9:28,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,29,31
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,9:27,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,9:18,PHX,shot,,,,,,,,,,Jared Dudley,,,,missed,,layup,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,9:16,PHX,rebound,,,,,,,,,,Jarron Collins,,,,,,off,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,9:02,PHX,shot,,,,,,,,,,Leandro Barbosa,,,,missed,,jump,20,21
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,9:02,HOU,rebound,,,,,,,,,,Kyle Lowry,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,9:00,PHX,foul,,,,,,,,Kyle Lowry,,Channing Frye,,,,,,personal,,
+Channing Frye,Goran Dragic,Jared Dudley,Jarron Collins,Leandro Barbosa,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,4,9:00,HOU,sub,,,,Trevor Ariza,,Aaron Brooks,,,,,,,,,,,,
+Channing Frye,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,4,9:00,PHX,sub,,,,Steve Nash,,Goran Dragic,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,4,9:00,PHX,sub,,,,Amare Stoudemire,,Channing Frye,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,4,8:52,HOU,shot,,,,,,,,,,David Andersen,,,,missed,,jump,12,24
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,4,8:51,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,4,8:51,HOU,foul,,,,,,,,Jarron Collins,,Carl Landry,,,,,,loose ball,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,4,8:51,PHX,timeout,,,,,,,,,,,,,,,,official,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:51,HOU,sub,,,,Luis Scola,,Carl Landry,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:40,PHX,shot,Steve Nash,,,,,,,,,Leandro Barbosa,2,,,made,,driving layup,25,6
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:25,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,driving layup,25,6
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:21,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:12,HOU,violation,,,,,,,,,,David Andersen,,,,,,kicked ball,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:03,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,3pt,10,26
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,8:02,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,7:53,HOU,shot,,,Jarron Collins,,,,,,,Kyle Lowry,,,,missed,,layup,25,6
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,7:51,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,off,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,7:47,HOU,turnover,,,,,,,,,,Luis Scola,,,lost ball,,Jared Dudley,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,7:42,PHX,shot,Jared Dudley,,,,,,,,,Leandro Barbosa,2,,,made,,layup,25,6
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,7:26,HOU,shot,David Andersen,,,,,,,,,Chase Budinger,3,,,made,,3pt,48,12
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,7:17,HOU,foul,,,,,,,,Jarron Collins,,Kyle Lowry,,,,,,personal,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,7:07,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,jump,27,25
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,7:06,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,7:06,HOU,foul,,,,,,,,Jared Dudley,,Chase Budinger,,,,,,loose ball,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,6:56,HOU,foul,,,,,,,,Amare Stoudemire,,Kyle Lowry,,,,,,shooting,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,6:56,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,6:56,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,6:43,HOU,shot,Trevor Ariza,,,,,,,,,Luis Scola,2,,,made,,layup,25,6
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,6:30,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,running jump,35,12
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,6:29,PHX,rebound,,,,,,,,,,Jarron Collins,,,,,,off,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,6:28,PHX,shot,,,,,,,,,,Jarron Collins,2,,,made,,layup,25,6
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,6:23,HOU,shot,,,Leandro Barbosa,,,,,,,Chase Budinger,,,,missed,,layup,25,6
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,6:21,PHX,rebound,,,,,,,,,,Jarron Collins,,,,,,def,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,6:04,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,5:52,PHX,foul,,,,,,,,Kyle Lowry,,Steve Nash,,,,,,shooting,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Chase Budinger,David Andersen,Kyle Lowry,Luis Scola,Trevor Ariza,4,5:52,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,5:52,HOU,sub,,,,Carl Landry,,David Andersen,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Leandro Barbosa,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,4,5:52,HOU,sub,,,,Shane Battier,,Chase Budinger,,,,,,,,,,,,
+Amare Stoudemire,Jared Dudley,Jarron Collins,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,4,5:52,PHX,sub,,,,Jason Richardson,,Leandro Barbosa,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,4,5:52,PHX,sub,,,,Grant Hill,,Jared Dudley,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,4,5:52,HOU,free throw,,,,,,,1,,2,Kyle Lowry,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,4,5:52,HOU,free throw,,,,,,,2,,2,Kyle Lowry,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,4,5:40,HOU,foul,,,,,,,,Amare Stoudemire,,Carl Landry,,,,,,shooting,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,4,5:40,HOU,sub,,,,Aaron Brooks,,Kyle Lowry,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,4,5:40,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,missed,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,4,5:40,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,4,5:40,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,4,5:18,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,jump,38,8
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,4,5:16,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,4,4:57,HOU,foul,,,,,,,,Amare Stoudemire,,Luis Scola,,,,,,shooting,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,4,4:57,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,missed,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,4,4:57,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,4,4:57,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Luis Scola,Shane Battier,Trevor Ariza,4,4:53,PHX,foul,,,,,,,,Luis Scola,,Jarron Collins,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,4:53,HOU,sub,,,,Chuck Hayes,,Luis Scola,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,4:36,HOU,shot,,,,,,,,,,Shane Battier,2,,,made,,driving layup,25,6
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,4:28,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,45,20
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,4:27,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,4:10,HOU,shot,Aaron Brooks,,,,,,,,,Carl Landry,2,,,made,,layup,25,6
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:54,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,40,16
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:53,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,off,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:47,HOU,foul,,,,,,,,Steve Nash,,Carl Landry,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:47,PHX,sub,,,,Channing Frye,,Jarron Collins,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:47,PHX,free throw,,,,,,,1,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:47,PHX,free throw,,,,,,,2,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:33,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,40,25
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:32,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:32,HOU,foul,,,,,,,,Steve Nash,,Carl Landry,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:32,PHX,free throw,,,,,,,1,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:32,PHX,free throw,,,,,,,2,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,3:15,HOU,shot,Aaron Brooks,,,,,,,,,Carl Landry,2,,,made,,jump,38,13
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,2:58,PHX,shot,Steve Nash,,,,,,,,,Jason Richardson,2,,,made,,reverse layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,2:32,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,driving layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,2:31,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,2:17,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,pullup jump,16,14
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,2:16,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,2:13,HOU,shot,,,,,,,,,,Shane Battier,,,,missed,,3pt,17,29
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,2:12,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,2:06,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:49,PHX,shot,Steve Nash,,,,,,,,,Channing Frye,3,,,made,,3pt,25,30
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:34,PHX,foul,,,,,,,,Carl Landry,,Channing Frye,,,,,,shooting,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:34,PHX,sub,,,,Jarron Collins,,Channing Frye,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:34,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:34,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,missed,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:34,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:13,PHX,shot,Amare Stoudemire,,,,,,,,,Jarron Collins,2,,,made,,layup,25,6
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:13,HOU,foul,,,,,,,,Jarron Collins,,Trevor Ariza,,,,,,shooting,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:13,PHX,free throw,,,,,,,1,,1,Jarron Collins,,,foul,missed,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:13,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:04,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,layup,25,6
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,1:02,PHX,rebound,,,,,,,,,,Jarron Collins,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,0:38,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,24,31
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,0:37,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,0:25,HOU,shot,,,,,,,,,,Chuck Hayes,,,,missed,,jump,25,13
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,0:24,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,0:21,HOU,foul,,,,,,,,Grant Hill,,Shane Battier,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,0:21,PHX,free throw,,,,,,,1,,2,Grant Hill,,,foul,missed,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,0:21,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,0:21,PHX,free throw,,,,,,,2,,2,Grant Hill,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jarron Collins,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,0:21,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chuck Hayes,Shane Battier,Trevor Ariza,4,0:21,PHX,sub,,,,Jared Dudley,,Jarron Collins,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:21,HOU,sub,,,,Chase Budinger,,Chuck Hayes,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:18,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,layup,25,6
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:18,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,off,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:18,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,layup,25,6
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:17,HOU,foul,,,,,,,,Steve Nash,,Trevor Ariza,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:17,PHX,free throw,,,,,,,1,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:17,PHX,free throw,,,,,,,2,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:17,HOU,timeout,,,,,,,,,,,,,,,,short,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:13,HOU,shot,,,Jason Richardson,,,,,,,Trevor Ariza,,,,missed,,layup,25,6
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:12,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,off,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:12,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,layup,25,6
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:11,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,off,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:11,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,layup,25,6
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:11,PHX,timeout,,,,,,,,,,,,,,,,short,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:10,HOU,foul,,,,,,,,Steve Nash,,Shane Battier,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:10,PHX,free throw,,,,,,,1,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:10,PHX,free throw,,,,,,,2,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:10,HOU,timeout,,,,,,,,,,,,,,,,short,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:06,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,41,27
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:06,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:06,HOU,foul,,,,,,,,Jared Dudley,,Chase Budinger,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:06,PHX,free throw,,,,,,,1,,2,Jared Dudley,,,foul,missed,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:06,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:06,PHX,free throw,,,,,,,2,,2,Jared Dudley,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Aaron Brooks,Carl Landry,Chase Budinger,Shane Battier,Trevor Ariza,4,0:02,HOU,shot,,,,,,,,,,Trevor Ariza,2,,,made,,dunk,25,6

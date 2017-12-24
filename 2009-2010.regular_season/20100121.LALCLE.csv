@@ -1,0 +1,427 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,12:00,OFF,jump ball,,Andrew Bynum,,,Shaquille O'Neal,,,,,,,Derek Fisher,,,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,11:45,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,jump,40,18
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,11:28,CLE,shot,,,,,,,,,,Anthony Parker,,,,missed,,3pt,49,9
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,11:26,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,11:11,LAL,shot,Ron Artest,,,,,,,,,Kobe Bryant,3,,,made,,3pt,36,29
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,10:50,CLE,shot,,,,,,,,,,Delonte West,,,,missed,,jump,45,7
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,10:48,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,10:37,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,37,14
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,10:35,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,off,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,10:33,LAL,shot,Ron Artest,,,,,,,,,Andrew Bynum,2,,,made,,dunk,24,6
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,10:14,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,32,30
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,10:13,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,10:02,LAL,shot,Derek Fisher,,,,,,,,,Pau Gasol,2,,,made,,jump hook,30,12
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,9:50,CLE,shot,J.J. Hickson,,,,,,,,,LeBron James,2,,,made,,driving layup,25,7
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,9:50,LAL,foul,,,,,,,,LeBron James,,Ron Artest,,,,,,shooting,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,9:50,CLE,free throw,,,,,,,1,,1,LeBron James,,,foul,missed,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,9:48,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,9:32,LAL,turnover,,,,,,,,,,Kobe Bryant,,,bad pass,,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,9:12,CLE,shot,LeBron James,,,,,,,,,Anthony Parker,2,,,made,,layup,25,7
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,8:55,LAL,shot,Kobe Bryant,,,,,,,,,Pau Gasol,2,,,made,,turnaround jump,35,10
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,8:38,LAL,foul,,,,,,,,Shaquille O'Neal,,Andrew Bynum,,,,,,shooting,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,8:38,CLE,free throw,,,,,,,1,,2,Shaquille O'Neal,,,foul,made,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,8:38,CLE,free throw,,,,,,,2,,2,Shaquille O'Neal,,,foul,made,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,8:15,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,14,28
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,8:14,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,8:03,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,jump,38,16
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,8:02,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,7:51,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,jump,16,16
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,7:50,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,7:42,CLE,shot,Delonte West,,,,,,,,,J.J. Hickson,2,,,made,,layup,26,6
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,7:22,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,16,9
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,7:21,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,off,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,7:15,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,15,30
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,7:14,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,7:03,CLE,shot,Shaquille O'Neal,,,,,,,,,LeBron James,2,,,made,,layup,25,6
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,6:36,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,turnaround jump,14,11
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,6:35,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,off,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,6:23,CLE,violation,,,,,,,,,,J.J. Hickson,,,,,,defensive goaltending,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,6:23,LAL,shot,Kobe Bryant,,,,,,,,,Andrew Bynum,2,,,made,,layup,25,6
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,6:09,LAL,foul,,,,,,,,J.J. Hickson,,Derek Fisher,,,,,,shooting,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,6:09,CLE,free throw,,,,,,,1,,2,J.J. Hickson,,,foul,made,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,6:09,CLE,free throw,,,,,,,2,,2,J.J. Hickson,,,foul,made,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,5:58,LAL,shot,,,,,,,,,,Andrew Bynum,2,,,made,,dunk,25,6
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,5:36,CLE,shot,LeBron James,,,,,,,,,J.J. Hickson,2,,,made,,slam dunk,25,7
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,5:19,CLE,foul,,,,,,,,Andrew Bynum,,Delonte West,,,,,,personal,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,5:19,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,5:04,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,step back jump,16,16
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,5:02,CLE,rebound,,,,,,,,,,Anthony Parker,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,4:50,CLE,shot,,,,,,,,,,Shaquille O'Neal,,,,missed,,layup,25,6
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,4:48,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,4:37,LAL,shot,Ron Artest,,,,,,,,,Derek Fisher,2,,,made,,layup,24,7
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,4:08,CLE,shot,,,,,,,,,,J.J. Hickson,,,,missed,,jump,13,12
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,4:07,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,3:55,LAL,shot,Derek Fisher,,,,,,,,,Kobe Bryant,2,,,made,,turnaround jump,17,13
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,3:34,CLE,shot,LeBron James,,,,,,,,,J.J. Hickson,2,,,made,,slam dunk,25,7
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,1,3:15,CLE,foul,,,,,,,,Pau Gasol,,Anthony Parker,,,,,,shooting,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,1,3:15,CLE,sub,,,,Zydrunas Ilgauskas,,Shaquille O'Neal,,,,,,,,,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,3:15,CLE,sub,,,,Anderson Varejao,,J.J. Hickson,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,3:15,LAL,sub,,,,Lamar Odom,,Andrew Bynum,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,3:15,LAL,free throw,,,,,,,1,,2,Pau Gasol,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,3:15,LAL,free throw,,,,,,,2,,2,Pau Gasol,,,foul,missed,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,3:14,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,3:04,CLE,shot,,,,,,,,,,Delonte West,,,,missed,,layup,25,6
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,3:03,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,2:58,LAL,shot,Lamar Odom,,,,,,,,,Kobe Bryant,3,,,made,,3pt,10,26
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,2:38,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,27,31
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,2:37,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,2:19,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,layup,26,8
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,2:17,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,2:13,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,3pt,14,33
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,2:12,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,2:01,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,,,,missed,,jump,42,14
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,2:00,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,1:43,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,jump,14,15
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,1:41,CLE,rebound,,,,,,,,,,Delonte West,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,1:17,CLE,shot,,,,,,,,,,Anderson Varejao,,,,missed,,layup,25,6
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,1:15,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,1:09,LAL,shot,Derek Fisher,,,,,,,,,Kobe Bryant,2,,,made,,jump,11,11
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,0:39,CLE,shot,,,,,,,,,,Anthony Parker,,,,missed,,layup,25,8
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,0:38,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,0:32,LAL,shot,Derek Fisher,,,,,,,,,Pau Gasol,2,,,made,,dunk,25,7
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,0:12,LAL,foul,,,,,,,,LeBron James,,Pau Gasol,,,,,,shooting,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,1,0:12,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Delonte West,Jawad Williams,LeBron James,Zydrunas Ilgauskas,1,0:12,CLE,sub,,,,Jawad Williams,,Anthony Parker,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,1,0:12,CLE,sub,,,,Daniel Gibson,,Delonte West,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,1,0:12,LAL,sub,,,,Sasha Vujacic,,Ron Artest,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,1,0:12,CLE,free throw,,,,,,,1,,2,LeBron James,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,1,0:12,CLE,free throw,,,,,,,2,,2,LeBron James,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,1,0:07,CLE,foul,,,,,,,,Sasha Vujacic,,Daniel Gibson,,,,,,personal,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,Anderson Varejao,Daniel Gibson,J.J. Hickson,Jawad Williams,LeBron James,1,0:07,CLE,sub,,,,J.J. Hickson,,Zydrunas Ilgauskas,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,Anderson Varejao,Daniel Gibson,J.J. Hickson,Jawad Williams,LeBron James,1,0:02,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,layup,25,8
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,Anderson Varejao,Daniel Gibson,J.J. Hickson,Jawad Williams,LeBron James,1,0:01,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,11:43,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,,,,missed,,jump,40,17
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,11:42,CLE,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,11:41,LAL,foul,,,,,,,,Anderson Varejao,,Lamar Odom,,,,,,loose ball,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,11:37,CLE,shot,LeBron James,,,,,,,,,Daniel Gibson,3,,,made,,3pt,14,27
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,11:17,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,3pt,1,7
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,11:16,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,11:01,CLE,shot,,,,,,,,,,Jawad Williams,,,,missed,,jump,42,19
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,11:00,LAL,rebound,,,,,,,,,,Jordan Farmar,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,10:52,CLE,violation,,,,,,,,,,Zydrunas Ilgauskas,,,,,,kicked ball,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,10:43,CLE,foul,,,,,,,,Andrew Bynum,,Anderson Varejao,,,,,,shooting,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,10:43,LAL,free throw,,,,,,,1,,2,Andrew Bynum,,,foul,made,,,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,10:43,LAL,free throw,,,,,,,2,,2,Andrew Bynum,,,foul,missed,,,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,10:42,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,10:27,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,driving layup,25,7
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,10:27,LAL,foul,,,,,,,,LeBron James,,Andrew Bynum,,,,,,shooting,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,10:27,CLE,free throw,,,,,,,1,,1,LeBron James,,,foul,made,,,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,10:09,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,turnaround fade away,43,12
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,9:53,CLE,shot,Jawad Williams,,,,,,,,,Anderson Varejao,2,,,made,,layup,26,6
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,9:44,CLE,foul,,,,,,,,Kobe Bryant,,Jawad Williams,,,,,,personal,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,9:33,LAL,shot,,,,,,,,,,Shannon Brown,,,,missed,,running jump,24,13
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,9:32,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,9:27,LAL,shot,,,,,,,,,,Shannon Brown,,,,missed,,jump,11,13
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,9:26,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,9:15,CLE,turnover,,,,,,,,,,Daniel Gibson,,,out of bounds lost ball turnover,,,,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,9:06,CLE,foul,,,,,,,,Andrew Bynum,,Zydrunas Ilgauskas,,,,,,personal,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,8:57,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,jump,9,13
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,8:39,CLE,turnover,,,,,,,,,,Zydrunas Ilgauskas,,,bad pass,,Shannon Brown,,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,8:32,LAL,shot,,,,,,,,,,Shannon Brown,,,,missed,,jump,11,15
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,8:31,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,8:29,CLE,turnover,,,,,,,,,,LeBron James,,,out of bounds lost ball turnover,,,,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,8:29,LAL,timeout,,,,,,,,,,,,,,,,official,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,8:29,LAL,sub,,,,Ron Artest,,Kobe Bryant,,,,,,,,,,,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,8:15,LAL,shot,Shannon Brown,,,,,,,,,Ron Artest,3,,,made,,3pt,3,14
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,8:03,LAL,foul,,,,,,,,LeBron James,,Ron Artest,,,,,,personal,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,8:00,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,,,,missed,,layup,26,6
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,7:59,CLE,rebound,,,,,,,,,,Jawad Williams,,,,,,off,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,7:59,CLE,shot,,,Andrew Bynum,,,,,,,Jawad Williams,,,,missed,,tip,25,6
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,7:57,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,off,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,7:56,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,2,,,made,,layup,25,5
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,7:42,CLE,foul,,,,,,,,Ron Artest,,Jawad Williams,,,,,,personal,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,7:34,LAL,shot,Ron Artest,,,,,,,,,Lamar Odom,2,,,made,,jump,8,6
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,7:14,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,jump,44,9
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,7:13,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,7:03,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Jawad Williams,Shaquille O'Neal,Zydrunas Ilgauskas,2,7:03,CLE,sub,,,,Shaquille O'Neal,,LeBron James,,,,,,,,,,,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,2,7:03,CLE,sub,,,,Delonte West,,Zydrunas Ilgauskas,,,,,,,,,,,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,7:03,CLE,sub,,,,J.J. Hickson,,Anderson Varejao,,,,,,,,,,,,
+Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,7:03,LAL,sub,,,,Kobe Bryant,,Ron Artest,,,,,,,,,,,,
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,7:03,LAL,sub,,,,Luke Walton,,Jordan Farmar,,,,,,,,,,,,
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,6:52,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,2,7
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,6:51,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,6:32,CLE,turnover,,,,,,,,,,J.J. Hickson,,,offensive goaltending,,,,,
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,6:22,LAL,shot,,,Shaquille O'Neal,,,,,,,Lamar Odom,,,,missed,,layup,27,7
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,6:20,LAL,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,6:12,LAL,shot,,,,,,,,,,Luke Walton,,,,missed,,turnaround jump,15,12
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,6:11,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,5:51,CLE,shot,,,,,,,,,,Shaquille O'Neal,,,,missed,,turnaround jump,18,12
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,5:48,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,5:41,LAL,turnover,,,,,,,,,,Andrew Bynum,,,3 second violation,,,,,
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,5:25,CLE,shot,Shaquille O'Neal,,,,,,,,,Jawad Williams,2,,,made,,layup,25,6
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,5:13,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,jump,38,17
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,5:12,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Daniel Gibson,Delonte West,J.J. Hickson,Jawad Williams,Shaquille O'Neal,2,5:05,LAL,foul,,,,,,,,Shaquille O'Neal,,Andrew Bynum,,,,,,personal,,
+Andrew Bynum,Kobe Bryant,Lamar Odom,Luke Walton,Shannon Brown,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,5:05,CLE,sub,,,,LeBron James,,Daniel Gibson,,,,,,,,,,,,
+Kobe Bryant,Lamar Odom,Luke Walton,Pau Gasol,Shannon Brown,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,5:05,LAL,sub,,,,Pau Gasol,,Andrew Bynum,,,,,,,,,,,,
+Kobe Bryant,Lamar Odom,Luke Walton,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,5:05,LAL,sub,,,,Ron Artest,,Shannon Brown,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,5:05,LAL,sub,,,,Derek Fisher,,Luke Walton,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,5:05,CLE,sub,,,,Anthony Parker,,Jawad Williams,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,4:53,CLE,shot,,,,,,,,,,Shaquille O'Neal,2,,,made,,jump bank,25,12
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,4:30,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,12,18
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,4:29,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,4:25,CLE,turnover,,,,,,,,,,LeBron James,,,lost ball,,Lamar Odom,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,4:17,LAL,turnover,,,,,,,,,,Derek Fisher,,,bad pass,,LeBron James,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,4:14,CLE,turnover,,,,,,,,,,Delonte West,,,bad pass,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,3:58,LAL,turnover,,,,,,,,,,Derek Fisher,,,bad pass,,Shaquille O'Neal,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,3:53,CLE,shot,LeBron James,,,,,,,,,J.J. Hickson,2,,,made,,slam dunk,25,6
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,3:31,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,jump,13,21
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,3:12,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,jump,13,20
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,3:00,CLE,foul,,,,,,,,Kobe Bryant,,Anthony Parker,,,,,,personal,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,2,3:00,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,3:00,CLE,sub,,,,Jawad Williams,,Anthony Parker,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,3:00,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,missed,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,2:59,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,2:38,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,jump,25,28
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,2:26,CLE,foul,,,,,,,,Kobe Bryant,,Shaquille O'Neal,,,,,,shooting,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,2:26,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,2:26,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,2:26,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,missed,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,2:25,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,2:14,LAL,foul,,,,,,,,LeBron James,,Pau Gasol,,,,,,personal,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,2:14,CLE,free throw,,,,,,,1,,2,LeBron James,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,2:14,CLE,free throw,,,,,,,2,,2,LeBron James,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,1:59,CLE,foul,,,,,,,,Pau Gasol,,Shaquille O'Neal,,,,,,shooting,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Shaquille O'Neal,2,1:59,LAL,free throw,,,,,,,1,,2,Pau Gasol,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:59,CLE,sub,,,,Zydrunas Ilgauskas,,Shaquille O'Neal,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Pau Gasol,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:59,LAL,sub,,,,Luke Walton,,Ron Artest,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Pau Gasol,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:59,LAL,free throw,,,,,,,2,,2,Pau Gasol,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Pau Gasol,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:39,LAL,foul,,,,,,,,LeBron James,,Pau Gasol,,,,,,shooting,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Pau Gasol,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:39,CLE,free throw,,,,,,,1,,2,LeBron James,,,foul,made,,,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:39,LAL,sub,,,,D.J. Mbenga,,Pau Gasol,,,,,,,,,,,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:39,CLE,free throw,,,,,,,2,,2,LeBron James,,,foul,missed,,,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:39,LAL,rebound,,,,,,,,,,D.J. Mbenga,,,,,,def,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:23,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,40,11
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:21,CLE,rebound,,,,,,,,,,Jawad Williams,,,,,,def,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:07,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,14,28
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:07,LAL,rebound,,,,,,,,,,,,,,,,,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:07,CLE,foul,,,,,,,,Lamar Odom,,J.J. Hickson,,,,,,loose ball,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:07,LAL,free throw,,,,,,,1,,2,Lamar Odom,,,foul,made,,,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,1:07,LAL,turnover,,,,,,,,,,D.J. Mbenga,,,lane violation,,,,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,0:44,CLE,shot,,,,,,,,,,Jawad Williams,,,,missed,,3pt,49,9
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,0:41,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,off,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,0:40,LAL,foul,,,,,,,,J.J. Hickson,,D.J. Mbenga,,,,,,shooting,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,0:40,CLE,free throw,,,,,,,1,,2,J.J. Hickson,,,foul,missed,,,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Delonte West,J.J. Hickson,Jawad Williams,LeBron James,Zydrunas Ilgauskas,2,0:40,CLE,rebound,,,,,,,,,,,,,,,,,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,2,0:40,CLE,sub,,,,Daniel Gibson,,Jawad Williams,,,,,,,,,,,,
+D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Luke Walton,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:40,CLE,sub,,,,Anderson Varejao,,Zydrunas Ilgauskas,,,,,,,,,,,,
+D.J. Mbenga,Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:40,LAL,sub,,,,Jordan Farmar,,Luke Walton,,,,,,,,,,,,
+D.J. Mbenga,Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:40,CLE,free throw,,,,,,,2,,2,J.J. Hickson,,,foul,made,,,,
+D.J. Mbenga,Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:28,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,26,10
+D.J. Mbenga,Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:27,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,off,,
+D.J. Mbenga,Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:26,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,putback layup,24,7
+D.J. Mbenga,Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:26,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+D.J. Mbenga,Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:26,LAL,shot,,,,,,,,,,Lamar Odom,2,,,made,,tip,25,6
+D.J. Mbenga,Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:04,LAL,foul,,,,,,,,LeBron James,,Kobe Bryant,,,,,,personal,,
+D.J. Mbenga,Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:04,CLE,free throw,,,,,,,1,,2,LeBron James,,,foul,made,,,,
+Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:04,LAL,sub,,,,Pau Gasol,,D.J. Mbenga,,,,,,,,,,,,
+Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:04,CLE,free throw,,,,,,,2,,2,LeBron James,,,foul,made,,,,
+Derek Fisher,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Anderson Varejao,Daniel Gibson,Delonte West,J.J. Hickson,LeBron James,2,0:01,LAL,turnover,,,,,,,,,,Kobe Bryant,,,lost ball,,LeBron James,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,11:47,CLE,foul,,,,,,,,Kobe Bryant,,LeBron James,,,,,,offensive,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,11:47,CLE,turnover,,,,,,,,,,LeBron James,,,foul,,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,11:34,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,2,8
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,11:32,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,off,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,11:18,LAL,shot,Kobe Bryant,,,,,,,,,Pau Gasol,2,,,made,,running jump,25,14
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,10:58,CLE,turnover,,,,,,,,,,Shaquille O'Neal,,,bad pass,,Derek Fisher,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,10:47,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,jump,26,19
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,10:46,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,10:44,CLE,turnover,,,,,,,,,,Shaquille O'Neal,,,lost ball,,Ron Artest,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,10:39,LAL,shot,Kobe Bryant,,,,,,,,,Ron Artest,2,,,made,,layup,24,6
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,10:39,CLE,foul,,,,,,,,Ron Artest,,Shaquille O'Neal,,,,,,shooting,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,10:39,LAL,free throw,,,,,,,1,,1,Ron Artest,,,foul,missed,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,10:38,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,10:15,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,driving layup,24,6
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:59,CLE,foul,,,,,,,,Derek Fisher,,Delonte West,,,,,,shooting,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:59,LAL,free throw,,,,,,,1,,2,Derek Fisher,,,foul,made,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:59,LAL,free throw,,,,,,,2,,2,Derek Fisher,,,foul,missed,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:56,CLE,rebound,,,,,,,,,,Anthony Parker,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:38,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,jump,47,8
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:37,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:25,LAL,shot,,,,,,,,,,Pau Gasol,2,,,made,,jump hook,36,9
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:06,CLE,shot,,,,,,,,,,Anthony Parker,,,,missed,,jump,42,12
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:05,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,off,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:05,LAL,foul,,,,,,,,Shaquille O'Neal,,Andrew Bynum,,,,,,shooting,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:05,CLE,free throw,,,,,,,1,,2,Shaquille O'Neal,,,foul,missed,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:05,CLE,rebound,,,,,,,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:05,LAL,sub,,,,Lamar Odom,,Andrew Bynum,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,9:05,CLE,free throw,,,,,,,2,,2,Shaquille O'Neal,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,8:54,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,44,16
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,8:51,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,8:39,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,48,11
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,8:39,LAL,rebound,,,,,,,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,8:11,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,48,9
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,8:09,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,8:02,CLE,shot,Delonte West,,,,,,,,,Anthony Parker,3,,,made,,3pt,2,7
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,7:48,CLE,foul,,,,,,,,Kobe Bryant,,LeBron James,,,,,,shooting,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,7:48,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,7:48,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,missed,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,7:47,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,7:32,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,driving layup,25,7
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,7:32,LAL,foul,,,,,,,,LeBron James,,Lamar Odom,,,,,,shooting,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,7:32,CLE,free throw,,,,,,,1,,1,LeBron James,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,7:22,LAL,foul,,,,,,,,Anthony Parker,,Derek Fisher,,,,,,offensive,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,7:22,LAL,turnover,,,,,,,,,,Derek Fisher,,,foul,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,7:03,CLE,shot,,,,,,,,,,J.J. Hickson,,,,missed,,jump,34,10
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,7:02,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,6:55,LAL,shot,Lamar Odom,,,,,,,,,Derek Fisher,3,,,made,,3pt,2,7
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,6:39,CLE,shot,LeBron James,,,,,,,,,Shaquille O'Neal,2,,,made,,layup,24,7
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,6:15,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,26,14
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,6:14,CLE,rebound,,,,,,,,,,Anthony Parker,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,6:06,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,25,31
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,6:05,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,5:54,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,turnaround bank,21,10
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,5:33,CLE,shot,LeBron James,,,,,,,,,Shaquille O'Neal,2,,,made,,layup,25,7
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Shaquille O'Neal,3,5:17,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,5:17,CLE,sub,,,,Zydrunas Ilgauskas,,Shaquille O'Neal,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,5:06,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,3pt,14,28
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,5:05,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,4:42,CLE,shot,Zydrunas Ilgauskas,,,,,,,,,Anthony Parker,3,,,made,,3pt,2,6
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,4:24,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,13,21
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,4:22,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,4:11,CLE,foul,,,,,,,,Derek Fisher,,Zydrunas Ilgauskas,,,,,,offensive,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,4:11,CLE,turnover,,,,,,,,,,Zydrunas Ilgauskas,,,foul,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,4:02,CLE,foul,,,,,,,,Ron Artest,,LeBron James,,,,,,personal,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:51,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,49,10
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:50,CLE,rebound,,,,,,,,,,Delonte West,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:43,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,,,,missed,,jump,11,19
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:41,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:30,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,jump,10,11
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:28,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:28,LAL,turnover,,,,,,,,,,Kobe Bryant,,,traveling,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:15,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,jump,10,24
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:14,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,off,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:10,CLE,turnover,,,,,,,,,,J.J. Hickson,,,lost ball,,Lamar Odom,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:01,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,turnaround jump,38,9
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,3:00,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,off,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,2:59,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,layup,25,7
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,2:59,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,2:44,LAL,foul,,,,,,,,LeBron James,,Kobe Bryant,,,,,,personal,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Zydrunas Ilgauskas,3,2:44,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,2:44,CLE,sub,,,,Anderson Varejao,,J.J. Hickson,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,2:38,CLE,turnover,,,,,,,,,,Zydrunas Ilgauskas,,,bad pass,,Pau Gasol,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,2:33,CLE,foul,,,,,,,,Lamar Odom,,Anderson Varejao,,,,,,shooting,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,2:33,LAL,free throw,,,,,,,1,,2,Lamar Odom,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,2:33,LAL,free throw,,,,,,,2,,2,Lamar Odom,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,2:19,CLE,shot,LeBron James,,,,,,,,,Zydrunas Ilgauskas,3,,,made,,3pt,2,8
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,2:04,LAL,shot,Pau Gasol,,,,,,,,,Kobe Bryant,2,,,made,,jump,35,14
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,1:48,CLE,shot,LeBron James,,,,,,,,,Anderson Varejao,2,,,made,,layup,26,7
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,1:33,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,turnaround fade away,17,16
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,1:00,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,jump,25,29
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,0:37,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,jump hook,36,13
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,0:34,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,0:13,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,24,31
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,0:12,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,0:00,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,41,16
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,3,0:00,LAL,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,11:51,LAL,shot,Luke Walton,,,,,,,,,Jordan Farmar,2,,,made,,alley oop layup,24,6
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,11:24,CLE,shot,,,,,,,,,,Jawad Williams,,,,missed,,3pt,35,29
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,11:23,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,11:12,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,jump bank,37,12
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,11:09,CLE,rebound,,,,,,,,,,Jawad Williams,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,10:56,CLE,shot,Daniel Gibson,,,,,,,,,Anderson Varejao,2,,,made,,reverse layup,25,6
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,10:31,LAL,shot,,,,,,,,,,Shannon Brown,,,,missed,,3pt,40,26
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,10:30,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,10:12,CLE,shot,,,,,,,,,,Shaquille O'Neal,,,,missed,,jump hook,23,13
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,10:09,LAL,rebound,,,,,,,,,,Shannon Brown,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,9:55,LAL,shot,,,,,,,,,,Luke Walton,2,,,made,,turnaround jump,14,9
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,9:29,CLE,shot,,,,,,,,,,Delonte West,,,,missed,,step back jump,38,10
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,9:26,LAL,rebound,,,,,,,,,,Luke Walton,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,9:25,CLE,foul,,,,,,,,Shannon Brown,,Jawad Williams,,,,,,shooting,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,9:25,LAL,free throw,,,,,,,1,,2,Shannon Brown,,,foul,made,,,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,9:25,LAL,free throw,,,,,,,2,,2,Shannon Brown,,,foul,made,,,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,9:15,CLE,shot,Delonte West,,,,,,,,,Shaquille O'Neal,2,,,made,,jump bank,16,9
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,8:55,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,3pt,13,29
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,8:54,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,8:49,CLE,shot,,,Jordan Farmar,,,,,,,Jawad Williams,,,,missed,,layup,25,6
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,8:49,CLE,rebound,,,,,,,,,,,,,,,,,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,8:49,CLE,timeout,,,,,,,,,,,,,,,,official,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,8:32,CLE,shot,Anderson Varejao,,,,,,,,,Delonte West,3,,,made,,3pt,13,28
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,8:13,LAL,shot,,,,,,,,,,Lamar Odom,3,,,made,,3pt,34,29
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,7:50,CLE,shot,,,,,,,,,,Jawad Williams,,,,missed,,layup,24,7
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,7:49,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,off,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,7:49,CLE,shot,,,,,,,,,,Anderson Varejao,2,,,made,,tip,25,5
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,7:34,LAL,shot,,,,,,,,,,Luke Walton,,,,missed,,running jump,28,12
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,7:32,LAL,rebound,,,,,,,,,,Luke Walton,,,,,,off,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,7:32,LAL,shot,,,Delonte West,,,,,,,Luke Walton,,,,missed,,layup,24,7
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,7:30,CLE,rebound,,,,,,,,,,Delonte West,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,7:13,CLE,shot,Daniel Gibson,,,,,,,,,Shaquille O'Neal,2,,,made,,layup,24,7
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,7:04,LAL,shot,Andrew Bynum,,,,,,,,,Shannon Brown,3,,,made,,3pt,37,29
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,6:48,CLE,shot,,,Andrew Bynum,,,,,,,Shaquille O'Neal,,,,missed,,jump,20,11
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,6:46,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,6:36,LAL,shot,,,Delonte West,,,,,,,Shannon Brown,,,,missed,,jump,23,22
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,Jawad Williams,Shaquille O'Neal,4,6:34,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,6:22,CLE,sub,,,,LeBron James,,Jawad Williams,,,,,,,,,,,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,6:22,LAL,sub,,,,Ron Artest,,Luke Walton,,,,,,,,,,,,
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,6:12,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,jump,32,26
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,5:50,LAL,shot,,,,,,,,,,Jordan Farmar,3,,,made,,3pt,2,9
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,5:24,CLE,shot,Shaquille O'Neal,,,,,,,,,LeBron James,3,,,made,,3pt,49,12
+Andrew Bynum,Jordan Farmar,Lamar Odom,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,5:23,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Andrew Bynum,Derek Fisher,Jordan Farmar,Ron Artest,Shannon Brown,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,5:23,LAL,sub,,,,Derek Fisher,,Lamar Odom,,,,,,,,,,,,
+Andrew Bynum,Derek Fisher,Jordan Farmar,Kobe Bryant,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,5:23,LAL,sub,,,,Kobe Bryant,,Shannon Brown,,,,,,,,,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,5:23,LAL,sub,,,,Pau Gasol,,Jordan Farmar,,,,,,,,,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,5:23,CLE,sub,,,,Zydrunas Ilgauskas,,Shaquille O'Neal,,,,,,,,,,,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,5:01,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,fade away jumper,41,3
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,4:58,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,4:36,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,jump,18,25
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,4:20,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,39,27
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,4:18,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,3:56,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,10,27
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,3:55,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,def,,
+Andrew Bynum,Derek Fisher,Kobe Bryant,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,3:45,CLE,foul,,,,,,,,Andrew Bynum,,Anderson Varejao,,,,,,personal,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,3:45,LAL,sub,,,,Lamar Odom,,Andrew Bynum,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,3:28,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,14,31
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,3:27,CLE,rebound,,,,,,,,,,Delonte West,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,3:09,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,,,,missed,,3pt,1,9
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,3:09,CLE,rebound,,,,,,,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,3:09,LAL,foul,,,,,,,,Anderson Varejao,,Lamar Odom,,,,,,loose ball,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,2:48,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,jump,26,24
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,2:37,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,turnaround jump,39,14
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,2:34,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,off,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,2:30,LAL,shot,,,,,,,,,,Ron Artest,3,,,made,,3pt,24,32
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,2:04,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,33,29
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,2:04,LAL,rebound,,,,,,,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,2:04,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,1:53,CLE,foul,,,,,,,,Kobe Bryant,,Zydrunas Ilgauskas,,,,,,shooting,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,1:53,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,1:53,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,1:41,CLE,turnover,,,,,,,,,,LeBron James,,,bad pass,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,1:41,CLE,sub,,,,Shaquille O'Neal,,Zydrunas Ilgauskas,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,1:32,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,jump,14,21
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,1:10,CLE,shot,,,,,,,,,,Anderson Varejao,,,,missed,,layup,26,6
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,1:09,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,0:53,LAL,shot,,,LeBron James,,,,,,,Pau Gasol,,,,missed,,layup,28,6
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,0:52,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,off,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,0:52,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,layup,25,7
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,0:49,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,0:40,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,driving layup,25,7
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,0:26,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,layup,25,9
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,0:24,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,off,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Daniel Gibson,Delonte West,LeBron James,Shaquille O'Neal,4,0:24,CLE,foul,,,,,,,,Pau Gasol,,Daniel Gibson,,,,,,shooting,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Shaquille O'Neal,4,0:24,CLE,sub,,,,Anthony Parker,,Daniel Gibson,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Shaquille O'Neal,4,0:24,LAL,free throw,,,,,,,1,,2,Pau Gasol,,,foul,missed,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Shaquille O'Neal,4,0:24,LAL,rebound,,,,,,,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Shaquille O'Neal,4,0:24,LAL,free throw,,,,,,,2,,2,Pau Gasol,,,foul,missed,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Shaquille O'Neal,4,0:23,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Shaquille O'Neal,4,0:23,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,4,0:23,CLE,sub,,,,Zydrunas Ilgauskas,,Shaquille O'Neal,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,0:23,CLE,sub,,,,Daniel Gibson,,Anderson Varejao,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,0:22,LAL,foul,,,,,,,,Delonte West,,Pau Gasol,,,,,,personal,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,0:21,LAL,foul,,,,,,,,LeBron James,,Derek Fisher,,,,,,personal,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anthony Parker,Daniel Gibson,Delonte West,LeBron James,Zydrunas Ilgauskas,4,0:21,CLE,free throw,,,,,,,1,,2,LeBron James,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,LeBron James,4,0:21,CLE,sub,,,,Anderson Varejao,,Zydrunas Ilgauskas,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,LeBron James,4,0:21,CLE,free throw,,,,,,,2,,2,LeBron James,,,foul,missed,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,LeBron James,4,0:20,CLE,rebound,,,,,,,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,LeBron James,4,0:20,LAL,foul,,,,,,,,Anderson Varejao,,Ron Artest,,,,,,loose ball,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Daniel Gibson,Delonte West,LeBron James,4,0:20,CLE,free throw,,,,,,,1,,2,Anderson Varejao,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,Jawad Williams,LeBron James,4,0:20,CLE,sub,,,,Jawad Williams,,Daniel Gibson,,,,,,,,,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,Jawad Williams,LeBron James,4,0:20,CLE,free throw,,,,,,,2,,2,Anderson Varejao,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,Jawad Williams,LeBron James,4,0:11,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,46,23
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,Jawad Williams,LeBron James,4,0:10,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,off,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,Jawad Williams,LeBron James,4,0:05,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,6,24
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,Jawad Williams,LeBron James,4,0:05,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,Jawad Williams,LeBron James,4,0:04,LAL,foul,,,,,,,,Anderson Varejao,,Pau Gasol,,,,,,personal,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,Jawad Williams,LeBron James,4,0:04,CLE,free throw,,,,,,,1,,2,Anderson Varejao,,,foul,made,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,Jawad Williams,LeBron James,4,0:04,CLE,free throw,,,,,,,2,,2,Anderson Varejao,,,foul,missed,,,,
+Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Anderson Varejao,Anthony Parker,Delonte West,Jawad Williams,LeBron James,4,0:03,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,

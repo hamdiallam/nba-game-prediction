@@ -1,0 +1,406 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,12:00,OFF,jump ball,,Shaquille O'Neal,,,Josh Smith,,,,,,,LeBron James,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,11:42,CLE,shot,LeBron James,,,,,,,,,Shaquille O'Neal,2,,,made,,layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,11:19,ATL,shot,Mike Bibby,,,,,,,,,Al Horford,2,,,made,,jump,41,12
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,10:59,ATL,shot,Mike Bibby,,,,,,,,,Joe Johnson,3,,,made,,3pt,1,10
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,10:45,CLE,turnover,,,,,,,,,,J.J. Hickson,,,bad pass,,Mike Bibby,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,10:43,ATL,shot,,,Anthony Parker,,,,,,,Mike Bibby,,,,missed,,running layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,10:43,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,10:38,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,fade away jumper,9,9
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,10:17,CLE,turnover,,,,,,,,,,Mo Williams,,,step out of bounds turnover,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,10:02,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,43,7
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,10:01,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,9:53,ATL,foul,,,,,,,,LeBron James,,Josh Smith,,,,,,shooting,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,9:53,CLE,free throw,,,,,,,1,,2,LeBron James,,,foul,missed,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,9:53,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,9:53,CLE,free throw,,,,,,,2,,2,LeBron James,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,9:44,CLE,foul,,,,,,,,,,Shaquille O'Neal,,,,,,defense 3 second,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,9:44,ATL,free throw,,,,,,,1,,1,Joe Johnson,,,technical,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,9:38,CLE,foul,,,,,,,,Josh Smith,,J.J. Hickson,,,,,,personal,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,9:28,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,driving jump,22,7
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,9:26,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,9:11,CLE,shot,LeBron James,,,,,,,,,Shaquille O'Neal,2,,,made,,jump,21,8
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,8:49,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,7,9
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,8:48,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,8:34,CLE,shot,LeBron James,,,,,,,,,Mo Williams,3,,,made,,3pt,26,31
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,8:12,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,running jump,30,8
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,8:10,ATL,violation,,,,,,,,,,,,,,,,delay of game,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,7:53,CLE,shot,,,,,,,,,,Anthony Parker,,,,missed,,turnaround jump,27,19
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,7:51,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,7:49,ATL,shot,Mike Bibby,,,,,,,,,Josh Smith,2,,,made,,running dunk,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,7:33,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,jump,27,24
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,7:32,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,7:27,ATL,shot,Mike Bibby,,,,,,,,,Marvin Williams,2,,,made,,alley oop layup,23,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,7:08,CLE,shot,,,,,,,,,,Anthony Parker,2,,,made,,jump,41,19
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,6:50,CLE,foul,,,,,,,,Al Horford,,Shaquille O'Neal,,,,,,shooting,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,6:50,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,missed,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,6:50,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,6:50,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,6:41,CLE,turnover,,,,,,,,,,Mo Williams,,,bad pass,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,6:30,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,35,24
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,6:28,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,6:19,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,jump,17,24
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,6:18,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,6:08,ATL,shot,Josh Smith,,,,,,,,,Joe Johnson,3,,,made,,3pt,1,8
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,5:47,CLE,shot,Anthony Parker,,,,,,,,,J.J. Hickson,2,,,made,,dunk,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,5:31,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,LeBron James,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,5:28,CLE,shot,Mo Williams,,,,,,,,,LeBron James,2,,,made,,running dunk,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,5:13,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,21,22
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,5:12,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,5:12,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,putback layup,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,5:05,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,43,24
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,5:03,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,5:02,CLE,foul,,,,,,,,Al Horford,,LeBron James,,,,,,personal,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,5:02,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,5:02,CLE,sub,,,,Anderson Varejao,,Shaquille O'Neal,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,4:46,ATL,shot,,,,,,,,,,Marvin Williams,2,,,made,,fade away jumper,14,22
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,1,4:28,CLE,turnover,,,,,,,,,,Anderson Varejao,,,traveling,,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,4:28,ATL,sub,,,,Jamal Crawford,,Mike Bibby,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,4:11,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,fade away jumper,7,10
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,4:08,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,4:04,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,7,18
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,4:02,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,3:52,CLE,shot,Anderson Varejao,,,,,,,,,J.J. Hickson,2,,,made,,jump,27,9
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,3:36,CLE,foul,,,,,,,,Josh Smith,,J.J. Hickson,,,,,,shooting,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,3:36,CLE,sub,,,,Zydrunas Ilgauskas,,J.J. Hickson,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,3:36,CLE,sub,,,,Delonte West,,Mo Williams,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,3:36,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,missed,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,3:36,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,3:36,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,missed,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,3:35,CLE,rebound,,,,,,,,,,Anthony Parker,,,,,,def,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,3:14,CLE,shot,,,,,,,,,,Delonte West,,,,missed,,3pt,48,7
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,3:12,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,3:02,ATL,shot,Joe Johnson,,,,,,,,,Josh Smith,2,,,made,,dunk,25,6
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,2:38,CLE,shot,,,,,,,,,,Delonte West,2,,,made,,jump,36,13
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,2:23,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,driving jump,19,7
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,2:20,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,2:20,ATL,shot,,,,,,,,,,Al Horford,2,,,made,,putback dunk,25,6
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,2:05,CLE,shot,LeBron James,,,,,,,,,Anthony Parker,2,,,made,,dunk,25,6
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,1:38,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,41,19
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,1:36,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,def,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,1:24,ATL,foul,,,,,,,,Anderson Varejao,,Josh Smith,,,,,,shooting,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,1,1:24,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,1,1:24,ATL,sub,,,,Zaza Pachulia,,Josh Smith,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,1,1:24,CLE,sub,,,,Jamario Moon,,Anthony Parker,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,1:24,ATL,sub,,,,Maurice Evans,,Marvin Williams,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,1:24,CLE,free throw,,,,,,,1,,2,Anderson Varejao,,,foul,made,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,1:24,CLE,free throw,,,,,,,2,,2,Anderson Varejao,,,foul,missed,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,1:23,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,0:58,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,3pt,9,25
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,0:58,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,0:58,ATL,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,0:44,ATL,foul,,,,,,,,Zydrunas Ilgauskas,,Zaza Pachulia,,,,,,shooting,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,0:44,CLE,free throw,,,,,,,1,,2,Zydrunas Ilgauskas,,,foul,made,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,0:44,CLE,free throw,,,,,,,2,,2,Zydrunas Ilgauskas,,,foul,made,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,0:34,ATL,foul,,,,,,,,Anderson Varejao,,Al Horford,,,,,,offensive,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,1,0:34,ATL,turnover,,,,,,,,,,Al Horford,,,foul,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,1,0:34,ATL,sub,,,,Joe Smith,,Al Horford,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,1,0:20,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,driving layup,26,6
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,1,0:19,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,1,0:00,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,jump,33,24
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,1,0:00,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,11:44,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,driving layup,23,6
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,11:43,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,11:39,CLE,shot,,,Maurice Evans,,,,,,,Jamario Moon,,,,missed,,jump,22,6
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,11:39,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,11:32,CLE,shot,,,,,,,,,,Mo Williams,2,,,made,,running jump,24,14
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,11:12,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,turnaround jump,9,9
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,11:09,CLE,rebound,,,,,,,,,,Delonte West,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,11:03,CLE,shot,,,,,,,,,,Delonte West,2,,,made,,driving dunk,25,6
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,10:46,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,jump,28,24
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,10:20,CLE,turnover,,,,,,,,,,Anderson Varejao,,,bad pass,,Jamal Crawford,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,10:15,ATL,shot,,,,,,,,,,Maurice Evans,2,,,made,,running layup,23,6
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,9:56,CLE,turnover,,,,,,,,,,Mo Williams,,,bad pass,,Zaza Pachulia,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,9:45,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,45,21
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,9:43,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,9:28,CLE,shot,,,,,,,,,,Mo Williams,3,,,made,,3pt,48,13
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,9:14,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,driving layup,22,8
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,9:13,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,9:09,CLE,turnover,,,,,,,,,,Delonte West,,,bad pass,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,8:47,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,29,25
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,8:46,CLE,rebound,,,,,,,,,,Mo Williams,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,8:42,CLE,shot,,,,,,,,,,Mo Williams,3,,,made,,3pt,15,30
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,8:13,ATL,turnover,,,,,,,,,,Joe Smith,,,traveling,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,8:13,CLE,timeout,,,,,,,,,,,,,,,,official,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,7:56,CLE,turnover,,,,,,,,,,Delonte West,,,bad pass,,Maurice Evans,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,7:48,ATL,shot,Joe Smith,,,,,,,,,Jamal Crawford,2,,,made,,layup,27,6
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,7:42,ATL,foul,,,,,,,,Mo Williams,,Joe Smith,,,,,,shooting,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,7:42,CLE,free throw,,,,,,,1,,2,Mo Williams,,,foul,made,,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,7:42,CLE,free throw,,,,,,,2,,2,Mo Williams,,,foul,made,,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,7:27,ATL,shot,Mike Bibby,,,,,,,,,Jamal Crawford,3,,,made,,3pt,48,8
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,7:06,CLE,shot,Mo Williams,,,,,,,,,Shaquille O'Neal,2,,,made,,dunk,25,6
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,6:43,ATL,foul,,,,,,,,Shaquille O'Neal,,Zaza Pachulia,,,,,,offensive,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,6:43,ATL,turnover,,,,,,,,,,Zaza Pachulia,,,foul,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Jamal Crawford,Joe Smith,Maurice Evans,Mike Bibby,Zaza Pachulia,2,6:43,CLE,sub,,,,LeBron James,,Mo Williams,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Al Horford,Jamal Crawford,Maurice Evans,Mike Bibby,Zaza Pachulia,2,6:43,ATL,sub,,,,Al Horford,,Joe Smith,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,6:43,ATL,sub,,,,Joe Johnson,,Maurice Evans,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,6:34,CLE,shot,Delonte West,,,,,,,,,Shaquille O'Neal,2,,,made,,dunk,25,6
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,6:17,CLE,foul,,,,,,,,Joe Johnson,,Jamario Moon,,,,,,personal,,
+Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,6:17,CLE,sub,,,,Zydrunas Ilgauskas,,Anderson Varejao,,,,,,,,,,,,
+Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,6:06,ATL,shot,Al Horford,,,,,,,,,Jamal Crawford,3,,,made,,3pt,36,28
+Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,5:51,CLE,shot,,,,,,,,,,Jamario Moon,,,,missed,,turnaround jump,40,12
+Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,5:49,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,off,,
+Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,5:49,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,2,,,made,,tip,25,6
+Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,5:32,ATL,turnover,,,,,,,,,,Al Horford,,,bad pass,,LeBron James,,,
+Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,5:12,CLE,shot,LeBron James,,,,,,,,,Delonte West,2,,,made,,turnaround jump,31,16
+Delonte West,Jamario Moon,LeBron James,Shaquille O'Neal,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,5:06,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Mike Bibby,Zaza Pachulia,2,5:06,CLE,sub,,,,Anderson Varejao,,Shaquille O'Neal,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,2,5:06,ATL,sub,,,,Josh Smith,,Zaza Pachulia,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,2,4:57,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,27,24
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,2,4:56,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,2,4:39,CLE,shot,,,,,,,,,,Jamario Moon,,,,missed,,jump,23,24
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,2,4:37,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,2,4:31,ATL,shot,Mike Bibby,,,,,,,,,Jamal Crawford,2,,,made,,jump,36,21
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,2,4:12,CLE,shot,LeBron James,,,,,,,,,Anderson Varejao,2,,,made,,running layup,23,5
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,2,3:54,CLE,foul,,,,,,,,Josh Smith,,Anderson Varejao,,,,,,shooting,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,3:54,ATL,sub,,,,Marvin Williams,,Mike Bibby,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,3:54,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,missed,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,3:54,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,3:54,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,missed,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,3:52,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,3:36,ATL,foul,,,,,,,,Delonte West,,Jamal Crawford,,,,,,shooting,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,3:36,CLE,free throw,,,,,,,1,,2,Delonte West,,,foul,missed,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,3:36,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,3:36,CLE,free throw,,,,,,,2,,2,Delonte West,,,foul,made,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,3:22,ATL,shot,Al Horford,,,,,,,,,Jamal Crawford,2,,,made,,jump,6,8
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,2:59,CLE,shot,,,,,,,,,,Delonte West,,,,missed,,turnaround jump,23,11
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,2:57,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,off,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,2:57,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,2,,,made,,putback layup,25,6
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,2:39,ATL,shot,,,,,,,,,,Al Horford,2,,,made,,hook,23,12
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,2:17,CLE,shot,,,,,,,,,,Delonte West,,,,missed,,driving layup,27,8
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,2:14,CLE,rebound,,,,,,,,,,LeBron James,,,,,,off,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,2:14,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,putback layup,25,6
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,1:55,ATL,turnover,,,,,,,,,,Al Horford,,,kicked ball violation,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,1:55,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,2,1:55,CLE,sub,,,,Mo Williams,,Delonte West,,,,,,,,,,,,
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,1:55,ATL,sub,,,,Maurice Evans,,Josh Smith,,,,,,,,,,,,
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,1:42,CLE,turnover,,,,,,,,,,Mo Williams,,,out of bounds lost ball turnover,,,,,
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,1:31,CLE,foul,,,,,,,,Joe Johnson,,Zydrunas Ilgauskas,,,,,,shooting,,
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,1:31,ATL,free throw,,,,,,,1,,2,Joe Johnson,,,foul,made,,,,
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,1:31,ATL,free throw,,,,,,,2,,2,Joe Johnson,,,foul,made,,,,
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,1:08,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,driving layup,22,6
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,1:07,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,off,,
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,1:07,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,2,,,made,,tip,25,6
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:44,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,fade away jumper,44,11
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:42,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:39,CLE,turnover,,,,,,,,,,LeBron James,,,bad pass,,Al Horford,,,
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:35,CLE,foul,,,,,,,,Marvin Williams,,Zydrunas Ilgauskas,,,,,,shooting,,
+Anderson Varejao,Jamario Moon,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:35,ATL,free throw,,,,,,,1,,2,Marvin Williams,,,foul,made,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:35,CLE,sub,,,,Delonte West,,Zydrunas Ilgauskas,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:35,ATL,free throw,,,,,,,2,,2,Marvin Williams,,,foul,made,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:12,CLE,shot,,,Marvin Williams,,,,,,,LeBron James,,,,missed,,layup,25,8
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:10,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:10,ATL,turnover,,,,,,,,,,Marvin Williams,,,bad pass,,Mo Williams,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:09,CLE,shot,,,,,,,,,,Mo Williams,2,,,made,,layup,25,6
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:02,ATL,shot,,,,,,,,,,Jamal Crawford,3,,,made,,3pt,37,28
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Maurice Evans,2,0:00,CLE,shot,Jamario Moon,,,,,,,,,LeBron James,2,,,made,,running dunk,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,11:40,ATL,turnover,,,,,,,,,,Joe Johnson,,,bad pass,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,11:16,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,jump,38,18
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,11:16,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,11:02,ATL,shot,Joe Johnson,,,,,,,,,Mike Bibby,2,,,made,,jump,26,26
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,10:36,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,32,31
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,10:35,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,10:27,ATL,shot,Joe Johnson,,,,,,,,,Marvin Williams,2,,,made,,jump,8,10
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,10:09,CLE,shot,LeBron James,,,,,,,,,Shaquille O'Neal,2,,,made,,hook,24,10
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,9:48,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,turnaround jump,28,11
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,9:46,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,9:34,CLE,shot,,,,,,,,,,Anthony Parker,,,,missed,,3pt,48,13
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,9:32,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,9:22,CLE,foul,,,,,,,,Marvin Williams,,Shaquille O'Neal,,,,,,shooting,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,9:22,ATL,free throw,,,,,,,1,,2,Marvin Williams,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,9:22,ATL,free throw,,,,,,,2,,2,Marvin Williams,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,9:05,CLE,turnover,,,,,,,,,,J.J. Hickson,,,traveling,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,8:49,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,25,16
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,8:47,CLE,rebound,,,,,,,,,,J.J. Hickson,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,8:30,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,fade away jumper,11,18
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,8:28,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,8:21,ATL,turnover,,,,,,,,,,Mike Bibby,,,bad pass,,LeBron James,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,8:06,CLE,turnover,,,,,,,,,,LeBron James,,,bad pass,,Al Horford,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,8:01,ATL,shot,Joe Johnson,,,,,,,,,Josh Smith,2,,,made,,alley oop dunk,25,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,7:35,CLE,shot,,,,,,,,,,Mo Williams,2,,,made,,fade away jumper,5,10
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,7:10,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,1,14
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,7:08,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,7:00,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,jump,14,20
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:58,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,off,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:58,ATL,foul,,,,,,,,Shaquille O'Neal,,Josh Smith,,,,,,personal,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:47,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,3pt,46,19
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:47,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:46,ATL,foul,,,,,,,,Anthony Parker,,Mike Bibby,,,,,,shooting,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:46,CLE,free throw,,,,,,,1,,2,Anthony Parker,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:46,CLE,free throw,,,,,,,2,,2,Anthony Parker,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:29,CLE,foul,,,,,,,,Marvin Williams,,LeBron James,,,,,,shooting,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:29,ATL,free throw,,,,,,,1,,2,Marvin Williams,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:29,ATL,free throw,,,,,,,2,,2,Marvin Williams,,,foul,made,,,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:16,CLE,shot,,,,,,,,,,Anthony Parker,,,,missed,,jump,39,17
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:15,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:06,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,48,7
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,6:04,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,5:47,CLE,shot,Mo Williams,,,,,,,,,J.J. Hickson,2,,,made,,layup,23,6
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,5:24,CLE,foul,,,,,,,,Josh Smith,,J.J. Hickson,,,,,,shooting,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,3,5:24,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,5:24,ATL,sub,,,,Jamal Crawford,,Mike Bibby,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,5:24,CLE,sub,,,,Anderson Varejao,,Shaquille O'Neal,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,5:24,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,5:24,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,missed,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,5:22,CLE,rebound,,,,,,,,,,Anthony Parker,,,,,,def,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:56,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,fade away jumper,36,19
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:56,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:56,CLE,turnover,,,,,,,,,,,,,3 second violation,,,,,
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:36,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,3pt,0,13
+Anderson Varejao,Anthony Parker,J.J. Hickson,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:34,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:34,CLE,sub,,,,Zydrunas Ilgauskas,,J.J. Hickson,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:30,CLE,foul,,,,,,,,Joe Johnson,,Anthony Parker,,,,,,personal,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:15,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,layup,27,5
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:14,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:14,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,tip,25,6
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:13,CLE,rebound,,,,,,,,,,Mo Williams,,,,,,def,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,4:03,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,driving layup,23,6
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,3:47,CLE,foul,,,,,,,,Jamal Crawford,,Mo Williams,,,,,,shooting,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,3,3:47,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,3:47,ATL,sub,,,,Zaza Pachulia,,Josh Smith,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,3:47,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,3:35,CLE,turnover,,,,,,,,,,Mo Williams,,,bad pass,,,,,
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,3:24,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,jump,31,24
+Anderson Varejao,Anthony Parker,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,3:04,ATL,foul,,,,,,,,LeBron James,,Marvin Williams,,,,,,personal,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,3:04,CLE,sub,,,,Delonte West,,Mo Williams,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:53,CLE,shot,,,,,,,,,,Anthony Parker,2,,,made,,running jump,11,14
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:53,ATL,foul,,,,,,,,Anthony Parker,,Jamal Crawford,,,,,,shooting,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:53,CLE,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:53,CLE,free throw,,,,,,,1,,1,Anthony Parker,,,foul,missed,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:51,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,off,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:37,CLE,shot,,,,,,,,,,Zydrunas Ilgauskas,,,,missed,,3pt,1,10
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:35,CLE,rebound,,,,,,,,,,Delonte West,,,,,,off,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:25,CLE,shot,,,,,,,,,,LeBron James,2,,,made,,driving layup,27,6
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:25,ATL,foul,,,,,,,,LeBron James,,Zaza Pachulia,,,,,,shooting,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:25,CLE,free throw,,,,,,,1,,1,LeBron James,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:11,CLE,foul,,,,,,,,Al Horford,,Zydrunas Ilgauskas,,,,,,personal,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:11,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:11,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,2:00,CLE,shot,LeBron James,,,,,,,,,Zydrunas Ilgauskas,2,,,made,,jump,6,9
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,1:36,ATL,shot,Marvin Williams,,,,,,,,,Jamal Crawford,3,,,made,,3pt,41,25
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,1:11,CLE,shot,LeBron James,,,,,,,,,Anthony Parker,2,,,made,,jump,5,12
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,0:53,CLE,foul,,,,,,,,Zaza Pachulia,,Zydrunas Ilgauskas,,,,,,shooting,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,0:53,ATL,free throw,,,,,,,1,,2,Zaza Pachulia,,,foul,missed,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,0:53,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,0:53,ATL,free throw,,,,,,,2,,2,Zaza Pachulia,,,foul,made,,,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,0:36,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,5,22
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,0:34,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,0:32,ATL,shot,Jamal Crawford,,,,,,,,,Zaza Pachulia,2,,,made,,running dunk,25,6
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,0:17,CLE,shot,,,Zaza Pachulia,,,,,,,Zydrunas Ilgauskas,,,,missed,,jump,28,7
+Anderson Varejao,Anthony Parker,Delonte West,LeBron James,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,0:17,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,3,0:17,CLE,sub,,,,J.J. Hickson,,Zydrunas Ilgauskas,,,,,,,,,,,,
+Anderson Varejao,Anthony Parker,Delonte West,J.J. Hickson,LeBron James,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,3,0:17,ATL,sub,,,,Mike Bibby,,Zaza Pachulia,,,,,,,,,,,,
+Anthony Parker,Delonte West,J.J. Hickson,Jamario Moon,LeBron James,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,3,0:17,CLE,sub,,,,Jamario Moon,,Anderson Varejao,,,,,,,,,,,,
+Anthony Parker,Delonte West,J.J. Hickson,Jamario Moon,LeBron James,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,3,0:00,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,31,27
+Anthony Parker,Delonte West,J.J. Hickson,Jamario Moon,LeBron James,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,3,0:00,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,11:45,CLE,shot,,,,,,,,,,Delonte West,,,,missed,,jump,26,18
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,11:43,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,11:26,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,44,21
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,11:25,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,11:00,CLE,shot,,,,,,,,,,Shaquille O'Neal,,,,missed,,turnaround jump,35,9
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,10:58,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,10:45,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,turnaround jump,23,14
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,10:43,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,10:36,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,jump,29,23
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,10:33,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,10:31,ATL,turnover,,,,,,,,,,Zaza Pachulia,,,lost ball,,Delonte West,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,10:26,CLE,turnover,,,,,,,,,,Mo Williams,,,lost ball,,Zaza Pachulia,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,10:26,CLE,foul,,,,,,,,Zaza Pachulia,,Mo Williams,,,,,,personal,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,10:12,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,8,8
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,10:11,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,9:46,CLE,shot,,,,,,,,,,Jamario Moon,,,,missed,,driving reverse layup,23,5
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,9:45,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,9:41,ATL,turnover,,,,,,,,,,Al Horford,,,bad pass,,Anderson Varejao,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,9:22,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,layup,22,6
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,9:21,CLE,rebound,,,,,,,,,,Mo Williams,,,,,,off,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,9:17,CLE,shot,,,,,,,,,,Jamario Moon,,,,missed,,3pt,39,28
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,9:16,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,off,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,9:15,CLE,turnover,,,,,,,,,,Shaquille O'Neal,,,bad pass,,Jamal Crawford,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,9:08,ATL,shot,,,Jamario Moon,,,,,,,Maurice Evans,,,,missed,,dunk,26,5
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,9:06,CLE,rebound,,,,,,,,,,Jamario Moon,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,8:56,CLE,shot,,,Al Horford,,,,,,,Shaquille O'Neal,,,,missed,,jump,22,6
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,8:54,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,8:53,ATL,turnover,,,,,,,,,,Jamal Crawford,,,traveling,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,8:53,CLE,timeout,,,,,,,,,,,,,,,,official,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Maurice Evans,Zaza Pachulia,4,8:53,CLE,sub,,,,LeBron James,,Jamario Moon,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,4,8:53,ATL,sub,,,,Josh Smith,,Al Horford,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,8:53,ATL,sub,,,,Marvin Williams,,Maurice Evans,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,8:28,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,3pt,48,10
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,8:26,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,8:20,ATL,turnover,,,,,,,,,,Joe Johnson,,,bad pass,,LeBron James,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,8:13,CLE,shot,,,,,,,,,,Mo Williams,2,,,made,,running layup,24,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:55,ATL,shot,,,LeBron James,,,,,,,Joe Johnson,,,,missed,,layup,28,7
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:55,CLE,rebound,,,,,,,,,,Delonte West,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:55,ATL,foul,,,,,,,,Delonte West,,Josh Smith,,,,,,clear path,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:55,CLE,free throw,,,,,,,1,,2,Delonte West,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:55,CLE,free throw,,,,,,,2,,2,Delonte West,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:55,ATL,foul,,,,,,,,,,Woodson,,,,,,technical,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:55,CLE,free throw,,,,,,,1,,1,Mo Williams,,,technical,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:40,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,fade away jumper,11,19
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:38,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:31,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,18,22
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:28,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:25,CLE,turnover,,,,,,,,,,LeBron James,,,bad pass,,Joe Johnson,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:14,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,16,25
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,7:12,CLE,rebound,,,,,,,,,,Shaquille O'Neal,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,6:50,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,49,10
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,6:50,CLE,rebound,,,,,,,,,,Delonte West,,,,,,off,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Zaza Pachulia,4,6:50,ATL,foul,,,,,,,,Delonte West,,Josh Smith,,,,,,personal,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Shaquille O'Neal,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,4,6:50,ATL,sub,,,,Al Horford,,Josh Smith,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,4,6:50,CLE,sub,,,,Zydrunas Ilgauskas,,Shaquille O'Neal,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,4,6:34,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,3pt,8,26
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,4,6:33,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,4,6:27,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,4,6:12,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,turnaround jump,20,9
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,4,6:10,CLE,rebound,,,,,,,,,,Zydrunas Ilgauskas,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,4,5:57,ATL,foul,,,,,,,,Delonte West,,Zaza Pachulia,,,,,,shooting,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,4,5:57,CLE,free throw,,,,,,,1,,2,Delonte West,,,foul,missed,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,4,5:57,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,4,5:57,ATL,sub,,,,Josh Smith,,Zaza Pachulia,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,4,5:57,CLE,free throw,,,,,,,2,,2,Delonte West,,,foul,made,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,4,5:37,ATL,turnover,,,,,,,,,,Joe Johnson,,,bad pass,,LeBron James,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,4,5:15,CLE,shot,,,Josh Smith,,,,,,,Delonte West,,,,missed,,running layup,27,5
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,4,5:13,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,4,5:06,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,48,8
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,4,5:04,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,4,4:40,CLE,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,4:40,ATL,sub,,,,Mike Bibby,,Marvin Williams,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,4:28,ATL,turnover,,,,,,,,,,Joe Johnson,,,bad pass,,Delonte West,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,4:23,CLE,shot,,,,,,,,,,Delonte West,2,,,made,,running dunk,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,4:22,CLE,foul,,,,,,,,,,West,,,,,,technical,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,4:22,ATL,free throw,,,,,,,1,,1,Joe Johnson,,,technical,missed,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,4:22,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,4:08,CLE,foul,,,,,,,,Jamal Crawford,,Delonte West,,,,,,shooting,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,4:08,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,missed,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,4:08,ATL,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,4:08,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,missed,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,4:07,CLE,rebound,,,,,,,,,,Anderson Varejao,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,3:57,CLE,turnover,,,,,,,,,,Mo Williams,,,bad pass,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,3:46,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,49,9
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,3:45,CLE,rebound,,,,,,,,,,LeBron James,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,3:29,ATL,foul,,,,,,,,LeBron James,,Joe Johnson,,,,,,personal,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,3:23,CLE,shot,Delonte West,,,,,,,,,Zydrunas Ilgauskas,2,,,made,,jump,22,23
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,3:21,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,3:12,ATL,shot,Mike Bibby,,,,,,,,,Josh Smith,2,,,made,,dunk,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,2:48,CLE,shot,Mo Williams,,,,,,,,,LeBron James,2,,,made,,jump,28,8
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,2:38,CLE,foul,,,,,,,,Mike Bibby,,Mo Williams,,,,,,personal,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,2:29,ATL,shot,Jamal Crawford,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,2:12,CLE,shot,Mo Williams,,,,,,,,,Delonte West,2,,,made,,jump,44,11
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,2:00,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,driving reverse layup,26,5
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,1:44,CLE,shot,,,,,,,,,,Mo Williams,,,,missed,,fade away jumper,38,8
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,1:43,CLE,rebound,,,,,,,,,,,,,,,,,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,1:34,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,3pt,33,32
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,1:31,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,1:25,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,driving layup,27,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,1:25,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,1:25,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,tip,25,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,1:00,CLE,shot,,,,,,,,,,LeBron James,,,,missed,,turnaround jump,33,23
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,0:58,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,0:54,ATL,shot,Josh Smith,,,,,,,,,Jamal Crawford,2,,,made,,running layup,26,6
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,0:41,CLE,shot,Anderson Varejao,,,,,,,,,Zydrunas Ilgauskas,3,,,made,,3pt,2,8
+Anderson Varejao,Delonte West,LeBron James,Mo Williams,Zydrunas Ilgauskas,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,0:41,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,0:41,CLE,sub,,,,Jamario Moon,,Zydrunas Ilgauskas,,,,,,,,,,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,0:36,ATL,turnover,,,,,,,,,,Jamal Crawford,,,bad pass,,Jamario Moon,,,
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,0:13,CLE,shot,LeBron James,,,,,,,,,Delonte West,3,,,made,,3pt,3,20
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,0:07,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,14,29
+Anderson Varejao,Delonte West,Jamario Moon,LeBron James,Mo Williams,Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,4,0:02,CLE,rebound,,,,,,,,,,Delonte West,,,,,,def,,

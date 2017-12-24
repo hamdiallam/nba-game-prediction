@@ -1,0 +1,428 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,12:00,OFF,jump ball,,Tim Duncan,,,Pau Gasol,,,,,,,Lamar Odom,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,11:45,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,12,24
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,11:44,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,11:24,SAS,turnover,,,,,,,,,,Manu Ginobili,,,out of bounds lost ball turnover,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,11:09,LAL,shot,,,,,,,,,,Pau Gasol,2,,,made,,jump hook,28,11
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,10:45,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,37,17
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,10:44,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,10:43,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,10:23,LAL,shot,,,,,,,,,,Pau Gasol,2,,,made,,jump,8,12
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,10:06,SAS,shot,Manu Ginobili,,,,,,,,,Richard Jefferson,3,,,made,,3pt,5,24
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,9:49,LAL,shot,Lamar Odom,,,,,,,,,Kobe Bryant,2,,,made,,turnaround bank,21,9
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,9:32,SAS,shot,Richard Jefferson,,,,,,,,,George Hill,2,,,made,,floating jump,32,8
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,9:20,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,20,11
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,9:19,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,9:14,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,reverse layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,9:10,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,9:06,LAL,shot,Lamar Odom,,,,,,,,,Derek Fisher,2,,,made,,jump,35,23
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,8:51,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,jump,28,14
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,8:50,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,8:32,LAL,shot,Pau Gasol,,,,,,,,,Kobe Bryant,3,,,made,,3pt,41,26
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,8:14,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,jump,44,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,8:13,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,8:00,LAL,shot,Kobe Bryant,,,,,,,,,Pau Gasol,2,,,made,,jump,25,17
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,7:58,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,7:40,SAS,shot,Antonio McDyess,,,,,,,,,Manu Ginobili,2,,,made,,jump,8,7
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,7:24,LAL,foul,,,,,,,,Tim Duncan,,Pau Gasol,,,,,,offensive,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,7:24,LAL,turnover,,,,,,,,,,Pau Gasol,,,foul,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,7:11,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,43,17
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,7:08,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,7:06,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,hook,26,9
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,6:47,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,9,19
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,6:46,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,6:38,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,Lamar Odom,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,6:36,SAS,foul,,,,,,,,Lamar Odom,,Tim Duncan,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,6:20,LAL,turnover,,,,,,,,,,Kobe Bryant,,,traveling,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,6:01,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,5:46,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,8,9
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,5:44,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,5:40,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,Lamar Odom,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,5:34,LAL,shot,Lamar Odom,,,,,,,,,Pau Gasol,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,5:13,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,18,29
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,5:12,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,4:51,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,37,29
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,4:50,LAL,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,4:45,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,running jump,30,13
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,4:44,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,4:23,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump,36,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,4:07,LAL,shot,Pau Gasol,,,,,,,,,Ron Artest,2,,,made,,jump,39,5
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,3:57,SAS,foul,,,,,,,,Derek Fisher,,George Hill,,,,,,offensive,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,3:57,SAS,turnover,,,,,,,,,,George Hill,,,foul,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,3:57,SAS,sub,,,,Keith Bogans,,Manu Ginobili,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,3:57,SAS,sub,,,,Matt Bonner,,Antonio McDyess,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,3:50,LAL,shot,Derek Fisher,,,,,,,,,Pau Gasol,2,,,made,,finger roll layup,25,6
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,3:30,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,23,24
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,3:27,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,3:25,SAS,foul,,,,,,,,Kobe Bryant,,Keith Bogans,,,,,,personal,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,1,3:25,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,3:25,LAL,sub,,,,Shannon Brown,,Ron Artest,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,3:19,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,hook,27,9
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,3:18,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,off,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,3:13,LAL,shot,Kobe Bryant,,,,,,,,,Derek Fisher,2,,,made,,jump,41,18
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,2:58,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,jump,9,9
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,2:57,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,off,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,2:57,SAS,shot,,,,,,,,,,Matt Bonner,2,,,made,,putback layup,25,6
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,2:37,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,layup,25,6
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,2:35,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,2:25,LAL,sub,,,,Jordan Farmar,,Derek Fisher,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,2:25,SAS,jump ball,,Richard Jefferson,,,Shannon Brown,,,,,,,Tim Duncan,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,2:18,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump bank,38,11
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,2:07,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,jump,14,11
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,2:05,SAS,rebound,,,,,,,,,,Keith Bogans,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,1:43,SAS,shot,Keith Bogans,,,,,,,,,Matt Bonner,3,,,made,,3pt,1,7
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,1:30,LAL,shot,,,,,,,,,,Lamar Odom,3,,,made,,3pt,2,21
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,1:02,SAS,shot,George Hill,,,,,,,,,Tim Duncan,2,,,made,,hook,22,18
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,0:40,LAL,turnover,,,,,,,,,,Kobe Bryant,,,bad pass,,Matt Bonner,,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,0:27,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,37,21
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,0:25,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,0:03,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,jump,36,13
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,0:02,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,0:00,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,9,37
+George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,1,0:00,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,11:47,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving finger roll layup,25,9
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,11:27,LAL,shot,Ron Artest,,,,,,,,,Pau Gasol,2,,,made,,turnaround hook,24,11
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,11:14,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,40,29
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,11:13,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,11:06,SAS,foul,,,,,,,,Pau Gasol,,DeJuan Blair,,,,,,personal,,
+Ian Mahinmi,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,11:06,SAS,sub,,,,Ian Mahinmi,,DeJuan Blair,,,,,,,,,,,,
+Ian Mahinmi,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:57,LAL,shot,,,,,,,,,,Shannon Brown,,,,missed,,jump,20,18
+Ian Mahinmi,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:56,SAS,rebound,,,,,,,,,,Ian Mahinmi,,,,,,def,,
+Ian Mahinmi,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:50,SAS,shot,,,Shannon Brown,,,,,,,Manu Ginobili,,,,missed,,layup,25,6
+Ian Mahinmi,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:48,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Ian Mahinmi,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:44,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,38,29
+Ian Mahinmi,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:44,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:44,SAS,sub,,,,DeJuan Blair,,Ian Mahinmi,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:35,SAS,shot,,,Shannon Brown,,,,,,,Roger Mason,,,,missed,,layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:35,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:34,LAL,violation,,,,,,,,,,Ron Artest,,,,,,kicked ball,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:26,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,hook,20,12
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:26,LAL,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:10,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,20,31
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,10:09,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,9:58,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,hook,23,15
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,9:56,LAL,rebound,,,,,,,,,,Jordan Farmar,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,9:49,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,9:46,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,9:31,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,30,33
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,9:30,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,9:12,LAL,turnover,,,,,,,,,,Lamar Odom,,,3 second violation,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,2,8:58,SAS,timeout,,,,,,,,,,,,,,,,official,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Pau Gasol,Ron Artest,Sasha Vujacic,Shannon Brown,2,8:58,LAL,sub,,,,Sasha Vujacic,,Lamar Odom,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Jordan Farmar,Kobe Bryant,Pau Gasol,Ron Artest,Sasha Vujacic,2,8:58,LAL,sub,,,,Kobe Bryant,,Shannon Brown,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,8:58,LAL,sub,,,,Luke Walton,,Jordan Farmar,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,8:51,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving reverse layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,8:30,LAL,foul,,,,,,,,Keith Bogans,,Kobe Bryant,,,,,,offensive,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,8:30,LAL,turnover,,,,,,,,,,Kobe Bryant,,,foul,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,8:10,SAS,shot,,,Pau Gasol,,,,,,,Matt Bonner,,,,missed,,jump,34,19
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,8:08,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,8:07,LAL,turnover,,,,,,,,,,Pau Gasol,,,lost ball,,DeJuan Blair,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,7:47,SAS,shot,Matt Bonner,,,,,,,,,Keith Bogans,3,,,made,,3pt,11,28
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,7:18,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,48,5
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,7:18,LAL,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,7:18,LAL,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,7:08,LAL,foul,,,,,,,,Manu Ginobili,,Luke Walton,,,,,,shooting,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,7:08,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,missed,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,7:08,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,7:08,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,6:47,SAS,foul,,,,,,,,Kobe Bryant,,Manu Ginobili,,,,,,shooting,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,6:47,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,6:47,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,missed,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,6:47,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,6:29,SAS,shot,Keith Bogans,,,,,,,,,DeJuan Blair,2,,,made,,layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Kobe Bryant,Luke Walton,Pau Gasol,Ron Artest,Sasha Vujacic,2,6:07,SAS,sub,,,,George Hill,,Manu Ginobili,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Derek Fisher,Kobe Bryant,Luke Walton,Pau Gasol,Sasha Vujacic,2,6:07,LAL,sub,,,,Derek Fisher,,Ron Artest,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Derek Fisher,Kobe Bryant,Luke Walton,Pau Gasol,Sasha Vujacic,2,6:02,LAL,shot,Kobe Bryant,,,,,,,,,Pau Gasol,2,,,made,,driving dunk,25,6
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Derek Fisher,Kobe Bryant,Luke Walton,Pau Gasol,Sasha Vujacic,2,5:48,SAS,turnover,,,,,,,,,,George Hill,,,bad pass,,Derek Fisher,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Derek Fisher,Kobe Bryant,Luke Walton,Pau Gasol,Sasha Vujacic,2,5:48,SAS,foul,,,,,,,,Derek Fisher,,DeJuan Blair,,,,,,personal,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Derek Fisher,Kobe Bryant,Luke Walton,Pau Gasol,Sasha Vujacic,2,5:48,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,George Hill,Matt Bonner,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Luke Walton,Pau Gasol,Sasha Vujacic,2,5:48,SAS,sub,,,,Tim Duncan,,Keith Bogans,,,,,,,,,,,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Luke Walton,Pau Gasol,Sasha Vujacic,2,5:48,SAS,sub,,,,Richard Jefferson,,DeJuan Blair,,,,,,,,,,,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,2,5:48,LAL,sub,,,,Lamar Odom,,Luke Walton,,,,,,,,,,,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,2,5:25,LAL,shot,,,,,,,,,,Sasha Vujacic,,,,missed,,3pt,35,30
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,2,5:25,SAS,rebound,,,,,,,,,,,,,,,,,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,2,5:09,SAS,shot,Matt Bonner,,,,,,,,,George Hill,2,,,made,,jump,18,13
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,2,4:52,LAL,shot,,,,,,,,,,Sasha Vujacic,,,,missed,,3pt,18,31
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,2,4:50,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,2,4:33,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,3pt,49,6
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,2,4:32,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,2,4:26,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,driving layup,25,6
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,2,4:06,SAS,shot,Roger Mason,,,,,,,,,Tim Duncan,2,,,made,,jump,28,21
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Sasha Vujacic,2,3:57,SAS,foul,,,,,,,,Derek Fisher,,Roger Mason,,,,,,personal,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,3:57,LAL,sub,,,,Ron Artest,,Sasha Vujacic,,,,,,,,,,,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,3:47,LAL,shot,Ron Artest,,,,,,,,,Kobe Bryant,2,,,made,,turnaround jump,22,9
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,3:40,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,3:24,SAS,shot,,,,,,,,,,George Hill,2,,,made,,fade away jumper,21,28
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,3:04,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,1,8
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,3:03,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+George Hill,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,3:00,SAS,foul,,,,,,,,Pau Gasol,,Roger Mason,,,,,,shooting,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,3:00,SAS,sub,,,,Manu Ginobili,,George Hill,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,3:00,LAL,free throw,,,,,,,1,,2,Pau Gasol,,,foul,missed,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,3:00,LAL,rebound,,,,,,,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,3:00,LAL,free throw,,,,,,,2,,2,Pau Gasol,,,foul,made,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,2:39,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,hook bank,20,9
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,2:26,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,14,20
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,2:25,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,2:17,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,layup,25,6
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,2:16,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,def,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,2:13,SAS,foul,,,,,,,,Kobe Bryant,,Richard Jefferson,,,,,,shooting,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,2,2:13,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:13,LAL,sub,,,,D.J. Mbenga,,Pau Gasol,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:13,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,missed,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:12,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,def,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:57,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,running layup,25,6
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:56,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:46,LAL,shot,,,Richard Jefferson,,,,,,,Kobe Bryant,,,,missed,,jump,19,8
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:46,LAL,rebound,,,,,,,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:33,LAL,shot,Kobe Bryant,,,,,,,,,Derek Fisher,2,,,made,,driving layup,25,6
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:14,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:01,LAL,foul,,,,,,,,Manu Ginobili,,D.J. Mbenga,,,,,,offensive,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:01,LAL,turnover,,,,,,,,,,D.J. Mbenga,,,foul,,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:59,LAL,foul,,,,,,,,Roger Mason,,Derek Fisher,,,,,,personal,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:59,LAL,foul,,,,,,,,,,Double,,,,,,technical,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:58,LAL,foul,,,,,,,,Manu Ginobili,,Ron Artest,,,,,,personal,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:58,LAL,foul,,,,,,,,,,Kobe Bryant,,,,,,technical,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:58,SAS,free throw,,,,,,,1,,1,Manu Ginobili,,,technical,made,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:58,SAS,sub,,,,Keith Bogans,,Roger Mason,,,,,,,,,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:58,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,made,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:58,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:44,LAL,turnover,,,,,,,,,,Kobe Bryant,,,lost ball,,Manu Ginobili,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:41,SAS,shot,Richard Jefferson,,,,,,,,,Manu Ginobili,2,,,made,,driving dunk,25,6
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:26,LAL,jump ball,,Keith Bogans,,,Kobe Bryant,,,,,,,Ron Artest,,,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:18,LAL,shot,,,,,,,,,,Ron Artest,3,,,made,,3pt,25,32
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:02,SAS,shot,Manu Ginobili,,,,,,,,,Keith Bogans,3,,,made,,3pt,48,5
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:00,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,6,46
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,0:00,LAL,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,11:44,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,jump,6,7
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,11:42,LAL,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,11:28,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,34,24
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,11:27,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,11:10,LAL,foul,,,,,,,,,,Lamar Odom,,,,,,defense 3 second,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,11:10,SAS,free throw,,,,,,,1,,1,Manu Ginobili,,,technical,made,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,11:00,LAL,foul,,,,,,,,Tim Duncan,,Pau Gasol,,,,,,shooting,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,11:00,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,made,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,11:00,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,made,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,10:51,SAS,foul,,,,,,,,Kobe Bryant,,Keith Bogans,,,,,,personal,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,10:43,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,1,6
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,10:42,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,10:30,LAL,foul,,,,,,,,Richard Jefferson,,Derek Fisher,,,,,,personal,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,10:23,SAS,turnover,,,,,,,,,,Manu Ginobili,,,bad pass,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,10:07,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,jump,28,17
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,10:06,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,9:53,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,48,6
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,9:51,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,off,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,9:51,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,tip,25,6
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,9:48,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,9:34,LAL,shot,,,,,,,,,,Pau Gasol,2,,,made,,jump,38,7
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,9:18,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,35,32
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,9:17,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,9:02,LAL,shot,Derek Fisher,,,,,,,,,Pau Gasol,2,,,made,,jump,11,8
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,8:40,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,hook,25,11
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,8:16,SAS,foul,,,,,,,,Pau Gasol,,Tim Duncan,,,,,,personal,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,8:00,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,26,16
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,7:59,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,7:55,LAL,foul,,,,,,,,Antonio McDyess,,Derek Fisher,,,,,,personal,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,7:40,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,driving dunk,25,6
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,7:25,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,17,11
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,7:24,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,7:24,SAS,foul,,,,,,,,Pau Gasol,,Keith Bogans,,,,,,offensive,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,7:24,SAS,turnover,,,,,,,,,,Keith Bogans,,,foul,,,,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,7:24,SAS,sub,,,,Roger Mason,,Keith Bogans,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,7:18,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,3pt,44,24
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,7:16,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,7:11,SAS,shot,Manu Ginobili,,,,,,,,,Richard Jefferson,2,,,made,,layup,25,6
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,6:58,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,15,23
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,6:57,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,6:54,SAS,shot,Tim Duncan,,,,,,,,,Richard Jefferson,2,,,made,,running dunk,25,6
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,6:35,LAL,shot,Pau Gasol,,,,,,,,,Ron Artest,3,,,made,,3pt,41,27
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,6:30,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,6:11,SAS,shot,Tim Duncan,,,,,,,,,Richard Jefferson,2,,,made,,slam dunk,25,6
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,6:11,LAL,foul,,,,,,,,Richard Jefferson,,Lamar Odom,,,,,,shooting,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,6:11,SAS,free throw,,,,,,,1,,1,Richard Jefferson,,,foul,missed,,,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,6:09,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,5:49,LAL,shot,Pau Gasol,,,,,,,,,Lamar Odom,2,,,made,,hook,25,12
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,5:35,LAL,violation,,,,,,,,,,Pau Gasol,,,,,,kicked ball,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,5:26,SAS,shot,,,Pau Gasol,,,,,,,Manu Ginobili,,,,missed,,layup,25,6
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,5:24,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,5:18,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,jump,21,25
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,5:17,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,5:05,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,11,29
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,5:02,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,off,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,4:56,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,44,22
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,3,4:54,LAL,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:54,LAL,sub,,,,Shannon Brown,,Derek Fisher,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:54,SAS,sub,,,,Keith Bogans,,Manu Ginobili,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:50,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,hook,26,10
+Antonio McDyess,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:49,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Antonio McDyess,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:49,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,tip,25,6
+Antonio McDyess,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:47,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Antonio McDyess,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:26,SAS,shot,,,Pau Gasol,,,,,,,Tim Duncan,,,,missed,,jump,14,8
+Antonio McDyess,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:26,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:26,SAS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:26,SAS,sub,,,,Matt Bonner,,Antonio McDyess,,,,,,,,,,,,
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:12,LAL,turnover,,,,,,,,,,Lamar Odom,,,bad pass,,Keith Bogans,,,
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:08,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,layup,25,6
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:07,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:05,LAL,foul,,,,,,,,Matt Bonner,,Pau Gasol,,,,,,offensive,,
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,4:05,LAL,turnover,,,,,,,,,,Pau Gasol,,,foul,,,,,
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,3:47,SAS,turnover,,,,,,,,,,Tim Duncan,,,lost ball,,Pau Gasol,,,
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,3:43,LAL,shot,Lamar Odom,,,,,,,,,Pau Gasol,2,,,made,,dunk,25,6
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,3:28,SAS,shot,Roger Mason,,,,,,,,,Tim Duncan,2,,,made,,slam dunk,25,6
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,2:59,LAL,shot,,,,,,,,,,Shannon Brown,,,,missed,,3pt,1,7
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,2:59,LAL,rebound,,,,,,,,,,,,,,,,,,
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,2:59,SAS,foul,,,,,,,,Pau Gasol,,Keith Bogans,,,,,,loose ball,,
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,2:59,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Keith Bogans,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,3,2:59,LAL,sub,,,,Jordan Farmar,,Ron Artest,,,,,,,,,,,,
+Malik Hairston,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,3,2:59,SAS,sub,,,,Malik Hairston,,Keith Bogans,,,,,,,,,,,,
+Malik Hairston,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,3,2:48,LAL,shot,Pau Gasol,,,,,,,,,Shannon Brown,2,,,made,,layup,25,6
+Malik Hairston,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,3,2:29,SAS,turnover,,,,,,,,,,Matt Bonner,,,bad pass,,Pau Gasol,,,
+Malik Hairston,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,3,2:25,LAL,shot,,,Malik Hairston,,,,,,,Pau Gasol,,,,missed,,layup,25,6
+Malik Hairston,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,3,2:21,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,off,,
+Malik Hairston,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,3,2:16,SAS,foul,,,,,,,,Pau Gasol,,Matt Bonner,,,,,,shooting,,
+Malik Hairston,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,3,2:16,LAL,free throw,,,,,,,1,,2,Pau Gasol,,,foul,made,,,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,3,2:16,SAS,sub,,,,Manu Ginobili,,Roger Mason,,,,,,,,,,,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,2:16,LAL,sub,,,,Ron Artest,,Kobe Bryant,,,,,,,,,,,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,2:16,LAL,free throw,,,,,,,2,,2,Pau Gasol,,,foul,made,,,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,2:01,SAS,shot,Manu Ginobili,,,,,,,,,Matt Bonner,3,,,made,,3pt,35,30
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,1:41,LAL,shot,,,,,,,,,,Shannon Brown,,,,missed,,jump,19,21
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,1:40,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,1:28,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,jump,37,5
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,1:28,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,1:28,LAL,foul,,,,,,,,Tim Duncan,,Pau Gasol,,,,,,loose ball,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,1:28,SAS,sub,,,,Roger Mason,,Malik Hairston,,,,,,,,,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,1:28,SAS,free throw,,,,,,,1,,2,Tim Duncan,,,foul,made,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,1:28,SAS,free throw,,,,,,,2,,2,Tim Duncan,,,foul,missed,,,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,1:27,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,1:10,LAL,shot,Pau Gasol,,,,,,,,,Lamar Odom,2,,,made,,jump,30,14
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,0:46,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,running bank,14,10
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,0:45,LAL,rebound,,,,,,,,,,Jordan Farmar,,,,,,def,,
+Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Tim Duncan,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,0:30,SAS,foul,,,,,,,,Pau Gasol,,Roger Mason,,,,,,personal,,
+Antonio McDyess,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,0:30,SAS,sub,,,,Antonio McDyess,,Tim Duncan,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Jordan Farmar,Lamar Odom,Pau Gasol,Ron Artest,Shannon Brown,3,0:30,LAL,free throw,,,,,,,1,,2,Pau Gasol,,,foul,made,,,,
+Antonio McDyess,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Jordan Farmar,Lamar Odom,Luke Walton,Pau Gasol,Shannon Brown,3,0:30,LAL,sub,,,,Luke Walton,,Ron Artest,,,,,,,,,,,,
+Antonio McDyess,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Jordan Farmar,Lamar Odom,Luke Walton,Pau Gasol,Shannon Brown,3,0:30,LAL,free throw,,,,,,,2,,2,Pau Gasol,,,foul,made,,,,
+Antonio McDyess,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Jordan Farmar,Lamar Odom,Luke Walton,Pau Gasol,Shannon Brown,3,0:10,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,3pt,49,7
+Antonio McDyess,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Jordan Farmar,Lamar Odom,Luke Walton,Pau Gasol,Shannon Brown,3,0:09,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,def,,
+Antonio McDyess,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Jordan Farmar,Lamar Odom,Luke Walton,Pau Gasol,Shannon Brown,3,0:01,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,jump,40,21
+Antonio McDyess,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Jordan Farmar,Lamar Odom,Luke Walton,Pau Gasol,Shannon Brown,3,0:00,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,11:51,LAL,shot,Luke Walton,,,,,,,,,Jordan Farmar,2,,,made,,alley oop layup,25,6
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,11:33,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,jump,29,13
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,11:20,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,35,29
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,11:19,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:58,SAS,shot,,,,,,,,,,Malik Hairston,,,,missed,,jump,5,9
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:57,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:51,LAL,shot,,,,,,,,,,Shannon Brown,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:50,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,off,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:49,SAS,foul,,,,,,,,Kobe Bryant,,Roger Mason,,,,,,shooting,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:49,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:49,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,made,,,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:29,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,43,22
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:28,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:26,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,layup,25,6
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:24,SAS,jump ball,,DeJuan Blair,,,Luke Walton,,,,,,,San Antonio,,,,,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:24,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:14,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,2,7
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:13,SAS,rebound,,,,,,,,,,Malik Hairston,,,,,,off,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:09,SAS,turnover,,,,,,,,,,Malik Hairston,,,bad pass,,Jordan Farmar,,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:04,LAL,shot,Jordan Farmar,,,,,,,,,Kobe Bryant,2,,,made,,layup,25,6
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Roger Mason,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:03,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,DeJuan Blair,Malik Hairston,Manu Ginobili,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:03,SAS,sub,,,,Tim Duncan,,Roger Mason,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Malik Hairston,Manu Ginobili,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:03,SAS,sub,,,,Keith Bogans,,DeJuan Blair,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,10:03,SAS,sub,,,,Richard Jefferson,,Malik Hairston,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,9:47,LAL,violation,,,,,,,,,,Shannon Brown,,,,,,kicked ball,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,9:36,SAS,shot,Tim Duncan,,,,,,,,,Antonio McDyess,2,,,made,,layup,25,6
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,9:13,LAL,shot,Shannon Brown,,,,,,,,,Kobe Bryant,2,,,made,,jump,14,21
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,8:50,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,33,18
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,8:49,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,8:40,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,41,18
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,8:39,LAL,rebound,,,,,,,,,,Pau Gasol,,,,,,off,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,8:39,LAL,shot,,,,,,,,,,Pau Gasol,2,,,made,,putback dunk,25,6
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,8:20,SAS,shot,Richard Jefferson,,,,,,,,,Manu Ginobili,3,,,made,,3pt,16,31
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,7:58,LAL,shot,Luke Walton,,,,,,,,,Pau Gasol,2,,,made,,jump,38,18
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,7:45,LAL,foul,,,,,,,,Manu Ginobili,,Luke Walton,,,,,,shooting,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Luke Walton,Pau Gasol,Shannon Brown,4,7:45,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,made,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,4,7:45,LAL,sub,,,,Lamar Odom,,Luke Walton,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,4,7:45,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,4,7:32,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,3pt,2,16
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,4,7:31,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,4,7:22,SAS,shot,Manu Ginobili,,,,,,,,,Antonio McDyess,2,,,made,,jump,35,23
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Shannon Brown,4,7:21,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Jordan Farmar,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,7:21,LAL,sub,,,,Ron Artest,,Shannon Brown,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,7:21,LAL,sub,,,,Derek Fisher,,Jordan Farmar,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,7:04,LAL,turnover,,,,,,,,,,Ron Artest,,,out of bounds lost ball turnover,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,6:47,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,hook,26,9
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,6:46,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,6:42,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,layup,25,6
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,6:22,LAL,shot,,,,,,,,,,Pau Gasol,,,,missed,,jump,37,16
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,6:22,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,6:11,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,running layup,25,6
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,5:56,SAS,foul,,,,,,,,Pau Gasol,,Antonio McDyess,,,,,,shooting,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,5:56,LAL,free throw,,,,,,,1,,2,Pau Gasol,,,foul,missed,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,5:56,LAL,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,5:56,LAL,free throw,,,,,,,2,,2,Pau Gasol,,,foul,made,,,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,5:42,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,layup,25,6
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,5:25,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,fade away jumper,24,18
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,5:23,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,5:10,SAS,shot,,,,,,,,,,Manu Ginobili,3,,,made,,3pt,11,29
+Antonio McDyess,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,5:01,SAS,foul,,,,,,,,Kobe Bryant,,Keith Bogans,,,,,,personal,,
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,5:01,SAS,sub,,,,Malik Hairston,,Keith Bogans,,,,,,,,,,,,
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,4:56,LAL,shot,Ron Artest,,,,,,,,,Kobe Bryant,3,,,made,,3pt,44,25
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,4:39,LAL,foul,,,,,,,,Antonio McDyess,,Kobe Bryant,,,,,,personal,,
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,4:28,SAS,shot,,,,,,,,,,Malik Hairston,,,,missed,,3pt,1,5
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,4:26,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,4:09,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,layup,25,6
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,4:08,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,4:06,LAL,foul,,,,,,,,Antonio McDyess,,Derek Fisher,,,,,,personal,,
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:55,SAS,shot,,,,,,,,,,Tim Duncan,2,,,made,,jump,20,11
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:55,LAL,foul,,,,,,,,Tim Duncan,,Ron Artest,,,,,,shooting,,
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:55,SAS,free throw,,,,,,,1,,1,Tim Duncan,,,foul,made,,,,
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:48,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,44,27
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:46,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:34,SAS,turnover,,,,,,,,,,Antonio McDyess,,,3 second violation,,,,,
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:23,LAL,shot,Kobe Bryant,,,,,,,,,Lamar Odom,2,,,made,,layup,25,6
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:03,SAS,shot,Tim Duncan,,,,,,,,,Malik Hairston,2,,,made,,layup,25,6
+Antonio McDyess,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:03,LAL,foul,,,,,,,,Malik Hairston,,Kobe Bryant,,,,,,shooting,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:03,SAS,sub,,,,Matt Bonner,,Antonio McDyess,,,,,,,,,,,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:03,SAS,free throw,,,,,,,1,,1,Malik Hairston,,,foul,missed,,,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,3:00,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,2:52,LAL,shot,Kobe Bryant,,,,,,,,,Pau Gasol,2,,,made,,jump hook,29,9
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,2:31,LAL,foul,,,,,,,,Richard Jefferson,,Lamar Odom,,,,,,personal,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Kobe Bryant,Lamar Odom,Pau Gasol,Ron Artest,4,2:31,SAS,timeout,,,,,,,,,,,,,,,,official,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Pau Gasol,4,2:31,LAL,sub,,,,Josh Powell,,Ron Artest,,,,,,,,,,,,
+Malik Hairston,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,2:31,LAL,sub,,,,Jordan Farmar,,Pau Gasol,,,,,,,,,,,,
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,2:31,SAS,sub,,,,Keith Bogans,,Matt Bonner,,,,,,,,,,,,
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,2:31,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,missed,,,,
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,2:31,SAS,rebound,,,,,,,,,,,,,,,,,,
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,2:31,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,2:20,SAS,violation,,,,,,,,,,Malik Hairston,,,,,,defensive goaltending,,
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,2:20,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,layup,25,6
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,2:02,LAL,foul,,,,,,,,Richard Jefferson,,Jordan Farmar,,,,,,personal,,
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,2:02,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,made,,,,
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,2:02,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,1:52,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,driving layup,25,6
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,1:50,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,1:29,LAL,foul,,,,,,,,Manu Ginobili,,Josh Powell,,,,,,shooting,,
+Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Tim Duncan,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,1:29,LAL,foul,,,,,,,,,,Lamar Odom,,,,,,technical,,
+Ian Mahinmi,Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,1:29,SAS,sub,,,,Ian Mahinmi,,Tim Duncan,,,,,,,,,,,,
+Ian Mahinmi,Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,1:29,SAS,free throw,,,,,,,1,,1,Manu Ginobili,,,technical,made,,,,
+Ian Mahinmi,Keith Bogans,Malik Hairston,Manu Ginobili,Richard Jefferson,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,1:29,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,made,,,,
+Ian Mahinmi,Keith Bogans,Malik Hairston,Manu Ginobili,Roger Mason,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,1:29,SAS,sub,,,,Roger Mason,,Richard Jefferson,,,,,,,,,,,,
+Ian Mahinmi,Keith Bogans,Malik Hairston,Manu Ginobili,Roger Mason,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,1:29,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,Ian Mahinmi,Malik Hairston,Manu Ginobili,Roger Mason,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,4,1:29,SAS,sub,,,,DeJuan Blair,,Keith Bogans,,,,,,,,,,,,
+DeJuan Blair,Ian Mahinmi,Malik Hairston,Manu Ginobili,Roger Mason,D.J. Mbenga,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,4,1:29,LAL,sub,,,,D.J. Mbenga,,Lamar Odom,,,,,,,,,,,,
+DeJuan Blair,Ian Mahinmi,Malik Hairston,Manu Ginobili,Roger Mason,D.J. Mbenga,Derek Fisher,Jordan Farmar,Josh Powell,Sasha Vujacic,4,1:29,LAL,sub,,,,Sasha Vujacic,,Kobe Bryant,,,,,,,,,,,,
+DeJuan Blair,Ian Mahinmi,Malik Hairston,Manu Ginobili,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,1:29,LAL,sub,,,,Shannon Brown,,Derek Fisher,,,,,,,,,,,,
+DeJuan Blair,Ian Mahinmi,Malik Hairston,Manu Ginobili,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,1:29,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+DeJuan Blair,Ian Mahinmi,Malik Hairston,Manu Ginobili,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,1:24,SAS,foul,,,,,,,,Shannon Brown,,Roger Mason,,,,,,personal,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,1:24,SAS,sub,,,,Garrett Temple,,Manu Ginobili,,,,,,,,,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,1:11,LAL,shot,,,,,,,,,,Sasha Vujacic,,,,missed,,jump,45,7
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,1:10,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,0:58,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,reverse layup,25,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,0:55,LAL,rebound,,,,,,,,,,Shannon Brown,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,0:43,LAL,shot,,,,,,,,,,Josh Powell,,,,missed,,jump,8,7
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,0:41,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,0:28,LAL,foul,,,,,,,,Ian Mahinmi,,Josh Powell,,,,,,shooting,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,0:28,SAS,free throw,,,,,,,1,,2,Ian Mahinmi,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,0:28,SAS,free throw,,,,,,,2,,2,Ian Mahinmi,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,0:03,LAL,shot,,,,,,,,,,Josh Powell,,,,missed,,jump,37,18
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,D.J. Mbenga,Jordan Farmar,Josh Powell,Sasha Vujacic,Shannon Brown,4,0:02,SAS,rebound,,,,,,,,,,Malik Hairston,,,,,,def,,

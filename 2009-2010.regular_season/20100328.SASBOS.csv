@@ -1,0 +1,428 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,12:00,OFF,jump ball,,Tim Duncan,,,Rasheed Wallace,,,,,,,Paul Pierce,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,11:56,SAS,foul,,,,,,,,Paul Pierce,,Richard Jefferson,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,11:56,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,11:56,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,11:42,SAS,shot,Manu Ginobili,,,,,,,,,Antonio McDyess,2,,,made,,jump,42,8
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,11:28,SAS,foul,,,,,,,,Paul Pierce,,Richard Jefferson,,,,,,personal,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,11:28,SAS,sub,,,,Keith Bogans,,Richard Jefferson,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,11:21,BOS,shot,,,,,,,,,,Paul Pierce,2,,,made,,turnaround fade away,13,9
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,11:00,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,21,9
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,10:59,BOS,rebound,,,,,,,,,,Ray Allen,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,10:50,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,layup,24,7
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,10:49,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,off,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,10:48,BOS,shot,,,,,,,,,,Rasheed Wallace,2,,,made,,tip,25,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,10:36,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,2,4
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,10:36,BOS,rebound,,,,,,,,,,Ray Allen,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,10:27,BOS,turnover,,,,,,,,,,Ray Allen,,,poss lost ball turnover,,George Hill,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,10:06,SAS,turnover,,,,,,,,,,Tim Duncan,,,traveling,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,9:59,BOS,turnover,,,,,,,,,,Kevin Garnett,,,traveling,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,9:43,SAS,shot,Tim Duncan,,,,,,,,,Keith Bogans,3,,,made,,3pt,1,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,9:27,BOS,shot,Paul Pierce,,,,,,,,,Kevin Garnett,2,,,made,,layup,24,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,9:12,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,jump,20,26
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,9:11,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,9:06,BOS,shot,Paul Pierce,,,,,,,,,Kevin Garnett,2,,,made,,slam dunk,25,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,8:49,SAS,shot,Antonio McDyess,,,,,,,,,George Hill,3,,,made,,3pt,2,7
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,8:37,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,jump,18,27
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,8:36,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,8:29,BOS,foul,,,,,,,,Manu Ginobili,,Rasheed Wallace,,,,,,shooting,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,8:29,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,made,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,8:29,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,8:15,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,jump,25,20
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,8:14,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,8:03,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,48,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,8:02,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,7:55,BOS,shot,Ray Allen,,,,,,,,,Kevin Garnett,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,7:38,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,10,15
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,7:36,SAS,rebound,,,,,,,,,,Keith Bogans,,,,,,off,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,7:27,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,turnaround jump,32,10
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,7:26,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,7:18,BOS,turnover,,,,,,,,,,Rajon Rondo,,,out of bounds lost ball turnover,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,7:04,SAS,shot,Tim Duncan,,,,,,,,,Manu Ginobili,2,,,made,,jump,22,19
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,6:50,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,jump,36,22
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,6:49,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,6:38,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,18,23
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,6:38,BOS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,6:21,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,layup,24,8
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,6:19,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,6:08,SAS,shot,,,,,,,,,,George Hill,,,,missed,,3pt,2,6
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,6:07,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,6:03,BOS,turnover,,,,,,,,,,Rajon Rondo,,,bad pass,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,6:03,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,5:53,SAS,turnover,,,,,,,,,,Antonio McDyess,,,traveling,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,5:39,BOS,shot,Rajon Rondo,,,,,,,,,Kevin Garnett,2,,,made,,jump,7,9
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,5:21,SAS,turnover,,,,,,,,,,Tim Duncan,,,bad pass,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,5:01,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,jump,17,16
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,5:00,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,4:46,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,38,8
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,4:44,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,4:37,BOS,shot,,,Tim Duncan,,,,,,,Ray Allen,,,,missed,,layup,25,8
+Antonio McDyess,George Hill,Keith Bogans,Manu Ginobili,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,4:36,SAS,rebound,,,,,,,,,,,,,,,,,,
+George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,4:36,SAS,sub,,,,Matt Bonner,,Antonio McDyess,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,4:36,SAS,sub,,,,Roger Mason,,Manu Ginobili,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,4:24,SAS,shot,,,,,,,,,,George Hill,,,,missed,,layup,25,7
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,4:23,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,4:11,SAS,foul,,,,,,,,,,Roger Mason,,,,,,defense 3 second,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,1,4:11,BOS,free throw,,,,,,,1,,1,Ray Allen,,,technical,made,,,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,1,4:10,BOS,sub,,,,Glen Davis,,Rasheed Wallace,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,4:10,BOS,sub,,,,Michael Finley,,Ray Allen,,,,,,,,,,,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,4:00,BOS,shot,Paul Pierce,,,,,,,,,Rajon Rondo,2,,,made,,driving layup,26,6
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,3:45,BOS,foul,,,,,,,,,,Kevin Garnett,,,,,,defense 3 second,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,3:45,SAS,free throw,,,,,,,1,,1,Roger Mason,,,technical,made,,,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,3:37,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,layup,25,8
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,3:35,BOS,rebound,,,,,,,,,,Rajon Rondo,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,3:28,BOS,shot,,,,,,,,,,Glen Davis,,,,missed,,layup,26,7
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,3:27,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,3:15,SAS,shot,George Hill,,,,,,,,,Keith Bogans,2,,,made,,reverse layup,25,7
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,2:55,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,turnaround fade away,13,8
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,2:53,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,2:31,SAS,turnover,,,,,,,,,,Keith Bogans,,,lost ball,,Kevin Garnett,,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,2:24,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,pullup jump,34,20
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,2:23,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,2:13,SAS,shot,,,,,,,,,,George Hill,2,,,made,,step back jump,25,27
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,1:58,BOS,shot,,,,,,,,,,Rajon Rondo,2,,,made,,driving layup,25,7
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,1:39,SAS,shot,,,,,,,,,,Tim Duncan,,,,missed,,layup,25,8
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,1:38,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,def,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,1:31,SAS,foul,,,,,,,,Paul Pierce,,Keith Bogans,,,,,,personal,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,1,1:31,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+George Hill,Keith Bogans,Matt Bonner,Roger Mason,Tim Duncan,Glen Davis,Michael Finley,Paul Pierce,Rajon Rondo,Shelden Williams,1,1:31,BOS,sub,,,,Shelden Williams,,Kevin Garnett,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Paul Pierce,Rajon Rondo,Shelden Williams,1,1:31,SAS,sub,,,,DeJuan Blair,,Tim Duncan,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Paul Pierce,Rajon Rondo,Shelden Williams,1,1:23,BOS,shot,,,,,,,,,,Glen Davis,,,,missed,,jump,10,17
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Paul Pierce,Rajon Rondo,Shelden Williams,1,1:21,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Paul Pierce,Rajon Rondo,Shelden Williams,1,1:07,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,8,24
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Paul Pierce,Rajon Rondo,Shelden Williams,1,1:06,BOS,rebound,,,,,,,,,,Rajon Rondo,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Paul Pierce,Rajon Rondo,Shelden Williams,1,1:02,SAS,foul,,,,,,,,Paul Pierce,,Matt Bonner,,,,,,shooting,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,1:02,BOS,sub,,,,Nate Robinson,,Rajon Rondo,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,1:02,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,1:02,SAS,sub,,,,Manu Ginobili,,George Hill,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,1:02,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,0:43,BOS,foul,,,,,,,,Keith Bogans,,Michael Finley,,,,,,shooting,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,0:43,SAS,free throw,,,,,,,1,,2,Keith Bogans,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,0:43,SAS,free throw,,,,,,,2,,2,Keith Bogans,,,foul,missed,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,0:42,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,0:24,BOS,shot,,,,,,,,,,Paul Pierce,2,,,made,,layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,0:03,BOS,foul,,,,,,,,DeJuan Blair,,Glen Davis,,,,,,shooting,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,0:03,SAS,free throw,,,,,,,1,,2,DeJuan Blair,,,foul,missed,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Shelden Williams,1,0:03,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Rajon Rondo,1,0:03,BOS,sub,,,,Rajon Rondo,,Shelden Williams,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Malik Hairston,Manu Ginobili,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Rajon Rondo,1,0:03,SAS,sub,,,,Malik Hairston,,Matt Bonner,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Malik Hairston,Manu Ginobili,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Rajon Rondo,1,0:03,SAS,free throw,,,,,,,2,,2,DeJuan Blair,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Malik Hairston,Manu Ginobili,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Rajon Rondo,1,0:00,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,3pt,24,36
+DeJuan Blair,Keith Bogans,Malik Hairston,Manu Ginobili,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Paul Pierce,Rajon Rondo,1,0:00,BOS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,11:57,BOS,foul,,,,,,,,Roger Mason,,Shelden Williams,,,,,,personal,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,11:53,SAS,shot,Richard Jefferson,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,6
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,11:53,BOS,foul,,,,,,,,Manu Ginobili,,Glen Davis,,,,,,shooting,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,11:53,SAS,free throw,,,,,,,1,,1,Manu Ginobili,,,foul,made,,,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,11:31,BOS,shot,,,,,,,,,,Glen Davis,,,,missed,,layup,25,7
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,11:30,BOS,rebound,,,,,,,,,,Tony Allen,,,,,,off,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,11:28,BOS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,11:12,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,12,28
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,11:11,BOS,rebound,,,,,,,,,,Michael Finley,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,11:01,BOS,shot,,,,,,,,,,Shelden Williams,2,,,made,,hook,25,7
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,10:41,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,jump,42,8
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,10:40,BOS,rebound,,,,,,,,,,Glen Davis,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,10:32,BOS,shot,,,,,,,,,,Nate Robinson,,,,missed,,3pt,35,29
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,10:31,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,10:23,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,10,26
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,10:22,BOS,rebound,,,,,,,,,,Nate Robinson,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,10:15,BOS,shot,,,,,,,,,,Michael Finley,,,,missed,,jump,29,24
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,10:15,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,10:15,BOS,foul,,,,,,,,DeJuan Blair,,Shelden Williams,,,,,,loose ball,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,10:06,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,6
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,9:44,BOS,shot,Nate Robinson,,,,,,,,,Shelden Williams,2,,,made,,layup,25,7
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,9:23,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,layup,26,6
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,9:23,BOS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,9:08,BOS,shot,,,,,,,,,,Nate Robinson,,,,missed,,3pt,20,31
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,9:07,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,8:58,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,driving layup,25,7
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,8:37,BOS,shot,,,,,,,,,,Glen Davis,,,,missed,,jump,39,10
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,8:36,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,8:29,SAS,shot,,,,,,,,,,Matt Bonner,,,,missed,,3pt,8,24
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,8:28,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,off,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,8:14,SAS,shot,Roger Mason,,,,,,,,,Richard Jefferson,2,,,made,,driving layup,25,6
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,8:14,BOS,foul,,,,,,,,Richard Jefferson,,Michael Finley,,,,,,shooting,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Michael Finley,Nate Robinson,Shelden Williams,Tony Allen,2,8:14,SAS,timeout,,,,,,,,,,,,,,,,official,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Glen Davis,Nate Robinson,Ray Allen,Shelden Williams,Tony Allen,2,8:14,BOS,sub,,,,Ray Allen,,Michael Finley,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Nate Robinson,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,8:14,BOS,sub,,,,Rasheed Wallace,,Glen Davis,,,,,,,,,,,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Nate Robinson,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,8:14,SAS,free throw,,,,,,,1,,1,Richard Jefferson,,,foul,made,,,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Nate Robinson,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,7:56,BOS,shot,,,,,,,,,,Rasheed Wallace,,,,missed,,3pt,23,31
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Nate Robinson,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,7:54,SAS,rebound,,,,,,,,,,Roger Mason,,,,,,def,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Nate Robinson,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,7:38,BOS,foul,,,,,,,,Manu Ginobili,,Ray Allen,,,,,,personal,,
+DeJuan Blair,Manu Ginobili,Matt Bonner,Richard Jefferson,Roger Mason,Nate Robinson,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,7:38,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Nate Robinson,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,7:38,SAS,sub,,,,George Hill,,Roger Mason,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,7:38,BOS,sub,,,,Rajon Rondo,,Nate Robinson,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,7:38,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,7:20,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,layup,26,8
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,7:19,BOS,rebound,,,,,,,,,,Shelden Williams,,,,,,off,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,7:18,BOS,shot,,,,,,,,,,Shelden Williams,2,,,made,,tip,25,6
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,Tony Allen,2,7:08,BOS,foul,,,,,,,,Manu Ginobili,,Shelden Williams,,,,,,personal,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,Shelden Williams,2,7:08,BOS,sub,,,,Paul Pierce,,Tony Allen,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,7:08,BOS,sub,,,,Kevin Garnett,,Shelden Williams,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,7:08,SAS,free throw,,,,,,,1,,2,Manu Ginobili,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,7:08,SAS,free throw,,,,,,,2,,2,Manu Ginobili,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,6:51,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,jump,40,20
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,6:50,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,6:37,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,running bank,28,11
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,6:24,SAS,foul,,,,,,,,Rasheed Wallace,,DeJuan Blair,,,,,,shooting,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,6:24,BOS,free throw,,,,,,,1,,2,Rasheed Wallace,,,foul,made,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,6:24,SAS,sub,,,,Tim Duncan,,DeJuan Blair,,,,,,,,,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,6:24,BOS,free throw,,,,,,,2,,2,Rasheed Wallace,,,foul,missed,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,6:23,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,6:11,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,6
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,6:11,BOS,foul,,,,,,,,Manu Ginobili,,Rasheed Wallace,,,,,,shooting,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,6:11,SAS,free throw,,,,,,,1,,1,Manu Ginobili,,,foul,made,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:53,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,3pt,45,20
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:52,SAS,rebound,,,,,,,,,,Manu Ginobili,,,,,,def,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:42,SAS,shot,,,Paul Pierce,,,,,,,Richard Jefferson,,,,missed,,3pt,49,8
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:41,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,def,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:34,BOS,turnover,,,,,,,,,,Rajon Rondo,,,bad pass,,George Hill,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:29,BOS,foul,,,,,,,,George Hill,,Rajon Rondo,,,,,,personal,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:29,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:29,SAS,sub,,,,Keith Bogans,,Matt Bonner,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:29,SAS,sub,,,,Antonio McDyess,,Manu Ginobili,,,,,,,,,,,,
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:29,SAS,free throw,,,,,,,1,,2,George Hill,,,foul,made,,,,
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:29,SAS,free throw,,,,,,,2,,2,George Hill,,,foul,made,,,,
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,5:10,BOS,shot,,,,,,,,,,Kevin Garnett,2,,,made,,jump hook,29,10
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,4:43,SAS,turnover,,,,,,,,,,George Hill,,,bad pass,,Paul Pierce,,,
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,4:28,SAS,foul,,,,,,,,Ray Allen,,Tim Duncan,,,,,,shooting,,
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,4:28,BOS,free throw,,,,,,,1,,2,Ray Allen,,,foul,made,,,,
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,4:28,BOS,free throw,,,,,,,2,,2,Ray Allen,,,foul,made,,,,
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,4:14,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,36,24
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,4:12,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,def,,
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,4:03,BOS,shot,Rajon Rondo,,,,,,,,,Rasheed Wallace,3,,,made,,3pt,30,30
+Antonio McDyess,George Hill,Keith Bogans,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,4:02,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,4:02,SAS,sub,,,,Manu Ginobili,,Keith Bogans,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,3:47,SAS,turnover,,,,,,,,,,George Hill,,,step out of bounds turnover,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,3:34,BOS,shot,,,,,,,,,,Rasheed Wallace,,,,missed,,3pt,15,28
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,3:33,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,3:29,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,3pt,2,13
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,3:28,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,3:17,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,40,14
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,3:16,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,3:03,SAS,shot,Manu Ginobili,,,,,,,,,Tim Duncan,2,,,made,,jump,25,23
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,2:45,BOS,turnover,,,,,,,,,,Rajon Rondo,,,bad pass,,Antonio McDyess,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,2:28,SAS,turnover,,,,,,,,,,George Hill,,,out of bounds lost ball turnover,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,2:12,BOS,shot,,,,,,,,,,Paul Pierce,2,,,made,,driving layup,24,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,1:48,SAS,turnover,,,,,,,,,,Richard Jefferson,,,lost ball,,Rasheed Wallace,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,1:44,SAS,foul,,,,,,,,Rajon Rondo,,Manu Ginobili,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,1:37,BOS,shot,,,,,,,,,,Rasheed Wallace,,,,missed,,3pt,29,30
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,1:36,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,1:22,SAS,shot,Manu Ginobili,,,,,,,,,Tim Duncan,2,,,made,,jump,22,23
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,1:03,BOS,shot,Rajon Rondo,,,,,,,,,Ray Allen,2,,,made,,jump,34,20
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,0:35,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,38,15
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,0:34,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,0:27,BOS,shot,,,,,,,,,,Rajon Rondo,2,,,made,,driving layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,0:05,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,0:04,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,0:00,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,jump,33,26
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,2,0:00,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,11:43,SAS,shot,Manu Ginobili,,,,,,,,,Antonio McDyess,2,,,made,,jump,9,9
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,11:21,BOS,turnover,,,,,,,,,,Rasheed Wallace,,,bad pass,,Manu Ginobili,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,11:15,SAS,shot,Manu Ginobili,,,,,,,,,Richard Jefferson,2,,,made,,layup,25,7
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,11:15,BOS,foul,,,,,,,,Richard Jefferson,,Paul Pierce,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,11:15,SAS,free throw,,,,,,,1,,1,Richard Jefferson,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,10:51,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,jump,9,9
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,10:50,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,10:38,SAS,shot,Antonio McDyess,,,,,,,,,Manu Ginobili,3,,,made,,3pt,26,31
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,10:26,SAS,foul,,,,,,,,Ray Allen,,Antonio McDyess,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,10:09,BOS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,9:48,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,jump,11,17
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,9:46,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,9:43,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,layup,25,7
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,9:27,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,jump,10,18
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,9:26,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,9:14,SAS,shot,Richard Jefferson,,,,,,,,,Antonio McDyess,2,,,made,,jump,25,25
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,8:52,SAS,foul,,,,,,,,Ray Allen,,George Hill,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,8:42,BOS,shot,,,,,,,,,,Ray Allen,2,,,made,,layup,25,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,8:25,SAS,shot,,,,,,,,,,Antonio McDyess,,,,missed,,jump,10,14
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,8:24,BOS,rebound,,,,,,,,,,Rasheed Wallace,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,8:17,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,3pt,44,21
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,8:16,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,8:07,SAS,shot,,,Rasheed Wallace,,,,,,,Manu Ginobili,,,,missed,,layup,26,8
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,8:07,SAS,rebound,,,,,,,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,8:01,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,5,21
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,7:58,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,7:51,BOS,shot,,,,,,,,,,Ray Allen,,,,missed,,jump,15,19
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,7:50,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,7:33,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,22,31
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,7:32,SAS,rebound,,,,,,,,,,Antonio McDyess,,,,,,off,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,7:31,BOS,foul,,,,,,,,Antonio McDyess,,Rasheed Wallace,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Kevin Garnett,Paul Pierce,Rajon Rondo,Rasheed Wallace,Ray Allen,3,7:27,BOS,foul,,,,,,,,Manu Ginobili,,Rasheed Wallace,,,,,,personal,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:27,BOS,sub,,,,Glen Davis,,Rasheed Wallace,,,,,,,,,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:20,SAS,turnover,,,,,,,,,,Tim Duncan,,,bad pass,,Rajon Rondo,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:11,BOS,shot,,,,,,,,,,Paul Pierce,2,,,made,,driving layup,25,7
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:11,SAS,foul,,,,,,,,Paul Pierce,,Antonio McDyess,,,,,,shooting,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,7:11,BOS,free throw,,,,,,,1,,1,Paul Pierce,,,foul,made,,,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,6:51,BOS,violation,,,,,,,,,,Kevin Garnett,,,,,,defensive goaltending,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,6:51,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,24,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,6:30,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,layup,24,6
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,6:29,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+Antonio McDyess,George Hill,Manu Ginobili,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,6:18,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,6:18,SAS,sub,,,,Matt Bonner,,Antonio McDyess,,,,,,,,,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,6:09,SAS,shot,,,,,,,,,,Richard Jefferson,,,,missed,,3pt,2,9
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,6:08,BOS,rebound,,,,,,,,,,Rajon Rondo,,,,,,def,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,5:59,SAS,foul,,,,,,,,Paul Pierce,,Manu Ginobili,,,,,,shooting,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,5:59,BOS,timeout,,,,,,,,,,,,,,,,short,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,5:59,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,missed,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,5:59,BOS,rebound,,,,,,,,,,,,,,,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,5:59,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,made,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,5:40,SAS,shot,,,,,,,,,,Matt Bonner,2,,,made,,hook,25,10
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Paul Pierce,Rajon Rondo,Ray Allen,3,5:19,SAS,violation,,,,,,,,,,George Hill,,,,,,kicked ball,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,3,5:19,BOS,sub,,,,Marquis Daniels,,Paul Pierce,,,,,,,,,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,3,5:04,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,jump,10,19
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,3,5:03,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,3,4:49,SAS,shot,Richard Jefferson,,,,,,,,,Tim Duncan,2,,,made,,jump,40,13
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,3,4:22,BOS,shot,,,Matt Bonner,,,,,,,Glen Davis,,,,missed,,layup,25,8
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,3,4:22,BOS,rebound,,,,,,,,,,Glen Davis,,,,,,off,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,3,4:22,BOS,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,3,4:00,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,2,11
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,3,3:59,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,off,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,3,3:57,SAS,shot,,,,,,,,,,Richard Jefferson,2,,,made,,layup,25,6
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Rajon Rondo,Ray Allen,3,3:40,BOS,shot,Rajon Rondo,,,,,,,,,Marquis Daniels,2,,,made,,jump,7,9
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,3,3:16,BOS,sub,,,,Paul Pierce,,Ray Allen,,,,,,,,,,,,
+George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Nate Robinson,Paul Pierce,3,3:16,BOS,sub,,,,Nate Robinson,,Rajon Rondo,,,,,,,,,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Nate Robinson,Paul Pierce,3,3:16,SAS,sub,,,,Keith Bogans,,George Hill,,,,,,,,,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Nate Robinson,Paul Pierce,3,3:13,SAS,shot,Matt Bonner,,,,,,,,,Tim Duncan,2,,,made,,layup,25,6
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Nate Robinson,Paul Pierce,3,2:51,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,3pt,10,26
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Nate Robinson,Paul Pierce,3,2:49,BOS,rebound,,,,,,,,,,Glen Davis,,,,,,off,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Nate Robinson,Paul Pierce,3,2:40,BOS,shot,,,,,,,,,,Marquis Daniels,,,,missed,,3pt,48,6
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Nate Robinson,Paul Pierce,3,2:39,SAS,rebound,,,,,,,,,,Tim Duncan,,,,,,def,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Nate Robinson,Paul Pierce,3,2:36,BOS,foul,,,,,,,,Richard Jefferson,,Nate Robinson,,,,,,shooting,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Kevin Garnett,Marquis Daniels,Nate Robinson,Paul Pierce,3,2:36,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,2:36,BOS,sub,,,,Shelden Williams,,Kevin Garnett,,,,,,,,,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,2:36,SAS,free throw,,,,,,,1,,2,Richard Jefferson,,,foul,made,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,2:36,SAS,free throw,,,,,,,2,,2,Richard Jefferson,,,foul,made,,,,
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,2:24,BOS,shot,,,,,,,,,,Marquis Daniels,,,,missed,,layup,25,6
+Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Tim Duncan,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,2:23,BOS,rebound,,,,,,,,,,Marquis Daniels,,,,,,off,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,2:22,SAS,sub,,,,DeJuan Blair,,Tim Duncan,,,,,,,,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,2:19,SAS,foul,,,,,,,,Paul Pierce,,Keith Bogans,,,,,,personal,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,2:19,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,2:19,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,made,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,2:01,SAS,turnover,,,,,,,,,,DeJuan Blair,,,traveling,,,,,
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,1:46,BOS,shot,,,DeJuan Blair,,,,,,,Marquis Daniels,,,,missed,,layup,25,6
+DeJuan Blair,Keith Bogans,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,1:45,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,1:45,SAS,sub,,,,George Hill,,Manu Ginobili,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,1:32,SAS,turnover,,,,,,,,,,Richard Jefferson,,,lost ball,,Glen Davis,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,1:20,BOS,shot,Paul Pierce,,,,,,,,,Glen Davis,2,,,made,,jump,13,20
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:56,SAS,shot,,,,,,,,,,George Hill,2,,,made,,jump,43,12
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:45,BOS,shot,Paul Pierce,,,,,,,,,Shelden Williams,2,,,made,,layup,26,6
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:45,SAS,foul,,,,,,,,Shelden Williams,,DeJuan Blair,,,,,,shooting,,
+George Hill,Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:45,SAS,sub,,,,Ian Mahinmi,,DeJuan Blair,,,,,,,,,,,,
+George Hill,Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:45,BOS,free throw,,,,,,,1,,1,Shelden Williams,,,foul,made,,,,
+George Hill,Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:37,BOS,foul,,,,,,,,George Hill,,Nate Robinson,,,,,,personal,,
+George Hill,Ian Mahinmi,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:37,SAS,free throw,,,,,,,1,,2,George Hill,,,foul,made,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:37,SAS,sub,,,,DeJuan Blair,,Ian Mahinmi,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:37,SAS,free throw,,,,,,,2,,2,George Hill,,,foul,missed,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:36,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:36,SAS,foul,,,,,,,,Paul Pierce,,DeJuan Blair,,,,,,personal,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:36,BOS,free throw,,,,,,,1,,2,Paul Pierce,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:36,SAS,sub,,,,Manu Ginobili,,Keith Bogans,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:36,BOS,free throw,,,,,,,2,,2,Paul Pierce,,,foul,made,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:28,SAS,shot,Manu Ginobili,,,,,,,,,George Hill,3,,,made,,3pt,3,8
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:04,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,jump,20,18
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:03,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Matt Bonner,Richard Jefferson,Glen Davis,Marquis Daniels,Nate Robinson,Paul Pierce,Shelden Williams,3,0:00,SAS,shot,,,,,,,,,,Manu Ginobili,3,,,made,,3pt,47,17
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,11:45,BOS,shot,Rajon Rondo,,,,,,,,,Marquis Daniels,2,,,made,,layup,24,7
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,11:31,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,3pt,36,28
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,11:30,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,11:30,SAS,foul,,,,,,,,Kevin Garnett,,DeJuan Blair,,,,,,personal,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,11:20,BOS,shot,,,,,,,,,,Paul Pierce,,,,missed,,driving layup,26,7
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,11:19,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,11:05,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,27,18
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,11:04,BOS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,10:56,BOS,shot,Rajon Rondo,,,,,,,,,Kevin Garnett,2,,,made,,jump,20,27
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,10:38,SAS,shot,Manu Ginobili,,,,,,,,,Matt Bonner,3,,,made,,3pt,17,30
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,10:24,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,step back jump,20,21
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,10:23,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,10:07,SAS,shot,,,,,,,,,,Manu Ginobili,2,,,made,,driving layup,25,7
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,9:50,BOS,shot,Rajon Rondo,,,,,,,,,Shelden Williams,2,,,made,,layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,9:31,SAS,shot,Keith Bogans,,,,,,,,,George Hill,2,,,made,,driving layup,24,7
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Shelden Williams,4,9:31,BOS,foul,,,,,,,,George Hill,,Shelden Williams,,,,,,shooting,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Marquis Daniels,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:31,BOS,sub,,,,Rasheed Wallace,,Shelden Williams,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:31,BOS,sub,,,,Michael Finley,,Marquis Daniels,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:31,SAS,free throw,,,,,,,1,,1,George Hill,,,foul,missed,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:29,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:15,SAS,shot,,,,,,,,,,George Hill,,,,missed,,3pt,47,6
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:14,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:04,SAS,foul,,,,,,,,Rasheed Wallace,,Manu Ginobili,,,,,,shooting,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:04,BOS,free throw,,,,,,,1,,2,Rasheed Wallace,,,foul,missed,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:04,BOS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,9:04,BOS,free throw,,,,,,,2,,2,Rasheed Wallace,,,foul,made,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:49,SAS,shot,,,,,,,,,,Manu Ginobili,,,,missed,,layup,25,6
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:48,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:29,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,25,22
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:27,SAS,rebound,,,,,,,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:26,SAS,timeout,,,,,,,,,,,,,,,,official,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:16,SAS,foul,,,,,,,,Michael Finley,,DeJuan Blair,,,,,,offensive,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Matt Bonner,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:16,SAS,turnover,,,,,,,,,,DeJuan Blair,,,foul,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:16,SAS,sub,,,,Richard Jefferson,,Manu Ginobili,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,8:06,BOS,turnover,,,,,,,,,,Paul Pierce,,,bad pass,,George Hill,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:44,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,3pt,47,6
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:43,SAS,rebound,,,,,,,,,,Matt Bonner,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:20,SAS,turnover,,,,,,,,,,DeJuan Blair,,,bad pass,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:11,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,layup,26,7
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:10,BOS,rebound,,,,,,,,,,Kevin Garnett,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:03,BOS,shot,,,,,,,,,,Michael Finley,,,,missed,,3pt,41,24
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,7:02,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:38,SAS,shot,,,,,,,,,,George Hill,,,,missed,,layup,26,7
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:37,SAS,rebound,,,,,,,,,,George Hill,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Rasheed Wallace,4,6:15,BOS,foul,,,,,,,,George Hill,,Paul Pierce,,,,,,personal,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Rajon Rondo,Rasheed Wallace,Ray Allen,4,6:15,BOS,sub,,,,Ray Allen,,Paul Pierce,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Rajon Rondo,Rasheed Wallace,Ray Allen,4,6:07,SAS,turnover,,,,,,,,,,Matt Bonner,,,traveling,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Rajon Rondo,Rasheed Wallace,Ray Allen,4,5:59,BOS,shot,,,,,,,,,,Rajon Rondo,,,,missed,,jump,25,24
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Rajon Rondo,Rasheed Wallace,Ray Allen,4,5:58,SAS,rebound,,,,,,,,,,George Hill,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Rajon Rondo,Rasheed Wallace,Ray Allen,4,5:42,SAS,shot,,,,,,,,,,George Hill,,,,missed,,jump,25,13
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Rajon Rondo,Rasheed Wallace,Ray Allen,4,5:41,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Rajon Rondo,Rasheed Wallace,Ray Allen,4,5:35,SAS,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,George Hill,Keith Bogans,Matt Bonner,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,5:35,BOS,sub,,,,Paul Pierce,,Rasheed Wallace,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,5:35,SAS,sub,,,,Manu Ginobili,,Matt Bonner,,,,,,,,,,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,5:21,SAS,shot,,,,,,,,,,DeJuan Blair,,,,missed,,driving layup,25,7
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,5:20,BOS,rebound,,,,,,,,,,Paul Pierce,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,5:19,BOS,turnover,,,,,,,,,,Paul Pierce,,,bad pass,,Keith Bogans,,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,4:57,SAS,shot,,,,,,,,,,Keith Bogans,,,,missed,,layup,25,7
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,4:55,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,4:54,SAS,shot,,,,,,,,,,DeJuan Blair,2,,,made,,tip,25,6
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,4:43,BOS,shot,,,,,,,,,,Kevin Garnett,,,,missed,,layup,27,6
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,4:42,SAS,rebound,,,,,,,,,,Richard Jefferson,,,,,,def,,
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,4:23,SAS,shot,George Hill,,,,,,,,,DeJuan Blair,2,,,made,,slam dunk,25,5
+DeJuan Blair,George Hill,Keith Bogans,Manu Ginobili,Richard Jefferson,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,4:04,SAS,foul,,,,,,,,Kevin Garnett,,George Hill,,,,,,personal,,
+DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Kevin Garnett,Michael Finley,Paul Pierce,Rajon Rondo,Ray Allen,4,4:04,SAS,sub,,,,Roger Mason,,Keith Bogans,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Kevin Garnett,Marquis Daniels,Michael Finley,Rajon Rondo,Ray Allen,4,4:04,BOS,sub,,,,Marquis Daniels,,Paul Pierce,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Marquis Daniels,Michael Finley,Nate Robinson,Rajon Rondo,Ray Allen,4,4:04,BOS,sub,,,,Nate Robinson,,Kevin Garnett,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Brian Scalabrine,Marquis Daniels,Michael Finley,Nate Robinson,Rajon Rondo,4,4:04,BOS,sub,,,,Brian Scalabrine,,Ray Allen,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Brian Scalabrine,Marquis Daniels,Michael Finley,Nate Robinson,Tony Allen,4,4:04,BOS,sub,,,,Tony Allen,,Rajon Rondo,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,4:04,BOS,sub,,,,Glen Davis,,Michael Finley,,,,,,,,,,,,
+DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,3:49,BOS,shot,,,,,,,,,,Tony Allen,,,,missed,,finger roll layup,25,7
+DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,3:48,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,3:24,SAS,shot,George Hill,,,,,,,,,Manu Ginobili,2,,,made,,jump,16,15
+DeJuan Blair,George Hill,Manu Ginobili,Richard Jefferson,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,3:19,SAS,foul,,,,,,,,Nate Robinson,,George Hill,,,,,,personal,,
+DeJuan Blair,George Hill,Malik Hairston,Manu Ginobili,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,3:19,SAS,sub,,,,Malik Hairston,,Richard Jefferson,,,,,,,,,,,,
+DeJuan Blair,Garrett Temple,George Hill,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,3:19,SAS,sub,,,,Garrett Temple,,Manu Ginobili,,,,,,,,,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,3:19,SAS,sub,,,,Ian Mahinmi,,George Hill,,,,,,,,,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,3:08,SAS,foul,,,,,,,,Tony Allen,,Malik Hairston,,,,,,personal,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,3:08,BOS,free throw,,,,,,,1,,2,Tony Allen,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,3:08,BOS,free throw,,,,,,,2,,2,Tony Allen,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,2:53,SAS,shot,Malik Hairston,,,,,,,,,DeJuan Blair,2,,,made,,jump,25,20
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,2:31,BOS,shot,,,,,,,,,,Brian Scalabrine,,,,missed,,3pt,13,28
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,2:31,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,2:15,BOS,foul,,,,,,,,Ian Mahinmi,,Glen Davis,,,,,,shooting,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,2:15,BOS,timeout,,,,,,,,,,,,,,,,regular,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,2:15,SAS,free throw,,,,,,,1,,2,Ian Mahinmi,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,2:15,SAS,free throw,,,,,,,2,,2,Ian Mahinmi,,,foul,made,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,1:58,BOS,turnover,,,,,,,,,,Tony Allen,,,bad pass,,Malik Hairston,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,1:47,SAS,foul,,,,,,,,Glen Davis,,Garrett Temple,,,,,,offensive,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,1:47,SAS,turnover,,,,,,,,,,Garrett Temple,,,foul,,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,1:33,BOS,shot,,,,,,,,,,Tony Allen,2,,,made,,driving reverse layup,25,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,1:24,SAS,foul,,,,,,,,Tony Allen,,Ian Mahinmi,,,,,,offensive,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,1:24,SAS,turnover,,,,,,,,,,Ian Mahinmi,,,foul,,,,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,1:14,BOS,shot,,,,,,,,,,Brian Scalabrine,,,,missed,,jump,44,7
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,1:12,SAS,rebound,,,,,,,,,,Malik Hairston,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,0:55,SAS,shot,,,,,,,,,,Garrett Temple,,,,missed,,3pt,48,9
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,0:54,BOS,rebound,,,,,,,,,,Tony Allen,,,,,,def,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,0:45,BOS,shot,,,,,,,,,,Tony Allen,,,,missed,,layup,24,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,0:45,BOS,rebound,,,,,,,,,,Tony Allen,,,,,,off,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,0:45,BOS,shot,,,,,,,,,,Tony Allen,2,,,made,,layup,25,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,0:28,SAS,shot,,,,,,,,,,Malik Hairston,,,,missed,,layup,25,6
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,0:27,SAS,rebound,,,,,,,,,,DeJuan Blair,,,,,,off,,
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,0:07,SAS,shot,,,,,,,,,,Roger Mason,,,,missed,,3pt,14,29
+DeJuan Blair,Garrett Temple,Ian Mahinmi,Malik Hairston,Roger Mason,Brian Scalabrine,Glen Davis,Marquis Daniels,Nate Robinson,Tony Allen,4,0:06,BOS,rebound,,,,,,,,,,Brian Scalabrine,,,,,,def,,

@@ -1,0 +1,417 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,12:00,OFF,jump ball,,Erick Dampier,,,Jeff Green,,,,,,,Jason Kidd,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,11:37,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,3pt,26,30
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,11:36,OKC,rebound,,,,,,,,,,Nenad Krstic,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,11:16,OKC,shot,,,,,,,,,,Thabo Sefolosha,2,,,made,,jump,41,8
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,11:02,DAL,turnover,,,,,,,,,,Erick Dampier,,,traveling,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,10:48,OKC,foul,,,,,,,,Jose Juan Barea,,Russell Westbrook,,,,,,offensive,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,10:48,OKC,turnover,,,,,,,,,,Russell Westbrook,,,foul,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,10:26,DAL,shot,Shawn Marion,,,,,,,,,Jose Juan Barea,3,,,made,,3pt,23,30
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:58,OKC,shot,Thabo Sefolosha,,,,,,,,,Russell Westbrook,2,,,made,,jump bank,35,13
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:35,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,turnaround fade away,14,7
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:20,OKC,shot,,,,,,,,,,Jeff Green,2,,,made,,floating jump,19,11
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:02,OKC,foul,,,,,,,,Dirk Nowitzki,,Russell Westbrook,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:02,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,missed,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,1,9:02,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,9:02,OKC,sub,,,,Shaun Livingston,,Russell Westbrook,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,9:02,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,8:51,OKC,shot,Shaun Livingston,,,,,,,,,Kevin Durant,2,,,made,,jump,16,16
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,8:37,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,38,9
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,8:34,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,8:33,DAL,turnover,,,,,,,,,,Shawn Marion,,,bad pass,,Shaun Livingston,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,8:29,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,8:26,OKC,rebound,,,,,,,,,,Nenad Krstic,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,8:26,OKC,shot,,,,,,,,,,Nenad Krstic,,,,missed,,tip,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,8:22,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,8:20,OKC,shot,Kevin Durant,,,,,,,,,Jeff Green,3,,,made,,3pt,3,9
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,7:54,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,jump,46,11
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,7:54,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,7:38,OKC,shot,Thabo Sefolosha,,,,,,,,,Nenad Krstic,2,,,made,,jump,24,26
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,7:29,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,7:21,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,jump,41,17
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,7:20,OKC,rebound,,,,,,,,,,Shaun Livingston,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,7:01,OKC,shot,Kevin Durant,,,,,,,,,Thabo Sefolosha,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,6:41,OKC,foul,,,,,,,,Dirk Nowitzki,,Shaun Livingston,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,6:41,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,6:41,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,6:25,OKC,shot,Shaun Livingston,,,,,,,,,Nenad Krstic,2,,,made,,jump,30,24
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,6:08,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,6:07,OKC,rebound,,,,,,,,,,Thabo Sefolosha,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,6:04,OKC,turnover,,,,,,,,,,Thabo Sefolosha,,,lost ball,,Shawn Marion,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,5:50,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,jump,22,11
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,5:34,OKC,shot,Shaun Livingston,,,,,,,,,Kevin Durant,2,,,made,,jump,11,15
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,5:18,DAL,shot,Jason Kidd,,,,,,,,,Dirk Nowitzki,2,,,made,,finger roll layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,4:53,OKC,turnover,,,,,,,,,,Thabo Sefolosha,,,bad pass,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,1,4:38,OKC,foul,,,,,,,,Shawn Marion,,Shaun Livingston,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,Thabo Sefolosha,1,4:38,OKC,sub,,,,Nick Collison,,Nenad Krstic,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,4:38,OKC,sub,,,,James Harden,,Thabo Sefolosha,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jose Juan Barea,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,4:38,DAL,sub,,,,Drew Gooden,,Erick Dampier,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,4:38,DAL,sub,,,,Jason Terry,,Jose Juan Barea,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,4:38,DAL,free throw,,,,,,,1,,2,Shawn Marion,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,4:38,DAL,free throw,,,,,,,2,,2,Shawn Marion,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,4:21,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,jump,43,7
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,4:20,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,4:15,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,3pt,45,21
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,4:13,OKC,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,3:59,OKC,shot,,,Shawn Marion,,,,,,,Kevin Durant,,,,missed,,jump,40,14
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,3:57,DAL,rebound,,,,,,,,,,Jason Terry,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,3:39,DAL,turnover,,,,,,,,,,Shawn Marion,,,out of bounds lost ball turnover,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,3:39,DAL,sub,,,,Josh Howard,,Shawn Marion,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,3:34,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,3:24,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,3pt,45,21
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,3:23,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,3:18,OKC,shot,,,,,,,,,,James Harden,,,,missed,,3pt,26,30
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,3:16,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,3:03,DAL,shot,,,,,,,,,,Jason Terry,2,,,made,,driving finger roll layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,2:49,OKC,shot,,,,,,,,,,James Harden,,,,missed,,3pt,2,13
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,2:48,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,2:43,OKC,foul,,,,,,,,Drew Gooden,,Nick Collison,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,2:43,DAL,free throw,,,,,,,1,,2,Drew Gooden,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,2:43,DAL,free throw,,,,,,,2,,2,Drew Gooden,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,2:42,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,2:25,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,jump,27,25
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,2:24,OKC,rebound,,,,,,,,,,James Harden,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,2:21,DAL,foul,,,,,,,,Kevin Durant,,Dirk Nowitzki,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,2:21,OKC,free throw,,,,,,,1,,2,Kevin Durant,,,foul,made,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,1,2:21,DAL,sub,,,,Shawn Marion,,Dirk Nowitzki,,,,,,,,,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,2:21,OKC,sub,,,,Serge Ibaka,,Jeff Green,,,,,,,,,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,2:21,OKC,free throw,,,,,,,2,,2,Kevin Durant,,,foul,missed,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,2:20,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,2:06,DAL,shot,Jason Terry,,,,,,,,,Shawn Marion,2,,,made,,jump,35,9
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,1:47,OKC,turnover,,,,,,,,,,Nick Collison,,,traveling,,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,1:33,DAL,shot,,,Serge Ibaka,,,,,,,Shawn Marion,,,,missed,,driving layup,25,6
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,1:33,DAL,rebound,,,,,,,,,,,,,,,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,1:27,DAL,turnover,,,,,,,,,,Jason Kidd,,,bad pass,,Shaun Livingston,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,1:23,OKC,shot,,,,,,,,,,James Harden,2,,,made,,layup,25,6
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,1:23,DAL,foul,,,,,,,,James Harden,,Jason Kidd,,,,,,shooting,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,1:23,OKC,free throw,,,,,,,1,,1,James Harden,,,foul,missed,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,1:21,DAL,rebound,,,,,,,,,,Jason Terry,,,,,,def,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,0:58,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,driving layup,25,6
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,0:57,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,0:45,OKC,shot,,,,,,,,,,Shaun Livingston,,,,missed,,jump,40,13
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,0:44,DAL,rebound,,,,,,,,,,Josh Howard,,,,,,def,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,0:36,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,layup,25,6
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,0:27,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,3pt,12,26
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,0:26,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,off,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,0:26,OKC,shot,,,,,,,,,,Serge Ibaka,2,,,made,,putback dunk,25,6
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,1,0:03,DAL,shot,Jason Kidd,,,,,,,,,Jason Terry,3,,,made,,3pt,48,8
+Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,11:40,OKC,shot,,,,,,,,,,Nick Collison,,,,missed,,hook,27,8
+Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,11:39,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,11:19,DAL,shot,,,,,,,,,,Josh Howard,,,,missed,,jump,42,7
+Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,11:18,DAL,rebound,,,,,,,,,,Josh Howard,,,,,,off,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,11:15,DAL,shot,,,,,,,,,,Josh Howard,,,,missed,,jump,18,18
+Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,11:13,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,11:07,DAL,foul,,,,,,,,Kevin Durant,,Shawn Marion,,,,,,shooting,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,Shawn Marion,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,11:07,OKC,free throw,,,,,,,1,,2,Kevin Durant,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,11:07,DAL,sub,,,,Dirk Nowitzki,,Shawn Marion,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,11:07,OKC,free throw,,,,,,,2,,2,Kevin Durant,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,10:52,DAL,shot,,,,,,,,,,Drew Gooden,,,,missed,,jump,13,9
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,10:52,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,10:34,OKC,turnover,,,,,,,,,,Kevin Durant,,,lost ball,,Jason Terry,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,10:30,DAL,shot,,,Serge Ibaka,,,,,,,Jason Terry,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,10:27,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,2,10:22,DAL,foul,,,,,,,,James Harden,,Drew Gooden,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,10:22,OKC,sub,,,,Russell Westbrook,,Kevin Durant,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,10:22,OKC,free throw,,,,,,,1,,2,James Harden,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,10:22,OKC,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,10:22,OKC,free throw,,,,,,,2,,2,James Harden,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,10:04,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,37,10
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,10:03,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,9:54,OKC,shot,Russell Westbrook,,,,,,,,,Serge Ibaka,2,,,made,,jump,18,10
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,9:44,DAL,shot,,,,,,,,,,Jose Juan Barea,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,9:33,OKC,shot,Russell Westbrook,,,,,,,,,Nick Collison,2,,,made,,dunk,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,9:07,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,9:05,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,9:05,DAL,shot,,,,,,,,,,Drew Gooden,2,,,made,,tip,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,8:48,OKC,turnover,,,,,,,,,,Serge Ibaka,,,out of bounds lost ball turnover,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Nick Collison,Russell Westbrook,Serge Ibaka,Shaun Livingston,2,8:48,DAL,timeout,,,,,,,,,,,,,,,,official,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,8:48,OKC,sub,,,,Jeff Green,,Shaun Livingston,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,8:28,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,3pt,47,15
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,8:27,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,8:09,OKC,shot,,,,,,,,,,Russell Westbrook,2,,,made,,jump,13,18
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:45,DAL,turnover,,,,,,,,,,Josh Howard,,,lost ball,,James Harden,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:41,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:39,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:33,DAL,shot,Jose Juan Barea,,,,,,,,,Josh Howard,2,,,made,,jump,42,11
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:19,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,jump,37,21
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:17,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:15,DAL,turnover,,,,,,,,,,Dirk Nowitzki,,,bad pass,,Nick Collison,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:12,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:11,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:11,OKC,shot,,,,,,,,,,Nick Collison,,,,missed,,tip,28,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:10,OKC,rebound,,,,,,,,,,Russell Westbrook,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,7:09,OKC,shot,,,,,,,,,,Russell Westbrook,2,,,made,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,6:47,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,fade away jumper,26,20
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Serge Ibaka,2,6:37,DAL,foul,,,,,,,,Jeff Green,,Josh Howard,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,2,6:37,OKC,sub,,,,Kevin Durant,,Nick Collison,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,2,6:25,OKC,shot,Russell Westbrook,,,,,,,,,Jeff Green,2,,,made,,hook,24,12
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,2,6:08,DAL,shot,Jason Terry,,,,,,,,,Drew Gooden,2,,,made,,dunk,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,2,5:56,OKC,shot,,,,,,,,,,James Harden,,,,missed,,3pt,43,22
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,2,5:55,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,2,5:48,OKC,foul,,,,,,,,Jose Juan Barea,,James Harden,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Russell Westbrook,Serge Ibaka,2,5:48,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,5:48,OKC,sub,,,,Nenad Krstic,,Serge Ibaka,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,5:37,OKC,foul,,,,,,,,Drew Gooden,,Nenad Krstic,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,5:37,DAL,free throw,,,,,,,1,,2,Drew Gooden,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,5:37,DAL,sub,,,,Jason Kidd,,Jose Juan Barea,,,,,,,,,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,5:37,DAL,sub,,,,Shawn Marion,,Dirk Nowitzki,,,,,,,,,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,5:37,DAL,free throw,,,,,,,2,,2,Drew Gooden,,,foul,missed,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,5:36,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,5:21,OKC,shot,,,,,,,,,,Jeff Green,2,,,made,,hook bank,17,8
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,5:01,DAL,shot,,,,,,,,,,Shawn Marion,2,,,made,,fade away jumper,30,12
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,4:44,DAL,foul,,,,,,,,James Harden,,Drew Gooden,,,,,,shooting,,
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,4:44,DAL,sub,,,,Erick Dampier,,Drew Gooden,,,,,,,,,,,,
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,4:44,OKC,free throw,,,,,,,1,,2,James Harden,,,foul,made,,,,
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,4:44,OKC,free throw,,,,,,,2,,2,James Harden,,,foul,made,,,,
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,4:24,DAL,shot,,,,,,,,,,Josh Howard,,,,missed,,jump,42,21
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,4:23,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,2,4:04,OKC,turnover,,,,,,,,,,Kevin Durant,,,bad pass,,,,,
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,4:04,OKC,sub,,,,Thabo Sefolosha,,James Harden,,,,,,,,,,,,
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,3:48,DAL,shot,,,,,,,,,,Josh Howard,,,,missed,,jump,22,22
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,3:45,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,off,,
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,3:44,DAL,shot,,,,,,,,,,Erick Dampier,,,,missed,,layup,25,6
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,3:43,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,off,,
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,3:42,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,layup,25,6
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,3:41,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,3:23,OKC,shot,Russell Westbrook,,,,,,,,,Nenad Krstic,2,,,made,,jump,11,18
+Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,3:14,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,3:14,DAL,sub,,,,Dirk Nowitzki,,Josh Howard,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:56,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,jump,28,14
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:55,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:53,OKC,jump ball,,Dirk Nowitzki,,,Kevin Durant,,,,,,,Thabo Sefolosha,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:35,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,jump,33,22
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:34,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:20,DAL,shot,,,,,,,,,,Erick Dampier,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:18,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:18,DAL,shot,,,,,,,,,,Erick Dampier,2,,,made,,tip,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:06,OKC,shot,,,,,,,,,,Nenad Krstic,,,,missed,,jump,40,13
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,2:05,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:54,DAL,shot,Jason Kidd,,,,,,,,,Erick Dampier,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:36,DAL,foul,,,,,,,,Russell Westbrook,,Jason Kidd,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:36,OKC,free throw,,,,,,,1,,2,Russell Westbrook,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:36,OKC,free throw,,,,,,,2,,2,Russell Westbrook,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:21,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,jump,15,23
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,2,1:20,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,1:20,OKC,sub,,,,Shaun Livingston,,Russell Westbrook,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,1:07,DAL,turnover,,,,,,,,,,Dirk Nowitzki,,,lost ball,,Thabo Sefolosha,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,0:45,OKC,shot,Jeff Green,,,,,,,,,Thabo Sefolosha,3,,,made,,3pt,47,7
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,0:39,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,3pt,41,24
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,0:38,OKC,rebound,,,,,,,,,,Kevin Durant,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,0:34,OKC,turnover,,,,,,,,,,Kevin Durant,,,discontinue dribble,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,0:34,DAL,timeout,,,,,,,,,,,,,,,,short,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,0:22,DAL,shot,Jason Kidd,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,8,12
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,0:02,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,3pt,25,31
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,0:01,OKC,rebound,,,,,,,,,,Shaun Livingston,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,0:00,OKC,shot,,,Erick Dampier,,,,,,,Shaun Livingston,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Shaun Livingston,Thabo Sefolosha,2,0:00,OKC,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,11:37,OKC,turnover,,,,,,,,,,Kevin Durant,,,lost ball,,Shawn Marion,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,11:14,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,39,13
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,11:13,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:57,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,jump,9,9
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:56,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:45,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,jump,42,13
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:44,OKC,rebound,,,,,,,,,,Russell Westbrook,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:34,OKC,turnover,,,,,,,,,,Thabo Sefolosha,,,traveling,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:19,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,fade away jumper,27,19
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,10:01,OKC,shot,Russell Westbrook,,,,,,,,,Nenad Krstic,2,,,made,,hook,23,11
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:51,OKC,foul,,,,,,,,Dirk Nowitzki,,Jeff Green,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:39,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,jump,22,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:38,OKC,rebound,,,,,,,,,,Russell Westbrook,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:28,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,3pt,48,8
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:27,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:06,OKC,foul,,,,,,,,Erick Dampier,,Nenad Krstic,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:06,DAL,free throw,,,,,,,1,,2,Erick Dampier,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,9:06,DAL,free throw,,,,,,,2,,2,Erick Dampier,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,8:42,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,jump,24,13
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,8:41,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,8:28,DAL,shot,Shawn Marion,,,,,,,,,Jason Kidd,3,,,made,,3pt,42,24
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,8:27,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,8:17,OKC,shot,,,,,,,,,,Jeff Green,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,8:00,DAL,shot,,,,,,,,,,Jose Juan Barea,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,7:42,OKC,shot,,,,,,,,,,Jeff Green,2,,,made,,jump,10,16
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,7:21,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:59,OKC,shot,,,,,,,,,,Thabo Sefolosha,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:59,DAL,foul,,,,,,,,Thabo Sefolosha,,Erick Dampier,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:59,OKC,free throw,,,,,,,1,,1,Thabo Sefolosha,,,foul,missed,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:58,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:39,DAL,turnover,,,,,,,,,,Jose Juan Barea,,,bad pass,,Russell Westbrook,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:33,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,floating jump,26,11
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:32,OKC,rebound,,,,,,,,,,Russell Westbrook,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:25,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,36,18
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:24,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:19,OKC,foul,,,,,,,,Erick Dampier,,Thabo Sefolosha,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:19,DAL,free throw,,,,,,,1,,2,Erick Dampier,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:19,DAL,free throw,,,,,,,2,,2,Erick Dampier,,,foul,missed,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:18,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:09,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,reverse layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,6:08,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,Thabo Sefolosha,3,5:53,OKC,foul,,,,,,,,Erick Dampier,,Nenad Krstic,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,3,5:53,OKC,sub,,,,Nick Collison,,Nenad Krstic,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,3,5:45,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,fade away jumper,25,19
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,3,5:23,OKC,shot,Jeff Green,,,,,,,,,Nick Collison,2,,,made,,jump bank,37,11
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,3,4:57,DAL,shot,Dirk Nowitzki,,,,,,,,,Jason Kidd,3,,,made,,3pt,13,28
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,3,4:30,OKC,shot,,,,,,,,,,Thabo Sefolosha,,,,missed,,3pt,47,8
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,3,4:28,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,3,4:26,OKC,shot,,,,,,,,,,Nick Collison,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,Thabo Sefolosha,3,4:23,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Shawn Marion,James Harden,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,3,4:23,OKC,sub,,,,James Harden,,Thabo Sefolosha,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,3,4:23,DAL,sub,,,,Josh Howard,,Shawn Marion,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,3,4:23,DAL,sub,,,,Jason Terry,,Jose Juan Barea,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,3,4:04,DAL,shot,,,,,,,,,,Josh Howard,2,,,made,,fade away jumper,12,7
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,3,3:44,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,34,21
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,3,3:43,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,3,3:30,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,fade away jumper,37,8
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,3,3:13,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,32,15
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,3,3:12,DAL,rebound,,,,,,,,,,Jason Terry,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,3,3:07,DAL,shot,Jason Terry,,,,,,,,,Josh Howard,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Russell Westbrook,3,3:00,OKC,timeout,,,,,,,,,,,,,,,,short,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,3:00,OKC,sub,,,,Shaun Livingston,,Kevin Durant,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:53,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,jump bank,31,12
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:52,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:46,DAL,foul,,,,,,,,Shaun Livingston,,Josh Howard,,,,,,offensive,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:46,DAL,turnover,,,,,,,,,,Josh Howard,,,foul,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:37,DAL,foul,,,,,,,,James Harden,,Erick Dampier,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:37,OKC,free throw,,,,,,,1,,2,James Harden,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:37,DAL,sub,,,,Drew Gooden,,Erick Dampier,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:37,OKC,free throw,,,,,,,2,,2,James Harden,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:19,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,jump,25,13
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:18,OKC,rebound,,,,,,,,,,James Harden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:09,OKC,turnover,,,,,,,,,,James Harden,,,bad pass,,Dirk Nowitzki,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,2:01,DAL,shot,Jason Kidd,,,,,,,,,Dirk Nowitzki,3,,,made,,3pt,22,31
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,1:45,OKC,shot,,,,,,,,,,Nick Collison,,,,missed,,jump,10,15
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,1:42,OKC,rebound,,,,,,,,,,Russell Westbrook,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,1:35,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,fade away jumper,32,7
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,1:34,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,1:33,DAL,foul,,,,,,,,Nick Collison,,Dirk Nowitzki,,,,,,shooting,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,1:33,DAL,sub,,,,Shawn Marion,,Dirk Nowitzki,,,,,,,,,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,1:33,OKC,free throw,,,,,,,1,,2,Nick Collison,,,foul,made,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,1:33,OKC,free throw,,,,,,,2,,2,Nick Collison,,,foul,missed,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,1:32,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,1:19,DAL,turnover,,,,,,,,,,Josh Howard,,,traveling,,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,1:03,OKC,shot,,,,,,,,,,Jeff Green,2,,,made,,running hook,38,20
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,0:48,DAL,shot,,,,,,,,,,Josh Howard,,,,missed,,jump,37,19
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,0:46,OKC,rebound,,,,,,,,,,James Harden,,,,,,def,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,0:39,OKC,shot,,,,,,,,,,James Harden,2,,,made,,jump,34,22
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,0:22,DAL,shot,Jason Terry,,,,,,,,,Shawn Marion,2,,,made,,driving layup,25,6
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,0:05,DAL,foul,,,,,,,,Russell Westbrook,,Jason Kidd,,,,,,shooting,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,0:05,OKC,free throw,,,,,,,1,,2,Russell Westbrook,,,foul,made,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,0:05,OKC,free throw,,,,,,,2,,2,Russell Westbrook,,,foul,missed,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,0:04,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,0:01,DAL,shot,,,,,,,,,,Josh Howard,,,,missed,,3pt,47,16
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,3,0:00,DAL,rebound,,,,,,,,,,,,,,,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,11:39,OKC,foul,,,,,,,,Jason Kidd,,Nick Collison,,,,,,personal,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,11:33,OKC,foul,,,,,,,,Jason Terry,,Shaun Livingston,,,,,,personal,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,11:26,DAL,shot,,,,,,,,,,Josh Howard,,,,missed,,jump,39,11
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,11:25,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,11:09,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,layup,25,6
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,11:07,DAL,rebound,,,,,,,,,,,,,,,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,10:52,DAL,shot,,,Nick Collison,,,,,,,Drew Gooden,,,,missed,,layup,25,6
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,10:51,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,def,,
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,10:46,OKC,shot,,,,,,,,,,Russell Westbrook,2,,,made,,driving finger roll layup,25,6
+Drew Gooden,Jason Kidd,Jason Terry,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,10:21,DAL,turnover,,,,,,,,,,Jason Terry,,,double dribble,,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,Shawn Marion,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,10:21,DAL,sub,,,,Jose Juan Barea,,Jason Kidd,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Nick Collison,Russell Westbrook,Shaun Livingston,4,10:21,DAL,sub,,,,Dirk Nowitzki,,Shawn Marion,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,4,10:21,OKC,sub,,,,Kevin Durant,,Russell Westbrook,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nick Collison,Shaun Livingston,4,10:11,DAL,foul,,,,,,,,James Harden,,Drew Gooden,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,10:11,OKC,sub,,,,Serge Ibaka,,Jeff Green,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,10:11,OKC,free throw,,,,,,,1,,2,James Harden,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,10:11,OKC,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,10:11,OKC,free throw,,,,,,,2,,2,James Harden,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,9:47,DAL,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,9:35,OKC,shot,,,,,,,,,,James Harden,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,9:34,OKC,rebound,,,,,,,,,,Shaun Livingston,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,9:28,OKC,shot,,,,,,,,,,Shaun Livingston,,,,missed,,3pt,48,11
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,9:27,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,9:13,DAL,turnover,,,,,,,,,,Dirk Nowitzki,,,traveling,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:55,OKC,shot,James Harden,,,,,,,,,Kevin Durant,2,,,made,,jump,40,17
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:38,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,jump,40,20
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:37,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:25,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,34,23
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:23,OKC,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:23,OKC,timeout,,,,,,,,,,,,,,,,official,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:21,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,38,8
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:19,OKC,rebound,,,,,,,,,,Serge Ibaka,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:18,OKC,shot,,,,,,,,,,Serge Ibaka,2,,,made,,dunk,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:18,DAL,foul,,,,,,,,Serge Ibaka,,Drew Gooden,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:18,DAL,sub,,,,Erick Dampier,,Drew Gooden,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:18,OKC,free throw,,,,,,,1,,1,Serge Ibaka,,,foul,missed,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,8:17,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,7:55,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,jump bank,37,11
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,7:41,OKC,turnover,,,,,,,,,,James Harden,,,lost ball,,Jason Terry,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,7:33,OKC,foul,,,,,,,,Josh Howard,,Nick Collison,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,7:33,DAL,free throw,,,,,,,1,,2,Josh Howard,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,7:33,DAL,free throw,,,,,,,2,,2,Josh Howard,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,7:18,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,jump,24,12
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,7:17,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,7:04,DAL,shot,,,,,,,,,,Jose Juan Barea,2,,,made,,jump,27,25
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Serge Ibaka,Shaun Livingston,4,6:52,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,6:52,OKC,sub,,,,Russell Westbrook,,Shaun Livingston,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,6:44,DAL,foul,,,,,,,,Nick Collison,,Erick Dampier,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,6:44,OKC,free throw,,,,,,,1,,2,Nick Collison,,,foul,missed,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,6:44,OKC,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,6:44,OKC,free throw,,,,,,,2,,2,Nick Collison,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,6:30,DAL,shot,Jose Juan Barea,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,11,16
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,6:15,OKC,shot,,,,,,,,,,Kevin Durant,,,,missed,,3pt,7,22
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,6:14,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,5:56,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,3pt,41,24
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,5:55,OKC,rebound,,,,,,,,,,Nick Collison,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,5:42,OKC,shot,,,,,,,,,,Serge Ibaka,,,,missed,,jump,30,22
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,5:41,DAL,rebound,,,,,,,,,,Josh Howard,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,5:30,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,fade away jumper,11,12
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,5:08,OKC,shot,,,,,,,,,,James Harden,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nick Collison,Russell Westbrook,Serge Ibaka,4,4:59,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Kevin Durant,Nenad Krstic,Russell Westbrook,Serge Ibaka,4,4:59,OKC,sub,,,,Nenad Krstic,,Nick Collison,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:59,OKC,sub,,,,Jeff Green,,Serge Ibaka,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:59,DAL,sub,,,,Jason Kidd,,Jose Juan Barea,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:44,DAL,shot,,,Russell Westbrook,,,,,,,Jason Terry,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:43,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:43,OKC,foul,,,,,,,,Erick Dampier,,James Harden,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:43,DAL,free throw,,,,,,,1,,2,Erick Dampier,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:43,DAL,free throw,,,,,,,2,,2,Erick Dampier,,,foul,missed,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:43,OKC,rebound,,,,,,,,,,Jeff Green,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:26,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,jump,32,22
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:25,OKC,rebound,,,,,,,,,,James Harden,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:25,DAL,foul,,,,,,,,James Harden,,Jason Terry,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:14,OKC,turnover,,,,,,,,,,James Harden,,,lost ball,,Dirk Nowitzki,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,4:05,DAL,shot,Jason Kidd,,,,,,,,,Josh Howard,3,,,made,,3pt,12,27
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,3:45,OKC,shot,,,Erick Dampier,,,,,,,Kevin Durant,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,3:42,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,3:27,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,12,18
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,3:26,OKC,rebound,,,,,,,,,,James Harden,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,3:06,OKC,shot,,,,,,,,,,Russell Westbrook,2,,,made,,floating jump,25,13
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,2:42,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,fade away jumper,36,16
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,2:41,OKC,rebound,,,,,,,,,,Russell Westbrook,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,2:35,OKC,shot,,,Dirk Nowitzki,,,,,,,James Harden,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,2:34,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,2:18,DAL,shot,Dirk Nowitzki,,,,,,,,,Erick Dampier,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,2:17,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,2:04,OKC,turnover,,,,,,,,,,Jeff Green,,,bad pass,,Josh Howard,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,1:44,DAL,shot,Jason Terry,,,,,,,,,Dirk Nowitzki,3,,,made,,3pt,25,31
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,1:36,OKC,shot,,,Jason Kidd,,,,,,,Russell Westbrook,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,1:34,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,1:20,DAL,shot,Jason Kidd,,,,,,,,,Josh Howard,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,1:07,OKC,shot,Nenad Krstic,,,,,,,,,Russell Westbrook,3,,,made,,3pt,42,23
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,1:03,OKC,foul,,,,,,,,Josh Howard,,Kevin Durant,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,1:03,DAL,free throw,,,,,,,1,,2,Josh Howard,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,1:03,DAL,free throw,,,,,,,2,,2,Josh Howard,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,1:03,OKC,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:59,OKC,shot,Jeff Green,,,,,,,,,Kevin Durant,3,,,made,,3pt,39,28
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:53,OKC,foul,,,,,,,,Dirk Nowitzki,,Russell Westbrook,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:53,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:53,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:45,OKC,shot,,,,,,,,,,Jeff Green,,,,missed,,3pt,42,26
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:44,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:43,OKC,foul,,,,,,,,Jason Terry,,Jeff Green,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:43,DAL,free throw,,,,,,,1,,2,Jason Terry,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:43,DAL,free throw,,,,,,,2,,2,Jason Terry,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:36,OKC,shot,,,,,,,,,,James Harden,,,,missed,,3pt,8,24
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:35,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:34,OKC,foul,,,,,,,,Dirk Nowitzki,,Russell Westbrook,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:34,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:34,DAL,sub,,,,Jose Juan Barea,,Jason Kidd,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:34,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:30,OKC,shot,,,,,,,,,,Russell Westbrook,,,,missed,,3pt,9,25
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:29,DAL,rebound,,,,,,,,,,,,,,,,,,
+Drew Gooden,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:29,DAL,sub,,,,Drew Gooden,,Dirk Nowitzki,,,,,,,,,,,,
+Drew Gooden,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:03,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,jump,12,18
+Drew Gooden,Erick Dampier,Jason Terry,Jose Juan Barea,Josh Howard,James Harden,Jeff Green,Kevin Durant,Nenad Krstic,Russell Westbrook,4,0:02,OKC,rebound,,,,,,,,,,James Harden,,,,,,def,,

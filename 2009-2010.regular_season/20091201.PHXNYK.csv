@@ -1,0 +1,457 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,12:00,OFF,jump ball,,Amare Stoudemire,,,Wilson Chandler,,,,,,,Steve Nash,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,11:49,NYK,foul,,,,,,,,Jason Richardson,,Chris Duhon,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,11:49,PHX,free throw,,,,,,,1,,2,Jason Richardson,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,11:49,PHX,free throw,,,,,,,2,,2,Jason Richardson,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,11:39,PHX,foul,,,,,,,,Wilson Chandler,,Channing Frye,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,11:39,NYK,free throw,,,,,,,1,,2,Wilson Chandler,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,11:39,NYK,free throw,,,,,,,2,,2,Wilson Chandler,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,11:27,PHX,shot,Amare Stoudemire,,,,,,,,,Jason Richardson,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,11:06,PHX,foul,,,,,,,,David Lee,,Jason Richardson,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,11:06,NYK,free throw,,,,,,,1,,2,David Lee,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,11:06,NYK,free throw,,,,,,,2,,2,David Lee,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,10:52,PHX,turnover,,,,,,,,,,Jason Richardson,,,bad pass,,David Lee,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,10:47,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,10:45,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,10:38,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,Wilson Chandler,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,10:25,NYK,shot,,,Amare Stoudemire,,,,,,,David Lee,,,,missed,,jump,24,12
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,10:25,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,10:10,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,lost ball,,David Lee,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,9:55,NYK,shot,,,,,,,,,,Chris Duhon,,,,missed,,3pt,36,28
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,9:54,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,9:46,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,jump,37,20
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,9:35,NYK,shot,Larry Hughes,,,,,,,,,Danilo Gallinari,2,,,made,,dunk,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,9:24,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,9:14,PHX,shot,Steve Nash,,,,,,,,,Channing Frye,2,,,made,,reverse slam dunk,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,9:01,NYK,turnover,,,,,,,,,,Wilson Chandler,,,traveling,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,8:53,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,jump,34,18
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,8:53,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,8:41,NYK,shot,,,,,,,,,,David Lee,,,,missed,,jump,13,16
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,8:41,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,8:31,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,8,26
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,8:30,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,8:19,NYK,shot,Larry Hughes,,,,,,,,,Danilo Gallinari,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,8:13,NYK,foul,,,,,,,,Steve Nash,,Larry Hughes,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,8:01,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,38,19
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,8:01,NYK,rebound,,,,,,,,,,Larry Hughes,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:56,NYK,shot,Larry Hughes,,,,,,,,,Danilo Gallinari,3,,,made,,3pt,9,26
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:35,PHX,shot,Steve Nash,,,,,,,,,Channing Frye,3,,,made,,3pt,1,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:26,NYK,shot,Larry Hughes,,,,,,,,,David Lee,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:26,PHX,foul,,,,,,,,David Lee,,Grant Hill,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:26,NYK,free throw,,,,,,,1,,1,David Lee,,,foul,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:25,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:17,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,David Lee,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:13,PHX,foul,,,,,,,,Wilson Chandler,,Amare Stoudemire,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:13,PHX,foul,,,,,,,,Wilson Chandler,,Amare Stoudemire,,,,,,technical,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:13,NYK,free throw,,,,,,,1,,1,Chris Duhon,,,technical,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:13,NYK,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:13,NYK,free throw,,,,,,,1,,2,Wilson Chandler,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,7:13,NYK,free throw,,,,,,,2,,2,Wilson Chandler,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,6:59,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,jump,25,9
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,6:46,NYK,shot,Larry Hughes,,,,,,,,,Wilson Chandler,3,,,made,,3pt,10,26
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,6:29,PHX,turnover,,,,,,,,,,Steve Nash,,,lost ball,,Larry Hughes,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,6:19,NYK,shot,Larry Hughes,,,,,,,,,Danilo Gallinari,3,,,made,,3pt,35,29
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,5:58,PHX,shot,Steve Nash,,,,,,,,,Amare Stoudemire,2,,,made,,jump,31,9
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,5:45,NYK,shot,Larry Hughes,,,,,,,,,Wilson Chandler,2,,,made,,alley oop layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,5:36,PHX,shot,Steve Nash,,,,,,,,,Jason Richardson,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,5:09,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,5:07,NYK,rebound,,,,,,,,,,David Lee,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,5:07,NYK,shot,,,,,,,,,,David Lee,2,,,made,,tip,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,4:54,NYK,foul,,,,,,,,Amare Stoudemire,,Wilson Chandler,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,4:54,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,4:54,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,4:38,NYK,shot,Larry Hughes,,,,,,,,,David Lee,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,4:29,NYK,foul,,,,,,,,Jason Richardson,,Danilo Gallinari,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,4:29,PHX,free throw,,,,,,,1,,2,Jason Richardson,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,4:29,PHX,free throw,,,,,,,2,,2,Jason Richardson,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,4:09,NYK,turnover,,,,,,,,,,Chris Duhon,,,traveling,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,3:44,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,pullup jump,15,18
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,3:32,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,jump,16,20
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,3:31,NYK,rebound,,,,,,,,,,David Lee,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,3:19,NYK,shot,Chris Duhon,,,,,,,,,Wilson Chandler,3,,,made,,3pt,47,8
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,3:02,PHX,shot,,,,,,,,,,Steve Nash,3,,,made,,3pt,18,30
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,1,2:56,NYK,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:56,NYK,sub,,,,Jared Jeffries,,Danilo Gallinari,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:56,NYK,sub,,,,Al Harrington,,Chris Duhon,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:56,PHX,sub,,,,Jared Dudley,,Channing Frye,,,,,,,,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:40,NYK,shot,,,,,,,,,,Al Harrington,2,,,made,,turnaround jump,35,6
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:25,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,8,25
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:25,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:16,PHX,foul,,,,,,,,,,Grant Hill,,,,,,defense 3 second,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:16,NYK,free throw,,,,,,,1,,1,Al Harrington,,,technical,made,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:07,NYK,shot,Jared Jeffries,,,,,,,,,Larry Hughes,2,,,made,,jump,45,8
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:01,NYK,foul,,,,,,,,Steve Nash,,Jared Jeffries,,,,,,personal,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:01,PHX,free throw,,,,,,,1,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,2:01,PHX,free throw,,,,,,,2,,2,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,1:45,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,3pt,23,30
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,1:45,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,1:41,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,bad pass,,,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,1:24,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,3pt,41,24
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,1:24,NYK,rebound,,,,,,,,,,Jared Jeffries,,,,,,off,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,1:21,NYK,shot,Jared Jeffries,,,,,,,,,Al Harrington,2,,,made,,slam dunk,25,6
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,0:54,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,jump,22,9
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,0:52,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,0:39,NYK,shot,,,,,,,,,,David Lee,2,,,made,,driving layup,25,6
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,0:28,PHX,turnover,,,,,,,,,,Steve Nash,,,bad pass,,Al Harrington,,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,0:25,NYK,foul,,,,,,,,Jason Richardson,,Wilson Chandler,,,,,,offensive,,
+Amare Stoudemire,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,0:25,NYK,turnover,,,,,,,,,,Wilson Chandler,,,foul,,,,,
+Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Jason Richardson,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,1,0:25,PHX,sub,,,,Goran Dragic,,Steve Nash,,,,,,,,,,,,
+Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Jason Richardson,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Nate Robinson,1,0:25,NYK,sub,,,,Nate Robinson,,Wilson Chandler,,,,,,,,,,,,
+Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Jason Richardson,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Nate Robinson,1,0:05,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,3pt,27,30
+Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Jason Richardson,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Nate Robinson,1,0:03,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Jason Richardson,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Nate Robinson,1,0:00,NYK,shot,,,,,,,,,,Nate Robinson,,,,missed,,3pt,36,31
+Amare Stoudemire,Goran Dragic,Grant Hill,Jared Dudley,Jason Richardson,Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Nate Robinson,1,0:00,NYK,rebound,,,,,,,,,,,,,,,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,11:51,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,jump,14,21
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,11:50,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,11:37,PHX,shot,,,Jared Jeffries,,,,,,,Jason Richardson,,,,missed,,jump,20,11
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,11:35,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,11:29,NYK,shot,Larry Hughes,,,,,,,,,Jared Jeffries,2,,,made,,slam dunk,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,11:11,PHX,turnover,,,,,,,,,,Goran Dragic,,,traveling,,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,10:55,NYK,shot,,,,,,,,,,Nate Robinson,,,,missed,,3pt,49,5
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,10:54,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,10:41,PHX,shot,,,,,,,,,,Jared Dudley,,,,missed,,3pt,2,4
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,10:41,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,10:35,NYK,turnover,,,,,,,,,,Larry Hughes,,,bad pass,,Goran Dragic,,,
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,10:30,PHX,shot,Louis Amundson,,,,,,,,,Jared Dudley,2,,,made,,layup,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,10:19,NYK,shot,Nate Robinson,,,,,,,,,Al Harrington,3,,,made,,3pt,47,6
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,10:05,PHX,shot,Jason Richardson,,,,,,,,,Louis Amundson,2,,,made,,jump,25,12
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:50,NYK,shot,Danilo Gallinari,,,,,,,,,Al Harrington,2,,,made,,slam dunk,25,6
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:39,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,3pt,4,21
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:39,NYK,rebound,,,,,,,,,,Larry Hughes,,,,,,def,,
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:33,NYK,shot,Larry Hughes,,,,,,,,,Danilo Gallinari,2,,,made,,jump bank,36,9
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:26,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:26,PHX,sub,,,,Grant Hill,,Jason Richardson,,,,,,,,,,,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:15,NYK,foul,,,,,,,,Louis Amundson,,Al Harrington,,,,,,shooting,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:15,PHX,free throw,,,,,,,1,,2,Louis Amundson,,,foul,missed,,,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:15,PHX,rebound,,,,,,,,,,,,,,,,,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:15,PHX,free throw,,,,,,,2,,2,Louis Amundson,,,foul,made,,,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:01,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,jump,38,14
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,9:01,PHX,rebound,,,,,,,,,,Goran Dragic,,,,,,def,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,8:53,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,jump,39,7
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,8:53,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,8:43,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,jump,6,9
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,8:43,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,def,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,8:35,PHX,shot,Goran Dragic,,,,,,,,,Jared Dudley,3,,,made,,3pt,7,24
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,8:16,NYK,shot,Al Harrington,,,,,,,,,Danilo Gallinari,3,,,made,,3pt,6,24
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,7:59,PHX,shot,,,,,,,,,,Grant Hill,,,,missed,,layup,25,6
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,7:58,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,off,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,7:57,NYK,foul,,,,,,,,Jared Dudley,,Jared Jeffries,,,,,,shooting,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Nate Robinson,2,7:57,PHX,free throw,,,,,,,1,,2,Jared Dudley,,,foul,made,,,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Nate Robinson,2,7:57,NYK,sub,,,,David Lee,,Jared Jeffries,,,,,,,,,,,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:57,NYK,sub,,,,Chris Duhon,,Larry Hughes,,,,,,,,,,,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:57,PHX,free throw,,,,,,,2,,2,Jared Dudley,,,foul,made,,,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:36,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,jump,43,13
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:36,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:33,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,driving layup,25,6
+Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Louis Amundson,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:33,NYK,foul,,,,,,,,Goran Dragic,,Nate Robinson,,,,,,away from play,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:33,PHX,sub,,,,Amare Stoudemire,,Louis Amundson,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:33,PHX,free throw,,,,,,,1,,1,Goran Dragic,,,foul,missed,,,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:31,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,off,,
+Amare Stoudemire,Channing Frye,Goran Dragic,Grant Hill,Jared Dudley,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:31,NYK,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:31,PHX,sub,,,,Steve Nash,,Goran Dragic,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:24,PHX,shot,,,,,,,,,,Grant Hill,2,,,made,,dunk,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:14,NYK,foul,,,,,,,,Grant Hill,,Al Harrington,,,,,,offensive,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Nate Robinson,2,7:14,NYK,turnover,,,,,,,,,,Al Harrington,,,foul,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,7:14,NYK,sub,,,,Wilson Chandler,,Nate Robinson,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,7:05,PHX,shot,Steve Nash,,,,,,,,,Grant Hill,2,,,made,,pullup jump,21,15
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:48,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,3pt,48,9
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:47,NYK,rebound,,,,,,,,,,David Lee,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:38,NYK,shot,,,,,,,,,,Chris Duhon,,,,missed,,3pt,27,31
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:38,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:36,PHX,foul,,,,,,,,Al Harrington,,Jared Dudley,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:36,NYK,free throw,,,,,,,1,,2,Al Harrington,,,foul,missed,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jared Dudley,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:36,NYK,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:36,PHX,sub,,,,Jason Richardson,,Jared Dudley,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:36,NYK,free throw,,,,,,,2,,2,Al Harrington,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:19,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,41,11
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:19,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:14,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,jump,10,15
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:13,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:04,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,3pt,9,26
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,6:04,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,5:49,PHX,foul,,,,,,,,Al Harrington,,Grant Hill,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,5:33,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,jump,8,22
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,5:33,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,2,5:33,NYK,foul,,,,,,,,Jason Richardson,,Wilson Chandler,,,,,,loose ball,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,2,5:33,NYK,sub,,,,Jared Jeffries,,Wilson Chandler,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,2,5:19,NYK,foul,,,,,,,,Amare Stoudemire,,David Lee,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,2,5:19,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,2,5:19,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,2,5:03,NYK,shot,Chris Duhon,,,,,,,,,David Lee,2,,,made,,jump,9,9
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,2,4:45,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,traveling,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,2,4:37,PHX,foul,,,,,,,,Al Harrington,,Jason Richardson,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,4:37,NYK,sub,,,,Larry Hughes,,Chris Duhon,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,4:30,NYK,shot,,,,,,,,,,Al Harrington,2,,,made,,driving layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,4:18,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,32,19
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,4:18,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,4:07,NYK,shot,,,,,,,,,,Jared Jeffries,,,,missed,,jump,6,19
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,4:06,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,4:04,NYK,shot,,,,,,,,,,Danilo Gallinari,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,3:47,PHX,shot,Steve Nash,,,,,,,,,Jason Richardson,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,3:37,NYK,turnover,,,,,,,,,,David Lee,,,lost ball,,Grant Hill,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,3:32,PHX,shot,Grant Hill,,,,,,,,,Jason Richardson,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,3:11,PHX,foul,,,,,,,,David Lee,,Amare Stoudemire,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,3:11,NYK,free throw,,,,,,,1,,2,David Lee,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,3:11,NYK,free throw,,,,,,,2,,2,David Lee,,,foul,made,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,2:52,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,jump,41,15
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,2:51,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,2:39,NYK,shot,,,,,,,,,,Al Harrington,2,,,made,,driving layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,2:37,NYK,violation,,,,,,,,,,,,,,,,delay of game,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,2:22,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,3pt,6,24
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,2:20,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,2:19,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,tip,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,2:18,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,2:09,NYK,shot,,,,,,,,,,David Lee,,,,missed,,jump,9,9
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,2:09,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,1:52,NYK,foul,,,,,,,,Grant Hill,,Larry Hughes,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,1:52,PHX,timeout,,,,,,,,,,,,,,,,official,,
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,1:52,PHX,sub,,,,Jared Dudley,,Amare Stoudemire,,,,,,,,,,,,
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,1:52,PHX,free throw,,,,,,,1,,2,Grant Hill,,,foul,made,,,,
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,1:52,PHX,free throw,,,,,,,2,,2,Grant Hill,,,foul,made,,,,
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,1:34,NYK,shot,David Lee,,,,,,,,,Danilo Gallinari,3,,,made,,3pt,42,25
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,1:16,PHX,shot,,,Jared Jeffries,,,,,,,Jared Dudley,,,,missed,,layup,25,6
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,1:14,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,1:01,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,jump,20,21
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,1:00,NYK,rebound,,,,,,,,,,Jared Jeffries,,,,,,off,,
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,1:00,NYK,shot,,,,,,,,,,Jared Jeffries,2,,,made,,tip,25,6
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,0:52,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,pullup jump,22,21
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,0:43,PHX,foul,,,,,,,,Larry Hughes,,Steve Nash,,,,,,shooting,,
+Channing Frye,Grant Hill,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,0:43,NYK,free throw,,,,,,,1,,2,Larry Hughes,,,foul,made,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,0:43,PHX,sub,,,,Goran Dragic,,Grant Hill,,,,,,,,,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,0:43,NYK,free throw,,,,,,,2,,2,Larry Hughes,,,foul,made,,,,
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,0:31,PHX,shot,Channing Frye,,,,,,,,,Jason Richardson,2,,,made,,jump,7,10
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,0:11,NYK,shot,,,,,,,,,,David Lee,2,,,made,,hook bank,15,9
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,0:03,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,pullup jump,17,14
+Channing Frye,Goran Dragic,Jared Dudley,Jason Richardson,Steve Nash,Al Harrington,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,2,0:00,NYK,turnover,,,,,,,,,,Larry Hughes,,,lost ball,,Jason Richardson,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,11:51,NYK,shot,,,Steve Nash,,,,,,,Chris Duhon,,,,missed,,jump,28,7
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,11:49,NYK,rebound,,,,,,,,,,Chris Duhon,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,11:47,NYK,shot,,,,,,,,,,Chris Duhon,,,,missed,,jump,8,7
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,11:46,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,11:31,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,jump,24,11
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,11:07,NYK,shot,Jared Jeffries,,,,,,,,,Larry Hughes,3,,,made,,3pt,41,25
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,10:53,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,jump,33,24
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,10:53,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,10:41,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,jump,4,11
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,10:40,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,10:28,PHX,shot,,,Jared Jeffries,,,,,,,Grant Hill,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,10:26,NYK,rebound,,,,,,,,,,Larry Hughes,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,10:16,NYK,shot,Larry Hughes,,,,,,,,,David Lee,2,,,made,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,9:49,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,lost ball,,Jared Jeffries,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,9:40,NYK,shot,,,,,,,,,,Jared Jeffries,2,,,made,,driving layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,9:39,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,9:28,PHX,shot,,,,,,,,,,Amare Stoudemire,,,,missed,,jump,36,24
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,9:28,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,9:03,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,3pt,7,25
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,9:02,PHX,rebound,,,,,,,,,,Jason Richardson,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,8:54,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,pullup jump,23,29
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,8:24,NYK,shot,,,Jason Richardson,,,,,,,Danilo Gallinari,,,,missed,,3pt,41,25
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,8:22,PHX,rebound,,,,,,,,,,Grant Hill,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,8:20,NYK,foul,,,,,,,,Amare Stoudemire,,David Lee,,,,,,personal,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,8:15,PHX,shot,,,Danilo Gallinari,,,,,,,Jason Richardson,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,8:15,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,8:09,PHX,shot,,,,,,,,,,Amare Stoudemire,2,,,made,,driving slam dunk,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,7:46,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,3pt,24,32
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,7:45,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,7:37,PHX,shot,,,,,,,,,,Jason Richardson,,,,missed,,3pt,48,14
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,7:36,PHX,rebound,,,,,,,,,,Channing Frye,,,,,,off,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,7:35,PHX,shot,,,Jared Jeffries,,,,,,,Channing Frye,,,,missed,,layup,25,6
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,7:34,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,7:34,PHX,foul,,,,,,,,Danilo Gallinari,,Channing Frye,,,,,,loose ball,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,7:24,NYK,shot,David Lee,,,,,,,,,Danilo Gallinari,3,,,made,,3pt,47,20
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,7:16,PHX,foul,,,,,,,,David Lee,,Amare Stoudemire,,,,,,offensive,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,7:16,PHX,turnover,,,,,,,,,,Amare Stoudemire,,,foul,,,,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,7:06,NYK,shot,,,,,,,,,,Chris Duhon,3,,,made,,3pt,6,22
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:51,PHX,shot,,,,,,,,,,Channing Frye,,,,missed,,jump,38,9
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:50,NYK,rebound,,,,,,,,,,Larry Hughes,,,,,,def,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:48,PHX,foul,,,,,,,,Danilo Gallinari,,Channing Frye,,,,,,shooting,,
+Amare Stoudemire,Channing Frye,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:48,NYK,free throw,,,,,,,1,,2,Danilo Gallinari,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:48,PHX,sub,,,,Earl Clark,,Channing Frye,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:48,NYK,free throw,,,,,,,2,,2,Danilo Gallinari,,,foul,missed,,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:47,PHX,rebound,,,,,,,,,,Steve Nash,,,,,,def,,
+Amare Stoudemire,Earl Clark,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:39,PHX,turnover,,,,,,,,,,Jason Richardson,,,bad pass,,Larry Hughes,,,
+Amare Stoudemire,Earl Clark,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:17,NYK,shot,,,,,,,,,,Danilo Gallinari,3,,,made,,3pt,22,34
+Amare Stoudemire,Earl Clark,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:00,NYK,foul,,,,,,,,Amare Stoudemire,,Jared Jeffries,,,,,,shooting,,
+Amare Stoudemire,Earl Clark,Grant Hill,Jason Richardson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:00,PHX,free throw,,,,,,,1,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:00,PHX,sub,,,,Goran Dragic,,Jason Richardson,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,6:00,PHX,free throw,,,,,,,2,,2,Amare Stoudemire,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,5:40,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,3pt,46,20
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,5:40,NYK,rebound,,,,,,,,,,Jared Jeffries,,,,,,off,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,5:24,NYK,shot,,,,,,,,,,Larry Hughes,2,,,made,,driving finger roll layup,25,6
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,5:09,PHX,shot,Steve Nash,,,,,,,,,Earl Clark,2,,,made,,jump,10,19
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,4:41,NYK,shot,Danilo Gallinari,,,,,,,,,Larry Hughes,2,,,made,,jump,38,21
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,4:22,PHX,turnover,,,,,,,,,,Goran Dragic,,,lost ball,,Chris Duhon,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,4:11,NYK,shot,,,,,,,,,,Chris Duhon,2,,,made,,driving layup,25,6
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,3:51,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,3pt,26,32
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,3:51,NYK,rebound,,,,,,,,,,Chris Duhon,,,,,,def,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Grant Hill,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,3:39,PHX,foul,,,,,,,,David Lee,,Goran Dragic,,,,,,shooting,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,3:39,PHX,sub,,,,Jared Dudley,,Grant Hill,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,3:39,NYK,free throw,,,,,,,1,,2,David Lee,,,foul,missed,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,3,3:39,NYK,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,3:39,NYK,sub,,,,Wilson Chandler,,Jared Jeffries,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,3:39,NYK,free throw,,,,,,,2,,2,David Lee,,,foul,missed,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,3:38,PHX,rebound,,,,,,,,,,Amare Stoudemire,,,,,,def,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,3:29,PHX,shot,Amare Stoudemire,,,,,,,,,Steve Nash,2,,,made,,driving layup,25,6
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,3:29,NYK,foul,,,,,,,,Steve Nash,,David Lee,,,,,,shooting,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,3:29,PHX,free throw,,,,,,,1,,1,Steve Nash,,,foul,made,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,3:17,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,3pt,10,26
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,3:16,PHX,rebound,,,,,,,,,,,,,,,,,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,3:02,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,3pt,36,28
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,3:01,NYK,rebound,,,,,,,,,,Larry Hughes,,,,,,def,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,2:46,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,3pt,48,8
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,2:46,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,2:43,NYK,foul,,,,,,,,Earl Clark,,Chris Duhon,,,,,,shooting,,
+Amare Stoudemire,Earl Clark,Goran Dragic,Jared Dudley,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,2:43,NYK,timeout,,,,,,,,,,,,,,,,regular,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,3,2:43,PHX,sub,,,,Louis Amundson,,Amare Stoudemire,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,2:43,NYK,sub,,,,Al Harrington,,Larry Hughes,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,2:43,PHX,free throw,,,,,,,1,,2,Earl Clark,,,foul,missed,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,2:43,PHX,rebound,,,,,,,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,2:43,PHX,free throw,,,,,,,2,,2,Earl Clark,,,foul,made,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,2:20,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,3pt,47,8
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,2:19,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,2:01,PHX,shot,Steve Nash,,,,,,,,,Earl Clark,2,,,made,,jump,33,19
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,1:38,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,3pt,44,22
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,1:38,NYK,rebound,,,,,,,,,,,,,,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,1:38,PHX,foul,,,,,,,,Al Harrington,,Jared Dudley,,,,,,loose ball,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,1:25,NYK,shot,,,,,,,,,,Chris Duhon,,,,missed,,layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,1:23,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,off,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,1:23,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,tip,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,1:21,NYK,rebound,,,,,,,,,,David Lee,,,,,,off,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,1:21,NYK,shot,,,,,,,,,,David Lee,2,,,made,,layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,1:05,PHX,shot,,,,,,,,,,Steve Nash,2,,,made,,fade away jumper,23,12
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,0:40,NYK,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,0:27,PHX,shot,,,,,,,,,,Steve Nash,,,,missed,,layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,0:26,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,off,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,0:21,PHX,turnover,,,,,,,,,,Jared Dudley,,,bad pass,,David Lee,,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,0:17,NYK,shot,Chris Duhon,,,,,,,,,David Lee,2,,,made,,slam dunk,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,0:08,PHX,shot,,,Danilo Gallinari,,,,,,,Louis Amundson,,,,missed,,layup,25,6
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,0:05,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Earl Clark,Goran Dragic,Jared Dudley,Louis Amundson,Steve Nash,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,3,0:00,NYK,shot,Chris Duhon,,,,,,,,,Al Harrington,2,,,made,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,4,11:47,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,jump,23,25
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,4,11:47,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,4,11:28,NYK,shot,Chris Duhon,,,,,,,,,David Lee,2,,,made,,driving layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Wilson Chandler,4,11:12,NYK,foul,,,,,,,,Robin Lopez,,Wilson Chandler,,,,,,personal,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,Jared Jeffries,Wilson Chandler,4,11:12,NYK,sub,,,,Jared Jeffries,,David Lee,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,Jared Jeffries,Wilson Chandler,4,10:57,PHX,shot,,,,,,,,,,Alando Tucker,,,,missed,,jump,5,5
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,Jared Jeffries,Wilson Chandler,4,10:56,PHX,jump ball,,Jared Dudley,,,Danilo Gallinari,,,,,,,Chris Duhon,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,Jared Jeffries,Wilson Chandler,4,10:56,NYK,rebound,,,,,,,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,Jared Jeffries,Wilson Chandler,4,10:44,PHX,foul,,,,,,,,Danilo Gallinari,,Alando Tucker,,,,,,personal,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,Jared Jeffries,Wilson Chandler,4,10:35,NYK,shot,,,,,,,,,,Chris Duhon,,,,missed,,3pt,49,9
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,Jared Jeffries,Wilson Chandler,4,10:34,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,Jared Jeffries,Wilson Chandler,4,10:26,PHX,foul,,,,,,,,Jared Jeffries,,Robin Lopez,,,,,,shooting,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,Jared Jeffries,Wilson Chandler,4,10:26,NYK,free throw,,,,,,,1,,2,Jared Jeffries,,,foul,missed,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Chris Duhon,Danilo Gallinari,Jared Jeffries,Wilson Chandler,4,10:26,NYK,rebound,,,,,,,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,10:26,NYK,sub,,,,Larry Hughes,,Chris Duhon,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,10:26,NYK,free throw,,,,,,,2,,2,Jared Jeffries,,,foul,made,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,10:18,PHX,shot,,,,,,,,,,Alando Tucker,2,,,made,,driving layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,10:00,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:56,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:56,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,tip,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:54,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:48,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,3pt,43,23
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:46,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:28,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,3pt,3,19
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:27,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:25,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:23,NYK,rebound,,,,,,,,,,Jared Jeffries,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:23,PHX,foul,,,,,,,,Jared Jeffries,,Goran Dragic,,,,,,personal,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:09,NYK,shot,,,,,,,,,,Jared Jeffries,,,,missed,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,9:09,PHX,rebound,,,,,,,,,,Jared Dudley,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,8:53,PHX,timeout,,,,,,,,,,,,,,,,official,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Danilo Gallinari,Jared Jeffries,Larry Hughes,Wilson Chandler,4,8:53,PHX,foul,,,,,,,,,,Gentry,,,,,,technical,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:53,NYK,sub,,,,Toney Douglas,,Danilo Gallinari,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:53,NYK,free throw,,,,,,,1,,1,Al Harrington,,,technical,made,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:49,PHX,shot,,,,,,,,,,Jared Dudley,,,,missed,,jump,13,8
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:48,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:40,PHX,foul,,,,,,,,Jared Jeffries,,Goran Dragic,,,,,,shooting,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:40,NYK,free throw,,,,,,,1,,2,Jared Jeffries,,,foul,missed,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:40,NYK,rebound,,,,,,,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:40,NYK,free throw,,,,,,,2,,2,Jared Jeffries,,,foul,made,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:27,PHX,shot,,,,,,,,,,Earl Clark,,,,missed,,jump,20,24
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:26,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:23,PHX,shot,,,,,,,,,,Robin Lopez,2,,,made,,slam dunk,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:07,NYK,shot,Jared Jeffries,,,,,,,,,Toney Douglas,3,,,made,,3pt,12,29
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:00,NYK,foul,,,,,,,,Alando Tucker,,Larry Hughes,,,,,,shooting,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:00,PHX,free throw,,,,,,,1,,2,Alando Tucker,,,foul,missed,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Jared Dudley,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:00,PHX,rebound,,,,,,,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:00,PHX,sub,,,,Louis Amundson,,Jared Dudley,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,8:00,PHX,free throw,,,,,,,2,,2,Alando Tucker,,,foul,made,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,7:32,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,jump,40,23
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,7:32,PHX,rebound,,,,,,,,,,Louis Amundson,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,7:26,NYK,foul,,,,,,,,Goran Dragic,,Toney Douglas,,,,,,personal,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,7:21,PHX,turnover,,,,,,,,,,Alando Tucker,,,lost ball,,Larry Hughes,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,7:18,NYK,shot,,,Goran Dragic,,,,,,,Larry Hughes,,,,missed,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,7:17,NYK,rebound,,,,,,,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,7:10,PHX,foul,,,,,,,,Al Harrington,,Robin Lopez,,,,,,shooting,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,7:10,NYK,free throw,,,,,,,1,,2,Al Harrington,,,foul,made,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,7:10,NYK,free throw,,,,,,,2,,2,Al Harrington,,,foul,made,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,6:55,PHX,turnover,,,,,,,,,,Earl Clark,,,bad pass,,Larry Hughes,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,6:50,NYK,shot,,,,,,,,,,Toney Douglas,,,,missed,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,6:48,NYK,rebound,,,,,,,,,,Jared Jeffries,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,6:48,NYK,shot,,,,,,,,,,Jared Jeffries,2,,,made,,tip,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,6:28,NYK,foul,,,,,,,,Alando Tucker,,Toney Douglas,,,,,,shooting,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jared Jeffries,Larry Hughes,Toney Douglas,Wilson Chandler,4,6:28,PHX,free throw,,,,,,,1,,2,Alando Tucker,,,foul,made,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,6:28,NYK,sub,,,,Jordan Hill,,Jared Jeffries,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,6:28,PHX,free throw,,,,,,,2,,2,Alando Tucker,,,foul,made,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,6:08,NYK,shot,,,,,,,,,,Jordan Hill,,,,missed,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,6:07,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,5:56,PHX,shot,Goran Dragic,,,,,,,,,Alando Tucker,3,,,made,,3pt,43,23
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,5:44,NYK,shot,,,,,,,,,,Jordan Hill,,,,missed,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,5:42,PHX,rebound,,,,,,,,,,Earl Clark,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,5:38,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,3pt,24,31
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,5:36,NYK,rebound,,,,,,,,,,Larry Hughes,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,5:29,NYK,shot,Larry Hughes,,,,,,,,,Al Harrington,2,,,made,,driving layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,5:29,PHX,foul,,,,,,,,Al Harrington,,Goran Dragic,,,,,,shooting,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Larry Hughes,Toney Douglas,Wilson Chandler,4,5:29,NYK,timeout,,,,,,,,,,,,,,,,regular,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Marcus Landry,Toney Douglas,Wilson Chandler,4,5:29,NYK,sub,,,,Marcus Landry,,Larry Hughes,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Marcus Landry,Toney Douglas,Wilson Chandler,4,5:29,NYK,free throw,,,,,,,1,,1,Al Harrington,,,foul,missed,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Marcus Landry,Toney Douglas,Wilson Chandler,4,5:28,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Al Harrington,Jordan Hill,Marcus Landry,Toney Douglas,Wilson Chandler,4,5:22,NYK,turnover,,,,,,,,,,Marcus Landry,,,traveling,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,5:22,NYK,sub,,,,Nate Robinson,,Al Harrington,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,5:07,PHX,shot,,,,,,,,,,Alando Tucker,,,,missed,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,5:06,NYK,rebound,,,,,,,,,,Nate Robinson,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,5:03,NYK,turnover,,,,,,,,,,Nate Robinson,,,bad pass,,Goran Dragic,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:55,PHX,shot,,,,,,,,,,Earl Clark,,,,missed,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:54,PHX,rebound,,,,,,,,,,Alando Tucker,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:54,PHX,shot,,,,,,,,,,Alando Tucker,,,,missed,,tip,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:51,PHX,rebound,,,,,,,,,,Alando Tucker,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:51,PHX,shot,,,,,,,,,,Alando Tucker,2,,,made,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:28,NYK,shot,Toney Douglas,,,,,,,,,Marcus Landry,3,,,made,,3pt,44,22
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:16,NYK,violation,,,,,,,,,,Toney Douglas,,,,,,kicked ball,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:06,NYK,foul,,,,,,,,Alando Tucker,,Nate Robinson,,,,,,personal,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:06,PHX,free throw,,,,,,,1,,2,Alando Tucker,,,foul,made,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:06,PHX,free throw,,,,,,,2,,2,Alando Tucker,,,foul,missed,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:05,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,4:02,PHX,shot,,,,,,,,,,Robin Lopez,2,,,made,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,3:42,NYK,shot,,,,,,,,,,Jordan Hill,,,,missed,,jump,25,13
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,3:40,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,3:27,PHX,shot,,,Jordan Hill,,,,,,,Louis Amundson,,,,missed,,jump,32,7
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,3:26,PHX,rebound,,,,,,,,,,,,,,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,3:18,NYK,foul,,,,,,,,Alando Tucker,,Jordan Hill,,,,,,personal,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,3:18,PHX,free throw,,,,,,,1,,2,Alando Tucker,,,foul,made,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,3:18,PHX,free throw,,,,,,,2,,2,Alando Tucker,,,foul,missed,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,3:17,PHX,rebound,,,,,,,,,,Robin Lopez,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,3:05,PHX,shot,Goran Dragic,,,,,,,,,Earl Clark,2,,,made,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,2:52,NYK,shot,,,,,,,,,,Jordan Hill,,,,missed,,jump,40,19
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,2:52,NYK,rebound,,,,,,,,,,Toney Douglas,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,2:39,NYK,shot,Nate Robinson,,,,,,,,,Jordan Hill,2,,,made,,jump,39,7
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,2:18,NYK,foul,,,,,,,,Robin Lopez,,Jordan Hill,,,,,,shooting,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,2:18,PHX,timeout,,,,,,,,,,,,,,,,regular,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,2:18,PHX,free throw,,,,,,,1,,2,Robin Lopez,,,foul,made,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,2:18,PHX,free throw,,,,,,,2,,2,Robin Lopez,,,foul,missed,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,2:17,NYK,rebound,,,,,,,,,,Jordan Hill,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,2:04,NYK,shot,Jordan Hill,,,,,,,,,Toney Douglas,3,,,made,,3pt,11,27
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,1:45,PHX,shot,,,,,,,,,,Earl Clark,,,,missed,,jump,19,25
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,1:45,NYK,rebound,,,,,,,,,,Jordan Hill,,,,,,def,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,1:34,NYK,shot,,,,,,,,,,Jordan Hill,,,,missed,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,1:33,NYK,rebound,,,,,,,,,,Jordan Hill,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,1:30,NYK,shot,,,,,,,,,,Jordan Hill,2,,,made,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,1:15,PHX,shot,Earl Clark,,,,,,,,,Robin Lopez,2,,,made,,jump,16,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,1:06,NYK,shot,Toney Douglas,,,,,,,,,Wilson Chandler,2,,,made,,jump,11,7
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,0:55,PHX,shot,,,,,,,,,,Goran Dragic,,,,missed,,3pt,34,29
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,0:54,PHX,rebound,,,,,,,,,,Earl Clark,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,0:50,PHX,shot,,,,,,,,,,Earl Clark,,,,missed,,jump,38,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,0:47,PHX,rebound,,,,,,,,,,Alando Tucker,,,,,,off,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,0:47,PHX,shot,,,,,,,,,,Alando Tucker,2,,,made,,layup,25,6
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,0:38,NYK,turnover,,,,,,,,,,Toney Douglas,,,out of bounds lost ball turnover,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,0:25,PHX,turnover,,,,,,,,,,Goran Dragic,,,bad pass,,,,,
+Alando Tucker,Earl Clark,Goran Dragic,Louis Amundson,Robin Lopez,Jordan Hill,Marcus Landry,Nate Robinson,Toney Douglas,Wilson Chandler,4,0:01,NYK,turnover,,,,,,,,,,,,,shot clock turnover,,,,,

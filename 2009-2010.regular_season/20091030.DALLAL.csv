@@ -1,0 +1,464 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,12:00,OFF,jump ball,,Erick Dampier,,,Andrew Bynum,,,,,,,Lamar Odom,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:43,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,jump,31,15
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:42,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:32,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,9,13
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:31,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:20,DAL,foul,,,,,,,,Lamar Odom,,Erick Dampier,,,,,,offensive,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:20,DAL,turnover,,,,,,,,,,Erick Dampier,,,foul,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,11:08,LAL,shot,Lamar Odom,,,,,,,,,Derek Fisher,2,,,made,,jump,38,21
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:56,DAL,shot,,,,,,,,,,Quinton Ross,,,,missed,,jump,8,15
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:55,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:43,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,36,7
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:42,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:35,LAL,foul,,,,,,,,Erick Dampier,,Kobe Bryant,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:35,DAL,free throw,,,,,,,1,,2,Erick Dampier,,,foul,missed,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:35,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:35,DAL,free throw,,,,,,,2,,2,Erick Dampier,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:18,DAL,foul,,,,,,,,Kobe Bryant,,Quinton Ross,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:18,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:18,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,missed,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,10:17,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:55,DAL,shot,,,,,,,,,,Jason Kidd,2,,,made,,pullup jump,24,27
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:45,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,jump,10,20
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:44,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:38,LAL,shot,Ron Artest,,,,,,,,,Kobe Bryant,2,,,made,,reverse layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:23,LAL,foul,,,,,,,,Jason Kidd,,Derek Fisher,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:17,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,9:16,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:56,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,jump,9,7
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:55,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:55,LAL,foul,,,,,,,,Dirk Nowitzki,,Andrew Bynum,,,,,,loose ball,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:33,DAL,shot,Jason Kidd,,,,,,,,,Quinton Ross,2,,,made,,jump,10,12
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:20,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,hook,25,13
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:17,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:13,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,jump,17,21
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,8:12,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:59,DAL,foul,,,,,,,,Ron Artest,,Shawn Marion,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:50,LAL,shot,,,Erick Dampier,,,,,,,Ron Artest,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:48,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:45,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:44,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:44,LAL,shot,,,,,,,,,,Lamar Odom,2,,,made,,putback dunk,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:21,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,12,19
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:20,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:15,LAL,turnover,,,,,,,,,,Derek Fisher,,,lost ball,,Jason Kidd,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,7:08,DAL,shot,Quinton Ross,,,,,,,,,Erick Dampier,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,6:51,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,jump,27,11
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,6:49,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,6:41,DAL,shot,Jason Kidd,,,,,,,,,Erick Dampier,2,,,made,,jump,25,18
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,6:28,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,14,31
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,6:26,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,6:20,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,6:00,LAL,shot,Ron Artest,,,,,,,,,Kobe Bryant,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:46,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:27,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,3pt,2,9
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:25,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:22,LAL,shot,Kobe Bryant,,,,,,,,,Ron Artest,3,,,made,,3pt,34,31
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,5:05,DAL,shot,,,,,,,,,,Shawn Marion,2,,,made,,jump,38,8
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:59,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:59,DAL,sub,,,,Jason Terry,,Shawn Marion,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:49,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,3pt,47,17
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:48,DAL,rebound,,,,,,,,,,Jason Terry,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:28,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,fade away jumper,30,17
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:25,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:13,LAL,shot,Lamar Odom,,,,,,,,,Andrew Bynum,2,,,made,,slam dunk,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,4:06,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:55,LAL,foul,,,,,,,,Jason Terry,,Andrew Bynum,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:55,DAL,free throw,,,,,,,1,,2,Jason Terry,,,foul,missed,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:55,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:55,DAL,sub,,,,Shawn Marion,,Quinton Ross,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:55,DAL,free throw,,,,,,,2,,2,Jason Terry,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:38,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,3pt,29,31
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:36,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:36,DAL,turnover,,,,,,,,,,Erick Dampier,,,out of bounds lost ball turnover,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:36,LAL,sub,,,,D.J. Mbenga,,Andrew Bynum,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:36,DAL,sub,,,,Drew Gooden,,Erick Dampier,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:26,DAL,foul,,,,,,,,D.J. Mbenga,,Dirk Nowitzki,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:10,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,jump,28,12
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:08,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:03,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,44,26
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,3:02,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,2:56,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,3pt,44,21
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,2:55,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,2:36,LAL,foul,,,,,,,,Jason Kidd,,Kobe Bryant,,,,,,offensive,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,1,2:36,LAL,turnover,,,,,,,,,,Kobe Bryant,,,foul,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,D.J. Mbenga,Derek Fisher,Lamar Odom,Ron Artest,Sasha Vujacic,1,2:36,LAL,sub,,,,Sasha Vujacic,,Kobe Bryant,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Derek Fisher,Lamar Odom,Ron Artest,Sasha Vujacic,1,2:36,DAL,sub,,,,Jose Juan Barea,,Jason Kidd,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,2:36,LAL,sub,,,,Jordan Farmar,,Derek Fisher,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,2:23,DAL,shot,,,,,,,,,,Drew Gooden,,,,missed,,jump,25,18
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,2:23,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,2:12,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,2:11,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,2:11,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,tip,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,2:09,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,1:53,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,3pt,41,29
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,1:52,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,1:43,LAL,foul,,,,,,,,Dirk Nowitzki,,D.J. Mbenga,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,1:43,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,1:43,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,1:30,DAL,foul,,,,,,,,Jordan Farmar,,Jose Juan Barea,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,1:24,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,3pt,10,27
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,1:23,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,1:11,DAL,shot,,,,,,,,,,Jose Juan Barea,2,,,made,,jump,34,25
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:55,LAL,shot,Ron Artest,,,,,,,,,Lamar Odom,2,,,made,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:46,DAL,shot,,,,,,,,,,Drew Gooden,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:45,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:45,LAL,foul,,,,,,,,Drew Gooden,,Lamar Odom,,,,,,loose ball,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:45,DAL,free throw,,,,,,,1,,2,Drew Gooden,,,foul,made,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:45,DAL,sub,,,,Kris Humphries,,Dirk Nowitzki,,,,,,,,,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:45,DAL,free throw,,,,,,,2,,2,Drew Gooden,,,foul,made,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:30,LAL,shot,Lamar Odom,,,,,,,,,Jordan Farmar,2,,,made,,fade away jumper,19,9
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:30,DAL,foul,,,,,,,,Jordan Farmar,,Jose Juan Barea,,,,,,shooting,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:30,LAL,free throw,,,,,,,1,,1,Jordan Farmar,,,foul,missed,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:29,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:24,LAL,foul,,,,,,,,Jose Juan Barea,,Jordan Farmar,,,,,,personal,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:24,DAL,free throw,,,,,,,1,,2,Jose Juan Barea,,,foul,made,,,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,D.J. Mbenga,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,1,0:24,DAL,sub,,,,James Singleton,,Shawn Marion,,,,,,,,,,,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,Shannon Brown,1,0:24,LAL,sub,,,,Shannon Brown,,D.J. Mbenga,,,,,,,,,,,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,Shannon Brown,1,0:24,DAL,free throw,,,,,,,2,,2,Jose Juan Barea,,,foul,made,,,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Lamar Odom,Ron Artest,Sasha Vujacic,Shannon Brown,1,0:04,LAL,shot,Shannon Brown,,,,,,,,,Jordan Farmar,3,,,made,,3pt,24,33
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Shannon Brown,2,11:37,DAL,shot,,,,,,,,,,Kris Humphries,,,,missed,,jump,8,15
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Shannon Brown,2,11:36,LAL,rebound,,,,,,,,,,Jordan Farmar,,,,,,def,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Shannon Brown,2,11:15,LAL,shot,,,,,,,,,,Shannon Brown,2,,,made,,running jump,26,13
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Shannon Brown,2,10:59,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,layup,25,6
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Shannon Brown,2,10:58,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,off,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Shannon Brown,2,10:42,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,layup,25,6
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Shannon Brown,2,10:42,DAL,rebound,,,,,,,,,,,,,,,,,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Shannon Brown,2,10:42,LAL,foul,,,,,,,,Drew Gooden,,Ron Artest,,,,,,loose ball,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Shannon Brown,2,10:35,DAL,shot,,,,,,,,,,Jose Juan Barea,2,,,made,,jump,32,25
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Shannon Brown,2,10:20,LAL,foul,,,,,,,,James Singleton,,Ron Artest,,,,,,offensive,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Luke Walton,Ron Artest,Shannon Brown,2,10:20,LAL,turnover,,,,,,,,,,Ron Artest,,,foul,,,,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,10:20,LAL,sub,,,,Lamar Odom,,Ron Artest,,,,,,,,,,,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,10:06,DAL,turnover,,,,,,,,,,Kris Humphries,,,lost ball,,Shannon Brown,,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,10:02,LAL,turnover,,,,,,,,,,Lamar Odom,,,traveling,,,,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,9:48,DAL,shot,Jose Juan Barea,,,,,,,,,James Singleton,3,,,made,,3pt,3,18
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,9:31,DAL,foul,,,,,,,,Luke Walton,,James Singleton,,,,,,personal,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,9:24,LAL,shot,,,,,,,,,,Luke Walton,,,,missed,,jump,40,5
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,9:22,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,9:15,DAL,shot,,,,,,,,,,Kris Humphries,2,,,made,,jump,25,19
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,9:03,LAL,shot,Lamar Odom,,,,,,,,,Andrew Bynum,2,,,made,,alley oop dunk,25,6
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,8:38,DAL,shot,,,,,,,,,,Kris Humphries,,,,missed,,jump,36,19
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,8:36,LAL,rebound,,,,,,,,,,Luke Walton,,,,,,def,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,8:30,LAL,shot,Luke Walton,,,,,,,,,Andrew Bynum,2,,,made,,slam dunk,25,6
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,8:27,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,8:11,DAL,shot,,,,,,,,,,Jason Terry,2,,,made,,running jump,14,22
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,7:55,LAL,shot,Lamar Odom,,,,,,,,,Shannon Brown,3,,,made,,3pt,5,22
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,7:30,DAL,shot,,,,,,,,,,James Singleton,,,,missed,,3pt,5,21
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,7:28,LAL,rebound,,,,,,,,,,Jordan Farmar,,,,,,def,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,7:20,LAL,shot,Jordan Farmar,,,,,,,,,Shannon Brown,3,,,made,,3pt,43,25
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,7:07,LAL,foul,,,,,,,,,,Andrew Bynum,,,,,,defense 3 second,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Lamar Odom,Luke Walton,Shannon Brown,2,7:07,DAL,free throw,,,,,,,1,,1,Jason Terry,,,technical,made,,,,
+Drew Gooden,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,7:07,LAL,sub,,,,Kobe Bryant,,Luke Walton,,,,,,,,,,,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,7:07,DAL,sub,,,,Dirk Nowitzki,,Drew Gooden,,,,,,,,,,,,
+Dirk Nowitzki,James Singleton,Jason Kidd,Jason Terry,Kris Humphries,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,7:07,DAL,sub,,,,Jason Kidd,,Jose Juan Barea,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,7:07,DAL,sub,,,,Shawn Marion,,James Singleton,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,6:57,DAL,shot,,,,,,,,,,Kris Humphries,,,,missed,,jump,38,8
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,6:55,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,6:44,DAL,shot,Dirk Nowitzki,,,,,,,,,Jason Terry,3,,,made,,3pt,10,27
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,6:28,LAL,shot,,,,,,,,,,Shannon Brown,2,,,made,,jump,11,7
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,6:16,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,3pt,25,35
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,6:15,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,6:06,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,3pt,43,25
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,6:05,LAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,2,6:05,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,6:05,LAL,sub,,,,Derek Fisher,,Jordan Farmar,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,5:59,LAL,turnover,,,,,,,,,,Kobe Bryant,,,lost ball,,Shawn Marion,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,5:39,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,3pt,26,33
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,5:37,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,5:34,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,5:33,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,5:33,DAL,shot,,,,,,,,,,Kris Humphries,,,,missed,,tip,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,5:32,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,5:27,LAL,shot,Lamar Odom,,,,,,,,,Andrew Bynum,2,,,made,,slam dunk,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,5:11,DAL,shot,Jason Kidd,,,,,,,,,Jason Terry,3,,,made,,3pt,48,7
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,5:02,DAL,foul,,,,,,,,Kobe Bryant,,Shawn Marion,,,,,,personal,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,4:54,LAL,turnover,,,,,,,,,,Lamar Odom,,,bad pass,,Kris Humphries,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,4:49,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,jump,37,17
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,4:48,LAL,rebound,,,,,,,,,,Shannon Brown,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,4:33,LAL,shot,Lamar Odom,,,,,,,,,Andrew Bynum,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,4:18,DAL,shot,Jason Kidd,,,,,,,,,Kris Humphries,2,,,made,,jump,6,7
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,4:03,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,9,20
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,4:02,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,3:55,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,3:54,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,3:35,LAL,shot,,,Shawn Marion,,,,,,,Kobe Bryant,,,,missed,,jump,18,8
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,2,3:35,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,3:35,LAL,sub,,,,Ron Artest,,Shannon Brown,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,3:20,DAL,foul,,,,,,,,Derek Fisher,,Kris Humphries,,,,,,offensive,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,3:20,DAL,turnover,,,,,,,,,,Kris Humphries,,,foul,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,3:06,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,hook,28,12
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,3:04,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,3:04,DAL,turnover,,,,,,,,,,Shawn Marion,,,bad pass,,,,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,3:04,DAL,sub,,,,Jose Juan Barea,,Jason Terry,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,3:02,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,42,6
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,3:00,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:56,LAL,foul,,,,,,,,Shawn Marion,,Derek Fisher,,,,,,shooting,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:56,DAL,timeout,,,,,,,,,,,,,,,,official,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:56,DAL,free throw,,,,,,,1,,2,Shawn Marion,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:56,DAL,free throw,,,,,,,2,,2,Shawn Marion,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:43,LAL,shot,,,Dirk Nowitzki,,,,,,,Andrew Bynum,,,,missed,,layup,25,6
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:41,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:26,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:08,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,3pt,12,30
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:07,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,2:02,DAL,turnover,,,,,,,,,,Jason Kidd,,,bad pass,,,,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:46,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:44,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:33,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,jump bank,38,18
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:16,DAL,shot,Shawn Marion,,,,,,,,,Kris Humphries,2,,,made,,layup,25,6
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:02,LAL,foul,,,,,,,,Shawn Marion,,Ron Artest,,,,,,offensive,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,2,1:02,LAL,turnover,,,,,,,,,,Ron Artest,,,foul,,,,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,1:02,LAL,sub,,,,Sasha Vujacic,,Ron Artest,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:48,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:46,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:45,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,layup,25,6
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:44,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:44,LAL,foul,,,,,,,,,,Kobe Bryant,,,,,,technical,,
+Dirk Nowitzki,Jason Kidd,Jose Juan Barea,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:44,DAL,timeout,,,,,,,,,,,,,,,,short,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:44,DAL,sub,,,,Jason Terry,,Jose Juan Barea,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:44,DAL,free throw,,,,,,,1,,1,Dirk Nowitzki,,,technical,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:32,LAL,foul,,,,,,,,Dirk Nowitzki,,Lamar Odom,,,,,,shooting,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:32,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,missed,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:32,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:32,DAL,sub,,,,Quinton Ross,,Shawn Marion,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:32,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:22,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,turnaround jump,25,10
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:05,LAL,foul,,,,,,,,Dirk Nowitzki,,Lamar Odom,,,,,,personal,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:05,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:05,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:01,DAL,foul,,,,,,,,Kobe Bryant,,Dirk Nowitzki,,,,,,shooting,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Quinton Ross,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:01,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,2,0:01,DAL,sub,,,,Shawn Marion,,Quinton Ross,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Luke Walton,Sasha Vujacic,2,0:01,LAL,sub,,,,Luke Walton,,Lamar Odom,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Luke Walton,Sasha Vujacic,2,0:01,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,11:40,DAL,shot,Jason Kidd,,,,,,,,,Quinton Ross,2,,,made,,jump,7,8
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,11:22,DAL,foul,,,,,,,,Kobe Bryant,,Jason Kidd,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,11:14,LAL,turnover,,,,,,,,,,Lamar Odom,,,bad pass,,Erick Dampier,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,11:06,DAL,turnover,,,,,,,,,,Jason Kidd,,,bad pass,,Andrew Bynum,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:51,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,39,27
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:50,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:26,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,3pt,40,28
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:25,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:13,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,7,8
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:11,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:04,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,10:03,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,9:52,DAL,turnover,,,,,,,,,,Jason Kidd,,,bad pass,,Ron Artest,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,9:52,LAL,foul,,,,,,,,Jason Kidd,,Ron Artest,,,,,,offensive,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,9:52,LAL,turnover,,,,,,,,,,Ron Artest,,,foul,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Ron Artest,3,9:52,LAL,foul,,,,,,,,Jason Kidd,,Ron Artest,,,,,,technical,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:52,LAL,sub,,,,Sasha Vujacic,,Ron Artest,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:52,DAL,free throw,,,,,,,1,,1,Dirk Nowitzki,,,technical,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:52,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:33,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,23,23
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:32,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:32,LAL,foul,,,,,,,,Erick Dampier,,Sasha Vujacic,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:32,DAL,free throw,,,,,,,1,,2,Erick Dampier,,,foul,missed,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Quinton Ross,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:32,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:32,DAL,sub,,,,Jason Terry,,Quinton Ross,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:32,DAL,free throw,,,,,,,2,,2,Erick Dampier,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:26,LAL,foul,,,,,,,,Dirk Nowitzki,,Derek Fisher,,,,,,offensive,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:26,LAL,turnover,,,,,,,,,,Derek Fisher,,,foul,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,9:09,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,17,24
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,8:55,LAL,shot,,,,,,,,,,Lamar Odom,2,,,made,,jump,36,23
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,8:39,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,jump bank,38,14
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,8:25,LAL,shot,,,,,,,,,,Derek Fisher,3,,,made,,3pt,41,29
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,8:05,DAL,shot,,,,,,,,,,Erick Dampier,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,8:04,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,7:59,LAL,shot,,,,,,,,,,Sasha Vujacic,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,7:59,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,7:59,LAL,foul,,,,,,,,Dirk Nowitzki,,Andrew Bynum,,,,,,loose ball,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,7:44,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,jump,33,13
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,7:42,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,7:26,LAL,shot,Derek Fisher,,,,,,,,,Andrew Bynum,2,,,made,,jump,30,10
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,7:07,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,jump,16,24
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,7:06,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,6:54,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,jump,21,15
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,6:53,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,6:43,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,jump,31,14
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,6:42,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,6:31,DAL,shot,,,,,,,,,,Jason Terry,2,,,made,,jump,19,7
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,6:14,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,3pt,16,32
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,6:13,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,6:08,DAL,shot,Jason Terry,,,,,,,,,Shawn Marion,2,,,made,,alley oop dunk,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,5:35,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,5:34,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,5:28,LAL,shot,Derek Fisher,,,,,,,,,Lamar Odom,2,,,made,,layup,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,5:10,LAL,foul,,,,,,,,Dirk Nowitzki,,Sasha Vujacic,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,5:05,DAL,shot,Erick Dampier,,,,,,,,,Dirk Nowitzki,3,,,made,,3pt,32,31
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,4:53,LAL,shot,,,,,,,,,,Derek Fisher,,,,missed,,jump,43,7
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,4:52,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,4:38,LAL,foul,,,,,,,,,,Sasha Vujacic,,,,,,defense 3 second,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,4:38,DAL,free throw,,,,,,,1,,1,Dirk Nowitzki,,,technical,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,4:32,DAL,shot,Jason Terry,,,,,,,,,Erick Dampier,2,,,made,,slam dunk,25,6
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,4:03,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,jump,29,12
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,4:02,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Sasha Vujacic,3,3:58,LAL,foul,,,,,,,,Dirk Nowitzki,,Sasha Vujacic,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Derek Fisher,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:58,LAL,sub,,,,Shannon Brown,,Sasha Vujacic,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:58,LAL,sub,,,,Jordan Farmar,,Derek Fisher,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:50,DAL,shot,,,,,,,,,,Erick Dampier,,,,missed,,jump,11,7
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:49,DAL,rebound,,,,,,,,,,Erick Dampier,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:44,DAL,shot,Jason Kidd,,,,,,,,,Jason Terry,3,,,made,,3pt,47,22
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:26,LAL,shot,,,,,,,,,,Shannon Brown,,,,missed,,3pt,12,29
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:25,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:15,LAL,shot,,,,,,,,,,Andrew Bynum,,,,missed,,jump,32,8
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:13,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,off,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:13,DAL,foul,,,,,,,,Andrew Bynum,,Erick Dampier,,,,,,shooting,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:13,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:13,LAL,free throw,,,,,,,1,,2,Andrew Bynum,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,3:13,LAL,free throw,,,,,,,2,,2,Andrew Bynum,,,foul,made,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:49,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,19,19
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:48,LAL,rebound,,,,,,,,,,Andrew Bynum,,,,,,def,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:45,LAL,turnover,,,,,,,,,,Jordan Farmar,,,bad pass,,Dirk Nowitzki,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:45,LAL,foul,,,,,,,,Jason Terry,,Jordan Farmar,,,,,,personal,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:45,DAL,free throw,,,,,,,1,,2,Jason Terry,,,foul,missed,,,,
+Dirk Nowitzki,Erick Dampier,Jason Kidd,Jason Terry,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:45,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Erick Dampier,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:45,DAL,sub,,,,Jose Juan Barea,,Jason Kidd,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:45,DAL,sub,,,,Drew Gooden,,Erick Dampier,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:45,DAL,free throw,,,,,,,2,,2,Jason Terry,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:35,DAL,foul,,,,,,,,Andrew Bynum,,Drew Gooden,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:25,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,45,22
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:22,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:15,LAL,foul,,,,,,,,Jose Juan Barea,,Jordan Farmar,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:15,DAL,free throw,,,,,,,1,,2,Jose Juan Barea,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:15,DAL,free throw,,,,,,,2,,2,Jose Juan Barea,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,2:06,LAL,turnover,,,,,,,,,,Jordan Farmar,,,out of bounds lost ball turnover,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,1:51,DAL,shot,,,,,,,,,,Jose Juan Barea,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,1:29,LAL,turnover,,,,,,,,,,Andrew Bynum,,,3 second violation,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,1:19,DAL,foul,,,,,,,,Jordan Farmar,,Drew Gooden,,,,,,offensive,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Lamar Odom,Shannon Brown,3,1:19,DAL,turnover,,,,,,,,,,Drew Gooden,,,foul,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Andrew Bynum,Jordan Farmar,Kobe Bryant,Ron Artest,Shannon Brown,3,1:19,LAL,sub,,,,Ron Artest,,Lamar Odom,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,1:19,LAL,sub,,,,Josh Powell,,Andrew Bynum,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:59,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,running layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:55,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:37,DAL,shot,,,,,,,,,,Drew Gooden,,,,missed,,jump,5,8
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Shawn Marion,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:36,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Terry,Jose Juan Barea,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:31,DAL,sub,,,,Quinton Ross,,Shawn Marion,,,,,,,,,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:31,DAL,sub,,,,Kris Humphries,,Dirk Nowitzki,,,,,,,,,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:24,LAL,shot,,,,,,,,,,Kobe Bryant,2,,,made,,driving layup,25,6
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:24,DAL,foul,,,,,,,,Kobe Bryant,,Quinton Ross,,,,,,shooting,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:24,LAL,free throw,,,,,,,1,,1,Kobe Bryant,,,foul,missed,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:23,DAL,rebound,,,,,,,,,,Jason Terry,,,,,,def,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:16,DAL,turnover,,,,,,,,,,Jose Juan Barea,,,lost ball,,Shannon Brown,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:10,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,layup,25,6
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:10,LAL,rebound,,,,,,,,,,Josh Powell,,,,,,off,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:10,LAL,shot,,,,,,,,,,Josh Powell,2,,,made,,tip,25,6
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:00,DAL,shot,,,,,,,,,,Drew Gooden,,,,missed,,jump,4,6
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,3,0:00,DAL,rebound,,,,,,,,,,,,,,,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,11:48,DAL,foul,,,,,,,,Kobe Bryant,,Quinton Ross,,,,,,personal,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,11:44,DAL,foul,,,,,,,,Kobe Bryant,,Kris Humphries,,,,,,personal,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,11:35,LAL,shot,Kobe Bryant,,,,,,,,,Josh Powell,2,,,made,,jump bank,23,10
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,11:11,LAL,foul,,,,,,,,Kris Humphries,,Josh Powell,,,,,,shooting,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,11:11,DAL,free throw,,,,,,,1,,2,Kris Humphries,,,foul,missed,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,11:11,DAL,rebound,,,,,,,,,,,,,,,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,11:11,DAL,free throw,,,,,,,2,,2,Kris Humphries,,,foul,missed,,,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,11:10,LAL,rebound,,,,,,,,,,Josh Powell,,,,,,def,,
+Drew Gooden,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:59,DAL,foul,,,,,,,,Kobe Bryant,,Quinton Ross,,,,,,shooting,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:59,DAL,sub,,,,Dirk Nowitzki,,Drew Gooden,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:59,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:59,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,made,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:45,DAL,turnover,,,,,,,,,,Jason Terry,,,lost ball,,Ron Artest,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:34,DAL,foul,,,,,,,,Ron Artest,,Kris Humphries,,,,,,shooting,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Quinton Ross,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:34,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:34,DAL,sub,,,,Jason Kidd,,Quinton Ross,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:34,LAL,free throw,,,,,,,1,,2,Ron Artest,,,foul,missed,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:34,LAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:34,LAL,free throw,,,,,,,2,,2,Ron Artest,,,foul,missed,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:33,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:33,LAL,foul,,,,,,,,Dirk Nowitzki,,Josh Powell,,,,,,loose ball,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:21,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,jump,28,26
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:20,LAL,rebound,,,,,,,,,,Ron Artest,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:14,LAL,turnover,,,,,,,,,,Ron Artest,,,lost ball,,Kris Humphries,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:14,LAL,foul,,,,,,,,Kris Humphries,,Ron Artest,,,,,,personal,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,10:05,DAL,turnover,,,,,,,,,,Jason Kidd,,,out of bounds lost ball turnover,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,9:41,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,3pt,14,30
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,9:39,LAL,rebound,,,,,,,,,,Shannon Brown,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,9:39,LAL,shot,,,,,,,,,,Shannon Brown,2,,,made,,putback dunk,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,9:23,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,jump,14,25
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,9:21,LAL,rebound,,,,,,,,,,Josh Powell,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,9:13,LAL,shot,,,,,,,,,,Ron Artest,,,,missed,,3pt,48,5
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,9:11,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,9:06,DAL,shot,Jason Kidd,,,,,,,,,Dirk Nowitzki,2,,,made,,reverse layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,8:46,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,3pt,40,26
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,8:45,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,8:37,DAL,turnover,,,,,,,,,,Jason Kidd,,,out of bounds lost ball turnover,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Ron Artest,Shannon Brown,4,8:37,LAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Jordan Farmar,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,8:37,LAL,sub,,,,Lamar Odom,,Ron Artest,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,8:37,LAL,sub,,,,Derek Fisher,,Jordan Farmar,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,8:16,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,jump,38,5
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,8:15,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,8:04,LAL,foul,,,,,,,,Dirk Nowitzki,,Josh Powell,,,,,,personal,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,7:54,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,3pt,12,30
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,7:53,LAL,rebound,,,,,,,,,,Kobe Bryant,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,7:47,DAL,foul,,,,,,,,Kobe Bryant,,Kris Humphries,,,,,,shooting,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,7:47,LAL,free throw,,,,,,,1,,2,Kobe Bryant,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,7:47,DAL,sub,,,,Shawn Marion,,Kris Humphries,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,7:47,LAL,free throw,,,,,,,2,,2,Kobe Bryant,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,7:27,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,3pt,40,31
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,7:26,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,7:13,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,floating jump,25,13
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,6:55,LAL,turnover,,,,,,,,,,Lamar Odom,,,traveling,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,6:41,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,alley oop dunk,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,6:40,LAL,timeout,,,,,,,,,,,,,,,,short,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,6:22,LAL,turnover,,,,,,,,,,Josh Powell,,,step out of bounds turnover,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,5:59,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,running layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,5:58,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,5:58,DAL,shot,,,,,,,,,,Shawn Marion,2,,,made,,tip,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,5:42,LAL,shot,Shannon Brown,,,,,,,,,Kobe Bryant,3,,,made,,3pt,14,30
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,5:22,DAL,turnover,,,,,,,,,,Jason Kidd,,,bad pass,,Derek Fisher,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,5:18,LAL,turnover,,,,,,,,,,Kobe Bryant,,,out of bounds lost ball turnover,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,5:07,DAL,shot,Jose Juan Barea,,,,,,,,,Shawn Marion,2,,,made,,floating jump,23,11
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,4:47,LAL,shot,,,,,,,,,,Lamar Odom,2,,,made,,jump,35,17
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,4:26,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,3pt,13,30
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,4:25,LAL,rebound,,,,,,,,,,Derek Fisher,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,4:16,LAL,shot,,,,,,,,,,Kobe Bryant,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,4:13,DAL,rebound,,,,,,,,,,Jason Terry,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:59,DAL,shot,,,Lamar Odom,,,,,,,Jason Terry,,,,missed,,layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:57,LAL,rebound,,,,,,,,,,Shannon Brown,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:49,LAL,shot,,,,,,,,,,Shannon Brown,,,,missed,,jump,23,26
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:48,LAL,rebound,,,,,,,,,,Lamar Odom,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:46,LAL,shot,,,,,,,,,,Lamar Odom,,,,missed,,layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:45,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:34,LAL,foul,,,,,,,,Dirk Nowitzki,,Shannon Brown,,,,,,shooting,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:34,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:34,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:21,LAL,turnover,,,,,,,,,,Lamar Odom,,,bad pass,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:04,LAL,foul,,,,,,,,Jose Juan Barea,,Derek Fisher,,,,,,personal,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Josh Powell,Kobe Bryant,Lamar Odom,Shannon Brown,4,3:04,DAL,free throw,,,,,,,1,,2,Jose Juan Barea,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Derek Fisher,Jordan Farmar,Josh Powell,Kobe Bryant,Shannon Brown,4,3:04,LAL,sub,,,,Jordan Farmar,,Lamar Odom,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Adam Morrison,Derek Fisher,Jordan Farmar,Josh Powell,Shannon Brown,4,3:04,LAL,sub,,,,Adam Morrison,,Kobe Bryant,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Shannon Brown,4,3:04,LAL,sub,,,,Luke Walton,,Derek Fisher,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,3:04,LAL,sub,,,,Sasha Vujacic,,Shannon Brown,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,3:04,DAL,free throw,,,,,,,2,,2,Jose Juan Barea,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:50,LAL,shot,,,,,,,,,,Adam Morrison,,,,missed,,jump,37,18
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:49,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:49,DAL,timeout,,,,,,,,,,,,,,,,official,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Rodrigue Beaubois,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:49,DAL,sub,,,,Rodrigue Beaubois,,Jason Kidd,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Rodrigue Beaubois,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:46,DAL,jump ball,,Dirk Nowitzki,,,Sasha Vujacic,,,,,,,Luke Walton,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Rodrigue Beaubois,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:46,DAL,turnover,,,,,,,,,,Dirk Nowitzki,,,poss lost ball turnover,,Sasha Vujacic,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Rodrigue Beaubois,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:38,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,jump,38,11
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Rodrigue Beaubois,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:38,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Rodrigue Beaubois,Shawn Marion,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:38,DAL,timeout,,,,,,,,,,,,,,,,short,,
+Dirk Nowitzki,James Singleton,Jason Terry,Jose Juan Barea,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:38,DAL,sub,,,,James Singleton,,Shawn Marion,,,,,,,,,,,,
+James Singleton,Jason Terry,Jose Juan Barea,Kris Humphries,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:38,DAL,sub,,,,Kris Humphries,,Dirk Nowitzki,,,,,,,,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:38,DAL,sub,,,,Matt Carroll,,Jason Terry,,,,,,,,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:16,DAL,shot,,,,,,,,,,Matt Carroll,,,,missed,,3pt,2,8
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:15,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,off,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:15,DAL,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,2:01,LAL,shot,,,,,,,,,,Josh Powell,2,,,made,,jump,38,15
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,1:40,DAL,shot,,,,,,,,,,James Singleton,,,,missed,,3pt,11,30
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,1:39,LAL,rebound,,,,,,,,,,Jordan Farmar,,,,,,def,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,1:36,LAL,foul,,,,,,,,Jose Juan Barea,,Sasha Vujacic,,,,,,offensive,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,1:36,LAL,turnover,,,,,,,,,,Sasha Vujacic,,,foul,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,1:28,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,layup,25,6
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,1:27,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,off,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,1:27,DAL,shot,,,,,,,,,,Kris Humphries,2,,,made,,tip,25,6
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,1:10,LAL,shot,,,,,,,,,,Jordan Farmar,,,,missed,,jump,20,22
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,1:08,DAL,rebound,,,,,,,,,,,,,,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,0:48,DAL,foul,,,,,,,,Sasha Vujacic,,Kris Humphries,,,,,,offensive,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,0:48,DAL,turnover,,,,,,,,,,Kris Humphries,,,foul,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,0:41,DAL,violation,,,,,,,,,,Kris Humphries,,,,,,defensive goaltending,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,0:41,LAL,shot,,,,,,,,,,Luke Walton,2,,,made,,driving layup,25,6
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,0:23,DAL,turnover,,,,,,,,,,Jose Juan Barea,,,traveling,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Adam Morrison,Jordan Farmar,Josh Powell,Luke Walton,Sasha Vujacic,4,0:16,LAL,shot,Sasha Vujacic,,,,,,,,,Josh Powell,3,,,made,,3pt,2,5

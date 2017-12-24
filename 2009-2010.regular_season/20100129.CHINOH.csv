@@ -1,0 +1,497 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,12:00,OFF,jump ball,,Joakim Noah,,,Emeka Okafor,,,,,,,Taj Gibson,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,11:40,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,jump,21,17
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,11:15,NOH,shot,,,,,,,,,,David West,,,,missed,,jump,24,14
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,11:14,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,11:03,CHI,shot,Joakim Noah,,,,,,,,,Taj Gibson,2,,,made,,dunk,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,10:50,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,jump,17,23
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,10:49,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,10:43,CHI,turnover,,,,,,,,,,Derrick Rose,,,lost ball,,Chris Paul,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,10:39,NOH,shot,Chris Paul,,,,,,,,,Marcus Thornton,3,,,made,,3pt,45,21
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,10:16,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,32,10
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,10:15,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,10:01,NOH,shot,,,,,,,,,,David West,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,10:00,NOH,rebound,,,,,,,,,,David West,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,9:59,NOH,turnover,,,,,,,,,,David West,,,out of bounds lost ball turnover,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,9:45,CHI,shot,Kirk Hinrich,,,,,,,,,Luol Deng,3,,,made,,3pt,48,4
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,9:27,NOH,shot,,,,,,,,,,Marcus Thornton,3,,,made,,3pt,26,32
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,9:08,CHI,shot,Kirk Hinrich,,,,,,,,,Luol Deng,2,,,made,,running jump,26,13
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:53,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,jump,29,12
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:51,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:43,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,11,17
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:43,NOH,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:30,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,jump,40,5
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:29,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:28,NOH,shot,,,,,,,,,,Peja Stojakovic,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:16,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,dunk,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:15,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:01,CHI,foul,,,,,,,,Peja Stojakovic,,Luol Deng,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:01,NOH,free throw,,,,,,,1,,2,Peja Stojakovic,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,8:01,NOH,free throw,,,,,,,2,,2,Peja Stojakovic,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,7:46,CHI,shot,Taj Gibson,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,8,26
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,7:29,NOH,shot,David West,,,,,,,,,Chris Paul,3,,,made,,3pt,35,30
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,7:15,CHI,shot,,,Emeka Okafor,,,,,,,Taj Gibson,,,,missed,,jump,16,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,7:14,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,7:13,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,7:10,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,7:05,CHI,foul,,,,,,,,Chris Paul,,Joakim Noah,,,,,,personal,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,6:54,NOH,shot,,,Joakim Noah,,,,,,,Peja Stojakovic,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,6:52,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,6:49,CHI,turnover,,,,,,,,,,Joakim Noah,,,bad pass,,Marcus Thornton,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,6:48,CHI,foul,,,,,,,,Marcus Thornton,,Taj Gibson,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,6:48,NOH,free throw,,,,,,,1,,2,Marcus Thornton,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,6:48,NOH,free throw,,,,,,,2,,2,Marcus Thornton,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,6:36,CHI,shot,Taj Gibson,,,,,,,,,Derrick Rose,2,,,made,,driving dunk,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,6:13,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,6:12,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,6:06,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,12,20
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,6:05,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:57,CHI,foul,,,,,,,,Emeka Okafor,,Joakim Noah,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:57,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:57,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:57,NOH,free throw,,,,,,,1,,2,Emeka Okafor,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:57,NOH,free throw,,,,,,,2,,2,Emeka Okafor,,,foul,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:45,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,18,20
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:44,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:35,NOH,shot,,,Kirk Hinrich,,,,,,,Chris Paul,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:34,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:30,CHI,shot,Derrick Rose,,,,,,,,,Luol Deng,2,,,made,,dunk,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:11,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,3pt,49,17
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,5:10,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,4:56,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,hook,29,12
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,4:44,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,25,25
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,4:43,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,4:29,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,25,26
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,4:28,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,4:17,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,jump,37,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,4:16,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,4:04,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,11,12
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,4:02,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,3:54,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,3:53,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,3:53,NOH,shot,,,,,,,,,,Emeka Okafor,2,,,made,,tip,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,3:37,CHI,shot,Derrick Rose,,,,,,,,,Brad Miller,2,,,made,,jump,29,27
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,3:14,NOH,turnover,,,,,,,,,,Chris Paul,,,bad pass,,Brad Miller,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,3:11,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,3:11,NOH,foul,,,,,,,,Luol Deng,,Marcus Thornton,,,,,,shooting,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,3:11,CHI,sub,,,,John Salmons,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,3:11,CHI,sub,,,,Tyrus Thomas,,Kirk Hinrich,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,3:11,CHI,free throw,,,,,,,1,,1,Luol Deng,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:57,NOH,shot,,,,,,,,,,Marcus Thornton,3,,,made,,3pt,7,24
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:43,CHI,shot,,,Emeka Okafor,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:42,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:40,NOH,turnover,,,,,,,,,,Peja Stojakovic,,,lost ball,,Derrick Rose,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:34,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:33,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:31,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:30,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:22,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,3pt,8,26
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:21,CHI,rebound,,,,,,,,,,John Salmons,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:07,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,14,14
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:06,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,2:02,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,1:51,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,1:51,NOH,sub,,,,Darius Songaila,,David West,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,1:41,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,3pt,32,33
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,1:40,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,1:16,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,jump,25,25
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,1:14,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,1:14,CHI,sub,,,,Kirk Hinrich,,Derrick Rose,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,1:00,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,40,9
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:59,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,def,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:47,NOH,turnover,,,,,,,,,,Darius Songaila,,,bad pass,,John Salmons,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:44,CHI,shot,,,,,,,,,,John Salmons,2,,,made,,layup,25,6
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:33,NOH,shot,,,,,,,,,,Chris Paul,3,,,made,,3pt,29,31
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:25,CHI,shot,Kirk Hinrich,,,,,,,,,Tyrus Thomas,2,,,made,,jump,30,27
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:15,CHI,foul,,,,,,,,Chris Paul,,Kirk Hinrich,,,,,,personal,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:15,NOH,free throw,,,,,,,1,,2,Chris Paul,,,foul,made,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:15,NOH,free throw,,,,,,,2,,2,Chris Paul,,,foul,made,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:01,CHI,shot,John Salmons,,,,,,,,,Brad Miller,3,,,made,,3pt,24,32
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:01,NOH,turnover,,,,,,,,,,Darius Songaila,,,bad pass,,Luol Deng,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:00,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,3pt,4,21
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Emeka Okafor,Marcus Thornton,Peja Stojakovic,1,0:00,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,11:38,NOH,turnover,,,,,,,,,,Darren Collison,,,lost ball,,Tyrus Thomas,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,11:35,CHI,shot,,,,,,,,,,Tyrus Thomas,2,,,made,,layup,25,6
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,11:35,NOH,foul,,,,,,,,Tyrus Thomas,,Darius Songaila,,,,,,shooting,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,11:35,CHI,free throw,,,,,,,1,,1,Tyrus Thomas,,,foul,made,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,11:29,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,jump,13,9
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,11:28,CHI,rebound,,,,,,,,,,James Johnson,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,11:11,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,layup,25,6
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,11:09,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,11:03,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,jump,30,23
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,11:01,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,off,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,10:44,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,jump,41,19
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,10:43,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,10:33,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,3,18
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,10:30,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,10:15,NOH,shot,Emeka Okafor,,,,,,,,,Peja Stojakovic,3,,,made,,3pt,44,21
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,9:58,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,jump,40,18
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,9:56,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,9:45,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,jump,42,7
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,9:44,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,9:38,CHI,shot,Kirk Hinrich,,,,,,,,,Tyrus Thomas,2,,,made,,jump,11,11
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,9:16,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,jump,32,14
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,9:15,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,9:05,CHI,turnover,,,,,,,,,,Brad Miller,,,bad pass,,,,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,9:05,CHI,sub,,,,Derrick Rose,,Kirk Hinrich,,,,,,,,,,,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,8:43,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,3pt,24,32
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,8:42,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Darius Songaila,Darren Collison,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,8:42,CHI,timeout,,,,,,,,,,,,,,,,official,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Darius Songaila,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,2,8:42,NOH,sub,,,,David West,,Emeka Okafor,,,,,,,,,,,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Darius Songaila,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,2,8:28,NOH,foul,,,,,,,,John Salmons,,Marcus Thornton,,,,,,shooting,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Darius Songaila,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,2,8:28,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,made,,,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Darius Songaila,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,2,8:28,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,made,,,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Darius Songaila,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,2,8:07,NOH,shot,Darren Collison,,,,,,,,,Darius Songaila,2,,,made,,hook,19,9
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Darius Songaila,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,2,7:47,NOH,foul,,,,,,,,Tyrus Thomas,,Peja Stojakovic,,,,,,shooting,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Darius Songaila,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,2,7:47,CHI,free throw,,,,,,,1,,2,Tyrus Thomas,,,foul,made,,,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Peja Stojakovic,2,7:47,NOH,sub,,,,Chris Paul,,Marcus Thornton,,,,,,,,,,,,
+Brad Miller,Derrick Rose,James Johnson,John Salmons,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,7:47,NOH,sub,,,,Julian Wright,,Peja Stojakovic,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,7:47,CHI,sub,,,,Taj Gibson,,James Johnson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,7:47,CHI,free throw,,,,,,,2,,2,Tyrus Thomas,,,foul,made,,,,
+Brad Miller,Derrick Rose,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,7:33,NOH,shot,Chris Paul,,,,,,,,,Darius Songaila,2,,,made,,jump,41,11
+Brad Miller,Derrick Rose,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,7:15,CHI,turnover,,,,,,,,,,Derrick Rose,,,lost ball,,Julian Wright,,,
+Brad Miller,Derrick Rose,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,7:11,CHI,violation,,,,,,,,,,Brad Miller,,,,,,kicked ball,,
+Brad Miller,Derrick Rose,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,7:02,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,36,15
+Brad Miller,Derrick Rose,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,7:01,NOH,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:54,NOH,shot,Chris Paul,,,,,,,,,David West,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:42,NOH,foul,,,,,,,,Derrick Rose,,Darren Collison,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:42,CHI,sub,,,,Joakim Noah,,Brad Miller,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:33,NOH,foul,,,,,,,,John Salmons,,Chris Paul,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:33,CHI,free throw,,,,,,,1,,2,John Salmons,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:33,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:33,CHI,free throw,,,,,,,2,,2,John Salmons,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:13,NOH,shot,Chris Paul,,,,,,,,,David West,2,,,made,,driving layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:13,CHI,foul,,,,,,,,David West,,Taj Gibson,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:13,CHI,sub,,,,Kirk Hinrich,,Tyrus Thomas,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:13,CHI,sub,,,,Luol Deng,,John Salmons,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,6:13,NOH,free throw,,,,,,,1,,1,David West,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,5:58,CHI,shot,Luol Deng,,,,,,,,,Joakim Noah,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,5:46,NOH,shot,Chris Paul,,,,,,,,,Darius Songaila,2,,,made,,jump,28,27
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,5:33,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,driving layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,5:33,NOH,foul,,,,,,,,Derrick Rose,,David West,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,5:33,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,5:33,CHI,free throw,,,,,,,1,,1,Derrick Rose,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,5:32,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,5:14,NOH,shot,Chris Paul,,,,,,,,,David West,2,,,made,,jump,38,13
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:55,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,36,9
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:54,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:36,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,37,5
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:35,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:29,NOH,shot,,,,,,,,,,Darren Collison,,,,missed,,jump,41,7
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:28,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:22,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:21,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:18,CHI,shot,Taj Gibson,,,,,,,,,Luol Deng,2,,,made,,jump,24,17
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:15,NOH,turnover,,,,,,,,,,Chris Paul,,,traveling,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:08,NOH,foul,,,,,,,,Joakim Noah,,David West,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:08,CHI,free throw,,,,,,,1,,2,Joakim Noah,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,4:08,CHI,free throw,,,,,,,2,,2,Joakim Noah,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:47,NOH,shot,,,,,,,,,,David West,,,,missed,,jump,12,16
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:46,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:46,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,tip,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:44,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:44,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,tip,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:43,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:38,CHI,shot,Joakim Noah,,,,,,,,,Derrick Rose,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:09,NOH,shot,,,,,,,,,,David West,,,,missed,,jump,36,11
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:08,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:02,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,20,24
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:00,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:00,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:00,CHI,sub,,,,Brad Miller,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,2,3:00,CHI,sub,,,,Tyrus Thomas,,Joakim Noah,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Julian Wright,Marcus Thornton,2,3:00,NOH,sub,,,,Marcus Thornton,,Darren Collison,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,3:00,NOH,sub,,,,Peja Stojakovic,,Julian Wright,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,2:42,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,2:41,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,off,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,2:40,CHI,shot,,,,,,,,,,Tyrus Thomas,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,2:27,CHI,foul,,,,,,,,Chris Paul,,Brad Miller,,,,,,personal,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,2:12,NOH,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,2:00,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,25,21
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,1:59,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,1:45,NOH,shot,Chris Paul,,,,,,,,,Darius Songaila,2,,,made,,jump,27,25
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,1:26,NOH,foul,,,,,,,,,,David West,,,,,,defense 3 second,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,1:26,CHI,free throw,,,,,,,1,,1,Brad Miller,,,technical,made,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,1:17,CHI,turnover,,,,,,,,,,Kirk Hinrich,,,traveling,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,1:06,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,jump,34,24
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,1:05,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,1:01,NOH,foul,,,,,,,,Tyrus Thomas,,Darius Songaila,,,,,,personal,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,1:01,CHI,free throw,,,,,,,1,,2,Tyrus Thomas,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,2,1:01,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,1:01,NOH,sub,,,,Emeka Okafor,,Darius Songaila,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,1:01,CHI,free throw,,,,,,,2,,2,Tyrus Thomas,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,1:00,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,0:47,NOH,shot,Chris Paul,,,,,,,,,Marcus Thornton,3,,,made,,3pt,2,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,0:36,CHI,shot,Derrick Rose,,,,,,,,,Brad Miller,2,,,made,,driving layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,0:29,NOH,turnover,,,,,,,,,,Marcus Thornton,,,lost ball,,Brad Miller,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,0:26,CHI,shot,Tyrus Thomas,,,,,,,,,Kirk Hinrich,2,,,made,,layup,25,6
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,0:02,CHI,foul,,,,,,,,Emeka Okafor,,Brad Miller,,,,,,shooting,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,0:02,NOH,free throw,,,,,,,1,,2,Emeka Okafor,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,0:02,NOH,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,0:02,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,0:02,NOH,free throw,,,,,,,2,,2,Emeka Okafor,,,foul,missed,,,,
+Brad Miller,Derrick Rose,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,2,0:02,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,11:36,NOH,shot,David West,,,,,,,,,Marcus Thornton,3,,,made,,3pt,6,23
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,11:17,CHI,shot,Taj Gibson,,,,,,,,,Joakim Noah,2,,,made,,dunk,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,11:17,NOH,foul,,,,,,,,Joakim Noah,,Marcus Thornton,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,11:17,CHI,free throw,,,,,,,1,,1,Joakim Noah,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,11:00,NOH,shot,,,,,,,,,,David West,2,,,made,,fade away jumper,24,17
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,10:43,CHI,shot,Derrick Rose,,,,,,,,,Taj Gibson,2,,,made,,jump,19,20
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,10:32,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,3pt,39,26
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,10:31,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,10:21,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,hook,17,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,10:19,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,10:14,NOH,turnover,,,,,,,,,,Chris Paul,,,bad pass,,Derrick Rose,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,10:09,CHI,shot,Kirk Hinrich,,,,,,,,,Joakim Noah,2,,,made,,dunk,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,10:06,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,9:45,NOH,shot,David West,,,,,,,,,Marcus Thornton,2,,,made,,pullup jump,31,16
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,9:45,CHI,foul,,,,,,,,Marcus Thornton,,Derrick Rose,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,9:45,NOH,free throw,,,,,,,1,,1,Marcus Thornton,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,9:27,CHI,shot,,,,,,,,,,Taj Gibson,2,,,made,,turnaround hook,33,9
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,9:05,NOH,shot,Peja Stojakovic,,,,,,,,,David West,2,,,made,,fade away jumper,24,12
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,8:49,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,12,5
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,8:29,CHI,foul,,,,,,,,David West,,Taj Gibson,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,8:29,NOH,free throw,,,,,,,1,,2,David West,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,8:29,NOH,free throw,,,,,,,2,,2,David West,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,8:16,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,39,9
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,8:15,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:55,NOH,shot,,,,,,,,,,David West,,,,missed,,fade away jumper,13,15
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:54,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:53,NOH,shot,,,,,,,,,,Emeka Okafor,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:53,CHI,foul,,,,,,,,Emeka Okafor,,Luol Deng,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:53,NOH,free throw,,,,,,,1,,1,Emeka Okafor,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:39,NOH,foul,,,,,,,,Luol Deng,,Peja Stojakovic,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:39,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:39,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:22,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:20,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:14,CHI,shot,,,David West,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:12,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,7:08,NOH,turnover,,,,,,,,,,David West,,,bad pass,,Kirk Hinrich,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,6:55,CHI,shot,,,,,,,,,,Taj Gibson,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,6:38,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,6:37,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,6:26,CHI,shot,,,,,,,,,,Kirk Hinrich,3,,,made,,3pt,7,24
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,6:23,NOH,timeout,,,,,,,,,,,,,,,,short,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,6:23,NOH,violation,,,,,,,,,,,,,,,,delay of game,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,6:11,CHI,foul,,,,,,,,Chris Paul,,Taj Gibson,,,,,,personal,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,6:11,CHI,sub,,,,Tyrus Thomas,,Taj Gibson,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,6:00,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,3pt,6,26
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,5:59,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,5:44,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,42,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,5:43,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,5:34,NOH,shot,,,Tyrus Thomas,,,,,,,Emeka Okafor,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,5:34,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,off,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,5:33,NOH,shot,,,Joakim Noah,,,,,,,Emeka Okafor,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,5:32,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,5:20,CHI,shot,,,,,,,,,,Joakim Noah,2,,,made,,fade away jumper,21,14
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,5:11,NOH,shot,,,,,,,,,,David West,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,4:58,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,35,16
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,4:56,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,4:52,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,floating jump,14,10
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,4:52,CHI,foul,,,,,,,,Chris Paul,,Kirk Hinrich,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,3,4:52,CHI,sub,,,,John Salmons,,Kirk Hinrich,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,4:52,NOH,sub,,,,Darius Songaila,,Emeka Okafor,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,4:52,NOH,sub,,,,Darren Collison,,Peja Stojakovic,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,4:52,NOH,free throw,,,,,,,1,,1,Chris Paul,,,foul,made,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,4:36,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,jump,25,12
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,4:12,NOH,shot,,,,,,,,,,Darren Collison,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,4:11,NOH,rebound,,,,,,,,,,David West,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,4:10,NOH,shot,,,,,,,,,,David West,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,3:58,NOH,foul,,,,,,,,Joakim Noah,,Darren Collison,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,3:52,CHI,shot,Joakim Noah,,,,,,,,,Luol Deng,2,,,made,,driving layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,3:30,NOH,shot,,,Joakim Noah,,,,,,,Darius Songaila,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,3:30,NOH,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,3:20,NOH,shot,,,,,,,,,,David West,,,,missed,,3pt,28,30
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,3:20,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,3:10,NOH,foul,,,,,,,,Luol Deng,,Marcus Thornton,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,3:02,CHI,shot,Luol Deng,,,,,,,,,John Salmons,3,,,made,,3pt,9,27
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,2:45,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,jump,41,4
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,2:44,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,2:44,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,putback dunk,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,2:43,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,2:38,CHI,shot,Tyrus Thomas,,,,,,,,,Luol Deng,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,2:35,CHI,violation,,,,,,,,,,,,,,,,delay of game,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,2:21,CHI,foul,,,,,,,,Darren Collison,,Luol Deng,,,,,,shooting,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Marcus Thornton,3,2:21,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,2:21,NOH,sub,,,,Julian Wright,,Marcus Thornton,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,2:21,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,2:21,CHI,sub,,,,Kirk Hinrich,,Derrick Rose,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,2:21,NOH,free throw,,,,,,,1,,2,Darren Collison,,,foul,missed,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,2:21,NOH,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,2:21,NOH,free throw,,,,,,,2,,2,Darren Collison,,,foul,made,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,2:01,NOH,foul,,,,,,,,Luol Deng,,Julian Wright,,,,,,shooting,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,2:01,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,made,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,2:01,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,made,,,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,1:44,NOH,shot,David West,,,,,,,,,Julian Wright,2,,,made,,driving slam dunk,25,6
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,1:13,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,38,30
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,1:12,NOH,rebound,,,,,,,,,,Julian Wright,,,,,,def,,
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,1:00,NOH,shot,,,,,,,,,,David West,,,,missed,,layup,25,6
+Brad Miller,John Salmons,Kirk Hinrich,Luol Deng,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,0:59,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,0:43,CHI,sub,,,,James Johnson,,Luol Deng,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,0:34,CHI,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,0:26,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,jump,37,23
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,0:26,NOH,rebound,,,,,,,,,,Julian Wright,,,,,,off,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,0:26,NOH,shot,,,,,,,,,,Julian Wright,,,,missed,,tip,25,6
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,0:25,NOH,rebound,,,,,,,,,,Julian Wright,,,,,,off,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,0:24,NOH,shot,,,,,,,,,,Julian Wright,2,,,made,,layup,25,6
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,David West,Julian Wright,3,0:04,CHI,turnover,,,,,,,,,,Kirk Hinrich,,,poss lost ball turnover,,Darren Collison,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,11:46,CHI,turnover,,,,,,,,,,Brad Miller,,,bad pass,,Darren Collison,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,11:40,NOH,shot,,,,,,,,,,Darren Collison,2,,,made,,pullup jump,40,24
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,11:12,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,layup,25,6
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,11:12,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,11:12,CHI,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:53,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,jump,28,12
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:52,CHI,rebound,,,,,,,,,,Tyrus Thomas,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:50,CHI,turnover,,,,,,,,,,Tyrus Thomas,,,poss lost ball turnover,,Darius Songaila,,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:50,CHI,foul,,,,,,,,Darius Songaila,,Tyrus Thomas,,,,,,loose ball,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:40,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,jump,14,21
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:22,CHI,shot,,,,,,,,,,Tyrus Thomas,,,,missed,,jump,35,20
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:21,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:09,NOH,shot,Darren Collison,,,,,,,,,Peja Stojakovic,3,,,made,,3pt,48,17
+Brad Miller,James Johnson,John Salmons,Kirk Hinrich,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:06,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+James Johnson,John Salmons,Kirk Hinrich,Taj Gibson,Tyrus Thomas,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:06,CHI,sub,,,,Taj Gibson,,Brad Miller,,,,,,,,,,,,
+James Johnson,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:06,CHI,sub,,,,Joakim Noah,,Tyrus Thomas,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,10:06,CHI,sub,,,,Derrick Rose,,James Johnson,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,9:54,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,27,19
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,9:38,NOH,shot,Julian Wright,,,,,,,,,Darius Songaila,2,,,made,,jump,37,18
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,9:11,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,27,28
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,9:10,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,8:59,NOH,shot,,,,,,,,,,Julian Wright,,,,missed,,jump,11,18
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,8:58,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,8:55,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,8:54,NOH,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,8:48,NOH,shot,,,,,,,,,,Julian Wright,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,8:48,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,8:48,NOH,foul,,,,,,,,Joakim Noah,,Darius Songaila,,,,,,loose ball,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,8:35,CHI,turnover,,,,,,,,,,Joakim Noah,,,bad pass,,Chris Paul,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,8:11,NOH,shot,Darius Songaila,,,,,,,,,Chris Paul,3,,,made,,3pt,30,32
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,7:50,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,12,30
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,7:49,NOH,rebound,,,,,,,,,,Julian Wright,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,7:45,NOH,shot,,,,,,,,,,Darren Collison,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,7:44,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,7:37,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,running layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,7:29,CHI,foul,,,,,,,,Chris Paul,,Kirk Hinrich,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Darren Collison,Julian Wright,Peja Stojakovic,4,7:29,CHI,sub,,,,Luol Deng,,Kirk Hinrich,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,7:29,NOH,sub,,,,Marcus Thornton,,Darren Collison,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,7:10,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,3pt,15,31
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,7:09,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,6:52,CHI,shot,,,,,,,,,,John Salmons,,,,missed,,3pt,9,26
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,6:51,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,6:42,NOH,shot,,,,,,,,,,Julian Wright,,,,missed,,jump,7,12
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,6:41,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,6:16,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,6:14,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,def,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,6:09,NOH,shot,Chris Paul,,,,,,,,,Peja Stojakovic,3,,,made,,3pt,42,23
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:57,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:57,CHI,timeout,,,,,,,,,,,,,,,,official,,
+Derrick Rose,Joakim Noah,John Salmons,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:44,NOH,foul,,,,,,,,John Salmons,,Darius Songaila,,,,,,personal,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:44,CHI,sub,,,,Kirk Hinrich,,John Salmons,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:35,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,38,8
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:34,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:28,NOH,shot,,,,,,,,,,Darius Songaila,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:08,NOH,foul,,,,,,,,Luol Deng,,Darius Songaila,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:08,CHI,free throw,,,,,,,1,,2,Luol Deng,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:08,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:08,NOH,sub,,,,David West,,Darius Songaila,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:08,CHI,free throw,,,,,,,2,,2,Luol Deng,,,foul,missed,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,5:05,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,4:43,NOH,shot,,,,,,,,,,Julian Wright,,,,missed,,jump,25,15
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,4:42,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,4:22,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,jump,14,19
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,4:19,NOH,rebound,,,,,,,,,,Julian Wright,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,4:09,NOH,shot,,,,,,,,,,David West,,,,missed,,jump,40,3
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,4:08,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,3:59,CHI,turnover,,,,,,,,,,Derrick Rose,,,discontinue dribble,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,3:44,NOH,shot,,,Taj Gibson,,,,,,,Julian Wright,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,3:42,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,3:41,CHI,turnover,,,,,,,,,,Joakim Noah,,,bad pass,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,3:25,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,3pt,42,26
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,3:24,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,3:07,CHI,shot,,,David West,,,,,,,Taj Gibson,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,3:07,CHI,rebound,,,,,,,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,3:00,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,34,20
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,2:59,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,2:48,NOH,shot,Chris Paul,,,,,,,,,David West,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,2:48,CHI,foul,,,,,,,,David West,,Taj Gibson,,,,,,shooting,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,2:48,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Taj Gibson,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,2:48,NOH,sub,,,,Darius Songaila,,Julian Wright,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,2:48,CHI,sub,,,,Brad Miller,,Taj Gibson,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,2:48,NOH,free throw,,,,,,,1,,1,David West,,,foul,made,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,2:24,CHI,shot,Kirk Hinrich,,,,,,,,,Brad Miller,2,,,made,,jump,22,14
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,2:06,NOH,shot,,,,,,,,,,David West,,,,missed,,fade away jumper,26,16
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,2:05,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,1:52,NOH,foul,,,,,,,,Derrick Rose,,David West,,,,,,shooting,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,1:52,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,made,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,1:52,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,made,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,1:36,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,jump,6,4
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,1:35,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,1:18,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,15,6
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,1:17,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,1:16,CHI,shot,,,,,,,,,,Joakim Noah,2,,,made,,tip,25,6
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,0:51,NOH,shot,Chris Paul,,,,,,,,,David West,3,,,made,,3pt,33,33
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,0:51,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,0:51,CHI,sub,,,,John Salmons,,Joakim Noah,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,0:51,NOH,sub,,,,Julian Wright,,Darius Songaila,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,0:43,NOH,foul,,,,,,,,Brad Miller,,David West,,,,,,personal,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,0:43,CHI,free throw,,,,,,,1,,2,Brad Miller,,,foul,made,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,0:43,CHI,sub,,,,Joakim Noah,,John Salmons,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,0:43,CHI,free throw,,,,,,,2,,2,Brad Miller,,,foul,made,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,0:43,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,0:43,NOH,sub,,,,Darius Songaila,,Julian Wright,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,0:43,CHI,sub,,,,John Salmons,,Brad Miller,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,0:30,NOH,shot,Chris Paul,,,,,,,,,David West,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,0:30,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,4,0:30,CHI,sub,,,,Brad Miller,,Joakim Noah,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,0:30,NOH,sub,,,,Julian Wright,,Darius Songaila,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Julian Wright,Marcus Thornton,4,0:26,NOH,sub,,,,Darren Collison,,Peja Stojakovic,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Julian Wright,Marcus Thornton,4,0:17,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,3pt,1,5
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Julian Wright,Marcus Thornton,4,0:17,CHI,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Julian Wright,Marcus Thornton,4,0:11,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Julian Wright,Marcus Thornton,4,0:10,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Julian Wright,Marcus Thornton,4,0:08,CHI,foul,,,,,,,,David West,,Luol Deng,,,,,,personal,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Julian Wright,Marcus Thornton,4,0:08,CHI,sub,,,,Joakim Noah,,Brad Miller,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,4,0:08,NOH,sub,,,,Peja Stojakovic,,Julian Wright,,,,,,,,,,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,4,0:07,NOH,turnover,,,,,,,,,,David West,,,bad pass,,Kirk Hinrich,,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,4,0:02,CHI,shot,,,David West,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,4,0:01,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,off,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,4,0:00,CHI,shot,,,,,,,,,,Luol Deng,2,,,made,,layup,25,6
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Marcus Thornton,Peja Stojakovic,4,0:00,NOH,timeout,,,,,,,,,,,,,,,,short,,
+Derrick Rose,Joakim Noah,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,David West,Julian Wright,Marcus Thornton,Peja Stojakovic,4,0:00,NOH,sub,,,,Julian Wright,,Darren Collison,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,5:00,OFF,jump ball,,Joakim Noah,,,Emeka Okafor,,,,,,,Derrick Rose,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,4:35,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,hook,33,8
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,4:34,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,4:16,NOH,shot,,,,,,,,,,David West,2,,,made,,driving layup,25,6
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,4:01,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,39,18
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,4:01,NOH,rebound,,,,,,,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,3:39,NOH,shot,,,,,,,,,,David West,,,,missed,,layup,25,6
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,3:38,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,3:33,CHI,shot,,,,,,,,,,Kirk Hinrich,2,,,made,,pullup jump,16,21
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,3:08,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,3pt,26,32
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,3:07,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,2:52,CHI,shot,,,,,,,,,,Luol Deng,,,,missed,,jump,18,12
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,2:50,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,2:50,CHI,shot,,,,,,,,,,Joakim Noah,,,,missed,,tip,25,6
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,2:49,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,2:24,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,19,23
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,2:23,CHI,rebound,,,,,,,,,,Luol Deng,,,,,,def,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,2:13,NOH,foul,,,,,,,,Derrick Rose,,David West,,,,,,shooting,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,2:13,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,made,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Darren Collison,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,2:13,NOH,sub,,,,Darren Collison,,Chris Paul,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Darren Collison,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,2:13,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,made,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Darren Collison,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,1:55,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,3pt,2,5
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Darren Collison,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,1:54,CHI,rebound,,,,,,,,,,Derrick Rose,,,,,,def,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Darren Collison,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,1:40,CHI,turnover,,,,,,,,,,Brad Miller,,,bad pass,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Darren Collison,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,1:21,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,driving layup,25,6
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Darren Collison,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,1:20,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,def,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Darren Collison,David West,Emeka Okafor,Marcus Thornton,Peja Stojakovic,5,1:16,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Emeka Okafor,Peja Stojakovic,5,1:16,NOH,sub,,,,Chris Paul,,Marcus Thornton,,,,,,,,,,,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Emeka Okafor,Peja Stojakovic,5,0:59,CHI,shot,Derrick Rose,,,,,,,,,Brad Miller,2,,,made,,jump,25,27
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Emeka Okafor,Peja Stojakovic,5,0:48,NOH,shot,,,,,,,,,,David West,2,,,made,,step back jump,36,11
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Emeka Okafor,Peja Stojakovic,5,0:30,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,3pt,31,30
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Emeka Okafor,Peja Stojakovic,5,0:29,CHI,rebound,,,,,,,,,,Joakim Noah,,,,,,off,,
+Brad Miller,Derrick Rose,Joakim Noah,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Emeka Okafor,Peja Stojakovic,5,0:27,NOH,foul,,,,,,,,Joakim Noah,,Chris Paul,,,,,,personal,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Emeka Okafor,Peja Stojakovic,5,0:27,CHI,sub,,,,John Salmons,,Joakim Noah,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Julian Wright,Peja Stojakovic,5,0:27,NOH,sub,,,,Julian Wright,,Emeka Okafor,,,,,,,,,,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Julian Wright,Peja Stojakovic,5,0:08,CHI,turnover,,,,,,,,,,Derrick Rose,,,lost ball,,Peja Stojakovic,,,
+Brad Miller,Derrick Rose,John Salmons,Kirk Hinrich,Luol Deng,Chris Paul,Darren Collison,David West,Julian Wright,Peja Stojakovic,5,0:00,NOH,turnover,,,,,,,,,,Darren Collison,,,lost ball,,Derrick Rose,,,

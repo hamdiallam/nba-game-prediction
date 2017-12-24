@@ -1,0 +1,455 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,12:00,OFF,jump ball,,Josh Smith,,,Brad Miller,,,,,,,Derrick Rose,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,11:43,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,30,15
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,11:41,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,11:26,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,10,13
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,11:25,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,11:08,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,36,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,11:07,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,10:56,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,10:46,CHI,shot,,,,,,,,,,James Johnson,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,10:45,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,10:38,ATL,shot,Josh Smith,,,,,,,,,Al Horford,2,,,made,,jump,43,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,10:25,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,10:24,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,10:17,ATL,shot,Marvin Williams,,,,,,,,,Mike Bibby,3,,,made,,3pt,8,25
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:58,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,13,23
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:56,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:56,CHI,shot,,,,,,,,,,Taj Gibson,2,,,made,,tip,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:38,ATL,shot,Josh Smith,,,,,,,,,Mike Bibby,2,,,made,,jump,33,24
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:24,ATL,violation,,,,,,,,,,Mike Bibby,,,,,,kicked ball,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:18,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,running jump,22,13
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:17,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:09,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,44,23
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:08,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:08,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,tip,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:07,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:07,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,tip,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:06,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,9:00,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,8:35,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,45,7
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,8:34,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,8:21,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,jump,33,21
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,8:19,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,8:03,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,3pt,48,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,8:02,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,7:55,ATL,foul,,,,,,,,Derrick Rose,,Mike Bibby,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,7:55,CHI,free throw,,,,,,,1,,2,Derrick Rose,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,7:55,CHI,free throw,,,,,,,2,,2,Derrick Rose,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,7:37,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,27,13
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,7:36,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,7:32,CHI,turnover,,,,,,,,,,Brad Miller,,,bad pass,,Mike Bibby,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,7:30,ATL,shot,Marvin Williams,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,7:30,CHI,foul,,,,,,,,Josh Smith,,Brad Miller,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,1,7:30,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,7:30,CHI,sub,,,,Ronald Murray,,Derrick Rose,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,7:30,ATL,free throw,,,,,,,1,,1,Josh Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,7:18,CHI,shot,Taj Gibson,,,,,,,,,Kirk Hinrich,2,,,made,,jump,40,21
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:56,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,34,9
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:55,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:55,CHI,foul,,,,,,,,Al Horford,,Taj Gibson,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:55,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:55,ATL,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:55,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:47,CHI,turnover,,,,,,,,,,Kirk Hinrich,,,bad pass,,Josh Smith,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:44,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,running layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:30,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,49,13
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:29,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:18,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,6:03,CHI,shot,,,,,,,,,,Ronald Murray,2,,,made,,driving reverse layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,5:51,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,37,28
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,5:50,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,5:50,ATL,shot,Al Horford,,,,,,,,,Marvin Williams,2,,,made,,slam dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,5:33,CHI,shot,,,,,,,,,,Taj Gibson,2,,,made,,jump,38,14
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,5:19,ATL,shot,,,,,,,,,,Marvin Williams,2,,,made,,jump,35,19
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,4:56,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,jump,28,16
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,4:55,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,4:55,CHI,shot,,,,,,,,,,Taj Gibson,,,,missed,,putback dunk,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,4:53,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,4:44,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,4:37,CHI,timeout,,,,,,,,,,,,,,,,short,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,4:37,ATL,sub,,,,Jamal Crawford,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,4:27,CHI,shot,Ronald Murray,,,,,,,,,Brad Miller,2,,,made,,jump,33,20
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,4:16,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,13,7
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,4:15,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,4:12,ATL,shot,Marvin Williams,,,,,,,,,Al Horford,2,,,made,,jump,14,11
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,3:50,CHI,shot,Ronald Murray,,,,,,,,,James Johnson,3,,,made,,3pt,2,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,3:28,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,fade away jumper,20,17
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,3:18,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,24,31
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,3:17,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,James Johnson,Kirk Hinrich,Ronald Murray,Taj Gibson,1,3:08,CHI,foul,,,,,,,,Jamal Crawford,,Kirk Hinrich,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,3:08,CHI,sub,,,,Hakim Warrick,,James Johnson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,3:08,ATL,sub,,,,Joe Smith,,Josh Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,3:08,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,3:08,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,2:50,CHI,shot,Kirk Hinrich,,,,,,,,,Brad Miller,2,,,made,,jump,22,15
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,2:27,ATL,shot,Al Horford,,,,,,,,,Jamal Crawford,3,,,made,,3pt,26,33
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,2:08,CHI,shot,,,,,,,,,,Hakim Warrick,2,,,made,,step back jump,41,12
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,1:45,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,3pt,48,6
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,1:44,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,1:41,ATL,foul,,,,,,,,Hakim Warrick,,Joe Smith,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Marvin Williams,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,1:41,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,1:41,ATL,sub,,,,Maurice Evans,,Marvin Williams,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,1,1:41,ATL,sub,,,,Zaza Pachulia,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,1:41,CHI,sub,,,,Jannero Pargo,,Kirk Hinrich,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,1:41,CHI,free throw,,,,,,,1,,2,Hakim Warrick,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,1:41,CHI,free throw,,,,,,,2,,2,Hakim Warrick,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,1:23,ATL,turnover,,,,,,,,,,Joe Johnson,,,bad pass,,Ronald Murray,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,1:20,CHI,turnover,,,,,,,,,,Ronald Murray,,,out of bounds lost ball turnover,,,,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,0:58,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,jump,31,24
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,0:40,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,3pt,16,29
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,0:39,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,0:29,ATL,shot,,,Taj Gibson,,,,,,,Joe Smith,,,,missed,,layup,25,6
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,0:28,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,off,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,0:26,ATL,shot,,,,,,,,,,Zaza Pachulia,,,,missed,,jump,25,11
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,0:23,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,off,,
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,0:05,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,jump,24,12
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,0:01,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,3pt,7,26
+Jamal Crawford,Joe Johnson,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,1,0:00,CHI,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,11:44,ATL,shot,Joe Smith,,,,,,,,,Jamal Crawford,3,,,made,,3pt,34,29
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,11:28,CHI,turnover,,,,,,,,,,Hakim Warrick,,,lost ball,,Jeff Teague,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,11:17,ATL,turnover,,,,,,,,,,Jeff Teague,,,bad pass,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:56,CHI,shot,,,,,,,,,,Ronald Murray,,,,missed,,3pt,48,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:55,CHI,rebound,,,,,,,,,,Hakim Warrick,,,,,,off,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:55,CHI,shot,,,,,,,,,,Hakim Warrick,,,,missed,,putback dunk,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:53,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:41,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,26,30
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:40,CHI,rebound,,,,,,,,,,Jannero Pargo,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:34,CHI,shot,,,,,,,,,,Jannero Pargo,2,,,made,,fade away jumper,39,11
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:13,ATL,shot,,,,,,,,,,Joe Smith,,,,missed,,jump,6,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:12,CHI,rebound,,,,,,,,,,Jannero Pargo,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:07,ATL,foul,,,,,,,,Hakim Warrick,,Zaza Pachulia,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:07,CHI,free throw,,,,,,,1,,2,Hakim Warrick,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:07,CHI,sub,,,,James Johnson,,Brad Miller,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,10:07,CHI,free throw,,,,,,,2,,2,Hakim Warrick,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,9:52,ATL,shot,Jamal Crawford,,,,,,,,,Maurice Evans,3,,,made,,3pt,14,28
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,9:42,CHI,shot,Jannero Pargo,,,,,,,,,Hakim Warrick,2,,,made,,layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,9:15,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,48,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,9:14,CHI,rebound,,,,,,,,,,Hakim Warrick,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,9:07,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,3pt,2,8
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,9:06,ATL,rebound,,,,,,,,,,Jeff Teague,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,8:51,ATL,shot,,,,,,,,,,Zaza Pachulia,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,8:50,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,8:45,CHI,shot,Jannero Pargo,,,,,,,,,James Johnson,2,,,made,,driving dunk,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,8:29,CHI,foul,,,,,,,,Zaza Pachulia,,Jannero Pargo,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Joe Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,8:29,ATL,timeout,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,8:29,ATL,sub,,,,Josh Smith,,Joe Smith,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,8:29,ATL,free throw,,,,,,,1,,2,Zaza Pachulia,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,8:29,ATL,free throw,,,,,,,2,,2,Zaza Pachulia,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,8:11,CHI,shot,,,,,,,,,,Ronald Murray,,,,missed,,jump,25,12
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,8:09,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,8:05,CHI,shot,Taj Gibson,,,,,,,,,James Johnson,2,,,made,,jump,15,20
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,7:32,ATL,shot,,,,,,,,,,Maurice Evans,2,,,made,,jump,11,5
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,7:30,CHI,turnover,,,,,,,,,,Taj Gibson,,,bad pass,,Zaza Pachulia,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,7:27,ATL,shot,,,,,,,,,,Zaza Pachulia,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,7:27,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,7:27,CHI,foul,,,,,,,,Zaza Pachulia,,Taj Gibson,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,7:27,ATL,free throw,,,,,,,1,,2,Zaza Pachulia,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Ronald Murray,Taj Gibson,2,7:27,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Hakim Warrick,James Johnson,Jannero Pargo,Kirk Hinrich,Ronald Murray,2,7:27,CHI,sub,,,,Kirk Hinrich,,Taj Gibson,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,Ronald Murray,2,7:27,CHI,sub,,,,Derrick Rose,,Jannero Pargo,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,7:27,CHI,sub,,,,Brad Miller,,Ronald Murray,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,7:27,ATL,free throw,,,,,,,2,,2,Zaza Pachulia,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,7:26,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,7:08,CHI,shot,,,,,,,,,,Hakim Warrick,,,,missed,,jump,17,16
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,7:07,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:52,CHI,foul,,,,,,,,Jamal Crawford,,James Johnson,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:52,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:52,ATL,sub,,,,Al Horford,,Maurice Evans,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:52,ATL,sub,,,,Marvin Williams,,Zaza Pachulia,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:52,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,made,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:37,CHI,turnover,,,,,,,,,,Brad Miller,,,bad pass,,Josh Smith,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:31,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:29,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:28,ATL,shot,,,James Johnson,,,,,,,Josh Smith,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:28,CHI,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:17,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,11,20
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:16,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:10,ATL,shot,,,,,,,,,,Jeff Teague,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,6:09,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:57,ATL,violation,,,,,,,,,,Josh Smith,,,,,,defensive goaltending,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:57,CHI,shot,Brad Miller,,,,,,,,,Derrick Rose,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:48,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:32,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,32,15
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:28,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:25,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,38,28
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:22,CHI,rebound,,,,,,,,,,James Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:14,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,12,20
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:14,CHI,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:14,ATL,foul,,,,,,,,Brad Miller,,Marvin Williams,,,,,,loose ball,,
+Al Horford,Jeff Teague,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:14,ATL,sub,,,,Mike Bibby,,Jamal Crawford,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:14,ATL,sub,,,,Joe Johnson,,Jeff Teague,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,5:00,CHI,shot,Kirk Hinrich,,,,,,,,,Brad Miller,2,,,made,,driving reverse layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,4:42,ATL,shot,Al Horford,,,,,,,,,Marvin Williams,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,4:42,CHI,foul,,,,,,,,Marvin Williams,,Hakim Warrick,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,4:42,ATL,free throw,,,,,,,1,,1,Marvin Williams,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,4:20,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,48,5
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,4:19,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,4:14,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,4:13,CHI,rebound,,,,,,,,,,Hakim Warrick,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:55,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,45,22
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:54,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:50,CHI,foul,,,,,,,,Al Horford,,James Johnson,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:50,ATL,free throw,,,,,,,1,,2,Al Horford,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:50,ATL,free throw,,,,,,,2,,2,Al Horford,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:40,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:37,CHI,rebound,,,,,,,,,,Hakim Warrick,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:37,CHI,shot,,,,,,,,,,Hakim Warrick,,,,missed,,tip,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:35,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:29,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,1,5
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:29,CHI,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:29,ATL,foul,,,,,,,,Brad Miller,,Josh Smith,,,,,,loose ball,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:04,CHI,shot,,,,,,,,,,Hakim Warrick,,,,missed,,jump,42,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:04,CHI,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,3:04,CHI,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,2:55,CHI,foul,,,,,,,,Marvin Williams,,James Johnson,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,James Johnson,Kirk Hinrich,2,2:55,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,2:55,CHI,sub,,,,Ronald Murray,,James Johnson,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,2:55,ATL,free throw,,,,,,,1,,2,Joe Johnson,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,2:55,ATL,free throw,,,,,,,2,,2,Joe Johnson,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,2:44,ATL,foul,,,,,,,,Brad Miller,,Josh Smith,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,2:29,CHI,shot,,,,,,,,,,Ronald Murray,,,,missed,,3pt,39,28
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,2:28,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,2:10,ATL,shot,,,,,,,,,,Marvin Williams,2,,,made,,jump,27,12
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,1:55,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,14,24
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,1:36,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,29,20
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,1:35,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,1:28,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,jump,40,9
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,1:27,CHI,rebound,,,,,,,,,,Ronald Murray,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,1:14,CHI,shot,Kirk Hinrich,,,,,,,,,Brad Miller,2,,,made,,driving reverse layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,2,1:03,ATL,timeout,,,,,,,,,,,,,,,,short,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,1:03,CHI,sub,,,,Taj Gibson,,Brad Miller,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,1:03,ATL,sub,,,,Jamal Crawford,,Josh Smith,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:55,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,jump,39,22
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:39,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:36,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:33,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:32,CHI,rebound,,,,,,,,,,Hakim Warrick,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:29,CHI,shot,,,,,,,,,,Ronald Murray,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:29,ATL,foul,,,,,,,,Ronald Murray,,Joe Johnson,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:29,CHI,free throw,,,,,,,1,,1,Ronald Murray,,,foul,missed,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:27,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:11,CHI,foul,,,,,,,,Joe Johnson,,Ronald Murray,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:11,CHI,foul,,,,,,,,,,Double,,,,,,technical,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:11,ATL,free throw,,,,,,,1,,2,Joe Johnson,,,foul,made,,,,
+Al Horford,Joe Johnson,Marvin Williams,Maurice Evans,Mike Bibby,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:11,ATL,sub,,,,Maurice Evans,,Jamal Crawford,,,,,,,,,,,,
+Al Horford,Joe Johnson,Mario West,Marvin Williams,Maurice Evans,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:11,ATL,sub,,,,Mario West,,Mike Bibby,,,,,,,,,,,,
+Al Horford,Joe Johnson,Mario West,Marvin Williams,Maurice Evans,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:11,ATL,free throw,,,,,,,2,,2,Joe Johnson,,,foul,made,,,,
+Al Horford,Joe Johnson,Mario West,Marvin Williams,Maurice Evans,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,2,0:02,CHI,turnover,,,,,,,,,,Derrick Rose,,,lost ball,,Mario West,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,11:41,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,40,22
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,11:39,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,11:30,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,25,27
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,11:29,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,11:13,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,46,8
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,11:12,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,11:04,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,11:03,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,11:03,CHI,shot,,,,,,,,,,Taj Gibson,2,,,made,,tip,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,10:45,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,36,24
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,10:44,CHI,rebound,,,,,,,,,,James Johnson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,10:36,CHI,shot,,,,,,,,,,James Johnson,,,,missed,,jump,41,19
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,10:35,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,10:14,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,9:59,ATL,foul,,,,,,,,Taj Gibson,,Josh Smith,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,9:59,CHI,free throw,,,,,,,1,,2,Taj Gibson,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,9:59,CHI,free throw,,,,,,,2,,2,Taj Gibson,,,foul,missed,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,9:57,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,9:44,CHI,foul,,,,,,,,Josh Smith,,Brad Miller,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,9:29,ATL,turnover,,,,,,,,,,,,,shot clock turnover,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,9:15,CHI,shot,,,,,,,,,,Taj Gibson,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,9:00,ATL,shot,,,,,,,,,,Josh Smith,2,,,made,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,9:00,CHI,foul,,,,,,,,Josh Smith,,Taj Gibson,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,9:00,ATL,free throw,,,,,,,1,,1,Josh Smith,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,8:51,CHI,shot,Kirk Hinrich,,,,,,,,,Derrick Rose,2,,,made,,driving layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,8:34,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,8,20
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,8:33,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,8:27,ATL,shot,,,James Johnson,,,,,,,Al Horford,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,8:27,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,8:27,ATL,foul,,,,,,,,Taj Gibson,,Al Horford,,,,,,personal,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,8:18,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,39,21
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,8:17,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,8:09,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,jump,42,20
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,8:09,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,7:59,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,3pt,22,31
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,7:57,ATL,rebound,,,,,,,,,,Mike Bibby,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,7:49,ATL,turnover,,,,,,,,,,Josh Smith,,,bad pass,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,7:35,CHI,shot,Kirk Hinrich,,,,,,,,,Derrick Rose,2,,,made,,reverse layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,7:20,CHI,foul,,,,,,,,Marvin Williams,,James Johnson,,,,,,shooting,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,James Johnson,Kirk Hinrich,Taj Gibson,3,7:20,ATL,free throw,,,,,,,1,,2,Marvin Williams,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,7:20,CHI,sub,,,,Ronald Murray,,James Johnson,,,,,,,,,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,7:20,ATL,free throw,,,,,,,2,,2,Marvin Williams,,,foul,made,,,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,7:10,CHI,shot,,,Josh Smith,,,,,,,Brad Miller,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,7:08,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,7:03,ATL,shot,Mike Bibby,,,,,,,,,Al Horford,2,,,made,,jump,12,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,6:52,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump bank,19,10
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,6:29,ATL,shot,,,Brad Miller,,,,,,,Al Horford,,,,missed,,layup,25,6
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,6:28,CHI,rebound,,,,,,,,,,Ronald Murray,,,,,,def,,
+Al Horford,Joe Johnson,Josh Smith,Marvin Williams,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,6:17,ATL,foul,,,,,,,,Brad Miller,,Al Horford,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,6:17,ATL,sub,,,,Jamal Crawford,,Marvin Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,6:17,CHI,free throw,,,,,,,1,,2,Brad Miller,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,6:17,CHI,free throw,,,,,,,2,,2,Brad Miller,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:56,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,14,23
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:55,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:47,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,32,24
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:46,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:31,ATL,turnover,,,,,,,,,,Mike Bibby,,,bad pass,,Ronald Murray,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:25,CHI,shot,,,Joe Johnson,,,,,,,Taj Gibson,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:23,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:22,CHI,foul,,,,,,,,Josh Smith,,Brad Miller,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:22,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:22,ATL,sub,,,,Zaza Pachulia,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:22,ATL,free throw,,,,,,,1,,2,Josh Smith,,,foul,missed,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:22,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:22,ATL,free throw,,,,,,,2,,2,Josh Smith,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,5:05,CHI,shot,Derrick Rose,,,,,,,,,Brad Miller,2,,,made,,jump,25,14
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,4:39,ATL,shot,,,,,,,,,,Mike Bibby,,,,missed,,3pt,2,5
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,4:38,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,off,,
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,4:33,ATL,shot,Jamal Crawford,,,,,,,,,Josh Smith,2,,,made,,driving layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,4:21,CHI,shot,,,,,,,,,,Ronald Murray,,,,missed,,jump,8,5
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,4:20,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,3,4:16,CHI,foul,,,,,,,,Jamal Crawford,,Kirk Hinrich,,,,,,shooting,,
+Jamal Crawford,Joe Johnson,Josh Smith,Mike Bibby,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,4:16,CHI,sub,,,,Hakim Warrick,,Brad Miller,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,4:16,ATL,sub,,,,Maurice Evans,,Mike Bibby,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,4:16,ATL,free throw,,,,,,,1,,2,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,4:16,ATL,free throw,,,,,,,2,,2,Jamal Crawford,,,foul,made,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:56,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:55,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:48,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,48,13
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:47,CHI,rebound,,,,,,,,,,Hakim Warrick,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:30,CHI,shot,,,,,,,,,,Hakim Warrick,,,,missed,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:29,CHI,rebound,,,,,,,,,,Ronald Murray,,,,,,off,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:29,CHI,shot,,,,,,,,,,Ronald Murray,,,,missed,,tip,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:28,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:21,ATL,shot,,,Ronald Murray,,,,,,,Joe Johnson,,,,missed,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:21,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:14,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,jump,20,15
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:13,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,3:09,ATL,shot,Josh Smith,,,,,,,,,Zaza Pachulia,2,,,made,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,2:46,CHI,shot,,,,,,,,,,Ronald Murray,2,,,made,,driving jump,22,12
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,2:41,ATL,shot,,,,,,,,,,Maurice Evans,,,,missed,,layup,25,6
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,2:40,ATL,rebound,,,,,,,,,,Maurice Evans,,,,,,off,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,2:40,CHI,foul,,,,,,,,Maurice Evans,,Taj Gibson,,,,,,personal,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Kirk Hinrich,Ronald Murray,Taj Gibson,3,2:40,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Jamal Crawford,Joe Johnson,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,2:40,CHI,sub,,,,Jannero Pargo,,Kirk Hinrich,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,2:40,ATL,sub,,,,Jeff Teague,,Joe Johnson,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,2:40,ATL,free throw,,,,,,,1,,2,Maurice Evans,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,2:40,ATL,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,2:40,ATL,free throw,,,,,,,2,,2,Maurice Evans,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,2:38,CHI,rebound,,,,,,,,,,Hakim Warrick,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,2:26,CHI,shot,Jannero Pargo,,,,,,,,,Derrick Rose,2,,,made,,driving slam dunk,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,2:02,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,3pt,48,4
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,2:01,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,1:57,CHI,turnover,,,,,,,,,,Ronald Murray,,,bad pass,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,1:41,ATL,shot,,,Hakim Warrick,,,,,,,Josh Smith,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,1:38,CHI,rebound,,,,,,,,,,Jannero Pargo,,,,,,def,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,1:19,CHI,shot,,,,,,,,,,Hakim Warrick,,,,missed,,jump,29,11
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,1:19,CHI,rebound,,,,,,,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,1:19,ATL,foul,,,,,,,,Hakim Warrick,,Zaza Pachulia,,,,,,loose ball,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,1:14,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,floating jump,19,14
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,0:52,ATL,shot,,,,,,,,,,Josh Smith,,,,missed,,jump,10,21
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,0:52,ATL,rebound,,,,,,,,,,Maurice Evans,,,,,,off,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,0:52,ATL,shot,,,,,,,,,,Maurice Evans,2,,,made,,putback layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,0:31,CHI,shot,Taj Gibson,,,,,,,,,Jannero Pargo,2,,,made,,jump,24,17
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,0:08,ATL,turnover,,,,,,,,,,Jamal Crawford,,,lost ball,,Ronald Murray,,,
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,0:04,CHI,shot,Hakim Warrick,,,,,,,,,Ronald Murray,2,,,made,,layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,0:00,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,layup,25,6
+Jamal Crawford,Jeff Teague,Josh Smith,Maurice Evans,Zaza Pachulia,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,Taj Gibson,3,0:00,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,11:47,CHI,shot,Derrick Rose,,,,,,,,,Jannero Pargo,2,,,made,,jump,8,13
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,11:25,ATL,shot,,,,,,,,,,Al Horford,2,,,made,,hook,30,14
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,11:02,CHI,shot,,,,,,,,,,Hakim Warrick,2,,,made,,fade away jumper,13,7
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,10:38,ATL,shot,Joe Johnson,,,,,,,,,Al Horford,2,,,made,,jump,36,17
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,10:24,CHI,shot,,,,,,,,,,Jannero Pargo,,,,missed,,3pt,9,26
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,10:23,ATL,rebound,,,,,,,,,,Al Horford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,10:08,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,jump,42,8
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,10:07,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,9:57,ATL,shot,Joe Johnson,,,,,,,,,Zaza Pachulia,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,9:42,CHI,shot,Derrick Rose,,,,,,,,,Brad Miller,3,,,made,,3pt,48,5
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,9:23,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,fade away jumper,25,22
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,9:10,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,floating jump,24,13
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,8:52,CHI,foul,,,,,,,,Zaza Pachulia,,Hakim Warrick,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Ronald Murray,4,8:52,ATL,timeout,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:52,CHI,sub,,,,Kirk Hinrich,,Ronald Murray,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:52,ATL,free throw,,,,,,,1,,2,Zaza Pachulia,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:52,ATL,free throw,,,,,,,2,,2,Zaza Pachulia,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Marvin Williams,Zaza Pachulia,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:42,ATL,foul,,,,,,,,Kirk Hinrich,,Marvin Williams,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:42,ATL,sub,,,,Josh Smith,,Zaza Pachulia,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:32,CHI,shot,,,,,,,,,,Derrick Rose,2,,,made,,jump,26,27
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:11,ATL,shot,,,,,,,,,,Marvin Williams,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:10,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:06,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,3pt,44,24
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:03,ATL,rebound,,,,,,,,,,Al Horford,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:03,ATL,shot,,,,,,,,,,Al Horford,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:02,CHI,rebound,,,,,,,,,,Brad Miller,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:00,CHI,turnover,,,,,,,,,,Brad Miller,,,bad pass,,Marvin Williams,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:00,ATL,shot,,,Brad Miller,,,,,,,Marvin Williams,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:00,CHI,rebound,,,,,,,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,8:00,ATL,foul,,,,,,,,Brad Miller,,Josh Smith,,,,,,loose ball,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,7:49,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,jump,17,23
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,7:48,ATL,rebound,,,,,,,,,,Jamal Crawford,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,7:38,ATL,shot,,,,,,,,,,Jamal Crawford,,,,missed,,jump,32,21
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,7:36,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,7:36,ATL,shot,,,,,,,,,,Marvin Williams,2,,,made,,tip,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,7:21,CHI,shot,,,Josh Smith,,,,,,,Hakim Warrick,,,,missed,,hook,26,12
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,7:19,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,7:03,ATL,shot,Jamal Crawford,,,,,,,,,Al Horford,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,6:50,CHI,shot,,,,,,,,,,Derrick Rose,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,6:49,ATL,rebound,,,,,,,,,,Josh Smith,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,6:43,ATL,shot,Josh Smith,,,,,,,,,Marvin Williams,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Hakim Warrick,Jannero Pargo,Kirk Hinrich,4,6:41,CHI,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,4,6:41,CHI,sub,,,,Taj Gibson,,Hakim Warrick,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,4,6:24,CHI,shot,,,,,,,,,,Brad Miller,,,,missed,,3pt,14,29
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,4,6:23,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,4,6:06,ATL,shot,,,,,,,,,,Joe Johnson,,,,missed,,jump,38,23
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,4,6:05,CHI,rebound,,,,,,,,,,Kirk Hinrich,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,4,5:51,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,4,5:50,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,4,5:38,ATL,shot,Al Horford,,,,,,,,,Marvin Williams,2,,,made,,layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Jannero Pargo,Kirk Hinrich,Taj Gibson,4,5:38,CHI,foul,,,,,,,,Marvin Williams,,Jannero Pargo,,,,,,shooting,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,4,5:38,CHI,sub,,,,Ronald Murray,,Jannero Pargo,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,4,5:38,ATL,free throw,,,,,,,1,,1,Marvin Williams,,,foul,made,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,4,5:28,CHI,shot,Kirk Hinrich,,,,,,,,,Derrick Rose,2,,,made,,running layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,4,5:01,ATL,shot,Marvin Williams,,,,,,,,,Jamal Crawford,2,,,made,,jump,6,7
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,4,4:50,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,jump,12,21
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,4,4:48,ATL,rebound,,,,,,,,,,Joe Johnson,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,4,4:43,ATL,shot,Joe Johnson,,,,,,,,,Josh Smith,2,,,made,,alley oop layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Brad Miller,Derrick Rose,Kirk Hinrich,Ronald Murray,Taj Gibson,4,4:30,CHI,turnover,,,,,,,,,,Derrick Rose,,,bad pass,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,Brad Miller,Kirk Hinrich,Ronald Murray,Taj Gibson,4,4:30,CHI,sub,,,,Acie Law,,Derrick Rose,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,Brad Miller,Kirk Hinrich,Ronald Murray,Taj Gibson,4,4:10,ATL,shot,,,,,,,,,,Jamal Crawford,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,Brad Miller,Kirk Hinrich,Ronald Murray,Taj Gibson,4,3:50,CHI,shot,,,,,,,,,,Ronald Murray,,,,missed,,3pt,48,5
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,Brad Miller,Kirk Hinrich,Ronald Murray,Taj Gibson,4,3:48,CHI,rebound,,,,,,,,,,Taj Gibson,,,,,,off,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,Brad Miller,Kirk Hinrich,Ronald Murray,Taj Gibson,4,3:46,CHI,shot,,,,,,,,,,Taj Gibson,2,,,made,,putback dunk,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,Brad Miller,Kirk Hinrich,Ronald Murray,Taj Gibson,4,3:24,ATL,shot,,,,,,,,,,Joe Johnson,2,,,made,,driving layup,25,6
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,Brad Miller,Kirk Hinrich,Ronald Murray,Taj Gibson,4,3:12,CHI,shot,,,,,,,,,,Kirk Hinrich,,,,missed,,3pt,28,31
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,Brad Miller,Kirk Hinrich,Ronald Murray,Taj Gibson,4,3:10,ATL,rebound,,,,,,,,,,Marvin Williams,,,,,,def,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,Brad Miller,Kirk Hinrich,Ronald Murray,Taj Gibson,4,2:58,CHI,foul,,,,,,,,Jamal Crawford,,Kirk Hinrich,,,,,,personal,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,Brad Miller,Kirk Hinrich,Ronald Murray,Taj Gibson,4,2:58,ATL,timeout,,,,,,,,,,,,,,,,regular,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,Brad Miller,Jannero Pargo,Kirk Hinrich,Ronald Murray,4,2:58,CHI,sub,,,,Jannero Pargo,,Taj Gibson,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,James Johnson,Jannero Pargo,Kirk Hinrich,Ronald Murray,4,2:58,CHI,sub,,,,James Johnson,,Brad Miller,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Joe Johnson,Josh Smith,Marvin Williams,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,2:58,CHI,sub,,,,Joe Alexander,,Kirk Hinrich,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Josh Smith,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,2:58,ATL,sub,,,,Jeff Teague,,Marvin Williams,,,,,,,,,,,,
+Al Horford,Jamal Crawford,Jeff Teague,Joe Johnson,Mario West,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,2:58,ATL,sub,,,,Mario West,,Josh Smith,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Johnson,Joe Smith,Mario West,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,2:58,ATL,sub,,,,Joe Smith,,Al Horford,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,2:58,ATL,sub,,,,Zaza Pachulia,,Joe Johnson,,,,,,,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,2:43,ATL,shot,Mario West,,,,,,,,,Joe Smith,2,,,made,,jump,8,18
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,2:30,CHI,shot,,,,,,,,,,Acie Law,2,,,made,,jump,23,28
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,2:17,ATL,shot,Jeff Teague,,,,,,,,,Jamal Crawford,3,,,made,,3pt,2,6
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,2:09,CHI,jump ball,,Jamal Crawford,,,Acie Law,,,,,,,Zaza Pachulia,,,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,2:09,CHI,turnover,,,,,,,,,,Acie Law,,,lost ball,,Jamal Crawford,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,2:00,ATL,shot,Zaza Pachulia,,,,,,,,,Jeff Teague,3,,,made,,3pt,2,5
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,1:50,CHI,shot,,,,,,,,,,Ronald Murray,2,,,made,,driving layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,1:26,ATL,shot,,,,,,,,,,Jeff Teague,,,,missed,,jump,29,12
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,1:26,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,off,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,1:26,ATL,shot,,,,,,,,,,Joe Smith,2,,,made,,tip,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,1:11,ATL,foul,,,,,,,,Acie Law,,Joe Smith,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,1:11,CHI,free throw,,,,,,,1,,2,Acie Law,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,1:11,CHI,free throw,,,,,,,2,,2,Acie Law,,,foul,missed,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,1:10,ATL,rebound,,,,,,,,,,Joe Smith,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,0:51,ATL,shot,,,,,,,,,,Jeff Teague,2,,,made,,driving layup,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,0:42,ATL,foul,,,,,,,,James Johnson,,Zaza Pachulia,,,,,,shooting,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,0:42,CHI,free throw,,,,,,,1,,2,James Johnson,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,0:42,CHI,free throw,,,,,,,2,,2,James Johnson,,,foul,made,,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,0:30,ATL,shot,,,,,,,,,,Mario West,2,,,made,,driving slam dunk,25,6
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,0:16,CHI,shot,,,,,,,,,,Ronald Murray,,,,missed,,3pt,49,6
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,0:15,ATL,rebound,,,,,,,,,,Zaza Pachulia,,,,,,def,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,0:12,ATL,turnover,,,,,,,,,,Zaza Pachulia,,,lost ball,,James Johnson,,,
+Jamal Crawford,Jeff Teague,Joe Smith,Mario West,Zaza Pachulia,Acie Law,James Johnson,Jannero Pargo,Joe Alexander,Ronald Murray,4,0:12,CHI,shot,James Johnson,,,,,,,,,Ronald Murray,2,,,made,,layup,25,6

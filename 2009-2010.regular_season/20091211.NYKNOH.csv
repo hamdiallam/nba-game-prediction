@@ -1,0 +1,401 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,12:00,OFF,jump ball,,Jared Jeffries,,,Emeka Okafor,,,,,,,Chris Paul,,,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,11:46,NOH,shot,Chris Paul,,,,,,,,,Peja Stojakovic,2,,,made,,jump,37,27
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,11:30,NYK,shot,,,,,,,,,,Chris Duhon,,,,missed,,3pt,19,32
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,11:29,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,11:05,NYK,foul,,,,,,,,Devin Brown,,Al Harrington,,,,,,shooting,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,11:05,NOH,free throw,,,,,,,1,,2,Devin Brown,,,foul,made,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,11:05,NOH,free throw,,,,,,,2,,2,Devin Brown,,,foul,made,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:45,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,jump,40,9
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:44,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:36,NOH,shot,Chris Paul,,,,,,,,,Emeka Okafor,2,,,made,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:19,NYK,turnover,,,,,,,,,,David Lee,,,bad pass,,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,10:12,NOH,turnover,,,,,,,,,,Emeka Okafor,,,3 second violation,,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:59,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,jump,30,27
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:59,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:50,NYK,foul,,,,,,,,Emeka Okafor,,David Lee,,,,,,personal,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:35,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,jump,16,24
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:22,NYK,shot,,,,,,,,,,Chris Duhon,,,,missed,,jump,12,18
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:21,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:10,NOH,shot,Chris Paul,,,,,,,,,Emeka Okafor,2,,,made,,turnaround jump,25,14
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:10,NYK,foul,,,,,,,,Emeka Okafor,,Al Harrington,,,,,,shooting,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:10,NYK,sub,,,,Danilo Gallinari,,Al Harrington,,,,,,,,,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,9:10,NOH,free throw,,,,,,,1,,1,Emeka Okafor,,,foul,made,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:53,NYK,shot,,,,,,,,,,Danilo Gallinari,2,,,made,,jump,41,13
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:32,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,3pt,13,28
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:31,NYK,rebound,,,,,,,,,,Jared Jeffries,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:23,NYK,shot,Chris Duhon,,,,,,,,,Danilo Gallinari,2,,,made,,driving dunk,25,6
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:13,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,layup,25,6
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:11,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:05,NYK,shot,,,,,,,,,,David Lee,,,,missed,,layup,25,6
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:04,NOH,rebound,,,,,,,,,,David West,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:02,NYK,foul,,,,,,,,Emeka Okafor,,Chris Duhon,,,,,,shooting,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:02,NOH,free throw,,,,,,,1,,2,Emeka Okafor,,,foul,made,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:02,NOH,free throw,,,,,,,2,,2,Emeka Okafor,,,foul,missed,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,8:01,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:46,NYK,shot,Danilo Gallinari,,,,,,,,,David Lee,2,,,made,,jump,37,15
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:28,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,turnaround jump,15,7
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:27,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,7:10,NYK,shot,Jared Jeffries,,,,,,,,,Wilson Chandler,2,,,made,,slam dunk,25,6
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:54,NOH,shot,Emeka Okafor,,,,,,,,,Devin Brown,2,,,made,,layup,25,6
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:41,NYK,shot,David Lee,,,,,,,,,Chris Duhon,3,,,made,,3pt,7,24
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:18,NOH,shot,Chris Paul,,,,,,,,,Peja Stojakovic,3,,,made,,3pt,34,30
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:10,NOH,foul,,,,,,,,David Lee,,Emeka Okafor,,,,,,shooting,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:10,NYK,free throw,,,,,,,1,,2,David Lee,,,foul,made,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:10,NYK,free throw,,,,,,,2,,2,David Lee,,,foul,made,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:06,NYK,foul,,,,,,,,Peja Stojakovic,,Danilo Gallinari,,,,,,personal,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:06,NOH,free throw,,,,,,,1,,2,Peja Stojakovic,,,foul,missed,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:06,NOH,rebound,,,,,,,,,,,,,,,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,6:06,NOH,free throw,,,,,,,2,,2,Peja Stojakovic,,,foul,made,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:47,NYK,shot,,,,,,,,,,Chris Duhon,,,,missed,,layup,25,6
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:45,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:27,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,3pt,47,19
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:26,NYK,rebound,,,,,,,,,,Chris Duhon,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,5:17,NYK,shot,Chris Duhon,,,,,,,,,Wilson Chandler,2,,,made,,jump,19,28
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:56,NOH,shot,,,,,,,,,,David West,2,,,made,,driving layup,25,6
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:42,NOH,foul,,,,,,,,Danilo Gallinari,,David West,,,,,,shooting,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:42,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:42,NYK,sub,,,,Larry Hughes,,Jared Jeffries,,,,,,,,,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:42,NYK,free throw,,,,,,,1,,2,Danilo Gallinari,,,foul,made,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:42,NYK,free throw,,,,,,,2,,2,Danilo Gallinari,,,foul,made,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:31,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,hook,23,10
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:30,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:11,NYK,shot,,,,,,,,,,David Lee,,,,missed,,jump,7,9
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:11,NOH,rebound,,,,,,,,,,Devin Brown,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,4:05,NOH,shot,Chris Paul,,,,,,,,,Emeka Okafor,2,,,made,,slam dunk,25,6
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:47,NYK,turnover,,,,,,,,,,Wilson Chandler,,,lost ball,,Peja Stojakovic,,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:41,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,3pt,8,24
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:38,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:24,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,3pt,29,32
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:24,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:09,NOH,turnover,,,,,,,,,,David West,,,lost ball,,Danilo Gallinari,,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,3:05,NYK,shot,Chris Duhon,,,,,,,,,Wilson Chandler,2,,,made,,finger roll layup,25,6
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:54,NOH,shot,,,,,,,,,,Devin Brown,,,,missed,,jump,9,12
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:53,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:34,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,jump,37,22
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:33,NOH,rebound,,,,,,,,,,Devin Brown,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:17,NOH,shot,,,,,,,,,,Devin Brown,,,,missed,,3pt,40,25
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:16,NOH,rebound,,,,,,,,,,Emeka Okafor,,,,,,off,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:08,NYK,foul,,,,,,,,David West,,Wilson Chandler,,,,,,shooting,,
+Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:08,NYK,timeout,,,,,,,,,,,,,,,,regular,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,1,2:08,NYK,sub,,,,Eddy Curry,,David Lee,,,,,,,,,,,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,David West,Devin Brown,Marcus Thornton,Peja Stojakovic,1,2:08,NOH,sub,,,,Marcus Thornton,,Emeka Okafor,,,,,,,,,,,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,2:08,NOH,sub,,,,Darius Songaila,,Devin Brown,,,,,,,,,,,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,2:08,NOH,free throw,,,,,,,1,,2,David West,,,foul,made,,,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,2:08,NOH,free throw,,,,,,,2,,2,David West,,,foul,made,,,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,2:00,NYK,foul,,,,,,,,Chris Paul,,Wilson Chandler,,,,,,offensive,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,2:00,NYK,turnover,,,,,,,,,,Wilson Chandler,,,foul,,,,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,1:46,NOH,shot,,,Danilo Gallinari,,,,,,,Marcus Thornton,,,,missed,,layup,25,6
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,1:45,NYK,rebound,,,,,,,,,,Eddy Curry,,,,,,def,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,1:34,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,driving layup,25,6
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,1:32,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,def,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,1:24,NOH,shot,Chris Paul,,,,,,,,,David West,2,,,made,,layup,25,6
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,1:06,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,3pt,23,31
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,1:06,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,def,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:58,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,jump,25,26
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:57,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,off,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:56,NOH,shot,,,,,,,,,,Marcus Thornton,2,,,made,,layup,25,6
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:49,NYK,foul,,,,,,,,Darius Songaila,,Eddy Curry,,,,,,offensive,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:49,NYK,turnover,,,,,,,,,,Eddy Curry,,,foul,,,,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:49,NYK,sub,,,,Jared Jeffries,,Wilson Chandler,,,,,,,,,,,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:40,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,3pt,1,7
+Chris Duhon,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:39,NOH,rebound,,,,,,,,,,David West,,,,,,off,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:15,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,jump,15,17
+Chris Duhon,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:14,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:04,NOH,foul,,,,,,,,Chris Duhon,,Marcus Thornton,,,,,,personal,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:02,NYK,shot,Larry Hughes,,,,,,,,,Chris Duhon,2,,,made,,jump,18,25
+Chris Duhon,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:00,NYK,foul,,,,,,,,Chris Paul,,Eddy Curry,,,,,,shooting,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:00,NOH,free throw,,,,,,,1,,2,Chris Paul,,,foul,made,,,,
+Chris Duhon,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,1,0:00,NOH,free throw,,,,,,,2,,2,Chris Paul,,,foul,made,,,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,11:42,NYK,shot,Danilo Gallinari,,,,,,,,,Larry Hughes,3,,,made,,3pt,35,28
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,11:42,NOH,foul,,,,,,,,Larry Hughes,,Darren Collison,,,,,,shooting,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,11:42,NYK,free throw,,,,,,,1,,1,Larry Hughes,,,foul,made,,,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,11:25,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,3pt,14,29
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,11:23,NYK,rebound,,,,,,,,,,Larry Hughes,,,,,,def,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,11:15,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,3pt,13,28
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,11:14,NOH,rebound,,,,,,,,,,Darren Collison,,,,,,def,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,10:59,NOH,shot,Darius Songaila,,,,,,,,,David West,2,,,made,,layup,25,6
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,10:47,NOH,foul,,,,,,,,Danilo Gallinari,,Marcus Thornton,,,,,,personal,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,10:42,NYK,shot,Larry Hughes,,,,,,,,,Danilo Gallinari,3,,,made,,3pt,32,29
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,10:20,NOH,shot,,,,,,,,,,James Posey,,,,missed,,3pt,40,26
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,10:19,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,10:13,NYK,shot,,,,,,,,,,Larry Hughes,2,,,made,,pullup jump,11,24
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,10:03,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,9:45,NOH,shot,,,,,,,,,,James Posey,,,,missed,,3pt,19,31
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,9:44,NYK,rebound,,,,,,,,,,Jared Jeffries,,,,,,def,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,9:32,NOH,foul,,,,,,,,Eddy Curry,,Darius Songaila,,,,,,personal,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,9:19,NYK,shot,Danilo Gallinari,,,,,,,,,Eddy Curry,2,,,made,,driving layup,25,6
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,9:05,NOH,shot,,,,,,,,,,Darren Collison,2,,,made,,pullup jump,23,21
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,8:56,NOH,foul,,,,,,,,Jared Jeffries,,David West,,,,,,personal,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,8:51,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,jump,30,27
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,8:50,NOH,rebound,,,,,,,,,,James Posey,,,,,,def,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,8:41,NOH,shot,Darren Collison,,,,,,,,,David West,2,,,made,,jump,20,25
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,8:23,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,jump,25,13
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,8:21,NOH,rebound,,,,,,,,,,James Posey,,,,,,def,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,8:15,NOH,shot,Darren Collison,,,,,,,,,David West,2,,,made,,layup,25,6
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,7:59,NYK,shot,,,,,,,,,,Larry Hughes,2,,,made,,floating jump,21,14
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,7:40,NOH,shot,Darren Collison,,,,,,,,,Darius Songaila,2,,,made,,jump,8,7
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,2,7:34,NYK,timeout,,,,,,,,,,,,,,,,regular,,
+Al Harrington,Danilo Gallinari,Eddy Curry,Jared Jeffries,Larry Hughes,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,7:34,NOH,sub,,,,Peja Stojakovic,,David West,,,,,,,,,,,,
+Al Harrington,Eddy Curry,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,7:34,NYK,sub,,,,Wilson Chandler,,Danilo Gallinari,,,,,,,,,,,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,7:34,NYK,sub,,,,David Lee,,Eddy Curry,,,,,,,,,,,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,7:25,NOH,foul,,,,,,,,Jared Jeffries,,James Posey,,,,,,shooting,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,7:25,NYK,free throw,,,,,,,1,,2,Jared Jeffries,,,foul,made,,,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,7:25,NYK,free throw,,,,,,,2,,2,Jared Jeffries,,,foul,made,,,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,7:08,NOH,shot,,,,,,,,,,Darren Collison,,,,missed,,3pt,40,26
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,7:07,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,def,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,6:59,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,3pt,11,27
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,6:59,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,def,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,6:46,NOH,shot,,,,,,,,,,Darius Songaila,2,,,made,,driving layup,25,6
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,6:28,NYK,shot,Larry Hughes,,,,,,,,,Wilson Chandler,2,,,made,,driving finger roll layup,25,6
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,6:03,NOH,turnover,,,,,,,,,,Darius Songaila,,,lost ball,,David Lee,,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,5:56,NYK,shot,,,,,,,,,,Jared Jeffries,,,,missed,,layup,25,6
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,5:54,NOH,rebound,,,,,,,,,,Darren Collison,,,,,,def,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,5:49,NOH,shot,,,,,,,,,,Darren Collison,2,,,made,,driving layup,25,6
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,5:32,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,3pt,49,11
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,5:32,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,def,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,5:26,NOH,shot,,,,,,,,,,Darren Collison,,,,missed,,layup,25,6
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,5:26,NOH,rebound,,,,,,,,,,,,,,,,,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,5:24,NOH,shot,James Posey,,,,,,,,,Peja Stojakovic,2,,,made,,jump,43,7
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,5:10,NYK,foul,,,,,,,,James Posey,,Larry Hughes,,,,,,offensive,,
+Al Harrington,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,5:10,NYK,turnover,,,,,,,,,,Larry Hughes,,,foul,,,,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,5:10,NYK,sub,,,,Chris Duhon,,Jared Jeffries,,,,,,,,,,,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,4:58,NOH,shot,Darren Collison,,,,,,,,,Peja Stojakovic,3,,,made,,3pt,39,30
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,4:49,NOH,foul,,,,,,,,David Lee,,James Posey,,,,,,shooting,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,James Posey,Marcus Thornton,Peja Stojakovic,2,4:49,NYK,free throw,,,,,,,1,,2,David Lee,,,foul,made,,,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,Devin Brown,James Posey,Peja Stojakovic,2,4:49,NOH,sub,,,,Devin Brown,,Marcus Thornton,,,,,,,,,,,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,4:49,NOH,sub,,,,Chris Paul,,Darren Collison,,,,,,,,,,,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,4:49,NYK,free throw,,,,,,,2,,2,David Lee,,,foul,made,,,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,4:37,NOH,shot,Chris Paul,,,,,,,,,Peja Stojakovic,3,,,made,,3pt,35,31
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,4:28,NYK,turnover,,,,,,,,,,David Lee,,,lost ball,,Devin Brown,,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,4:23,NOH,shot,,,,,,,,,,Devin Brown,2,,,made,,slam dunk,25,6
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,4:20,NYK,timeout,,,,,,,,,,,,,,,,short,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,4:05,NYK,shot,Wilson Chandler,,,,,,,,,Al Harrington,2,,,made,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,3:54,NOH,shot,Chris Paul,,,,,,,,,Darius Songaila,2,,,made,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,3:54,NYK,foul,,,,,,,,Darius Songaila,,Chris Duhon,,,,,,shooting,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,3:54,NOH,free throw,,,,,,,1,,1,Darius Songaila,,,foul,missed,,,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,3:53,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,3:31,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,fade away jumper,38,7
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,3:30,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,3:21,NOH,shot,Chris Paul,,,,,,,,,Darius Songaila,2,,,made,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,3:06,NOH,foul,,,,,,,,Al Harrington,,Darius Songaila,,,,,,shooting,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,Devin Brown,James Posey,Peja Stojakovic,2,3:06,NYK,free throw,,,,,,,1,,2,Al Harrington,,,foul,made,,,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,3:06,NOH,sub,,,,Emeka Okafor,,Darius Songaila,,,,,,,,,,,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,3:06,NYK,free throw,,,,,,,2,,2,Al Harrington,,,foul,made,,,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,2:49,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,3pt,17,30
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,2:48,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,2:30,NYK,shot,,,,,,,,,,David Lee,,,,missed,,jump,30,10
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,2:29,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,off,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,2:29,NYK,shot,,,,,,,,,,Al Harrington,2,,,made,,tip,25,6
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,2:18,NOH,shot,Chris Paul,,,,,,,,,Peja Stojakovic,2,,,made,,reverse layup,25,6
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,2:09,NYK,shot,,,,,,,,,,Al Harrington,2,,,made,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,1:44,NOH,shot,,,,,,,,,,James Posey,,,,missed,,3pt,49,10
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,1:44,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,1:31,NYK,shot,Larry Hughes,,,,,,,,,Wilson Chandler,2,,,made,,jump,35,21
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,1:03,NOH,shot,Chris Paul,,,,,,,,,Emeka Okafor,2,,,made,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,0:51,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,jump,18,25
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,0:51,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,0:42,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,36,20
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,0:41,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,0:32,NYK,shot,,,,,,,,,,Chris Duhon,,,,missed,,3pt,21,31
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,0:31,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,0:11,NYK,foul,,,,,,,,Peja Stojakovic,,Wilson Chandler,,,,,,personal,,
+Al Harrington,Chris Duhon,David Lee,Larry Hughes,Wilson Chandler,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,0:11,NOH,timeout,,,,,,,,,,,,,,,,official,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,0:11,NYK,sub,,,,Jared Jeffries,,Wilson Chandler,,,,,,,,,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,0:03,NOH,turnover,,,,,,,,,,Chris Paul,,,bad pass,,Larry Hughes,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Devin Brown,Emeka Okafor,James Posey,Peja Stojakovic,2,0:00,NYK,shot,,,,,,,,,,Al Harrington,3,,,made,,3pt,21,56
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:48,NYK,foul,,,,,,,,Chris Paul,,David Lee,,,,,,offensive,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:48,NYK,turnover,,,,,,,,,,David Lee,,,foul,,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:28,NYK,foul,,,,,,,,Emeka Okafor,,Chris Duhon,,,,,,loose ball,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:19,NOH,shot,,,,,,,,,,David West,,,,missed,,jump,39,14
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:18,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,11:07,NYK,shot,Chris Duhon,,,,,,,,,Al Harrington,3,,,made,,3pt,32,30
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:49,NOH,turnover,,,,,,,,,,David West,,,lost ball,,Chris Duhon,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:45,NYK,turnover,,,,,,,,,,David Lee,,,lost ball,,Chris Paul,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:40,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,3pt,6,23
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:39,NOH,rebound,,,,,,,,,,David West,,,,,,off,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:32,NOH,shot,,,,,,,,,,Emeka Okafor,,,,missed,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:31,NYK,rebound,,,,,,,,,,Jared Jeffries,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:25,NYK,shot,,,,,,,,,,David Lee,2,,,made,,dunk,25,6
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:04,NOH,shot,,,,,,,,,,David West,,,,missed,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,10:03,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:57,NYK,turnover,,,,,,,,,,Al Harrington,,,bad pass,,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:48,NYK,foul,,,,,,,,Emeka Okafor,,Jared Jeffries,,,,,,shooting,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:48,NOH,free throw,,,,,,,1,,2,Emeka Okafor,,,foul,made,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:48,NOH,free throw,,,,,,,2,,2,Emeka Okafor,,,foul,made,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:34,NYK,turnover,,,,,,,,,,Al Harrington,,,bad pass,,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:23,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,jump,30,25
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,9:06,NYK,shot,David Lee,,,,,,,,,Al Harrington,2,,,made,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,8:52,NOH,turnover,,,,,,,,,,Chris Paul,,,bad pass,,Jared Jeffries,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,8:52,NOH,foul,,,,,,,,Jared Jeffries,,Emeka Okafor,,,,,,loose ball,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,8:37,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,3pt,23,31
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,8:37,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,off,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,8:21,NYK,shot,David Lee,,,,,,,,,Wilson Chandler,2,,,made,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,8:02,NOH,shot,Peja Stojakovic,,,,,,,,,Devin Brown,3,,,made,,3pt,13,27
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,7:41,NYK,shot,,,Devin Brown,,,,,,,Jared Jeffries,,,,missed,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,7:39,NOH,rebound,,,,,,,,,,Devin Brown,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,7:36,NOH,shot,,,Wilson Chandler,,,,,,,Devin Brown,,,,missed,,layup,25,6
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,7:35,NOH,rebound,,,,,,,,,,David West,,,,,,off,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,7:34,NOH,turnover,,,,,,,,,,David West,,,step out of bounds turnover,,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,7:23,NYK,shot,,,,,,,,,,Chris Duhon,3,,,made,,3pt,20,30
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,7:11,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,21,22
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,7:10,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,6:52,NYK,shot,Chris Duhon,,,,,,,,,David Lee,2,,,made,,jump,21,18
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,6:35,NYK,foul,,,,,,,,Emeka Okafor,,Al Harrington,,,,,,personal,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,6:26,NOH,turnover,,,,,,,,,,David West,,,3 second violation,,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,6:13,NYK,shot,Jared Jeffries,,,,,,,,,Chris Duhon,3,,,made,,3pt,40,29
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,6:12,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,5:47,NOH,shot,,,,,,,,,,Devin Brown,,,,missed,,3pt,33,29
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,5:47,NOH,rebound,,,,,,,,,,David West,,,,,,off,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,5:33,NOH,shot,,,,,,,,,,David West,,,,missed,,jump,18,11
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,5:32,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,5:15,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,jump,13,19
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,5:14,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,5:08,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,jump,17,10
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,4:47,NYK,shot,,,,,,,,,,Wilson Chandler,2,,,made,,jump,24,28
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,4:31,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,jump,41,15
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,4:31,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,4:31,NOH,foul,,,,,,,,David Lee,,Emeka Okafor,,,,,,loose ball,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,4:31,NYK,sub,,,,Larry Hughes,,Wilson Chandler,,,,,,,,,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,David West,Devin Brown,Emeka Okafor,Peja Stojakovic,3,4:31,NYK,sub,,,,Danilo Gallinari,,Al Harrington,,,,,,,,,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Devin Brown,Peja Stojakovic,3,4:31,NOH,sub,,,,Darius Songaila,,Emeka Okafor,,,,,,,,,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,4:31,NOH,sub,,,,Marcus Thornton,,Devin Brown,,,,,,,,,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,4:09,NOH,foul,,,,,,,,David Lee,,Darius Songaila,,,,,,shooting,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,4:09,NYK,free throw,,,,,,,1,,2,David Lee,,,foul,made,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,4:09,NYK,free throw,,,,,,,2,,2,David Lee,,,foul,missed,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,4:08,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,3:57,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,driving layup,25,6
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,3:56,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,3:43,NYK,shot,Chris Duhon,,,,,,,,,David Lee,2,,,made,,floating jump,24,11
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,3:25,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,jump,32,22
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,3:25,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,3:04,NYK,turnover,,,,,,,,,,Danilo Gallinari,,,bad pass,,,,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,3:04,NYK,foul,,,,,,,,Marcus Thornton,,Chris Duhon,,,,,,shooting,,
+Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,3:04,NOH,free throw,,,,,,,1,,2,Marcus Thornton,,,foul,made,,,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,3:04,NYK,sub,,,,Wilson Chandler,,Chris Duhon,,,,,,,,,,,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,3:04,NOH,free throw,,,,,,,2,,2,Marcus Thornton,,,foul,made,,,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,2:47,NYK,turnover,,,,,,,,,,David Lee,,,bad pass,,Darius Songaila,,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,2:46,NYK,foul,,,,,,,,Chris Paul,,Wilson Chandler,,,,,,personal,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,2:46,NYK,timeout,,,,,,,,,,,,,,,,regular,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,2:46,NOH,free throw,,,,,,,1,,2,Chris Paul,,,foul,made,,,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,2:46,NOH,free throw,,,,,,,2,,2,Chris Paul,,,foul,made,,,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,2:23,NYK,shot,,,David West,,,,,,,David Lee,,,,missed,,layup,25,6
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,2:21,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,off,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,2:21,NYK,shot,,,,,,,,,,Wilson Chandler,2,,,made,,tip,25,6
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,2:10,NYK,foul,,,,,,,,David West,,Jared Jeffries,,,,,,personal,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,2:10,NOH,free throw,,,,,,,1,,2,David West,,,foul,made,,,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,2:10,NOH,free throw,,,,,,,2,,2,David West,,,foul,made,,,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,1:54,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,layup,25,6
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,1:53,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,def,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,1:43,NOH,shot,Chris Paul,,,,,,,,,David West,2,,,made,,jump,24,25
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,1:20,NYK,shot,,,,,,,,,,Wilson Chandler,2,,,made,,jump,27,28
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,1:03,NOH,turnover,,,,,,,,,,Chris Paul,,,bad pass,,Jared Jeffries,,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,1:03,NOH,foul,,,,,,,,Jared Jeffries,,Chris Paul,,,,,,personal,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,0:53,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,3pt,34,29
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,0:52,NOH,rebound,,,,,,,,,,Peja Stojakovic,,,,,,def,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,0:33,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,26,28
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,0:32,NYK,rebound,,,,,,,,,,Jared Jeffries,,,,,,def,,
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,0:19,NYK,shot,Larry Hughes,,,,,,,,,Jared Jeffries,2,,,made,,jump,46,8
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,0:00,NOH,shot,,,Jared Jeffries,,,,,,,David West,,,,missed,,jump,40,9
+Danilo Gallinari,David Lee,Jared Jeffries,Larry Hughes,Wilson Chandler,Chris Paul,Darius Songaila,David West,Marcus Thornton,Peja Stojakovic,3,0:00,NYK,rebound,,,,,,,,,,Larry Hughes,,,,,,def,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,11:43,NOH,shot,,,,,,,,,,Darren Collison,,,,missed,,jump,15,23
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,11:43,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,def,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,11:29,NYK,shot,,,,,,,,,,Danilo Gallinari,,,,missed,,3pt,5,23
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,11:28,NOH,rebound,,,,,,,,,,Darren Collison,,,,,,def,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,11:27,NOH,turnover,,,,,,,,,,Darren Collison,,,bad pass,,,,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,11:11,NYK,shot,Larry Hughes,,,,,,,,,David Lee,2,,,made,,driving slam dunk,25,6
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,10:50,NOH,shot,,,Wilson Chandler,,,,,,,Darius Songaila,,,,missed,,jump,18,12
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,10:49,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,10:37,NYK,shot,Larry Hughes,,,,,,,,,David Lee,2,,,made,,layup,25,6
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,10:35,NOH,timeout,,,,,,,,,,,,,,,,regular,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,10:22,NOH,shot,Darius Songaila,,,,,,,,,Marcus Thornton,3,,,made,,3pt,9,25
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,10:04,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,layup,25,6
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,10:02,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,def,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,9:57,NOH,shot,,,,,,,,,,Marcus Thornton,3,,,made,,3pt,14,28
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,9:39,NYK,shot,Wilson Chandler,,,,,,,,,Al Harrington,2,,,made,,jump,19,24
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,9:23,NOH,shot,,,Wilson Chandler,,,,,,,Marcus Thornton,,,,missed,,layup,25,6
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,9:22,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,def,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,9:09,NYK,shot,,,,,,,,,,Wilson Chandler,2,,,made,,driving layup,25,6
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,8:50,NOH,shot,,,,,,,,,,Darius Songaila,,,,missed,,3pt,7,23
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,8:50,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,8:38,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,3pt,18,30
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,8:36,NYK,rebound,,,,,,,,,,Wilson Chandler,,,,,,off,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,8:35,NYK,shot,,,,,,,,,,Wilson Chandler,,,,missed,,jump,13,20
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,8:33,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,def,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,8:24,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,3pt,8,25
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,8:23,NOH,rebound,,,,,,,,,,David West,,,,,,off,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,8:22,NYK,foul,,,,,,,,David West,,Wilson Chandler,,,,,,shooting,,
+Al Harrington,Danilo Gallinari,David Lee,Larry Hughes,Wilson Chandler,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,8:22,NOH,free throw,,,,,,,1,,2,David West,,,foul,made,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Darius Songaila,Darren Collison,David West,James Posey,Marcus Thornton,4,8:22,NYK,sub,,,,Chris Duhon,,Wilson Chandler,,,,,,,,,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,8:22,NOH,sub,,,,Chris Paul,,Darren Collison,,,,,,,,,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,8:22,NOH,free throw,,,,,,,2,,2,David West,,,foul,made,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,8:09,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,layup,25,6
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,8:08,NYK,rebound,,,,,,,,,,Al Harrington,,,,,,off,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,8:08,NYK,shot,,,,,,,,,,Al Harrington,2,,,made,,tip,25,6
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,7:43,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,3pt,37,27
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,7:43,NOH,rebound,,,,,,,,,,David West,,,,,,off,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,7:43,NYK,foul,,,,,,,,David West,,David Lee,,,,,,shooting,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,7:43,NOH,free throw,,,,,,,1,,2,David West,,,foul,made,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,7:43,NOH,free throw,,,,,,,2,,2,David West,,,foul,made,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,7:31,NYK,shot,,,,,,,,,,Al Harrington,2,,,made,,driving layup,25,6
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,David West,James Posey,Marcus Thornton,4,7:20,NYK,foul,,,,,,,,David West,,Al Harrington,,,,,,personal,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,7:20,NOH,sub,,,,Peja Stojakovic,,David West,,,,,,,,,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,7:05,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,3pt,27,31
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,7:04,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,6:46,NYK,shot,,,,,,,,,,Larry Hughes,,,,missed,,jump,17,22
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,6:45,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,def,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,6:42,NOH,shot,,,,,,,,,,Chris Paul,2,,,made,,driving layup,25,6
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,6:42,NYK,foul,,,,,,,,Chris Paul,,Larry Hughes,,,,,,shooting,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,6:42,NOH,free throw,,,,,,,1,,1,Chris Paul,,,foul,made,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,6:24,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,fade away jumper,28,13
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,6:23,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,def,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,6:08,NOH,shot,Chris Paul,,,,,,,,,Darius Songaila,2,,,made,,layup,25,6
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,5:47,NOH,foul,,,,,,,,Chris Duhon,,James Posey,,,,,,shooting,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,5:47,NYK,timeout,,,,,,,,,,,,,,,,official,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Larry Hughes,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,5:47,NYK,sub,,,,Jared Jeffries,,Danilo Gallinari,,,,,,,,,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,5:47,NYK,sub,,,,Wilson Chandler,,Larry Hughes,,,,,,,,,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,5:47,NYK,free throw,,,,,,,1,,2,Chris Duhon,,,foul,made,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,5:47,NYK,free throw,,,,,,,2,,2,Chris Duhon,,,foul,made,,,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,5:27,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,17,18
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,5:26,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,5:15,NYK,foul,,,,,,,,Marcus Thornton,,Wilson Chandler,,,,,,offensive,,
+Al Harrington,Chris Duhon,David Lee,Jared Jeffries,Wilson Chandler,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,5:15,NYK,turnover,,,,,,,,,,Wilson Chandler,,,foul,,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,5:15,NYK,sub,,,,Danilo Gallinari,,Wilson Chandler,,,,,,,,,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,4:59,NOH,shot,,,,,,,,,,James Posey,,,,missed,,jump,17,8
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,4:58,NOH,rebound,,,,,,,,,,Darius Songaila,,,,,,off,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,4:57,NOH,shot,Darius Songaila,,,,,,,,,James Posey,2,,,made,,layup,25,6
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,4:43,NYK,shot,,,,,,,,,,Chris Duhon,3,,,made,,3pt,21,33
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,4:25,NOH,turnover,,,,,,,,,,Darius Songaila,,,lost ball,,Jared Jeffries,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,4:13,NYK,foul,,,,,,,,James Posey,,Jared Jeffries,,,,,,offensive,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,4:13,NYK,turnover,,,,,,,,,,Jared Jeffries,,,foul,,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,3:51,NOH,shot,,,,,,,,,,Peja Stojakovic,,,,missed,,3pt,7,23
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,3:51,NOH,rebound,,,,,,,,,,Marcus Thornton,,,,,,off,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,3:51,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,tip,25,6
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,3:50,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,3:38,NYK,shot,,,,,,,,,,Chris Duhon,3,,,made,,3pt,17,31
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,3:23,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,driving layup,25,6
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,3:22,NOH,rebound,,,,,,,,,,Chris Paul,,,,,,off,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,3:15,NOH,shot,,,,,,,,,,Marcus Thornton,,,,missed,,3pt,6,24
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,3:14,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,3:02,NYK,shot,Chris Duhon,,,,,,,,,Al Harrington,3,,,made,,3pt,43,23
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,2:59,NOH,timeout,,,,,,,,,,,,,,,,short,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,Darius Songaila,James Posey,Marcus Thornton,Peja Stojakovic,4,2:59,NYK,timeout,,,,,,,,,,,,,,,,regular,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:59,NOH,sub,,,,David West,,Darius Songaila,,,,,,,,,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:36,NOH,shot,,,,,,,,,,Chris Paul,,,,missed,,jump,20,18
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:34,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:18,NYK,shot,Chris Duhon,,,,,,,,,Al Harrington,3,,,made,,3pt,38,28
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:02,NOH,shot,,,Jared Jeffries,,,,,,,Marcus Thornton,,,,missed,,layup,25,6
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,2:01,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,1:42,NYK,turnover,,,,,,,,,,Al Harrington,,,discontinue dribble,,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,1:28,NOH,shot,,,Danilo Gallinari,,,,,,,Peja Stojakovic,,,,missed,,jump,8,8
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,1:27,NYK,rebound,,,,,,,,,,David Lee,,,,,,def,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,1:06,NYK,shot,,,,,,,,,,Chris Duhon,3,,,made,,3pt,23,30
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:57,NOH,shot,,,,,,,,,,David West,,,,missed,,3pt,1,12
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:56,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,def,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:35,NYK,shot,,,,,,,,,,Al Harrington,,,,missed,,3pt,44,23
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:35,NYK,rebound,,,,,,,,,,Danilo Gallinari,,,,,,off,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Chris Paul,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:33,NOH,foul,,,,,,,,Danilo Gallinari,,Chris Paul,,,,,,personal,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:33,NOH,sub,,,,Darren Collison,,Chris Paul,,,,,,,,,,,,
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:12,NYK,shot,Chris Duhon,,,,,,,,,Danilo Gallinari,3,,,made,,3pt,36,30
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:04,NOH,shot,,,,,,,,,,Darren Collison,,,,missed,,3pt,28,30
+Al Harrington,Chris Duhon,Danilo Gallinari,David Lee,Jared Jeffries,Darren Collison,David West,James Posey,Marcus Thornton,Peja Stojakovic,4,0:04,NYK,rebound,,,,,,,,,,Chris Duhon,,,,,,def,,

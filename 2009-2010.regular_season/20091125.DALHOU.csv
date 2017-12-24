@@ -1,0 +1,410 @@
+a1,a2,a3,a4,a5,h1,h2,h3,h4,h5,period,time,team,etype,assist,away,block,entered,home,left,num,opponent,outof,player,points,possession,reason,result,steal,type,x,y
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,12:00,OFF,jump ball,,Drew Gooden,,,Luis Scola,,,,,,,Aaron Brooks,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:44,HOU,shot,,,,,,,,,,Chuck Hayes,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:41,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:41,HOU,shot,,,,,,,,,,Chuck Hayes,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:41,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:41,HOU,shot,,,,,,,,,,Chuck Hayes,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:41,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:41,HOU,shot,,,,,,,,,,Chuck Hayes,2,,,made,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:41,DAL,foul,,,,,,,,Chuck Hayes,,Drew Gooden,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:41,HOU,free throw,,,,,,,1,,1,Chuck Hayes,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:41,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:19,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,jump,24,11
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:18,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:13,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,14,30
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:11,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,11:09,HOU,shot,,,,,,,,,,Shane Battier,2,,,made,,jump bank,38,9
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:54,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:44,DAL,foul,,,,,,,,Chuck Hayes,,Shawn Marion,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:44,HOU,free throw,,,,,,,1,,2,Chuck Hayes,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:44,HOU,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:44,HOU,free throw,,,,,,,2,,2,Chuck Hayes,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:29,DAL,shot,,,Shane Battier,,,,,,,Dirk Nowitzki,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:27,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:24,HOU,shot,,,Rodrigue Beaubois,,,,,,,Chuck Hayes,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:24,HOU,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:16,DAL,foul,,,,,,,,Aaron Brooks,,Rodrigue Beaubois,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:16,HOU,free throw,,,,,,,1,,3,Aaron Brooks,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:16,HOU,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:16,HOU,free throw,,,,,,,2,,3,Aaron Brooks,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:16,HOU,free throw,,,,,,,3,,3,Aaron Brooks,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:08,HOU,foul,,,,,,,,Dirk Nowitzki,,Luis Scola,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,10:03,DAL,turnover,,,,,,,,,,Jason Kidd,,,bad pass,,Trevor Ariza,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:51,HOU,shot,Trevor Ariza,,,,,,,,,Luis Scola,2,,,made,,jump,22,27
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:39,DAL,turnover,,,,,,,,,,Jason Kidd,,,bad pass,,Trevor Ariza,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:36,HOU,shot,,,,,,,,,,Trevor Ariza,2,,,made,,dunk,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:28,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:15,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,fade away bank,32,10
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:13,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,9:02,HOU,shot,Shane Battier,,,,,,,,,Luis Scola,2,,,made,,jump,35,22
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:51,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,driving reverse layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:50,HOU,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:36,HOU,shot,Aaron Brooks,,,,,,,,,Luis Scola,2,,,made,,jump bank,39,12
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:23,DAL,shot,,,,,,,,,,Drew Gooden,2,,,made,,driving slam dunk,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,8:07,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,running jump,24,18
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:55,DAL,shot,,,,,,,,,,Shawn Marion,2,,,made,,hook,24,11
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:41,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:39,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:28,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,running hook,27,14
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:28,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:28,HOU,foul,,,,,,,,Dirk Nowitzki,,Chuck Hayes,,,,,,loose ball,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:28,DAL,sub,,,,Jason Terry,,Rodrigue Beaubois,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:20,DAL,shot,,,,,,,,,,Drew Gooden,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,7:00,HOU,shot,,,,,,,,,,Luis Scola,2,,,made,,turnaround bank,33,9
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:45,DAL,shot,,,,,,,,,,Drew Gooden,2,,,made,,jump,41,11
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:29,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:27,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:12,DAL,shot,Jason Kidd,,,,,,,,,Jason Terry,2,,,made,,jump bank,45,9
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:12,HOU,foul,,,,,,,,Jason Terry,,Aaron Brooks,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:12,DAL,free throw,,,,,,,1,,1,Jason Terry,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,6:04,DAL,violation,,,,,,,,,,Shawn Marion,,,,,,kicked ball,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:51,HOU,shot,Luis Scola,,,,,,,,,Trevor Ariza,3,,,made,,3pt,31,31
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:40,DAL,shot,,,Chuck Hayes,,,,,,,Drew Gooden,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:38,HOU,rebound,,,,,,,,,,Shane Battier,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:21,HOU,shot,Luis Scola,,,,,,,,,Shane Battier,3,,,made,,3pt,15,30
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:14,DAL,timeout,,,,,,,,,,,,,,,,short,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,5:03,DAL,shot,Jason Terry,,,,,,,,,Jason Kidd,3,,,made,,3pt,9,27
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:50,HOU,turnover,,,,,,,,,,Shane Battier,,,bad pass,,Dirk Nowitzki,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:40,DAL,shot,,,Trevor Ariza,,,,,,,Shawn Marion,,,,missed,,jump,24,12
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:38,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:30,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,jump,9,9
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:28,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:21,HOU,foul,,,,,,,,Dirk Nowitzki,,Aaron Brooks,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:21,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,1,4:21,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,4:21,HOU,sub,,,,Kyle Lowry,,Aaron Brooks,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,4:21,DAL,sub,,,,Tim Thomas,,Shawn Marion,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,4:21,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,3:58,HOU,shot,,,Dirk Nowitzki,,,,,,,Chuck Hayes,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,3:56,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,3:38,DAL,shot,,,,,,,,,,Jason Kidd,2,,,made,,driving finger roll layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,3:26,HOU,shot,,,Drew Gooden,,,,,,,Luis Scola,,,,missed,,reverse layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,3:24,DAL,rebound,,,,,,,,,,Jason Terry,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,3:17,DAL,shot,Jason Terry,,,,,,,,,Tim Thomas,2,,,made,,jump,10,19
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,3:00,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,47,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,2:58,DAL,rebound,,,,,,,,,,Tim Thomas,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,2:46,DAL,shot,Jason Kidd,,,,,,,,,Jason Terry,2,,,made,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,1,2:40,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Chase Budinger,Chuck Hayes,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:40,HOU,sub,,,,Chase Budinger,,Shane Battier,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:40,HOU,sub,,,,Carl Landry,,Chuck Hayes,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:31,HOU,turnover,,,,,,,,,,Trevor Ariza,,,lost ball,,Jason Kidd,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:27,DAL,shot,Jason Terry,,,,,,,,,Tim Thomas,2,,,made,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:27,HOU,foul,,,,,,,,Tim Thomas,,Chase Budinger,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:27,DAL,free throw,,,,,,,1,,1,Tim Thomas,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:15,DAL,sub,,,,Kris Humphries,,Drew Gooden,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:09,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,3pt,36,31
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,2:08,DAL,rebound,,,,,,,,,,Jason Terry,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:42,DAL,shot,,,,,,,,,,Jason Kidd,2,,,made,,jump,11,25
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:26,HOU,shot,,,,,,,,,,Kyle Lowry,,,,missed,,jump,46,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:25,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,1:19,DAL,shot,Jason Kidd,,,,,,,,,Jason Terry,2,,,made,,jump,41,15
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:54,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Kris Humphries,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:54,HOU,rebound,,,,,,,,,,,,,,,,,,
+Jason Kidd,Jason Terry,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:54,DAL,sub,,,,Shawn Marion,,Dirk Nowitzki,,,,,,,,,,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:54,DAL,sub,,,,Jose Juan Barea,,Jason Kidd,,,,,,,,,,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:37,HOU,turnover,,,,,,,,,,Kyle Lowry,,,bad pass,,Tim Thomas,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:33,DAL,shot,Jose Juan Barea,,,,,,,,,Jason Terry,3,,,made,,3pt,41,25
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:12,HOU,turnover,,,,,,,,,,Kyle Lowry,,,bad pass,,Tim Thomas,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:02,DAL,shot,,,,,,,,,,Jason Terry,3,,,made,,3pt,42,28
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:00,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,10,63
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,1,0:00,HOU,rebound,,,,,,,,,,,,,,,,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,2,11:46,DAL,shot,Jason Terry,,,,,,,,,Tim Thomas,3,,,made,,3pt,48,7
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,2,11:29,DAL,foul,,,,,,,,Carl Landry,,Shawn Marion,,,,,,shooting,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,2,11:29,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,made,,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,2,11:29,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,made,,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,2,11:13,DAL,shot,Jose Juan Barea,,,,,,,,,Tim Thomas,3,,,made,,3pt,49,8
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,Trevor Ariza,2,11:03,HOU,shot,Kyle Lowry,,,,,,,,,David Andersen,2,,,made,,jump,24,27
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:59,HOU,sub,,,,Aaron Brooks,,Trevor Ariza,,,,,,,,,,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:50,DAL,turnover,,,,,,,,,,Jose Juan Barea,,,bad pass,,,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:32,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,layup,25,6
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:30,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:23,DAL,shot,,,,,,,,,,Tim Thomas,,,,missed,,3pt,37,28
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:22,HOU,rebound,,,,,,,,,,David Andersen,,,,,,def,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:08,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,3pt,1,10
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:06,HOU,rebound,,,,,,,,,,Kyle Lowry,,,,,,off,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:02,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,3pt,1,13
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,10:01,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:55,DAL,shot,Jason Terry,,,,,,,,,Tim Thomas,2,,,made,,layup,25,6
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:47,HOU,turnover,,,,,,,,,,Kyle Lowry,,,lost ball,,Shawn Marion,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:42,DAL,shot,Jason Terry,,,,,,,,,Tim Thomas,2,,,made,,reverse layup,25,6
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:35,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:28,DAL,foul,,,,,,,,Aaron Brooks,,Tim Thomas,,,,,,personal,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,9:18,HOU,shot,Chase Budinger,,,,,,,,,David Andersen,2,,,made,,hook,25,12
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:57,DAL,shot,,,,,,,,,,Jason Terry,2,,,made,,pullup jump,23,19
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:33,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,3pt,46,20
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:32,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:25,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,running jump,17,12
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:24,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:09,HOU,shot,,,,,,,,,,David Andersen,,,,missed,,step back jump,23,12
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,8:07,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,def,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:51,DAL,turnover,,,,,,,,,,Tim Thomas,,,traveling,,,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:36,HOU,shot,Aaron Brooks,,,,,,,,,Kyle Lowry,3,,,made,,3pt,46,20
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:27,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:19,DAL,shot,Tim Thomas,,,,,,,,,Shawn Marion,2,,,made,,turnaround jump,23,12
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,7:02,HOU,shot,,,,,,,,,,David Andersen,2,,,made,,jump hook,25,13
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:49,DAL,foul,,,,,,,,Kyle Lowry,,Tim Thomas,,,,,,offensive,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:49,DAL,turnover,,,,,,,,,,Tim Thomas,,,foul,,,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:36,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,jump,20,25
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:35,DAL,rebound,,,,,,,,,,Tim Thomas,,,,,,def,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:23,DAL,turnover,,,,,,,,,,Tim Thomas,,,bad pass,,,,,
+Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:23,DAL,sub,,,,Jason Kidd,,Shawn Marion,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,2,6:23,DAL,sub,,,,Dirk Nowitzki,,Tim Thomas,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,2,6:23,HOU,sub,,,,Shane Battier,,Chase Budinger,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,2,6:06,HOU,shot,,,,,,,,,,Shane Battier,,,,missed,,3pt,1,5
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,2,6:05,HOU,rebound,,,,,,,,,,Kyle Lowry,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,2,6:01,HOU,shot,Kyle Lowry,,,,,,,,,Carl Landry,2,,,made,,slam dunk,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,2,5:40,DAL,shot,Jose Juan Barea,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,13,10
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,2,5:28,HOU,turnover,,,,,,,,,,Aaron Brooks,,,bad pass,,Jose Juan Barea,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Aaron Brooks,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,2,5:24,HOU,foul,,,,,,,,Jason Terry,,Aaron Brooks,,,,,,personal,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,5:24,HOU,sub,,,,Trevor Ariza,,Aaron Brooks,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,5:21,HOU,foul,,,,,,,,Dirk Nowitzki,,Kyle Lowry,,,,,,personal,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,5:01,DAL,shot,,,,,,,,,,Jose Juan Barea,2,,,made,,jump,16,22
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,4:43,HOU,shot,Trevor Ariza,,,,,,,,,David Andersen,2,,,made,,jump,10,11
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,4:32,DAL,shot,Jose Juan Barea,,,,,,,,,Kris Humphries,2,,,made,,jump,22,25
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,4:17,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,3:57,DAL,shot,,,,,,,,,,Jose Juan Barea,2,,,made,,driving finger roll layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,3:35,HOU,shot,,,,,,,,,,Kyle Lowry,,,,missed,,3pt,1,13
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,3:34,HOU,rebound,,,,,,,,,,David Andersen,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,3:30,HOU,shot,,,,,,,,,,David Andersen,,,,missed,,hook,30,12
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,3:29,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,3:17,DAL,shot,Jason Kidd,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,11,14
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,2:53,HOU,shot,Kyle Lowry,,,,,,,,,Carl Landry,2,,,made,,jump,10,8
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,2:41,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,running jump,36,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,2:40,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,2:33,HOU,shot,Kyle Lowry,,,,,,,,,Trevor Ariza,3,,,made,,3pt,39,29
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,2:13,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,jump,45,9
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,2:11,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,2:11,HOU,foul,,,,,,,,Kris Humphries,,Kyle Lowry,,,,,,personal,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,Carl Landry,David Andersen,Kyle Lowry,Shane Battier,Trevor Ariza,2,2:11,DAL,timeout,,,,,,,,,,,,,,,,official,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Kris Humphries,David Andersen,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,2:11,HOU,sub,,,,Luis Scola,,Carl Landry,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,David Andersen,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,2:11,DAL,sub,,,,Tim Thomas,,Kris Humphries,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,David Andersen,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,1:59,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,David Andersen,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,1:44,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,jump,41,3
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,David Andersen,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,1:42,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,David Andersen,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,1:30,DAL,shot,,,,,,,,,,Tim Thomas,,,,missed,,3pt,7,25
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,David Andersen,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,1:28,HOU,rebound,,,,,,,,,,Trevor Ariza,,,,,,def,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,David Andersen,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,1:21,HOU,foul,,,,,,,,Tim Thomas,,Kyle Lowry,,,,,,offensive,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,1:21,HOU,sub,,,,Chuck Hayes,,David Andersen,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,1:07,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,fade away jumper,16,11
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:52,HOU,shot,Chuck Hayes,,,,,,,,,Trevor Ariza,2,,,made,,layup,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:36,HOU,foul,,,,,,,,Dirk Nowitzki,,Chuck Hayes,,,,,,shooting,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:36,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:36,HOU,sub,,,,Carl Landry,,Chuck Hayes,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:36,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:28,DAL,foul,,,,,,,,Carl Landry,,Jason Terry,,,,,,shooting,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:28,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:28,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:07,DAL,shot,Tim Thomas,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,9,12
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:02,HOU,turnover,,,,,,,,,,Kyle Lowry,,,bad pass,,Jose Juan Barea,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:00,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,jump,6,19
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,2,0:00,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:41,DAL,shot,,,Trevor Ariza,,,,,,,Dirk Nowitzki,,,,missed,,jump,16,10
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:39,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:35,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,3pt,42,26
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:34,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:17,HOU,shot,,,Dirk Nowitzki,,,,,,,Aaron Brooks,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:17,HOU,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,11:12,HOU,shot,,,,,,,,,,Trevor Ariza,2,,,made,,driving slam dunk,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:52,DAL,shot,Jason Kidd,,,,,,,,,Rodrigue Beaubois,2,,,made,,alley oop dunk,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:32,HOU,shot,,,,,,,,,,Trevor Ariza,2,,,made,,jump,43,13
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:18,DAL,shot,,,,,,,,,,Drew Gooden,,,,missed,,jump,42,12
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:17,HOU,rebound,,,,,,,,,,Chuck Hayes,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,10:08,HOU,turnover,,,,,,,,,,Trevor Ariza,,,bad pass,,Drew Gooden,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:55,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,step back jump,17,10
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:41,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:28,DAL,turnover,,,,,,,,,,Drew Gooden,,,traveling,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:18,HOU,shot,Chuck Hayes,,,,,,,,,Trevor Ariza,2,,,made,,dunk,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:06,HOU,foul,,,,,,,,Rodrigue Beaubois,,Aaron Brooks,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Aaron Brooks,Chuck Hayes,Luis Scola,Shane Battier,Trevor Ariza,3,9:01,HOU,foul,,,,,,,,Dirk Nowitzki,,Aaron Brooks,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,9:01,HOU,sub,,,,Kyle Lowry,,Aaron Brooks,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,8:54,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,3pt,15,30
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,8:53,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,8:41,HOU,shot,,,,,,,,,,Chuck Hayes,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,8:40,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,8:31,DAL,turnover,,,,,,,,,,Jason Kidd,,,bad pass,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,8:20,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,8:18,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,8:05,HOU,foul,,,,,,,,Shawn Marion,,Chuck Hayes,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,8:05,DAL,free throw,,,,,,,1,,2,Shawn Marion,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,8:05,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,8:05,DAL,free throw,,,,,,,2,,2,Shawn Marion,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,7:47,HOU,shot,,,Drew Gooden,,,,,,,Chuck Hayes,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,7:46,DAL,rebound,,,,,,,,,,Jason Kidd,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,7:38,DAL,turnover,,,,,,,,,,Drew Gooden,,,lost ball,,Luis Scola,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,7:32,HOU,turnover,,,,,,,,,,Luis Scola,,,bad pass,,Dirk Nowitzki,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,7:28,DAL,shot,Dirk Nowitzki,,,,,,,,,Drew Gooden,2,,,made,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,7:15,HOU,turnover,,,,,,,,,,Kyle Lowry,,,lost ball,,Rodrigue Beaubois,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,7:11,DAL,shot,,,,,,,,,,Rodrigue Beaubois,2,,,made,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Chuck Hayes,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,7:09,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,7:09,HOU,sub,,,,Carl Landry,,Chuck Hayes,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,6:55,DAL,foul,,,,,,,,Kyle Lowry,,Drew Gooden,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,6:55,HOU,free throw,,,,,,,1,,2,Kyle Lowry,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,6:55,HOU,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,6:55,HOU,free throw,,,,,,,2,,2,Kyle Lowry,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,6:55,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,6:36,DAL,turnover,,,,,,,,,,Rodrigue Beaubois,,,bad pass,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,6:24,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,turnaround jump,20,12
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,6:02,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,turnaround jump,16,12
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,6:00,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,5:43,HOU,shot,Luis Scola,,,,,,,,,Carl Landry,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,5:35,DAL,shot,Jason Kidd,,,,,,,,,Shawn Marion,2,,,made,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,5:12,HOU,shot,,,,,,,,,,Shane Battier,,,,missed,,3pt,29,32
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,5:11,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,4:55,HOU,foul,,,,,,,,Dirk Nowitzki,,Trevor Ariza,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,4:55,DAL,free throw,,,,,,,1,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,4:55,DAL,free throw,,,,,,,2,,2,Dirk Nowitzki,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,4:38,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,jump,30,25
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,4:37,DAL,rebound,,,,,,,,,,Drew Gooden,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,4:18,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,33,20
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:58,HOU,shot,,,,,,,,,,Trevor Ariza,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:43,DAL,turnover,,,,,,,,,,Rodrigue Beaubois,,,lost ball,,Kyle Lowry,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:38,HOU,turnover,,,,,,,,,,Shane Battier,,,bad pass,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Rodrigue Beaubois,Shawn Marion,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:38,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Rodrigue Beaubois,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:38,DAL,sub,,,,Jason Terry,,Shawn Marion,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:38,DAL,sub,,,,Tim Thomas,,Rodrigue Beaubois,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:20,DAL,shot,,,,,,,,,,Jason Kidd,,,,missed,,3pt,1,15
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:18,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:12,HOU,shot,Kyle Lowry,,,,,,,,,Shane Battier,3,,,made,,3pt,0,7
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:12,DAL,foul,,,,,,,,Shane Battier,,Tim Thomas,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:12,HOU,free throw,,,,,,,1,,1,Shane Battier,,,foul,missed,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:12,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,3:03,HOU,shot,Kyle Lowry,,,,,,,,,Carl Landry,2,,,made,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,2:44,DAL,shot,Jason Terry,,,,,,,,,Drew Gooden,2,,,made,,running layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,2:33,HOU,shot,,,Drew Gooden,,,,,,,Kyle Lowry,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,2:30,HOU,rebound,,,,,,,,,,Kyle Lowry,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,2:19,HOU,shot,Kyle Lowry,,,,,,,,,Luis Scola,2,,,made,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,2:14,HOU,foul,,,,,,,,Jason Terry,,Carl Landry,,,,,,personal,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,2:14,DAL,free throw,,,,,,,1,,2,Jason Terry,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,2:14,DAL,free throw,,,,,,,2,,2,Jason Terry,,,foul,made,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,2:00,HOU,shot,,,Drew Gooden,,,,,,,Carl Landry,,,,missed,,reverse layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,1:57,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,off,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,1:57,HOU,shot,,,Tim Thomas,,,,,,,Luis Scola,,,,missed,,layup,25,6
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,1:57,HOU,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,1:48,DAL,foul,,,,,,,,Luis Scola,,Jason Terry,,,,,,shooting,,
+Dirk Nowitzki,Drew Gooden,Jason Kidd,Jason Terry,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,1:48,HOU,free throw,,,,,,,1,,2,Luis Scola,,,foul,made,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,1:48,DAL,sub,,,,Jose Juan Barea,,Dirk Nowitzki,,,,,,,,,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,1:48,HOU,free throw,,,,,,,2,,2,Luis Scola,,,foul,made,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,1:27,DAL,shot,,,,,,,,,,Jason Kidd,2,,,made,,driving layup,25,6
+Drew Gooden,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,1:02,HOU,shot,Trevor Ariza,,,,,,,,,Luis Scola,2,,,made,,jump,25,17
+Drew Gooden,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:36,DAL,shot,,,,,,,,,,Drew Gooden,,,,missed,,jump,3,6
+Drew Gooden,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:34,HOU,rebound,,,,,,,,,,Luis Scola,,,,,,def,,
+Drew Gooden,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:23,DAL,foul,,,,,,,,Luis Scola,,Tim Thomas,,,,,,shooting,,
+Drew Gooden,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:23,HOU,free throw,,,,,,,1,,2,Luis Scola,,,foul,missed,,,,
+Drew Gooden,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:23,HOU,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:23,DAL,sub,,,,Dirk Nowitzki,,Drew Gooden,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:23,HOU,free throw,,,,,,,2,,2,Luis Scola,,,foul,made,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:04,DAL,shot,,,,,,,,,,Jason Terry,,,,missed,,fade away jumper,13,19
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:02,DAL,rebound,,,,,,,,,,Tim Thomas,,,,,,off,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:02,DAL,shot,,,,,,,,,,Tim Thomas,2,,,made,,putback dunk,25,6
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:02,DAL,foul,,,,,,,,,,Thomas,,,,,,technical,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:02,HOU,free throw,,,,,,,1,,1,Trevor Ariza,,,technical,missed,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:02,HOU,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:00,HOU,shot,,,,,,,,,,Kyle Lowry,,,,missed,,3pt,38,53
+Dirk Nowitzki,Jason Kidd,Jason Terry,Jose Juan Barea,Tim Thomas,Carl Landry,Kyle Lowry,Luis Scola,Shane Battier,Trevor Ariza,3,0:00,HOU,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:47,DAL,foul,,,,,,,,Trevor Ariza,,Shawn Marion,,,,,,shooting,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:47,HOU,free throw,,,,,,,1,,2,Trevor Ariza,,,foul,made,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:47,HOU,free throw,,,,,,,2,,2,Trevor Ariza,,,foul,made,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:30,DAL,shot,Tim Thomas,,,,,,,,,Jason Terry,3,,,made,,3pt,16,30
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:22,DAL,foul,,,,,,,,Kyle Lowry,,Tim Thomas,,,,,,shooting,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:22,HOU,free throw,,,,,,,1,,2,Kyle Lowry,,,foul,made,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:22,HOU,free throw,,,,,,,2,,2,Kyle Lowry,,,foul,missed,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:22,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:22,HOU,foul,,,,,,,,Tim Thomas,,Luis Scola,,,,,,loose ball,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:06,DAL,shot,,,,,,,,,,Shawn Marion,,,,missed,,jump,27,13
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,11:04,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:54,HOU,shot,,,,,,,,,,Luis Scola,,,,missed,,hook,16,9
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:51,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:43,DAL,shot,Jose Juan Barea,,,,,,,,,Tim Thomas,3,,,made,,3pt,8,25
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:17,HOU,shot,,,,,,,,,,Kyle Lowry,,,,missed,,running jump,30,13
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:17,DAL,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:17,HOU,foul,,,,,,,,Tim Thomas,,Luis Scola,,,,,,loose ball,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Carl Landry,Chase Budinger,Kyle Lowry,Luis Scola,Trevor Ariza,4,10:17,HOU,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,10:17,HOU,sub,,,,Aaron Brooks,,Luis Scola,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,10:05,DAL,shot,Jose Juan Barea,,,,,,,,,Shawn Marion,2,,,made,,layup,25,6
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,9:48,HOU,shot,,,,,,,,,,Carl Landry,,,,missed,,fade away jumper,31,9
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,9:47,DAL,rebound,,,,,,,,,,Tim Thomas,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,9:30,DAL,shot,,,,,,,,,,Tim Thomas,,,,missed,,3pt,17,31
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,9:29,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,9:18,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,pullup jump,21,14
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,9:16,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,off,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,9:16,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,layup,25,6
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,8:58,DAL,shot,,,,,,,,,,Jose Juan Barea,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,8:45,DAL,foul,,,,,,,,Carl Landry,,Dirk Nowitzki,,,,,,shooting,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,8:45,HOU,free throw,,,,,,,1,,2,Carl Landry,,,foul,made,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,8:45,HOU,free throw,,,,,,,2,,2,Carl Landry,,,foul,made,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,8:31,HOU,foul,,,,,,,,Shawn Marion,,Kyle Lowry,,,,,,shooting,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,8:31,DAL,free throw,,,,,,,1,,2,Shawn Marion,,,foul,made,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,8:31,DAL,free throw,,,,,,,2,,2,Shawn Marion,,,foul,missed,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,8:31,HOU,rebound,,,,,,,,,,Carl Landry,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,8:24,HOU,shot,,,,,,,,,,Trevor Ariza,,,,missed,,3pt,46,21
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,8:22,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,8:13,DAL,shot,Jason Terry,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,23,27
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,7:58,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,turnaround jump,18,9
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,7:38,DAL,shot,Shawn Marion,,,,,,,,,Jason Terry,2,,,made,,jump,45,6
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,7:30,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,7:29,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,off,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,7:22,DAL,foul,,,,,,,,Aaron Brooks,,Shawn Marion,,,,,,loose ball,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,7:22,HOU,free throw,,,,,,,1,,2,Aaron Brooks,,,foul,missed,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,7:22,HOU,rebound,,,,,,,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,7:22,HOU,free throw,,,,,,,2,,2,Aaron Brooks,,,foul,made,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,7:01,DAL,shot,,,,,,,,,,Tim Thomas,,,,missed,,3pt,48,5
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,7:00,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,off,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,6:44,DAL,shot,,,,,,,,,,Jason Terry,2,,,made,,jump,34,12
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,6:37,HOU,shot,,,,,,,,,,Aaron Brooks,2,,,made,,driving layup,25,6
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,6:14,DAL,shot,,,,,,,,,,Dirk Nowitzki,2,,,made,,turnaround jump,39,8
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,5:57,HOU,shot,,,,,,,,,,Chase Budinger,,,,missed,,3pt,48,16
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,5:55,DAL,rebound,,,,,,,,,,Dirk Nowitzki,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,5:41,HOU,foul,,,,,,,,Shawn Marion,,Chase Budinger,,,,,,personal,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,Kyle Lowry,Trevor Ariza,4,5:41,DAL,timeout,,,,,,,,,,,,,,,,official,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Kyle Lowry,4,5:41,HOU,sub,,,,David Andersen,,Trevor Ariza,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,5:41,HOU,sub,,,,Jermaine Taylor,,Kyle Lowry,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,5:27,DAL,shot,Jose Juan Barea,,,,,,,,,Jason Terry,3,,,made,,3pt,7,26
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,5:13,HOU,shot,,,,,,,,,,Carl Landry,2,,,made,,dunk,25,6
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,4:54,DAL,shot,,,,,,,,,,Jose Juan Barea,,,,missed,,driving layup,25,6
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,4:53,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,4:46,HOU,turnover,,,,,,,,,,Aaron Brooks,,,bad pass,,Tim Thomas,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,4:30,DAL,shot,Jason Terry,,,,,,,,,Dirk Nowitzki,2,,,made,,jump,41,5
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,4:17,HOU,shot,,,,,,,,,,Jermaine Taylor,,,,missed,,3pt,7,24
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,4:16,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,3:58,DAL,shot,,,,,,,,,,Dirk Nowitzki,,,,missed,,jump,41,5
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,3:57,HOU,rebound,,,,,,,,,,Chase Budinger,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,3:50,HOU,shot,,,,,,,,,,Aaron Brooks,,,,missed,,jump,43,19
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,3:48,DAL,rebound,,,,,,,,,,Shawn Marion,,,,,,def,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Carl Landry,Chase Budinger,David Andersen,Jermaine Taylor,4,3:43,DAL,timeout,,,,,,,,,,,,,,,,regular,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Shawn Marion,Tim Thomas,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,3:43,HOU,sub,,,,Brian Cook,,Carl Landry,,,,,,,,,,,,
+Dirk Nowitzki,Jason Terry,Jose Juan Barea,Kris Humphries,Tim Thomas,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,3:43,DAL,sub,,,,Kris Humphries,,Shawn Marion,,,,,,,,,,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Rodrigue Beaubois,Tim Thomas,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,3:43,DAL,sub,,,,Rodrigue Beaubois,,Dirk Nowitzki,,,,,,,,,,,,
+Jason Terry,Jose Juan Barea,Kris Humphries,Rodrigue Beaubois,Tim Thomas,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,3:35,DAL,shot,Jason Terry,,,,,,,,,Tim Thomas,3,,,made,,3pt,45,22
+Jason Terry,Jose Juan Barea,Kris Humphries,Rodrigue Beaubois,Tim Thomas,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,3:17,DAL,foul,,,,,,,,David Andersen,,Tim Thomas,,,,,,shooting,,
+Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Tim Thomas,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,3:17,DAL,sub,,,,Matt Carroll,,Jason Terry,,,,,,,,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,3:17,DAL,sub,,,,James Singleton,,Tim Thomas,,,,,,,,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,3:17,HOU,free throw,,,,,,,1,,2,David Andersen,,,foul,made,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,3:17,HOU,free throw,,,,,,,2,,2,David Andersen,,,foul,made,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,2:56,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,3pt,48,16
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,2:55,DAL,rebound,,,,,,,,,,James Singleton,,,,,,off,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,2:41,DAL,shot,Matt Carroll,,,,,,,,,Kris Humphries,2,,,made,,driving layup,25,6
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,2:36,HOU,turnover,,,,,,,,,,Brian Cook,,,bad pass,,Matt Carroll,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,2:30,DAL,shot,Jose Juan Barea,,,,,,,,,Rodrigue Beaubois,2,,,made,,layup,25,6
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,2:04,HOU,turnover,,,,,,,,,,Jermaine Taylor,,,bad pass,,Matt Carroll,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,2:01,DAL,foul,,,,,,,,Aaron Brooks,,Matt Carroll,,,,,,offensive,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,2:01,DAL,turnover,,,,,,,,,,Matt Carroll,,,foul,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,1:49,HOU,shot,,,,,,,,,,Brian Cook,,,,missed,,3pt,23,33
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,1:48,DAL,rebound,,,,,,,,,,Jose Juan Barea,,,,,,def,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,1:35,DAL,shot,,,,,,,,,,Jose Juan Barea,2,,,made,,driving layup,25,6
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,1:25,HOU,turnover,,,,,,,,,,Brian Cook,,,lost ball,,Jose Juan Barea,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,1:20,DAL,shot,,,,,,,,,,Rodrigue Beaubois,,,,missed,,layup,25,6
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,1:20,DAL,rebound,,,,,,,,,,Kris Humphries,,,,,,off,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,1:20,DAL,shot,,,,,,,,,,Kris Humphries,2,,,made,,putback dunk,25,6
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,1:08,HOU,shot,Aaron Brooks,,,,,,,,,Brian Cook,2,,,made,,layup,25,6
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,0:47,DAL,shot,,,,,,,,,,Kris Humphries,,,,missed,,turnaround jump,19,17
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,0:43,DAL,rebound,,,,,,,,,,Rodrigue Beaubois,,,,,,off,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,0:40,DAL,shot,Rodrigue Beaubois,,,,,,,,,Kris Humphries,2,,,made,,dunk,25,6
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,0:37,HOU,turnover,,,,,,,,,,Aaron Brooks,,,bad pass,,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,0:25,DAL,shot,Jose Juan Barea,,,,,,,,,Matt Carroll,2,,,made,,jump,39,21
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,0:19,HOU,shot,Aaron Brooks,,,,,,,,,Brian Cook,2,,,made,,driving layup,25,6
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,0:19,DAL,foul,,,,,,,,Brian Cook,,Kris Humphries,,,,,,shooting,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,0:19,HOU,free throw,,,,,,,1,,1,Brian Cook,,,foul,missed,,,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,0:19,HOU,rebound,,,,,,,,,,David Andersen,,,,,,off,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,0:13,DAL,violation,,,,,,,,,,Kris Humphries,,,,,,defensive goaltending,,
+James Singleton,Jose Juan Barea,Kris Humphries,Matt Carroll,Rodrigue Beaubois,Aaron Brooks,Brian Cook,Chase Budinger,David Andersen,Jermaine Taylor,4,0:13,HOU,shot,Aaron Brooks,,,,,,,,,Jermaine Taylor,2,,,made,,layup,25,6
