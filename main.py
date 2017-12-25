@@ -40,13 +40,13 @@ def predict():
         period = None
         if 'period' not in request.args:
             period = 2
+        elif float(request.args.get('period')) not in [1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5]:
+            raise Exception('invalid period')
 
         if len(request.args) == 0:
             raise Exception('no parameters provided')
         elif any(x not in request.args for x in ['home', 'away', 'score1', 'score2']):
             raise Exception('Bad parameters')
-        elif float(request.args.get('period')) not in [1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5]:
-            raise Exception('invalid period')
 
         input = [[hash(request.args.get('home')), hash(request.args.get('away')),
                   request.args.get('score1'), request.args.get('score2'), period or request.args.get('period')]]
