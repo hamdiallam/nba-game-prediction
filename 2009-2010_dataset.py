@@ -54,11 +54,11 @@ def create_input_from_game(file, team1, team2):
         current_time = play[headers.index('time')].split(':')
         minute, second = int(current_time[0]), int(current_time[1])
         # delta of 15 seconds
-        if minute == 6 and second > 15 and second <  45 and not any(x[4] == quarter_marker + 0.5 for x in input):
+        if minute == 6 and second > 15 and second <  45:# and not any(x[4] == quarter_marker + 0.5 for x in input):
             input.append([hash(team1), hash(team2), score1, score2, quarter_marker + 0.5])
         # delta of 30 seconds for a play to occur within the beginning of a quarter
         #   - larger delta because the start of a quarter generally takes longer for a play to occur
-        elif minute == 11 and second > 30 and not any(x[4] == quarter_marker for x in input): 
+        elif minute == 11 and second > 30:# and not any(x[4] == quarter_marker for x in input): 
             input.append([hash(team1), hash(team2), score1, score2, quarter_marker])
     
     # result of the game. Duplicate the same outcome for every play in the input matrix
@@ -85,6 +85,104 @@ split_size = int(train_x.shape[0]*0.7) # 70/30 split between train/test
 
 train_x, val_x = train_x[:split_size], train_x[split_size:]
 train_y, val_y = train_y[:split_size], train_y[split_size:]
+
+# 1: true if team 1 winning
+# 2: true if team 2 winning
+# 3-18: encoding of the score difference
+# 19-27: encoding of the period
+
+# result: is 1,0 if team 1, 0,1 if team 2
+
+# -> flip all the teams and data -> 2x more data
+# -> +-1 to the score, -> 2x
+
+# Model based on the MNSIT tensorflow example
+
+# Period 1, difference 2, team 1 is winning
+# 0.52, 0.48 -> argmax -> 1,0
+
+# Period 4, difference 5, team 1 is winning
+# 0.65, 0.35 -> argmax -> 1,0
+
+def rotate_x(prev_x):
+    new_x = []
+
+    for x in prev_x:
+        row = np.zeros(27)
+
+        if x[2] > x[3]:
+            row[0] = 1
+        elif x[3] > x[2]:
+            row[1] = 1
+
+        score_diff = int(min(15, abs(x[2] - x[3])))
+        row[2 + score_diff - 1] = 1
+
+        period = int(19 + (x[4] * 2) - 2)
+        row[period] = 1
+
+        new_x.append(row)
+
+    return np.array(new_x)    
+
+train_x = rotate_x(train_x)
+val_x = rotate_x(val_x)
+
+for x in train_x[:20]:
+    print(x.tolist())
+print(train_y[:20])
+
+print(len(train_x))
+assert False 
+
+import keras
+from keras.models import Sequential
+from keras.layers.normalization import BatchNormalization
+from keras.optimizers import Adam
+from keras.layers import Dense, Dropout, Activation, Flatten
+from keras.layers import Conv2D, MaxPooling2D
+
+model = Sequential()
+model.add(Dense(64, input_dim=len(train_x[0])))
+model.add(Dense(
+    64, 
+    activation='relu', 
+    kernel_initializer='random_uniform', 
+    bias_initializer='random_uniform'
+))
+model.add(Dense(
+    64, 
+    activation='relu', 
+    kernel_initializer='random_uniform', 
+    bias_initializer='random_uniform'
+))
+model.add(Dense(
+    64, 
+    activation='relu', 
+    kernel_initializer='random_uniform', 
+    bias_initializer='random_uniform'
+))
+model.add(Dense(2, activation='softmax'))
+
+optimizer = Adam(lr=0.01)
+model.compile(optimizer=optimizer,
+              loss='categorical_crossentropy',
+              metrics=['accuracy'])
+
+
+model.fit(train_x, train_y, epochs=1000, batch_size=512)
+
+print("")
+results = model.predict(val_x[:500])
+
+count = 0
+for (actual,guess) in zip(results, val_y[:500]):
+    if np.argmax(actual) == np.argmax(guess):
+        count += 1
+
+print("{} of {}".format(count, 500))
+
+assert False
 
 # helper function
 def batch_creator(train_x, train_y, batch_size):

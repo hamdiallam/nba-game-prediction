@@ -24,8 +24,24 @@ for game in sb_nation:
         x_train.append([score1, score2])
         y_train.append(result)
 
+# 1: true if team 1 winning
+# 2: true if team 2 winning
+# 3-18: encoding of the score difference
+# 19-27: encoding of the period
+
+# result: is 1,0 if team 1, 0,1 if team 2
+
+# -> flip all the teams and data -> 2x more data
+# -> +-1 to the score, -> 2x
 
 # Model based on the MNSIT tensorflow example
+
+# Period 1, difference 2, team 1 is winning
+# 0.52, 0.48 -> argmax -> 1,0
+
+# Period 4, difference 5, team 1 is winning
+# 0.65, 0.35 -> argmax -> 1,0
+
 
 x = tf.placeholder(tf.float32, [None, 2])
 y_ = tf.placeholder(tf.float32, [None, 2])
@@ -36,6 +52,7 @@ y = tf.nn.softmax(tf.matmul(x, W) + b)
 
 cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_ * tf.log(y), reduction_indices=[1]))
 train_step = tf.train.GradientDescentOptimizer(0.5).minimize(cross_entropy)
+
 
 sess = tf.InteractiveSession()
 tf.global_variables_initializer().run()
