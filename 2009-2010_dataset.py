@@ -16,24 +16,31 @@ def load_season_data(pathname):
         try:
             x, y = create_input_from_game(reader, teams[:3], teams[3:])
             train_x.extend(x); train_y.extend(y)
-        except:
+        except Exception as e:
             print('FILE ERROR: ', file)
         
-    return (np.stack(train_x), np.stack(train_y))
+    return np.stack(train_x), np.stack(train_y)
     
 
 def create_input_from_game(file, team1, team2):
+    """ creates an individual row in the training set
+    Entries in a row:
+        1: team1 winning
+        2: team2 winning
+        3-18: encoding of the score difference. max 15 point differential
+        19-27: encoding of the period. Every 6 minutes. 8 period
+        28: overtime
+    """
     headers = next(file) # read in the titles for each column
 
-    # using scores for every 6 minutes of a game
-    quarter_marker = 1
     score1, score2 = 0, 0
-    input = []
+    x = []
     for play in file:
+        row = np.zeros(28)
         # players involed in the current play. Used to determine which points belong to which team
         team1_players, team2_players = play[:5], play[5:10]
 
-        # check if points were involved in the play
+        # Calculation of the points
         if play[headers.index('points')]:
             points = int(play[headers.index('points')])
             if play[headers.index('player')] in team1_players:
@@ -46,37 +53,37 @@ def create_input_from_game(file, team1, team2):
                 score1 = score1 + 1
             else:
                 score2 = score2 + 1
-        
-        if play[headers.index('period')] != str(quarter_marker):
-            quarter_marker = int(play[headers.index('period')])
+        else:
+            continue # no points were scored in this play
 
-        # only allow one play per unique quarter marker
-        current_time = play[headers.index('time')].split(':')
-        minute, second = int(current_time[0]), int(current_time[1])
-        # delta of 15 seconds
-        if minute == 6 and second > 15 and second <  45:# and not any(x[4] == quarter_marker + 0.5 for x in input):
-            input.append([hash(team1), hash(team2), score1, score2, quarter_marker + 0.5])
-        # delta of 30 seconds for a play to occur within the beginning of a quarter
-        #   - larger delta because the start of a quarter generally takes longer for a play to occur
-        elif minute == 11 and second > 30:# and not any(x[4] == quarter_marker for x in input): 
-            input.append([hash(team1), hash(team2), score1, score2, quarter_marker])
-    
+        if score1 > score2:
+            row[0] = 1
+        elif score2 > score1:
+            row[1] = 1
+
+        diff = min(15, abs(score2 - score1))
+        if diff != 0: # make sure that a difference exists
+            row[2 + diff - 1] = 1 # encoding of the score differential
+
+        period, minute = int(play[headers.index('period')]), int(play[headers.index('time')].split(':')[0])
+        if period > 4:
+            row[27] = 1
+        else:
+            period *= 2
+            if minute >= 6: period += 1
+            row[19 + period - 2] = 1 # encoding of the 8 possible periods
+        x.append(row)
+
+    x = np.stack(x)
     # result of the game. Duplicate the same outcome for every play in the input matrix
-    result = None
-    result = [[1, 0]] if score1 > score2 else [[0, 1]]
-    for _ in range(len(input) - 1):
-        result.append(result[0][:])
+    y = np.zeros((x.shape[0], 2))
+    if score1 > score2:
+        y[:,0] = 1
+    else:
+        y[:,1] = 1
     
-    return (input, result)
+    return x, y
 
-
-# debuggin
-sample_file = os.listdir(pathname)[0]
-sample_teams = sample_file.split('.')[1]
-sample_team1, sample_team2 = sample_teams[:3], sample_teams[3:]
-
-sample_reader = csv.reader(open(pathname+'/'+sample_file))
-sample_result = create_input_from_game(sample_reader, sample_team1, sample_team2)
 
 
 # train a NN model based on this data
@@ -85,6 +92,11 @@ split_size = int(train_x.shape[0]*0.7) # 70/30 split between train/test
 
 train_x, val_x = train_x[:split_size], train_x[split_size:]
 train_y, val_y = train_y[:split_size], train_y[split_size:]
+
+for i, x in enumerate(train_x[:5]):
+    print(x.tolist())
+    print(train_y[i].tolist())
+assert False
 
 # 1: true if team 1 winning
 # 2: true if team 2 winning
