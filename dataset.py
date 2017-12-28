@@ -1,74 +1,150 @@
-import json
-import tensorflow as tf
+import numpy as np
+import csv, os
 
-# loading in training data
-sb_nation = json.load(open('./sbnation/train.json', 'r'))
-rotowire = json.load(open('./rotowire/train.json', 'r'))
+# keras stuff
+from keras.models import Sequential
+from keras.layers.normalization import BatchNormalization
+from keras.optimizers import Adam
+from keras.layers import Dense, Dropout, Activation, Flatten
+from keras.layers import Conv2D, MaxPooling2D
 
-# collecting the training data
-y_train = []
-x_train = []
+pathname = './2009-2010.regular_season'
 
-for game in sb_nation:
-    team1_pts = game['home_line']['TEAM-PTS']
-    team2_pts = game['vis_line']['TEAM-PTS']
-    if team1_pts > team2_pts:
-        result = [1, 0] # home team won
+def load_season_data(pathname):
+    train_x = []
+    train_y = [] # binary 1/0 for win/loss
+
+    filenames = os.listdir(pathname)
+    for file in filenames:
+        teams = file.split('.')[1]
+        reader = csv.reader(open(pathname+'/'+file))
+        # some csv are corrupted
+        try:
+            x, y = create_input_from_game(reader, teams[:3], teams[3:])
+            train_x.extend(x); train_y.extend(y)
+        except Exception as e:
+            print('FILE ERROR: ', file)
+        
+    return np.stack(train_x), np.stack(train_y)
+    
+
+def create_input_from_game(file, team1, team2):
+    """ creates an individual row in the training set
+    Entries in a row:
+        1: team1 winning
+        2: team2 winning
+        3-18: encoding of the score difference. max 15 point differential
+        19-27: encoding of the period. Every 6 minutes. 8 period
+        28: overtime
+    """
+    headers = next(file) # read in the titles for each column
+
+    score1, score2 = 0, 0
+    x = []
+    for play in file:
+        row = np.zeros(28)
+        # players involed in the current play. Used to determine which points belong to which team
+        team1_players, team2_players = play[:5], play[5:10]
+
+        # Calculation of the points
+        if play[headers.index('points')]:
+            points = int(play[headers.index('points')])
+            if play[headers.index('player')] in team1_players:
+                score1 = score1 + points
+            else:
+                score2 = score2 + points
+        # free throws considered seperately from made shots
+        elif play[headers.index('etype')] == 'free throw' and play[headers.index('result')] == 'made':
+            if play[headers.index('player')] in team1_players:
+                score1 = score1 + 1
+            else:
+                score2 = score2 + 1
+        else:
+            continue # no points were scored in this play
+
+        if score1 > score2:
+            row[0] = 1
+        elif score2 > score1:
+            row[1] = 1
+
+        diff = min(15, abs(score2 - score1))
+        if diff != 0: # make sure that a difference exists
+            row[2 + diff - 1] = 1 # encoding of the score differential
+
+        period, minute = int(play[headers.index('period')]), int(play[headers.index('time')].split(':')[0])
+        if period > 4:
+            row[27] = 10
+        else:
+            period *= 2
+            if minute >= 6: period += 1
+            row[19 + period - 2] = 5 # encoding of the 8 possible periods
+        x.append(row)
+
+    x = np.stack(x)
+    # result of the game. Duplicate the same outcome for every play in the input matrix
+    y = np.zeros((x.shape[0], 2))
+    if score1 > score2:
+        y[:,0] = 1
     else:
-        result = [0, 1] # visiting team won
-
-    # use every quarter's score with the result of the game
-    for i in range(1, 5):
-        score1 = game['home_line']['TEAM-PTS_QTR' + str(i)]
-        score2 = game['vis_line']['TEAM-PTS_QTR' + str(i)]
-        x_train.append([score1, score2])
-        y_train.append(result)
-
-# 1: true if team 1 winning
-# 2: true if team 2 winning
-# 3-18: encoding of the score difference
-# 19-27: encoding of the period
-
-# result: is 1,0 if team 1, 0,1 if team 2
-
-# -> flip all the teams and data -> 2x more data
-# -> +-1 to the score, -> 2x
-
-# Model based on the MNSIT tensorflow example
-
-# Period 1, difference 2, team 1 is winning
-# 0.52, 0.48 -> argmax -> 1,0
-
-# Period 4, difference 5, team 1 is winning
-# 0.65, 0.35 -> argmax -> 1,0
+        y[:,1] = 1
+    
+    return x, y
 
 
-x = tf.placeholder(tf.float32, [None, 2])
-y_ = tf.placeholder(tf.float32, [None, 2])
 
-W = tf.Variable(tf.zeros([2, 2]), name="W")
-b = tf.Variable(tf.zeros([1, 2]), name="b")
-y = tf.nn.softmax(tf.matmul(x, W) + b)
+# train a NN model based on this data
+train_x, train_y = load_season_data(pathname)
+split_size = int(train_x.shape[0]*0.7) # 70/30 split between train/test
 
-cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_ * tf.log(y), reduction_indices=[1]))
-train_step = tf.train.GradientDescentOptimizer(0.5).minimize(cross_entropy)
+train_x, val_x = train_x[:split_size], train_x[split_size:]
+train_y, val_y = train_y[:split_size], train_y[split_size:]
 
+for x in train_x[:100]:
+    print(x.tolist())
 
-sess = tf.InteractiveSession()
-tf.global_variables_initializer().run()
-
-
-# train the model with x_train and y_train
-sess.run(train_step, feed_dict={x: x_train, y_: y_train})
+assert False 
 
 
-# Evaluating the model
-correct_prediction = tf.equal(tf.argmax(y,1), tf.argmax(y_,1))
-accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
-print('Accuracy: ', sess.run(accuracy, feed_dict={x: x_train, y_: y_train}))
+model = Sequential()
+model.add(Dense(64, input_dim=len(train_x[0])))
+model.add(Dense(
+    64, 
+    activation='relu', 
+    kernel_initializer='random_uniform', 
+    bias_initializer='random_uniform'
+))
+model.add(Dense(
+    64, 
+    activation='relu', 
+    kernel_initializer='random_uniform', 
+    bias_initializer='random_uniform'
+))
+model.add(Dense(
+    64, 
+    activation='relu', 
+    kernel_initializer='random_uniform', 
+    bias_initializer='random_uniform'
+))
+model.add(Dense(2, activation='softmax'))
+
+optimizer = Adam(lr=0.01)
+model.compile(optimizer=optimizer,
+              loss='categorical_crossentropy',
+              metrics=['accuracy'])
 
 
-# Save the model
-saver = tf.train.Saver()
-save_path = saver.save(sess, './bin/model.ckpt')
-print('Model saved in file: %s' % save_path)
+model.fit(train_x, train_y, epochs=1000, batch_size=512)
+
+print("")
+results = model.predict(val_x[:500])
+
+count = 0
+for (actual,guess) in zip(results, val_y[:500]):
+    if np.argmax(actual) == np.argmax(guess):
+        count += 1
+
+print("{} of {}".format(count, 500))
+
+assert False
+
+
