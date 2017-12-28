@@ -18,7 +18,6 @@ def load_season_data(pathname):
     for file in filenames:
         teams = file.split('.')[1]
         reader = csv.reader(open(pathname+'/'+file))
-        # some csv are corrupted
         try:
             x, y = create_input_from_game(reader, teams[:3], teams[3:])
             train_x.extend(x); train_y.extend(y)
@@ -75,9 +74,8 @@ def create_input_from_game(file, team1, team2):
         if period > 4:
             row[27] = 10
         else:
-            period *= 2
-            if minute >= 6: period += 1
-            row[19 + period - 2] = 5 # encoding of the 8 possible periods
+            if minute <= 6: period += 0.5
+            row[int(19 + 2*period - 2)] = period # encoding of the 8 possible periods
         x.append(row)
 
     x = np.stack(x)
@@ -92,19 +90,13 @@ def create_input_from_game(file, team1, team2):
 
 
 
-# train a NN model based on this data
 train_x, train_y = load_season_data(pathname)
-split_size = int(train_x.shape[0]*0.7) # 70/30 split between train/test
+split_size = int(train_x.shape[0]*0.7) # 70/30 split between train/validation
 
 train_x, val_x = train_x[:split_size], train_x[split_size:]
 train_y, val_y = train_y[:split_size], train_y[split_size:]
 
-for x in train_x[:100]:
-    print(x.tolist())
-
-assert False 
-
-
+# model training
 model = Sequential()
 model.add(Dense(64, input_dim=len(train_x[0])))
 model.add(Dense(
@@ -144,7 +136,3 @@ for (actual,guess) in zip(results, val_y[:500]):
         count += 1
 
 print("{} of {}".format(count, 500))
-
-assert False
-
-
