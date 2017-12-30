@@ -38,6 +38,8 @@ def create_input_from_game(file, team1, team2):
         18-26: encoding of the period. Every 6 minutes. 8 period
         27: overtime
         28-43: momentum in the game. streaks. max 15 point streak by one team
+        44: team1 is on the streak
+        45: team2 is on the streak
     """
     headers = next(file) # read in the titles for each column
 
@@ -46,7 +48,7 @@ def create_input_from_game(file, team1, team2):
     last_team_to_score = None
     streak = 0
     for play in file:
-        row = np.zeros(44)
+        row = np.zeros(46)
         # players involed in the current play. Used to determine which points belong to which team
         team1_players, team2_players = play[:5], play[5:10]
 
@@ -76,17 +78,13 @@ def create_input_from_game(file, team1, team2):
         elif team_scored == 2 and last_team_to_score == 2:
             streak += 1
         else:
-            if score1 > score2:
-                last_team_to_score = 1
-                streak = 1
-            elif score2 > score1:
-                last_team_to_score = 2
-                streak = 1
-            else: # game must be tied
-                last_team_to_score = None
-                streak = 0
+            last_team_to_score = team_scored
+            streak = 0
+            
 
+        # streak
         row[28 + min(15, streak)] = 1
+        row[44 + last_team_to_score - 1] = 1
 
         if score1 > score2:
             row[0] = 1
@@ -117,8 +115,11 @@ def create_input_from_game(file, team1, team2):
     x2, y2 = x.copy(), y.copy()
     for row in x2:
         row0, row1 = row[0], row[1]
+        streak0, streak1 = row[44], row[45]
         row[0] = row1
         row[1] = row0
+        row[44] = streak1
+        row[45] = streak0
     y2[:,0] = 1 if y2[0][0] == 0 else 0
     y2[:,1] = 1 if y2[0][1] == 0 else 0
 
@@ -162,3 +163,4 @@ print("{} of {}. {}%".format(count, val_x.shape[0], count/val_y.shape[0]))
 
 # save the model
 model.save('./bin/model.h5')
+print('Model saved in file ./bin/model.h5')
