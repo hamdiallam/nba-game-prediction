@@ -23,8 +23,9 @@ def load_season_data(pathname):
             train_x.extend(x); train_y.extend(y)
         except Exception as e:
             print('FILE ERROR: ', file)
-        
-    return np.stack(train_x), np.stack(train_y)
+
+    x, y = np.stack(train_x), np.stack(train_y)
+    return x, y
     
 
 def create_input_from_game(file, team1, team2):
@@ -147,14 +148,14 @@ model.compile(optimizer=optimizer,
               metrics=['accuracy'])
 
 
-model.fit(train_x, train_y, epochs=50, batch_size=512)
+model.fit(train_x, train_y, epochs=40, batch_size=512)
 
 print("")
-results = model.predict(val_x[:500])
+results = model.predict(val_x)
 
 count = 0
-for (actual,guess) in zip(results, val_y[:500]):
+for (actual,guess) in zip(results, val_y):
     if np.argmax(actual) == np.argmax(guess):
         count += 1
 
-print("{} of {}".format(count, 500))
+print("{} of {}. {}%".format(count, val_x.shape[0], count/val_y.shape[0]))
