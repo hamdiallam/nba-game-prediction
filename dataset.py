@@ -31,18 +31,21 @@ def create_input_from_game(file, team1, team2):
     """ creates an individual row in the training set.
         data is doubled by swapping team1 and team2.
     Entries in a row:
-        1: team1 winning
-        2: team2 winning
-        3-18: encoding of the score difference. max 15 point differential
-        19-27: encoding of the period. Every 6 minutes. 8 period
-        28: overtime
+        0: team1 winning
+        1: team2 winning
+        2-17: encoding of the score difference. max 15 point differential
+        18-26: encoding of the period. Every 6 minutes. 8 period
+        27: overtime
+        28-43: momentum in the game. streaks. max 15 point streak by one team
     """
     headers = next(file) # read in the titles for each column
 
     score1, score2 = 0, 0
     x = []
+    last_team_to_score = None
+    streak = 0
     for play in file:
-        row = np.zeros(28)
+        row = np.zeros(44)
         # players involed in the current play. Used to determine which points belong to which team
         team1_players, team2_players = play[:5], play[5:10]
 
@@ -51,16 +54,38 @@ def create_input_from_game(file, team1, team2):
             points = int(play[headers.index('points')])
             if play[headers.index('player')] in team1_players:
                 score1 = score1 + points
+                team_scored = 1
             else:
+                team_scored = 2
                 score2 = score2 + points
         # free throws considered seperately from made shots
         elif play[headers.index('etype')] == 'free throw' and play[headers.index('result')] == 'made':
             if play[headers.index('player')] in team1_players:
+                team_scored = 1
                 score1 = score1 + 1
             else:
+                team_scored = 2
                 score2 = score2 + 1
         else:
             continue # no points were scored in this play
+
+        # momentum in the game
+        if team_scored == 1 and last_team_to_score == 1:
+            streak += 1
+        elif team_scored == 2 and last_team_to_score == 2:
+            streak += 1
+        else:
+            if score1 > score2:
+                last_team_to_score = 1
+                streak = 1
+            elif score2 > score1:
+                last_team_to_score = 2
+                streak = 1
+            else: # game must be tied
+                last_team_to_score = None
+                streak = 0
+
+        row[28 + min(15, streak)] = 1
 
         if score1 > score2:
             row[0] = 1
@@ -114,18 +139,6 @@ model.add(Dense(
     kernel_initializer='random_uniform', 
     bias_initializer='random_uniform'
 ))
-model.add(Dense(
-    64, 
-    activation='relu', 
-    kernel_initializer='random_uniform', 
-    bias_initializer='random_uniform'
-))
-model.add(Dense(
-    64, 
-    activation='relu', 
-    kernel_initializer='random_uniform', 
-    bias_initializer='random_uniform'
-))
 model.add(Dense(2, activation='softmax'))
 
 optimizer = Adam(lr=0.01)
@@ -134,7 +147,7 @@ model.compile(optimizer=optimizer,
               metrics=['accuracy'])
 
 
-model.fit(train_x, train_y, epochs=30, batch_size=512)
+model.fit(train_x, train_y, epochs=50, batch_size=512)
 
 print("")
 results = model.predict(val_x[:500])
