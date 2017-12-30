@@ -159,3 +159,6 @@ for (actual,guess) in zip(results, val_y):
         count += 1
 
 print("{} of {}. {}%".format(count, val_x.shape[0], count/val_y.shape[0]))
+
+# save the model
+model.save('./bin/model.h5')
