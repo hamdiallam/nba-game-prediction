@@ -28,7 +28,8 @@ def load_season_data(pathname):
     
 
 def create_input_from_game(file, team1, team2):
-    """ creates an individual row in the training set
+    """ creates an individual row in the training set.
+        data is doubled by swapping team1 and team2.
     Entries in a row:
         1: team1 winning
         2: team2 winning
@@ -72,22 +73,30 @@ def create_input_from_game(file, team1, team2):
 
         period, minute = int(play[headers.index('period')]), int(play[headers.index('time')].split(':')[0])
         if period > 4:
-            row[27] = 10
+            row[27] = 1
         else:
             if minute <= 6: period += 0.5
-            row[int(19 + 2*period - 2)] = period # encoding of the 8 possible periods
+            row[int(19 + 2*period - 2)] = 1 # encoding of the 8 possible periods
+
         x.append(row)
 
     x = np.stack(x)
-    # result of the game. Duplicate the same outcome for every play in the input matrix
     y = np.zeros((x.shape[0], 2))
     if score1 > score2:
         y[:,0] = 1
     else:
         y[:,1] = 1
-    
-    return x, y
 
+    # 2x the data by swapping team1/team2
+    x2, y2 = x.copy(), y.copy()
+    for row in x2:
+        row0, row1 = row[0], row[1]
+        row[0] = row1
+        row[1] = row0
+    y2[:,0] = 1 if y2[0][0] == 0 else 0
+    y2[:,1] = 1 if y2[0][1] == 0 else 0
+
+    return np.vstack((x,x2)), np.vstack((y, y2))
 
 
 train_x, train_y = load_season_data(pathname)
@@ -125,7 +134,7 @@ model.compile(optimizer=optimizer,
               metrics=['accuracy'])
 
 
-model.fit(train_x, train_y, epochs=1000, batch_size=512)
+model.fit(train_x, train_y, epochs=30, batch_size=512)
 
 print("")
 results = model.predict(val_x[:500])
