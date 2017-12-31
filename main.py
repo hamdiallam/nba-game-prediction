@@ -75,9 +75,9 @@ def predict():
     with graph.as_default():
         input = input.reshape(1, 46) # column vector
         result = model.predict(input)[0].tolist()
-    return jsonify({
-        'prediction': result
-    })
+        response = jsonify({ 'prediction': result })
+        response.status_code = 200
+        return response
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080)
